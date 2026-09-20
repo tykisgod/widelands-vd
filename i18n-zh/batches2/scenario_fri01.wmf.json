@@ -1,0 +1,1044 @@
+[
+ {
+  "key": "dd4d55338f",
+  "msgid": "The Great Stormflood (Backup Autosave)",
+  "zh": "",
+  "note": "TRANSLATORS: Name of a backup autosave"
+ },
+ {
+  "key": "5662dd714c",
+  "msgid": "Langeneß",
+  "zh": ""
+ },
+ {
+  "key": "27320eb7aa",
+  "msgid": "Defeat the enemy!",
+  "zh": ""
+ },
+ {
+  "key": "f823be92a6",
+  "msgid": "Defeat the Enemy!",
+  "zh": ""
+ },
+ {
+  "key": "0390aca6bc",
+  "msgid": "Destroy the enemy tribe’s headquarters.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "bb28269574",
+  "msgid": "Escape from the floods",
+  "zh": ""
+ },
+ {
+  "key": "500ffd6138",
+  "msgid": "Flee from the Floods",
+  "zh": ""
+ },
+ {
+  "key": "1be7574199",
+  "msgid": "Build a port, a weaving mill and a shipyard, then start an expedition to flee before the storm flood drowns the island.",
+  "zh": "",
+  "terms": [
+   "weaving = 纺织",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "dd32eab1bd",
+  "msgid": "You can build the port either on the easternmost tip of the island or in the place where the enemy’s headquarters stood.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "ce67a8a734",
+  "msgid": "If you did not prepare well enough to master this challenge in time, you can reload the scenario from the backup savegame automatically created for you shortly before you reached the enemy’s headquarters.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "67b3957adc",
+  "msgid": "Introduction",
+  "zh": "",
+  "terms": [
+   "Introduction = 介绍"
+  ]
+ },
+ {
+  "key": "5937014211",
+  "msgid": "Welcome!",
+  "zh": ""
+ },
+ {
+  "key": "3cb1f40181",
+  "msgid": "Welcome to the beautiful isle of Langeness! I am Reebaud, the chieftain of this pristine island.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – Introduction 1"
+ },
+ {
+  "key": "801ed6ae1c",
+  "msgid": "My tribe and I have just arrived from the mainland. There were fights with the Danes in the North, the Schauenburgers and Holsteiners in the East and South… So I decided to lead my tribe away to start a quiet, peaceful life on this untouched island.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – Introduction 1. Schauenburg and Holstein are | dukedoms"
+ },
+ {
+  "key": "6896e4e133",
+  "msgid": "A new home",
+  "zh": ""
+ },
+ {
+  "key": "876a13334a",
+  "msgid": "This is as good a place as any to start building our new home. First of all, we must ensure a stable supply of basic building materials.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – Introduction 2",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "83635e4709",
+  "msgid": "I have asked Hauke, one of my advisors, to oversee the construction of our settlement.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – Introduction 2"
+ },
+ {
+  "key": "701965f1ae",
+  "msgid": "The first buildings",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "44cfd2c15e",
+  "msgid": "Peace, Chieftain Reebaud! I will start with the colonization of the island straight away.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 3. \"Peace\" is the traditional Frisian | greeting"
+ },
+ {
+  "key": "f67326530b",
+  "msgid": "Like all Frisians, we build our houses mainly with bricks. We improve them by adding some logs and granite. The roofs are thatched with reed, naturally. Nothing is better suited to keep the rain out.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 3",
+  "terms": [
+   "Frisians = 弗里西亚部族"
+  ]
+ },
+ {
+  "key": "24cc7dccd9",
+  "msgid": "We should start by taking care of our wood production. Trees don’t seem to grow well on this island; better build at least two houses for foresters and one for a woodcutter.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 3"
+ },
+ {
+  "key": "3434b455fc",
+  "msgid": "Also, we had better build a reed farm soon. Even reed farms need reed to be built, so we must take care not to run short before we can grow our own. Reed is easily cultivated, so the reed farmer doesn’t need anything more to start growing reed fields.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 3"
+ },
+ {
+  "key": "dabf7db93e",
+  "msgid": "Building our new home",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "d89e7fe27c",
+  "msgid": "Our wood and reed supplies are ensured. Now, we must take care of our brick supply. Bricks are burned in a brick kiln out of granite and clay, so we first need to produce those. On the mainland, we used to cut granite out of rocks, but I don’t see any here. Perhaps these hills contain enough stones to mine some granite.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 4",
+  "terms": [
+   "Out of Rocks = 岩石已耗尽",
+   "Stones = 石料",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "bad01a64e9",
+  "msgid": "Clay is easy to make: A clay digger working at a clay pit will simply dig up some earth and mix it with water. Just make sure that he has plenty of space for digging around his clay pit. It might be a good idea to build some sentinels to expand.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 4",
+  "terms": [
+   "working = 工作",
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "57200b4afb",
+  "msgid": "To burn bricks, the brick kiln needs a fire. We need to use coal as fuel. Build a coal mine to make sure we don’t run out. No coal means no bricks, no bricks means no mines, no mines mean no coal… you can see the problem.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 4",
+  "terms": [
+   "No Coal = 没有煤",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "c09e4c6414",
+  "msgid": "Also, build a well – nobody likes to drink salt water, and it is no good for making clay.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – Introduction 4",
+  "terms": [
+   "making clay = 生产黏土",
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "efdc9d736e",
+  "msgid": "Our first settlement",
+  "zh": ""
+ },
+ {
+  "key": "7056800176",
+  "msgid": "You did well. Our entire building material production is working now. Let’s wait until we have gathered some more materials. We could expand our territory some more, to see what else can be found on this island.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – Introduction 5",
+  "terms": [
+   "Building = 建筑",
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "fee45b3a10",
+  "msgid": "Reed Shortages",
+  "zh": ""
+ },
+ {
+  "key": "f05c72dc23",
+  "msgid": "Build another reed farm",
+  "zh": ""
+ },
+ {
+  "key": "3899aa60fe",
+  "msgid": "I noticed we have been short of reed for a while now. Our buildings seem to need quite a lot of it. We should build another reed farm or two. Reed is also used for making fishing nets and other tools; therefore, resolving this shortage should be a priority.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – no reed",
+  "terms": [
+   "Buildings = 建筑",
+   "fishing = 捕鱼"
+  ]
+ },
+ {
+  "key": "f8230077dc",
+  "msgid": "You should assign the new reed farm the highest priority for reed in the construction site window.",
+  "zh": ""
+ },
+ {
+  "key": "e4f5b9580d",
+  "msgid": "Clay Shortages",
+  "zh": ""
+ },
+ {
+  "key": "0944c2b483",
+  "msgid": "Build another clay pit",
+  "zh": ""
+ },
+ {
+  "key": "52d120c83e",
+  "msgid": "Our brickmakers have been complaining about a shortage of clay for a while now. No clay means no bricks can be produced, so this shortage is slowing us down a lot. It would be better to build one or two more clay pits, and wells to supply them with water.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – no clay",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "0bcfafac32",
+  "msgid": "Clay is also used in shipbuilding and to improve charcoal kilns. If we ever need to build a ship, or the mines cannot provide us with enough coal, we will need more clay, so the shortage must be resolved.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – no clay",
+  "terms": [
+   "Coal = 煤",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "3b49b7ce5f",
+  "msgid": "Brick Shortages",
+  "zh": ""
+ },
+ {
+  "key": "472fc1ea00",
+  "msgid": "Build another brick kiln",
+  "zh": ""
+ },
+ {
+  "key": "b5e47955a2",
+  "msgid": "I noticed we are running out of bricks. This slows down construction of our buildings a lot, since we need so many bricks. We should really start to construct another brick kiln, and assign it the highest priority for bricks in the construction site window so as to resolve the shortage as soon as possible.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – no bricks",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "193fddd91b",
+  "msgid": "You should assign the new brick kiln the highest priority for bricks in the construction site window.",
+  "zh": ""
+ },
+ {
+  "key": "f5653998a1",
+  "msgid": "Warehouses",
+  "zh": ""
+ },
+ {
+  "key": "529222b812",
+  "msgid": "Build a warehouse in the east",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "40071886b6",
+  "msgid": "We are expanding our territory further and further to the east, and wares need to be transported over longer distances. We should build warehouses near our eastern border in certain distances and preferably store construction materials in the easternmost one. Our headquarters is too far in the west to be useful for long-time ware storage.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – build a warehouse",
+  "terms": [
+   "Headquarters = 总部",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "16a04e3602",
+  "msgid": "Hungry Miners",
+  "zh": ""
+ },
+ {
+  "key": "06a839554e",
+  "msgid": "The miners are protesting…",
+  "zh": ""
+ },
+ {
+  "key": "a9f6e24317",
+  "msgid": "Chieftain Reebaud! I bring bad news. The miners are working so hard that they have no time to prepare their own food. They demand to be supplied with it.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – no rations left",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "812f3323d0",
+  "msgid": "We need to build a tavern for preparing rations. To get the raw food, we have to build a fisher’s house, and as nobody likes raw fish, a smokery to smoke it. Furthermore, build a berry farm which will plant berry bushes, and a fruit collector’s house so the bushes will be harvested.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – no rations left",
+  "terms": [
+   "preparing rations = 准备定额口粮",
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "e9b83bb07a",
+  "msgid": "We should start expanding our territory faster in order to have enough space for many berry farms, and a longer coastline for fishing.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – no rations left",
+  "terms": [
+   "fishing = 捕鱼"
+  ]
+ },
+ {
+  "key": "4ee95059b2",
+  "msgid": "Enhancing the Food Economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "3c93640b76",
+  "msgid": "Feeding the soldiers",
+  "zh": ""
+ },
+ {
+  "key": "2aa47df2a9",
+  "msgid": "Well done. The miners are satisfied and have started working again.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – better food",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "0c55df7b8e",
+  "msgid": "But when the mines will have to be enhanced, rations won’t keep the miners happy. Better take precautions – build a second tavern, then consider enhancing one to a drinking hall.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – better food"
+ },
+ {
+  "key": "1ae14fddb4",
+  "msgid": "A drinking hall needs better food. Build a bakery, a brewery, and two or three farms to start growing barley. Keep in mind that barley grows very slowly; therefore, these few farms won’t suffice when we actually need the bread and beer. We should keep expanding quickly to have more space for farming.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – better food"
+ },
+ {
+  "key": "cc5162273f",
+  "msgid": "The bakery and brewery should be enhanced as soon as the workers have enough experience. They can then produce mead, and bread sweetened with honey. Build a beekeeper’s house next to the berry farm to produce some honey, which we can store until we need it.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – better food",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "6708c3f0a2",
+  "msgid": "Build a Mining Economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "mining = 采矿"
+  ]
+ },
+ {
+  "key": "aca2c30570",
+  "msgid": "Mining economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "mining = 采矿"
+  ]
+ },
+ {
+  "key": "c4a310703c",
+  "msgid": "We can now produce all the kinds of food that we are used to. I wonder what treasures these hills might contain? We should find out.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – mining economy"
+ },
+ {
+  "key": "11069c6060",
+  "msgid": "Build a wood economy and a reed farm",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "2aca55ff44",
+  "msgid": "Build an iron mine and perhaps a gold mine. As they produce only ores, we will need a furnace to smelt them. Also build a blacksmithy to ensure we won’t run out of tools – and yes, a small armor smithy as well. It produces helmets as well as swords. I hope we won’t meet enemies here, but it’s better to be prepared.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – mining economy",
+  "terms": [
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "3cdba75a0d",
+  "msgid": "Be Prepared",
+  "zh": ""
+ },
+ {
+  "key": "bf8265caef",
+  "msgid": "Our mines are working well. We can now produce all the tools we need, and some weapons as well.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – recruit 1",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "e888c13344",
+  "msgid": "We could use these weapons to equip some new soldiers. I hope we won’t find enemies here, but it is always better to be prepared. New soldiers are equipped in a barracks with a short sword and a fur garment, the uniform of all honorable warriors.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – recruit 1"
+ },
+ {
+  "key": "580a46f978",
+  "msgid": "We will need a barracks, of course; a reindeer farm to produce fur, and a sewing room to sew the fur into garments. The reindeer farm produces some meat as a by-product of fur, and it also trains reindeer to help our carriers on busy roads.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – recruit 2",
+  "terms": [
+   "Reindeer = 驯鹿"
+  ]
+ },
+ {
+  "key": "89e7e78f1e",
+  "msgid": "I advise to build all those buildings within a short distance of each other, and to construct two warehouses nearby: One should be set to store only weapons, armor, ores, metal and coal; the other to store building materials.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – recruit 2",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "a4d2f76e49",
+  "msgid": "Wood Economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "beebaf9d8c",
+  "msgid": "We should also build other related buildings nearby, such as a furnace, and some wells and farms to supply the reindeer farm. This design will make our military economy more efficient, because it reduces the waiting time for wares in the processing buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – recruit 2",
+  "terms": [
+   "Buildings = 建筑",
+   "Reindeer = 驯鹿",
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "257282b27e",
+  "msgid": "Explore the Island",
+  "zh": ""
+ },
+ {
+  "key": "80c8c61462",
+  "msgid": "Expanding",
+  "zh": ""
+ },
+ {
+  "key": "7fa3d3ae45",
+  "msgid": "Our barracks has started working, and we are recruiting new soldiers now.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – expand",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "656f01ba0c",
+  "msgid": "Build at least one woodcutter’s house and two forester’s houses to start producing logs, and a reed farm to start growing reed.",
+  "zh": ""
+ },
+ {
+  "key": "cdda9c9886",
+  "msgid": "But we can’t be sure we’re safe here yet. It would be better to expand further to the east to find out whether we really are alone here.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – expand"
+ },
+ {
+  "key": "b888623511",
+  "msgid": "Expanding would also provide more space for farming. We could use some extra barley to recruit more reindeer, as our roads are quite busy.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – expand",
+  "terms": [
+   "Reindeer = 驯鹿"
+  ]
+ },
+ {
+  "key": "eeddcd5151",
+  "msgid": "Enemies!",
+  "zh": ""
+ },
+ {
+  "key": "d93ba7daec",
+  "msgid": "Enemy sighted!",
+  "zh": ""
+ },
+ {
+  "key": "de48f58ef1",
+  "msgid": "Another tribe! On OUR island! What are you doing here, invaders?",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – enemy sighted"
+ },
+ {
+  "key": "61aaa234b9",
+  "msgid": "This is MY island! YOU are the intruder here! I pray to the one and solely true God that we will kill you all, and your souls shall be tormented in hell for ever!",
+  "zh": "",
+  "note": "TRANSLATORS: Maukor – enemy sighted. The great storm flood of 1362 was | supposed to be a sign of the victory of the Christian God over the old | northern gods"
+ },
+ {
+  "key": "db6d60579e",
+  "msgid": "Unbelievers! I pray to OUR gods that this faithless tribe shall be utterly shattered! War upon them!",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – enemy sighted"
+ },
+ {
+  "key": "34e78c5951",
+  "msgid": "Stronger in battle",
+  "zh": ""
+ },
+ {
+  "key": "9810576761",
+  "msgid": "We are recruiting soldiers easily enough, but they are fairly weak. We must train our soldiers if they are to beat the enemy.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – train soldiers 1"
+ },
+ {
+  "key": "a91d89daf5",
+  "msgid": "Soldiers are trained in basic attack, health and defense by a training camp. They can learn the finer points in a training arena.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – train soldiers 1",
+  "terms": [
+   "Points = 得分"
+  ]
+ },
+ {
+  "key": "17d5905571",
+  "msgid": "Frisian fighting",
+  "zh": ""
+ },
+ {
+  "key": "e2419602ce",
+  "msgid": "Soldiers are trained in two steps in defense and health. They get fur garments studded with iron and also gold to cushion blows; and helmets forged from iron, and gold as well, to lengthen their life in battle.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – train soldiers 2",
+  "terms": [
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "6a6048af26",
+  "msgid": "They learn to attack with three different swords: The long sword, broadsword and double-edged sword. The latter two contain gold, and all of them iron. The advanced soldiers are taught to use two swords at once: They keep their first double-edged sword, and are given various other swords to wield in their other hand. This makes six steps of attack training.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – train soldiers 2",
+  "terms": [
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "70a97fdab3",
+  "msgid": "We do not train soldiers to evade attacks; a true warrior can block his opponent’s blows with a skillful twist of the sword instead of jumping away like a coward.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – train soldiers 2"
+ },
+ {
+  "key": "96997f23bd",
+  "msgid": "Start producing bricks",
+  "zh": ""
+ },
+ {
+  "key": "0ac7547acd",
+  "msgid": "Planning a training center",
+  "zh": ""
+ },
+ {
+  "key": "95cd37def1",
+  "msgid": "We will need a tailor’s shop to sew more protective garments, and another sewing room to keep producing normal fur garments. Also, you should enhance the small armor smithy to produce better weapons and helmets, and build a new small one so we will still get basic weapons. We need at least one gold mine now, because the best weapons and armor use gold.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – train soldiers 3",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "850ddfa9fe",
+  "msgid": "We should build these buildings close to the barracks, since it is, as I already mentioned earlier, much more efficient to centralize all our military facilities in one recruiting and training center, than if they were strewn out over a long distance. Build a third warehouse there which will store only the food needed for training.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – train soldiers 3",
+  "terms": [
+   "Buildings = 建筑",
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "698f2f7aca",
+  "msgid": "When soldiers train to use new weapons, their old equipment is discarded. Take into account that the useless scraps will clutter up your roads until they are stored in a warehouse somewhere.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – train soldiers 3",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "6d4dde208f",
+  "msgid": "I recommend to train at least one soldier to the highest level in health, defense and attack. Until then, the enemy is just too strong for us.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – train soldiers 3"
+ },
+ {
+  "key": "12db76aaee",
+  "msgid": "Our soldiers are strong",
+  "zh": ""
+ },
+ {
+  "key": "c4eed58cc0",
+  "msgid": "We finally have our first fully trained soldier. Let’s attack!",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – attack enemy 1"
+ },
+ {
+  "key": "df5df364ff",
+  "msgid": "Brick Economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "7c182d7f87",
+  "msgid": "Are our soldiers strong enough?",
+  "zh": ""
+ },
+ {
+  "key": "e5288b5780",
+  "msgid": "With respect, Chieftain, please be not so hasty! The enemies are very strong, and I’m still not convinced we can defeat them. I’d prefer not to send any soldiers into a battle they will likely lose. I’d prefer to wait a bit longer until we can certainly beat the enemy without losing soldiers.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – attack enemy 2"
+ },
+ {
+  "key": "6d48aade95",
+  "msgid": "Our soldiers are strong enough",
+  "zh": ""
+ },
+ {
+  "key": "2371e82cbd",
+  "msgid": "Build a brick kiln, a coal mine, a rock mine, a clay pit and a well to start producing bricks.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "98c3034f91",
+  "msgid": "Of course I also prefer to keep our soldiers alive, but we can’t save every life. Soldiers die in battle, that’s just the way things are. You may decide how long to wait until attacking, but don’t take too long, or the enemies will exploit our weakness.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – attack enemy 3"
+ },
+ {
+  "key": "c9d201e750",
+  "msgid": "Beware!",
+  "zh": ""
+ },
+ {
+  "key": "4c3a33286c",
+  "msgid": "Not strong enough",
+  "zh": ""
+ },
+ {
+  "key": "26393135e9",
+  "msgid": "Chieftain Reebaud! Our scouts report that the enemy is advancing fast. I fear we are not strong enough yet to defend ourselves if he attacks first. You must devise something to hold him off.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – beware of early attacks 1"
+ },
+ {
+  "key": "fb39472dbc",
+  "msgid": "The scouts informed me that the enemy can’t build towers. We could build a fortress, which is the building that will push the border as far east as possible in one go. The enemy will only be able to see it if they build a fortress right at the border.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – beware of early attacks 2",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "8b857859d1",
+  "msgid": "We can prevent this, or at least make it harder to do, by ordering some foresters to plant trees at the border. The enemy will have to cut down many of them to make room for it, so we may be safe until we open the battle at a time of our choosing.",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – beware of early attacks 2"
+ },
+ {
+  "key": "d7b57bbb70",
+  "msgid": "Enemy Defeated",
+  "zh": ""
+ },
+ {
+  "key": "8196a56108",
+  "msgid": "Enemy defeated!",
+  "zh": ""
+ },
+ {
+  "key": "d7279048a4",
+  "msgid": "They are defeated! I thank you, all my gods, for granting us victory over the unbelievers!",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – enemy defeated 1"
+ },
+ {
+  "key": "957c7df897",
+  "msgid": "I pray to God to hear my last words. Let not the false fiend triumph! Punish them for this ignoble feat!",
+  "zh": "",
+  "note": "TRANSLATORS: Maukor – enemy defeated 2"
+ },
+ {
+  "key": "f60141a25b",
+  "msgid": "Storm Flood",
+  "zh": ""
+ },
+ {
+  "key": "324dddf8cb",
+  "msgid": "The island is flooding!",
+  "zh": ""
+ },
+ {
+  "key": "1701acbaef",
+  "msgid": "His God has granted his wish! The ocean is rising! The island is almost flat – we will all drown!",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – enemy defeated 3"
+ },
+ {
+  "key": "f2e046fd6f",
+  "msgid": "Despair not, I did espy some hope! The easternmost tip of the island, as well as the space where the fiends’ headquarters stood, seems well suited to build a port on. If we manage to construct a ship, and fill it with all we need to build a new settlement, we may be able to escape.",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – rising water",
+  "terms": [
+   "Headquarters = 总部",
+   "Port = 港口",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "5d1c032712",
+  "msgid": "The storm flood seems to be coming from the west. If we hurry, we will just make it! We only need to build a port and a shipyard – oh, and a weaving mill to weave the durable cloth, which is made from reed and fur, for the sails. Then we can launch an expedition from the port. Pray to the gods and make haste!",
+  "zh": "",
+  "note": "TRANSLATORS: Hauke – rising water",
+  "terms": [
+   "weaving = 纺织",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "7d5ec16a94",
+  "msgid": "Gather building materials",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "fa667470b6",
+  "msgid": "Don’t Forget the Soldiers",
+  "zh": ""
+ },
+ {
+  "key": "f3f9893c9f",
+  "msgid": "Soldiers to the port!",
+  "zh": "",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "ec8d52d8f5",
+  "msgid": "I almost forgot in this haste – wherever we will land, we’ll need some construction materials to get started, and soldiers to secure and expand our new colony. Even after loading the expedition, the ship should have enough free space for a few wares and workers. On top of that, there should be room for up to %d soldier, if nobody minds being all crammed together. Let’s send some building supplies and our best men to the port when it’s completed, to get ready to embark when we set sail!",
+  "zh": "",
+  "msgid_plural": "I almost forgot in this haste – wherever we will land, we’ll need some construction materials to get started, and soldiers to secure and expand our new colony. Even after loading the expedition, the ship should have enough free space for a few wares and workers. On top of that, there should be room for up to %d soldiers, if nobody minds being all crammed together. Let’s send some building supplies and our best men to the port when it’s completed, to get ready to embark when we set sail!",
+  "note": "TRANSLATORS: Reebaud – rising water",
+  "terms": [
+   "Building = 建筑",
+   "Workers = 工人",
+   "Wares = 物品",
+   "Port = 港口",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "46a2158491",
+  "msgid": "All wares and workers that are loaded onto the expedition as well as some of the soldiers in the port will be carried over to the next scenario.",
+  "zh": "",
+  "terms": [
+   "Workers = 工人",
+   "Wares = 物品",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "ae6786fdaa",
+  "msgid": "Victory",
+  "zh": ""
+ },
+ {
+  "key": "088dd4c853",
+  "msgid": "We escaped!",
+  "zh": ""
+ },
+ {
+  "key": "be070eb88d",
+  "msgid": "The gods have answered our prayers. We will escape the island’s drowning, and I am confident we will be able to build a new home again in a more peaceful corner of this world!",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – victory"
+ },
+ {
+  "key": "15a3b068b8",
+  "msgid": "Congratulations",
+  "zh": ""
+ },
+ {
+  "key": "f00fe66c90",
+  "msgid": "You have completed this mission. You may move on to the next scenario now to help us build a new home, far from the false God’s vengeful reach…",
+  "zh": "",
+  "note": "TRANSLATORS: Reebaud – victory"
+ },
+ {
+  "key": "09d149ee6f",
+  "msgid": "Stockpile Building Materials",
+  "zh": "",
+  "terms": [
+   "Stockpile = 库存",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "f936ac1746",
+  "msgid": "Stockpile some building materials in your headquarters. Gather at least:",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Stockpile = 库存",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "46ef00351c",
+  "msgid": "30 × Log",
+  "zh": ""
+ },
+ {
+  "key": "5a50e21409",
+  "msgid": "30 × Granite",
+  "zh": ""
+ },
+ {
+  "key": "2546aaf092",
+  "msgid": "10 × Clay",
+  "zh": ""
+ },
+ {
+  "key": "6264324cf0",
+  "msgid": "40 × Brick",
+  "zh": ""
+ },
+ {
+  "key": "b9c89fa77b",
+  "msgid": "20 × Coal",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "c36d5c3809",
+  "msgid": "30 × Reed",
+  "zh": ""
+ },
+ {
+  "key": "b0b8e7b842",
+  "msgid": "Remember that you can set target quantities for most of these wares in your economy settings.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "664d33895e",
+  "msgid": "Produce food for the miners",
+  "zh": ""
+ },
+ {
+  "key": "cc1297d16f",
+  "msgid": "Food Economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "1813146d20",
+  "msgid": "Build a tavern, a fisher’s house, a smokery, a berry farm and a fruit collector’s house.",
+  "zh": ""
+ },
+ {
+  "key": "d00a9c9a19",
+  "msgid": "Enhance your food economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "9ee23284d7",
+  "msgid": "Enhance Food Economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "e819337120",
+  "msgid": "Build at least two farms, a beekeeper’s house (next to the berry farm), a bakery, a brewery, and another tavern.",
+  "zh": ""
+ },
+ {
+  "key": "55e32713ed",
+  "msgid": "Build an iron mine and a mining infrastructure",
+  "zh": "",
+  "terms": [
+   "mining = 采矿",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "b75bb37198",
+  "msgid": "Build Mines and Mining Infrastructure",
+  "zh": "",
+  "terms": [
+   "mining = 采矿"
+  ]
+ },
+ {
+  "key": "840f3caf8a",
+  "msgid": "Build an iron mine, a furnace, a blacksmithy and a small armor smithy.",
+  "zh": "",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "1d34973db6",
+  "msgid": "Start recruiting soldiers",
+  "zh": ""
+ },
+ {
+  "key": "f56fb88f9d",
+  "msgid": "Recruiting Soldiers",
+  "zh": ""
+ },
+ {
+  "key": "f8142e4402",
+  "msgid": "Build a barracks, a reindeer farm and a sewing room.",
+  "zh": "",
+  "terms": [
+   "Reindeer = 驯鹿"
+  ]
+ },
+ {
+  "key": "bf9d5457cd",
+  "msgid": "Discover more of the island",
+  "zh": ""
+ },
+ {
+  "key": "b19881e51e",
+  "msgid": "Expand and Discover",
+  "zh": ""
+ },
+ {
+  "key": "f40e79d402",
+  "msgid": "Expand further and discover more of the island.",
+  "zh": ""
+ },
+ {
+  "key": "84152e9952",
+  "msgid": "Train your soldiers",
+  "zh": ""
+ },
+ {
+  "key": "30ed6afce9",
+  "msgid": "Training Soldiers",
+  "zh": ""
+ },
+ {
+  "key": "b1e9e015be",
+  "msgid": "Train a soldier to the highest possible level. Soldiers are trained in training camps and training arenas. We will need a gold mine, a tailor’s shop to sew sturdier garments, and a large armor smithy for better weapons and helmets.",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ }
+]

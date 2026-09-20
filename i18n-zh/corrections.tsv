@@ -120,3 +120,14 @@ Port spaces	港口位置
 # 一个船名（msgctxt=shipname，按惯例译作「欧洲野牛号」）。无 ctxt 的词条
 # 不能全局约束，排除。
 Wisent	-		一词多义：world 域的动物 vs shipname，不能全局约束
+
+# ============================================================
+# 七、第二轮：错字、误译与撞名
+# ============================================================
+Charcoal Burner	烧炭工		原"烧炭弟"是错字
+Landlady	女掌柜	frisians_worker	酒馆掌柜，非 landlord 的"房东"义
+Clay Pit	黏土坑	frisians_building	pit 是坑不是井，且与 Well"井"撞名
+Sewing Room	缝纫坊	frisians_building	原"裁缝铺"与 Tailor's Shop"裁缝店"几乎同形
+Ferry Yard	渡船厂		与 Shipyard"造船厂"构词一致；原"摆渡码头"不是船厂
+Ferry	渡船		游戏里 Ferry 是船本身，原"艄公"是划船的人
+Tabard	战袍	ware	与 Golden Tabard"黄金战袍"对齐，原"无袖短外套"不成体系

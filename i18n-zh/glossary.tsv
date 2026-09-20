@@ -275,11 +275,12 @@ Caurés	考雷斯号	shipname	tribes
 Cervus	牡鹿号	shipname	tribes	
 Chain Armor	链式盔甲	ware	tribes	
 Chamois	岩羚羊		world	
-Charcoal Burner	烧炭弟	amazons_worker	tribes	
-Charcoal Burner	烧炭弟	atlanteans_worker	tribes	
-Charcoal Burner	烧炭弟	barbarians_worker	tribes	
-Charcoal Burner	烧炭弟	empire_worker	tribes	
-Charcoal Burner	烧炭弟	frisians_worker	tribes	
+Charcoal Burner	烧炭工		corrections	原"烧炭弟"是错字
+Charcoal Burner	烧炭工	amazons_worker	corrections	原"烧炭弟"是错字
+Charcoal Burner	烧炭工	atlanteans_worker	corrections	原"烧炭弟"是错字
+Charcoal Burner	烧炭工	barbarians_worker	corrections	原"烧炭弟"是错字
+Charcoal Burner	烧炭工	empire_worker	corrections	原"烧炭弟"是错字
+Charcoal Burner	烧炭工	frisians_worker	corrections	原"烧炭弟"是错字
 Charcoal Burner’s House	煅炭厂	frisians_building	tribes	
 Charcoal Kiln	煅炭窑	amazons_building	tribes	
 Charcoal Kiln	煅炭窑	atlanteans_building	tribes	
@@ -303,7 +304,7 @@ Citrine	黄水晶号	shipname	tribes
 Claudius	克劳狄乌斯号	shipname	tribes	
 Clay	黏土	ware	tribes	
 Clay Digger	挖泥工	frisians_worker	tribes	
-Clay Pit	黏土井	frisians_building	tribes	
+Clay Pit	黏土坑	frisians_building	corrections	pit 是坑不是井，且与 Well"井"撞名
 Click	单击	hotkey	corrections	鼠标操作名，不与"点击"混用
 Cloth	布料	ware	tribes	
 Coal	煤		world	
@@ -451,16 +452,18 @@ Felled Tree	砍倒的树		world
 Felling Ax	伐木斧	ware	tribes	
 felling trees	砍伐树木		tribes	
 Ferrum	玄铁号	shipname	tribes	
-Ferry	艄公	amazons_worker	tribes	
-Ferry	艄公	atlanteans_worker	tribes	
-Ferry	艄公	barbarians_worker	tribes	
-Ferry	艄公	empire_worker	tribes	
-Ferry	艄公	frisians_worker	tribes	
-Ferry Yard	摆渡码头	amazons_building	tribes	
-Ferry Yard	摆渡码头	atlanteans_building	tribes	
-Ferry Yard	摆渡码头	barbarians_building	tribes	
-Ferry Yard	摆渡码头	empire_building	tribes	
-Ferry Yard	摆渡码头	frisians_building	tribes	
+Ferry	渡船		corrections	游戏里 Ferry 是船本身，原"艄公"是划船的人
+Ferry	渡船	amazons_worker	corrections	游戏里 Ferry 是船本身，原"艄公"是划船的人
+Ferry	渡船	atlanteans_worker	corrections	游戏里 Ferry 是船本身，原"艄公"是划船的人
+Ferry	渡船	barbarians_worker	corrections	游戏里 Ferry 是船本身，原"艄公"是划船的人
+Ferry	渡船	empire_worker	corrections	游戏里 Ferry 是船本身，原"艄公"是划船的人
+Ferry	渡船	frisians_worker	corrections	游戏里 Ferry 是船本身，原"艄公"是划船的人
+Ferry Yard	渡船厂		corrections	与 Shipyard"造船厂"构词一致；原"摆渡码头"不是船厂
+Ferry Yard	渡船厂	amazons_building	corrections	与 Shipyard"造船厂"构词一致；原"摆渡码头"不是船厂
+Ferry Yard	渡船厂	atlanteans_building	corrections	与 Shipyard"造船厂"构词一致；原"摆渡码头"不是船厂
+Ferry Yard	渡船厂	barbarians_building	corrections	与 Shipyard"造船厂"构词一致；原"摆渡码头"不是船厂
+Ferry Yard	渡船厂	empire_building	corrections	与 Shipyard"造船厂"构词一致；原"摆渡码头"不是船厂
+Ferry Yard	渡船厂	frisians_building	corrections	与 Shipyard"造船厂"构词一致；原"摆渡码头"不是船厂
 Fire Tongs	火钳	ware	tribes	
 Firestones	火石	ware	tribes	
 Fish	鱼		world	
@@ -754,7 +757,7 @@ Kormoransand	鸬鹚沙滩号	shipname	tribes
 Kuychi	库伊奇号	shipname	tribes	
 Labyrinth	迷宫	atlanteans_building	tribes	
 Lake Titicaca	的的喀喀湖号	shipname	tribes	
-Landlady	女房东	frisians_worker	tribes	
+Landlady	女掌柜	frisians_worker	corrections	酒馆掌柜，非 landlord 的"房东"义
 Langeneß	朗格内斯号	shipname	tribes	
 Larch	落叶松		world	
 Larch (Mature)	落叶松(成材的)		world	
@@ -1233,7 +1236,7 @@ sewing a tunic	缝制一件紧身上衣		tribes
 sewing a warrior’s coat	缝制一件勇士之铠		tribes	
 sewing fur garment	缝制皮装		tribes	
 sewing golden fur garment	缝制金缕皮铠		tribes	
-Sewing Room	裁缝铺	frisians_building	tribes	
+Sewing Room	缝纫坊	frisians_building	corrections	原"裁缝铺"与 Tailor's Shop"裁缝店"几乎同形
 sewing studded fur garment	缝制钉饰皮铠		tribes	
 Sharp Ax	锋利的斧头	ware	tribes	
 Sheep	绵羊		world	
@@ -1357,7 +1360,7 @@ Süderaue	苏德劳号	shipname	tribes
 Süderoog	苏德鲁格号	shipname	tribes	
 Süderoogsand	苏德鲁格沙滩号	shipname	tribes	
 Südfall	苏德福尔号	shipname	tribes	
-Tabard	战袍	ware	tribes	
+Tabard	战袍	ware	corrections	与 Golden Tabard"黄金战袍"对齐，原"无袖短外套"不成体系
 Taiga 1	针叶林 1		world	
 Taiga 2	针叶林 2		world	
 Taiga 3	针叶林 3		world	

@@ -1431,7 +1431,7 @@ msgstr "制造一个衬垫保护"
 #: ../../../../data/tribes/buildings/productionsites/amazons/ferry_yard/init.lua:8
 msgctxt "amazons_building"
 msgid "Ferry Yard"
-msgstr "摆渡码头"
+msgstr "渡船厂"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/amazons/food_preserver/init.lua:8
@@ -2184,7 +2184,7 @@ msgstr "在这个农场工作的农夫没有清理土壤就播撒了她的种子
 #: ../../../../data/tribes/buildings/productionsites/atlanteans/ferry_yard/init.lua:8
 msgctxt "atlanteans_building"
 msgid "Ferry Yard"
-msgstr "摆渡码头"
+msgstr "渡船厂"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/atlanteans/fishbreeders_house/init.lua:8
@@ -2790,7 +2790,7 @@ msgstr "在这个农场工作的农夫没有清理土壤就播撒了她的种子
 #: ../../../../data/tribes/buildings/productionsites/barbarians/ferry_yard/init.lua:8
 msgctxt "barbarians_building"
 msgid "Ferry Yard"
-msgstr "摆渡码头"
+msgstr "渡船厂"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/barbarians/fishers_hut/init.lua:8
@@ -3249,7 +3249,7 @@ msgstr "在这个农场工作的农夫没有清理土壤就播撒了她的种子
 #: ../../../../data/tribes/buildings/productionsites/empire/ferry_yard/init.lua:8
 msgctxt "empire_building"
 msgid "Ferry Yard"
-msgstr "摆渡码头"
+msgstr "渡船厂"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/empire/fishers_house/init.lua:8
@@ -3618,7 +3618,7 @@ msgid ""
 "area. Please make sure there is a working clay pit nearby and the aqua farm "
 "is supplied with all needed wares, or consider dismantling or destroying "
 "this building."
-msgstr "渔夫在他的水产养殖场工作区域内已找不到任何可捕的鱼类。 请确保附近有一个能够正常工作的黏土井，和能够正常供应所需的所有物品的水产养殖场，或者考虑拆除或摧毁这座建筑。"
+msgstr "渔夫在他的水产养殖场工作区域内已找不到任何可捕的鱼类。 请确保附近有一个能够正常工作的黏土坑，和能够正常供应所需的所有物品的水产养殖场，或者考虑拆除或摧毁这座建筑。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/armor_smithy_large/init.lua:8
@@ -3775,7 +3775,7 @@ msgid ""
 "clay ponds in his work area. Please make sure there is a working clay pit "
 "nearby and the charcoal burner’s house is supplied with all needed wares, or"
 " consider dismantling or destroying this building."
-msgstr "烧炭工在他的煅炭厂工作区域内已找不到任何黏土池。 请确保附近有一个能够正常工作的黏土井，和能够正常供应所需的所有物品的煅炭厂，或者考虑拆除或摧毁这座建筑。"
+msgstr "烧炭工在他的煅炭厂工作区域内已找不到任何黏土池。 请确保附近有一个能够正常工作的黏土坑，和能够正常供应所需的所有物品的煅炭厂，或者考虑拆除或摧毁这座建筑。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/charcoal_kiln/init.lua:8
@@ -3787,7 +3787,7 @@ msgstr "煅炭窑"
 #: ../../../../data/tribes/buildings/productionsites/frisians/clay_pit/init.lua:8
 msgctxt "frisians_building"
 msgid "Clay Pit"
-msgstr "黏土井"
+msgstr "黏土坑"
 
 #. TRANSLATORS: Completed/Skipped/Did not start making clay because ...
 #: ../../../../data/tribes/buildings/productionsites/frisians/clay_pit/init.lua:67
@@ -3809,7 +3809,7 @@ msgid ""
 "The clay digger working at this clay pit can’t find any level ground in his "
 "work area. Consider dismantling this clay pit and rebuilding it somewhere "
 "else."
-msgstr "挖泥工在他的黏土井工作区域内已找不到任何可采的地坪。应该考虑拆除这座黏土井并在别的地方重建。"
+msgstr "挖泥工在他的黏土坑工作区域内已找不到任何可采的地坪。应该考虑拆除这座黏土坑并在别的地方重建。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/coalmine/init.lua:8
@@ -3912,7 +3912,7 @@ msgstr "在这个农场工作的农夫没有清理土壤就播撒了她的种子
 #: ../../../../data/tribes/buildings/productionsites/frisians/ferry_yard/init.lua:8
 msgctxt "frisians_building"
 msgid "Ferry Yard"
-msgstr "摆渡码头"
+msgstr "渡船厂"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/fishers_house/init.lua:8
@@ -4137,7 +4137,7 @@ msgstr "侦察兵之家"
 #: ../../../../data/tribes/buildings/productionsites/frisians/sewing_room/init.lua:8
 msgctxt "frisians_building"
 msgid "Sewing Room"
-msgstr "裁缝铺"
+msgstr "缝纫坊"
 
 #. TRANSLATORS: Completed/Skipped/Did not start sewing fur garment because ...
 #: ../../../../data/tribes/buildings/productionsites/frisians/sewing_room/init.lua:81
@@ -9002,7 +9002,7 @@ msgstr "木薯种植农夫"
 #: ../../../../data/tribes/workers/amazons/charcoal_burner/init.lua:8
 msgctxt "amazons_worker"
 msgid "Charcoal Burner"
-msgstr "烧炭弟"
+msgstr "烧炭工"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/amazons/cocoa_farmer/init.lua:8
@@ -9026,7 +9026,7 @@ msgstr "裁缝"
 #: ../../../../data/tribes/workers/amazons/ferry/init.lua:8
 msgctxt "amazons_worker"
 msgid "Ferry"
-msgstr "艄公"
+msgstr "渡船"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/amazons/geologist/init.lua:8
@@ -9224,7 +9224,7 @@ msgstr "搬运工"
 #: ../../../../data/tribes/workers/atlanteans/charcoal_burner/init.lua:8
 msgctxt "atlanteans_worker"
 msgid "Charcoal Burner"
-msgstr "烧炭弟"
+msgstr "烧炭工"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/atlanteans/farmer/init.lua:8
@@ -9236,7 +9236,7 @@ msgstr "农夫"
 #: ../../../../data/tribes/workers/atlanteans/ferry/init.lua:8
 msgctxt "atlanteans_worker"
 msgid "Ferry"
-msgstr "艄公"
+msgstr "渡船"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/atlanteans/fishbreeder/init.lua:8
@@ -9428,7 +9428,7 @@ msgstr "放牛娃"
 #: ../../../../data/tribes/workers/barbarians/charcoal_burner/init.lua:8
 msgctxt "barbarians_worker"
 msgid "Charcoal Burner"
-msgstr "烧炭弟"
+msgstr "烧炭工"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/barbarians/farmer/init.lua:8
@@ -9440,7 +9440,7 @@ msgstr "农夫"
 #: ../../../../data/tribes/workers/barbarians/ferry/init.lua:8
 msgctxt "barbarians_worker"
 msgid "Ferry"
-msgstr "艄公"
+msgstr "渡船"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/barbarians/fisher/init.lua:8
@@ -9614,7 +9614,7 @@ msgstr "搬运工"
 #: ../../../../data/tribes/workers/empire/charcoal_burner/init.lua:8
 msgctxt "empire_worker"
 msgid "Charcoal Burner"
-msgstr "烧炭弟"
+msgstr "烧炭工"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/empire/donkey/init.lua:8
@@ -9638,7 +9638,7 @@ msgstr "农夫"
 #: ../../../../data/tribes/workers/empire/ferry/init.lua:8
 msgctxt "empire_worker"
 msgid "Ferry"
-msgstr "艄公"
+msgstr "渡船"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/empire/fisher/init.lua:8
@@ -9848,7 +9848,7 @@ msgstr "搬运工"
 #: ../../../../data/tribes/workers/frisians/charcoal_burner/init.lua:8
 msgctxt "frisians_worker"
 msgid "Charcoal Burner"
-msgstr "烧炭弟"
+msgstr "烧炭工"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/frisians/claydigger/init.lua:8
@@ -9872,7 +9872,7 @@ msgstr "农夫"
 #: ../../../../data/tribes/workers/frisians/ferry/init.lua:8
 msgctxt "frisians_worker"
 msgid "Ferry"
-msgstr "艄公"
+msgstr "渡船"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/frisians/fisher/init.lua:8
@@ -9908,7 +9908,7 @@ msgstr "猎人"
 #: ../../../../data/tribes/workers/frisians/landlady/init.lua:8
 msgctxt "frisians_worker"
 msgid "Landlady"
-msgstr "女房东"
+msgstr "女掌柜"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/frisians/miner/init.lua:8

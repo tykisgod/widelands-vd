@@ -1540,7 +1540,7 @@ msgstr "工人不需要经验"
 
 #: ../../../../src/logic/map_objects/tribes/production_program.cc:615
 msgid "the fleet needs a ferry"
-msgstr "船队需要一名艄公"
+msgstr "船队需要一艘渡船"
 
 #. * TRANSLATORS: 'Completed/Skipped/Did not start ... because the fleet needs
 #. a ship/ferry'.
@@ -1550,7 +1550,7 @@ msgstr "船队需要一艘船"
 
 #: ../../../../src/logic/map_objects/tribes/production_program.cc:622
 msgid "the fleet needs no ferries"
-msgstr "船队不需要艄公"
+msgstr "船队不需要渡船"
 
 #. * TRANSLATORS: 'Completed/Skipped/Did not start ... because the fleet needs
 #. no ships/ferries'.
@@ -1664,13 +1664,13 @@ msgstr "你的造船厂距离海岸太远，将无法造船。"
 
 #: ../../../../src/logic/map_objects/tribes/productionsite.cc:1286
 msgid "Ferry Yard Without Shore"
-msgstr "摆渡码头不临岸"
+msgstr "渡船厂不临岸"
 
 #: ../../../../src/logic/map_objects/tribes/productionsite.cc:1287
 msgid ""
 "Your ferry yard has not been built close enough to a shore. It will not be "
 "able to build ferries."
-msgstr "你的摆渡码头距离海岸太远，将无法培养艄公。"
+msgstr "你的渡船厂距离海岸太远，将无法建造渡船。"
 
 #: ../../../../src/logic/map_objects/tribes/ship/battle.cc:97
 #: ../../../../src/logic/map_objects/tribes/ship/battle.cc:364
@@ -4275,13 +4275,13 @@ msgstr "（无）"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:432
 msgid "Ferry range:"
-msgstr "艄公航程："
+msgstr "渡船航程："
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:433
 msgid ""
 "Enable ferries, waterways, and ferry yards on this map by setting the "
 "maximum length of waterways for ferries"
-msgstr "设定艄公可通行的水路最大长度，以此启用本地图上的艄公、水路与摆渡码头"
+msgstr "设定渡船可通行的水路最大长度，以此启用本地图上的渡船、水路与渡船厂"
 
 #. * TRANSLATORS: Map Options: Waterways are disabled
 #. * TRANSLATORS: Placeholder for scroll direction when function should not
@@ -9195,7 +9195,7 @@ msgstr "配置这片海域的船队"
 
 #: ../../../../src/ui/game/fieldaction.cc:555
 msgid "Configure this ocean’s ferry fleet"
-msgstr "配置这片海域的艄公队伍"
+msgstr "配置这片海域的渡船队"
 
 #: ../../../../src/ui/game/fieldaction.cc:562
 msgid "Watch field in a separate window"
@@ -9300,7 +9300,7 @@ msgstr "可攻击的船只"
 
 #: ../../../../src/ui/game/fleet_options_window.cc:111
 msgid "Ferry Fleet Options"
-msgstr "艄公队伍选项"
+msgstr "渡船队选项"
 
 #: ../../../../src/ui/game/fleet_options_window.cc:111
 msgid "Ship Fleet Options"
@@ -9332,11 +9332,11 @@ msgstr "无人服务的水路："
 
 #: ../../../../src/ui/game/fleet_options_window.cc:177
 msgid "Total ferries:"
-msgstr "艄公总数："
+msgstr "渡船总数："
 
 #: ../../../../src/ui/game/fleet_options_window.cc:178
 msgid "Unemployed ferries:"
-msgstr "闲置的艄公："
+msgstr "闲置的渡船："
 
 #: ../../../../src/ui/game/fleet_options_window.cc:189
 msgid "Desired number of transport ships:"
@@ -9344,7 +9344,7 @@ msgstr "期望的运输船数量："
 
 #: ../../../../src/ui/game/fleet_options_window.cc:190
 msgid "Desired number of unemployed ferries:"
-msgstr "期望的闲置艄公数量："
+msgstr "期望的闲置渡船数量："
 
 #: ../../../../src/ui/game/general_statistics_menu.cc:47
 #: ../../../../src/wlapplication_options.cc:642
@@ -10503,7 +10503,7 @@ msgstr "渡船"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:58
 msgid "The map allows building ferries, ferry yards and waterways"
-msgstr "该地图允许建造渡船、摆渡码头与水路"
+msgstr "该地图允许建造渡船、渡船厂与水路"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:61
@@ -11548,7 +11548,7 @@ msgstr "造船厂"
 
 #: ../../../../src/wlapplication_options.cc:216
 msgid "Ferry Yard"
-msgstr "摆渡码头"
+msgstr "渡船厂"
 
 #: ../../../../src/wlapplication_options.cc:217
 msgid "Scouting"
