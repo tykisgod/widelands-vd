@@ -1,0 +1,120 @@
+[
+ {
+  "key": "4e67709f60",
+  "msgid": "%i point",
+  "zh": "",
+  "msgid_plural": "%i points"
+ },
+ {
+  "key": "1a2c1750fa",
+  "msgid": "Rules",
+  "zh": ""
+ },
+ {
+  "key": "2bb90997c9",
+  "msgid": "Wares Smuggled",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "df4d0f59db",
+  "msgid": "To establish a smuggling route, you need to build a warehouse on a sending/receiving spot while your team mate has to build one on the corresponding receiving/sending spot. A ware is then transported every 10 seconds.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "9d29f0069e",
+  "msgid": "For harder to defend smuggling routes, you get 2 or 3 points per ware smuggled. The first team to collect %s wins.",
+  "zh": "",
+  "note": "TRANSLATORS: %s = '<number> points'",
+  "terms": [
+   "Points = 得分",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "e413ef83e9",
+  "msgid": "A sending spot",
+  "zh": ""
+ },
+ {
+  "key": "15c4e9fa5a",
+  "msgid": "A receiving spot",
+  "zh": ""
+ },
+ {
+  "key": "606d6f6780",
+  "msgid": "Notes",
+  "zh": ""
+ },
+ {
+  "key": "eb3bc06cc4",
+  "msgid": "Remember that the map has rotational symmetry. For example, when you have found a spot to the top-left of your headquarters, the corresponding spot will be to the bottom-right of the headquarters of your team mate.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "f0400a3678",
+  "msgid": "You can see the number of wares traded at any time in the general statistics menu. Good luck!",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "5320ad17ee",
+  "msgid": "A new smuggling route from %1$s to %2$s has been established! Every ware they smuggle there is worth %3$s.",
+  "zh": "",
+  "note": "TRANSLATORS: the first 2 parameters are player names, the last parameter is | '<number> points'"
+ },
+ {
+  "key": "210b1fccf3",
+  "msgid": "Your team has established a new smuggling route. You have the sending warehouse. Every ware smuggled here is worth %s.",
+  "zh": "",
+  "note": "TRANSLATORS: %s = '<number> points'",
+  "terms": [
+   "Warehouse = 仓库",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "6d647ff964",
+  "msgid": "Your team has established a new smuggling route. You have the receiving warehouse. Every ware smuggled here is worth %s.",
+  "zh": "",
+  "note": "TRANSLATORS: %s = '<number> points'",
+  "terms": [
+   "Warehouse = 仓库",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "aeba42d68b",
+  "msgid": "The smuggling route worth %1$s from %2$s to %3$s has been broken!",
+  "zh": "",
+  "note": "TRANSLATORS: the first parameter is '<number> points', the last 2 | parameters are player names"
+ },
+ {
+  "key": "e22f4319b7",
+  "msgid": "Game over!",
+  "zh": ""
+ },
+ {
+  "key": "91dcff3941",
+  "msgid": "Game over! %1$s and %2$s have won the game! %3$s and %4$s only managed to collect %5$s.",
+  "zh": "",
+  "note": "TRANSLATORS: the first 4 parameters are player names, the last parameter is | '<number> points'"
+ },
+ {
+  "key": "a14c788295",
+  "msgid": "Smugglers is a fun map for 4 players. You and your partner start diagonally from each other on a point symmetric island. There are plenty of smuggling tunnels on this island, each consisting of a receiving and a sending end.",
+  "zh": ""
+ }
+]

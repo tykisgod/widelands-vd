@@ -1,0 +1,151 @@
+[
+ {
+  "key": "292b178413",
+  "msgid": "5 minutes",
+  "zh": ""
+ },
+ {
+  "key": "40d4db7d1b",
+  "msgid": "10 minutes",
+  "zh": ""
+ },
+ {
+  "key": "9815d994ac",
+  "msgid": "15 minutes",
+  "zh": ""
+ },
+ {
+  "key": "1a2c1750fa",
+  "msgid": "Rules",
+  "zh": ""
+ },
+ {
+  "key": "eb5d5d4bb9",
+  "msgid": "If you finish a castle in the target area on the second island, you will get a third headquarters on the third island with all wares, workers and soldiers getting transferred from your previous headquarters and warehouses again. You must build a castle at the center of the third island and hold it for 20 minutes to win the game.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Workers = 工人",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "e1445b09ea",
+  "msgid": "Whenever you finish an island, you will get bonus wares, depending on how many players have finished the island before you. The earlier you finish, the fewer wares you will get. See below for the details.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "e8d2cca4fc",
+  "msgid": "The point is that the first island only provides rocks and trees, the second only meadows and resources. The economies you leave behind will continue to work for you, but you will only reap the benefits at the moment you reach a new island.",
+  "zh": "",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "8b4971b7a3",
+  "msgid": "Finally, be careful not to waste your quartz and diamonds.",
+  "zh": "",
+  "terms": [
+   "Be careful = 注意"
+  ]
+ },
+ {
+  "key": "f1f09fc598",
+  "msgid": "Finish Rewards",
+  "zh": ""
+ },
+ {
+  "key": "c98b916762",
+  "msgid": "First Island",
+  "zh": ""
+ },
+ {
+  "key": "f58251f36c",
+  "msgid": "1st to finish",
+  "zh": ""
+ },
+ {
+  "key": "53aa22966d",
+  "msgid": "2nd to finish",
+  "zh": ""
+ },
+ {
+  "key": "788f9cca4a",
+  "msgid": "3rd to finish",
+  "zh": ""
+ },
+ {
+  "key": "d8cc221c85",
+  "msgid": "4th to finish",
+  "zh": ""
+ },
+ {
+  "key": "df27554a13",
+  "msgid": "Second Island",
+  "zh": ""
+ },
+ {
+  "key": "54defed2c6",
+  "msgid": "%1$s was the first to reach Island number %2$i.",
+  "zh": ""
+ },
+ {
+  "key": "9f4d41bc48",
+  "msgid": "%1$s was the second to reach Island number %2$i.",
+  "zh": ""
+ },
+ {
+  "key": "ffbb8328f9",
+  "msgid": "%1$s was the third to reach Island number %2$i.",
+  "zh": ""
+ },
+ {
+  "key": "b396248dd1",
+  "msgid": "%1$s was the fourth to reach Island number %2$i.",
+  "zh": ""
+ },
+ {
+  "key": "8c596368b8",
+  "msgid": "Welcome to Island Hopping",
+  "zh": ""
+ },
+ {
+  "key": "a50d9e7712",
+  "msgid": "The reward for this feat amounts to:",
+  "zh": ""
+ },
+ {
+  "key": "b5f0146c94",
+  "msgid": "%s is now King of the Hill and will win the game in 20 minutes, if nobody takes over the hill before then.",
+  "zh": ""
+ },
+ {
+  "key": "0c13e58d86",
+  "msgid": "%s lost control of the hill.",
+  "zh": ""
+ },
+ {
+  "key": "77b2b670c9",
+  "msgid": "%1$s has been King of the Hill for %2$s!",
+  "zh": ""
+ },
+ {
+  "key": "828111b2ac",
+  "msgid": "%s has won the game. Congratulations!",
+  "zh": ""
+ },
+ {
+  "key": "48aef74409",
+  "msgid": "Island Hopping is a traditional tournament in Atlantean culture. The rules of the game are simple: you start with a headquarters on an island. When you finish a castle at the end of the first island, you are granted a second headquarters on a second island, which will get all wares, workers and soldiers transferred from your headquarters and warehouses on the first island.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Workers = 工人",
+   "Wares = 物品"
+  ]
+ }
+]

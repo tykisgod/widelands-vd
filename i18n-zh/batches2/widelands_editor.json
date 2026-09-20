@@ -1,0 +1,69 @@
+[
+ {
+  "key": "c77a6dd5f2",
+  "msgid": "Editor Help",
+  "zh": ""
+ },
+ {
+  "key": "690169cd2e",
+  "msgid": "Trees",
+  "zh": ""
+ },
+ {
+  "key": "4fb49bf88d",
+  "msgid": "This editor is intended for players who would like to design their own maps to use with Widelands.",
+  "zh": ""
+ },
+ {
+  "key": "b5320f87ec",
+  "msgid": "As you can see, this editor is heavy work in progress and as the editor becomes better and better, this text will also get longer and more complete.",
+  "zh": ""
+ },
+ {
+  "key": "b5cfeda070",
+  "msgid": "The wiki also includes a short tutorial on how to build a map.",
+  "zh": ""
+ },
+ {
+  "key": "d959ebee8f",
+  "msgid": "The Widelands Editor",
+  "zh": ""
+ },
+ {
+  "key": "3837f2a044",
+  "msgid": "Valid Resource:",
+  "zh": "",
+  "note": "TRANSLATORS: A header in the editor help if there is 1 valid resource"
+ },
+ {
+  "key": "c177f977af",
+  "msgid": "Valid Resources:",
+  "zh": "",
+  "note": "TRANSLATORS: A header in the editor help if there is more than 1 valid | resource"
+ },
+ {
+  "key": "30fb8dc7e2",
+  "msgid": "Default:",
+  "zh": ""
+ },
+ {
+  "key": "c4bcb78026",
+  "msgid": "Probability of trees growing",
+  "zh": "",
+  "note": "TRANSLATORS: A header in the editor help"
+ },
+ {
+  "key": "4abe775d9e",
+  "msgid": "No trees will grow here.",
+  "zh": "",
+  "terms": [
+   "No Trees = 没有树"
+  ]
+ },
+ {
+  "key": "054b52378c",
+  "msgid": "Preferred terrains",
+  "zh": "",
+  "note": "TRANSLATORS: A header in the editor help. Terrains preferred by a type of | tree."
+ }
+]

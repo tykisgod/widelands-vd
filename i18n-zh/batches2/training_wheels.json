@@ -1,0 +1,301 @@
+[
+ {
+  "key": "099dceedd7",
+  "msgid": "Building Spaces",
+  "zh": "",
+  "note": "TRANSLATORS: The title of an in-game teaching objective",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b40c313718",
+  "msgid": "We will want to place buildings so that we can produce wares.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "006c2660e3",
+  "msgid": "So, let’s find out where we have space for them.",
+  "zh": ""
+ },
+ {
+  "key": "eea42d6504",
+  "msgid": "Click on the ‘Show / Hide’ menu.",
+  "zh": ""
+ },
+ {
+  "key": "8eea99cfab",
+  "msgid": "Select ‘Show Building Spaces’.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "0501569340",
+  "msgid": "Now we can see where it is possible to place buildings and flags.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "e334a4305d",
+  "msgid": "Click ‘OK’ to continue.",
+  "zh": ""
+ },
+ {
+  "key": "e705498b72",
+  "msgid": "Flags",
+  "zh": "",
+  "note": "TRANSLATORS: The title of an in-game teaching objective"
+ },
+ {
+  "key": "4e46ca8791",
+  "msgid": "Your carriers can transport your wares faster if they share the load.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "08742ccb49",
+  "msgid": "Click on the flag symbol.",
+  "zh": ""
+ },
+ {
+  "key": "24ee1c817e",
+  "msgid": "Click on the flag button.",
+  "zh": ""
+ },
+ {
+  "key": "f8af06fd56",
+  "msgid": "Now check if you can place even more flags on your roads.",
+  "zh": ""
+ },
+ {
+  "key": "b7a523c09c",
+  "msgid": "Click ‘OK’ when you’re done.",
+  "zh": ""
+ },
+ {
+  "key": "53e092156e",
+  "msgid": "Welcome",
+  "zh": "",
+  "note": "TRANSLATORS: The title of an in-game teaching objective"
+ },
+ {
+  "key": "5fcccda82e",
+  "msgid": "Objectives",
+  "zh": "",
+  "note": "TRANSLATORS: The title of an in-game teaching objective"
+ },
+ {
+  "key": "874850af15",
+  "msgid": "Logs & Roads",
+  "zh": "",
+  "note": "TRANSLATORS: The title of an in-game teaching objective"
+ },
+ {
+  "key": "dbd658e80b",
+  "msgid": "Rocks",
+  "zh": "",
+  "note": "TRANSLATORS: The title of an in-game teaching objective",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "5e74417efb",
+  "msgid": "Click on a small, medium or big building space, then select the building from the small buildings tab.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "3db386a2a4",
+  "msgid": "Click on a medium or big building space, then select the building from the medium buildings tab.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "605c0e8eb0",
+  "msgid": "Click on a big building space, then select the building from the big buildings tab.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "68250153d5",
+  "msgid": "If you hold down the ‘Ctrl’ key while clicking on the second flag, this will also place more flags on your road if possible.",
+  "zh": ""
+ },
+ {
+  "key": "4afe4748dc",
+  "msgid": "Logs",
+  "zh": ""
+ },
+ {
+  "key": "4e8f9e4c71",
+  "msgid": "You need to supply your tribe with logs. Please build the following building:",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9a95a25a81",
+  "msgid": "Roads",
+  "zh": ""
+ },
+ {
+  "key": "d45e778129",
+  "msgid": "Click on the flag in front of the building to start placing a road.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "f07e2df79b",
+  "msgid": "Click on the ‘Build road’ button, then and click on the indicated flag.",
+  "zh": ""
+ },
+ {
+  "key": "9f245140ca",
+  "msgid": "Click on the building’s button…",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "1fabe95e4c",
+  "msgid": "…then click on the flag in front of the target building.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "2a9567351e",
+  "msgid": "Well done! We will soon start producing logs, which we will need for building more buildings.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "1be65dc585",
+  "msgid": "Open the Objectives window",
+  "zh": ""
+ },
+ {
+  "key": "55d89cd22d",
+  "msgid": "Click on the button that the arrow is pointing to, or press ‘%s’ to see the current game's objectives.",
+  "zh": ""
+ },
+ {
+  "key": "37e6fd20da",
+  "msgid": "Close this window",
+  "zh": ""
+ },
+ {
+  "key": "1539e51041",
+  "msgid": "Closing this window",
+  "zh": ""
+ },
+ {
+  "key": "3b9bf83a66",
+  "msgid": "You can open and close this window by clicking on the ‘Objectives’ button in the toolbar on the bottom of the screen.",
+  "zh": ""
+ },
+ {
+  "key": "a50ae62d5a",
+  "msgid": "Like any other window, you can also close the ‘Objectives’ window by right-clicking on it.",
+  "zh": ""
+ },
+ {
+  "key": "b9a9e7db8a",
+  "msgid": "While you do that, check the markers to make the road as flat as possible:",
+  "zh": ""
+ },
+ {
+  "key": "534352c17b",
+  "msgid": "The terrain is flat here. Your carriers will be very swift on this terrain.",
+  "zh": ""
+ },
+ {
+  "key": "396f6c2f5d",
+  "msgid": "There is a small slope to climb to reach this field. This means that your workers will be faster walking downhill than they will be walking uphill.",
+  "zh": "",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "0d4e2e004b",
+  "msgid": "The connection between the fields is extremely steep. The speed increase in one direction is huge while the slowdown in the other is also substantial.",
+  "zh": ""
+ },
+ {
+  "key": "a7387bd430",
+  "msgid": "Granite",
+  "zh": ""
+ },
+ {
+  "key": "6e22c66d0b",
+  "msgid": "You need to supply your tribe with granite. Please build the following building:",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "3225d96caf",
+  "msgid": "Click on the ‘Build road’ button. Afterwards, click the colored markers on the map to guide your road until you reach the flag in front of the target building.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b82228cdda",
+  "msgid": "…then click the colored markers on the map to guide your road until you reach the flag in front of the target building.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "5d4c0ab4c6",
+  "msgid": "Well done! We will soon start producing granite, which we will need for building more buildings.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "c521d2b89e",
+  "msgid": "Welcome to Widelands!",
+  "zh": ""
+ },
+ {
+  "key": "091e625a9f",
+  "msgid": "Follow the arrows to learn how to play.",
+  "zh": ""
+ }
+]

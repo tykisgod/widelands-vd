@@ -1,0 +1,230 @@
+[
+ {
+  "key": "013cffad48",
+  "msgid": "After the quick escape from the drowning island, the Atlanteans around Jundlina are faced with new challenges.",
+  "zh": "",
+  "terms": [
+   "Atlanteans = 亚特兰蒂斯人"
+  ]
+ },
+ {
+  "key": "bb73401f14",
+  "msgid": "Struggling For a New Home Again",
+  "zh": ""
+ },
+ {
+  "key": "f06b766876",
+  "msgid": "After losing an important battle against the Barbarians which lead to the loss of a big part of the Empire’s territory, Lutius leaves Fremil to start a new life. But his destiny takes his ship into a heavy storm, which nearly destroys it. Only with a lot of luck he manages to beach his damaged ship on an unknown desert strand and save his people. For now.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Desert = 沙漠",
+   "Empire = 帝国",
+   "Beach = 海滩",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "8460e43e86",
+  "msgid": "After returning home, Lutius and his crew are faced with an economy in shambles. Resolving the bottlenecks in the economy will be of utmost importance to reinstate the glory of the Empire.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "5ae0abd543",
+  "msgid": "Claus and Henneke Lembeck have reached the North at last. But will they be able to convince Reebaud to send them aid?",
+  "zh": ""
+ },
+ {
+  "key": "904b27042f",
+  "msgid": "Two Friends Reunited",
+  "zh": ""
+ },
+ {
+  "key": "742f54f8c5",
+  "msgid": "Back in Northern Frisia at last, Claus, Henneke, and Reebaud are preparing for battle against the invaders. They must gather allies and plan their strategy, but the foe is never far away…",
+  "zh": ""
+ },
+ {
+  "key": "fe4da3ca74",
+  "msgid": "Reconquest",
+  "zh": ""
+ },
+ {
+  "key": "7f4ad9024c",
+  "msgid": "In this tutorial, you will learn what options Widelands offers to adjust your economy, and how to trade with other players. Recommended for players with some experience.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "85ed714c7f",
+  "msgid": "Economy and Trading",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "6ecc29b841",
+  "msgid": "Warning: This map is provided as an experimental preview. Although it is better in many ways than Europa 1.2 that it replaces, it probably still has bugs. Furthermore, it is a very large map with more player positions than generally recommended, so it has high hardware requirements.  —  A map for roleplaying historical empires. – This map of Europe aims to be as accurate as practically possible in Widelands. – EASY: Ottoman Empire, Sweden, Russian Empire, Carthage – MEDIUM: French Empire, British Empire, Spain, German Empire, Roman Empire – HARD: Egypt, Poland, Greece",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国",
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "2009fe1ee8",
+  "msgid": "The wide rivers are navigable to create a ”trade network”. All players have their own challenges, but are relatively balanced to be playable: – British Empire: create sustainable colonies – Russian Empire: Very large distances …",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "15768f20cd",
+  "msgid": "Accurate Europe 1.2",
+  "zh": ""
+ },
+ {
+  "key": "451dbc0642",
+  "msgid": "You are an Amoeba, expand and conquer all other Amoebae …",
+  "zh": ""
+ },
+ {
+  "key": "345a67678a",
+  "msgid": "Be aware that you are surrounded by enemies. Disable diplomacy for an easier game, enable it for a more challenging game. Additionally you can define the difficulty by playing against different AI teams. Although some players have more space in the beginning, the map is well balanced.",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "eee22c5446",
+  "msgid": "Amoebae",
+  "zh": ""
+ },
+ {
+  "key": "fa872459a7",
+  "msgid": "The jewel of the alps, the dolomites mountain range has been declared a world heritage site for its pristine beauty. This map is an as-faithful-as-reasonable reconstruction of the area delimited by Cortina d’Ampezzo in the north-east and Canazei in the south-west. If you have to be pitted in a duel to the death with your enemies, it may as well be in a beautiful place.",
+  "zh": ""
+ },
+ {
+  "key": "ed0030e8af",
+  "msgid": "The mountains have an abundance of flat ground. Unfortunately, most of it is vertical – use the little building space you have wisely. A fortress at the mouth of a narrow mountain pass can be a formidable obstacle to an enemy army – use the terrain to your advantage. Chop all trees and expand wherever you can – it’s the only way to find all the precious farm spaces.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "f76edbe709",
+  "msgid": "They hardly had time to prepare themselves when they embarked for this island. According to your explorers, however, things will not go as easily as you were told earlier. You should expect fierce opposition. Expand your base and be the first to reach the ring of power.",
+  "zh": ""
+ },
+ {
+  "key": "4ec80b79da",
+  "msgid": "Egyptian Mandala v1.2",
+  "zh": ""
+ },
+ {
+  "key": "b5ffefbada",
+  "msgid": "A river valley surrounded by mountains with lots of resources except coal. Plenty of flat building space.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "387a77f53c",
+  "msgid": "Forest Valley v2.0",
+  "zh": ""
+ },
+ {
+  "key": "40b04b3707",
+  "msgid": "A fair 8-player map with natural geographic features dividing land. The geographic features are meant to be somewhat realistic with rivers flowing from glaciers in the mountains through hills and flatlands into the sea. Gold is a much rarer resource compared to coal and iron. Different resources are often found at some distance to each other.",
+  "zh": "",
+  "terms": [
+   "Player = 玩家",
+   "Coal = 煤",
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "e9c59285ef",
+  "msgid": "Lesser Ring 1.2",
+  "zh": ""
+ },
+ {
+  "key": "e0c099a05e",
+  "msgid": "This map is intended as a solo challenge for those very skilled players that find 1 vs 6 against the AI too easy. Blue player has no metal (except a bit of iron to kickstart your economy), so you have to rely on the 5% production of an empty mine. And you’re still 1 vs 6 (though of course you can remove some AI players to make it a bit easier). Good luck!",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Player = 玩家",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "626d2fc89b",
+  "msgid": "It is the land where the sun is hardly seen during the winter and where spring floods away any reminiscence of the past. Strange tensions have grown among its residents and many selfish rulers have taken advantage of the chaos. The superstitious people appear to be no obstacle for the developments of better equipped armies. Tough times are on the brink of emerging, and you should heed the words of your wise advisors, or fade into oblivion like the others.",
+  "zh": "",
+  "terms": [
+   "Winter = 冬季"
+  ]
+ },
+ {
+  "key": "f2c8e29c56",
+  "msgid": "Along The River",
+  "zh": ""
+ },
+ {
+  "key": "a45cb1db13",
+  "msgid": "Sandy Passes",
+  "zh": ""
+ },
+ {
+  "key": "6f04ee05e9",
+  "msgid": "Welcome, intruder! You’re like a European conqueror from the early 1800s when they settled the Van Diemen land – later known as Tasmania. Between 1828 and 1832 there was a war called the Black War in which the British Empire eradicated almost the entire Aboriginal population of the Van Diemen land. – The map simulates a scattered British Empire but without any advantages – actually it offers some great disadvantages and you will likely have a hard time conquering Tasmania. During the historical Black War the ratio between Europeans and Aboriginals was around one against ten, but this time they’re armed to the teeth for a rematch.",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "84db8cff3f",
+  "msgid": "This map is intended to be played by a single player from the blue player’s starting location as Empire. Choose Barbarians and Amazons for the rival tribes. If you want a challenge, put them all on the same side and disable Diplomacy. Or you can play with every player against all others, with a win condition of Territorial Time. This map isn’t suitable for short games and one game will likely take more than ten hours. The AI has great capability on this map. One of the computer players will likely also begin seafaring and competing for the best harbor places on the Tasmanian coast, so you’ve been warned!",
+  "zh": "",
+  "terms": [
+   "Territorial Time = 领土时间",
+   "Barbarians = 蛮族",
+   "Diplomacy = 外交",
+   "Empire = 帝国",
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "41b26412b4",
+  "msgid": "Tasmanian Black War",
+  "zh": ""
+ },
+ {
+  "key": "c65a22ee32",
+  "msgid": "This map is designed for a long game! Eight tribes, three islands, and lots of resources. Colonization and ferries can give you a big advantage, but this is not necessary to defeat other players. If you want to delay the fighting, you can turn off the last four players.",
+  "zh": ""
+ },
+ {
+  "key": "ea6bfb0c16",
+  "msgid": "The Islands of the Eight Tribes",
+  "zh": ""
+ }
+]
