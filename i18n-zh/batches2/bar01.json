@@ -1,0 +1,1058 @@
+[
+ {
+  "key": "772d681e26",
+  "msgid": "Bigger and better buildings – including all military ones – require better building materials. They cannot be built out of simple logs – the logs have to be refined to blackwood by a wood hardener first. Always remember to build a wood hardener before you run out of blackwood, as without it you cannot expand.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9535dd0d08",
+  "msgid": "Build a lime kiln and coal economy",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "4c99fe1161",
+  "msgid": "Build a lime kiln fed by a well, and by a charcoal kiln or by a coal mine",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "6222e8d258",
+  "msgid": "Better buildings may also require other improved materials besides blackwood. One of these is grout, which is produced out of granite, water and coal by a lime-burner.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Water = 水",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "ba4a89f59a",
+  "msgid": "You can obtain water by building a well upon a water source, which your geologists can discover when you send them to any flag that is not on a mountain.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "19cb96b1a3",
+  "msgid": "In order to call a geologist to search for water, click on a flag in the area that you want him to search and then on the button labeled ‘Send geologist to explore site’.",
+  "zh": "",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "475c299295",
+  "msgid": "Coal can be obtained by building a charcoal kiln or a coal mine. Burning charcoal out of logs is slow. You should only build a charcoal kiln when no coal is available.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "No Coal = 没有煤",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "7c2912f513",
+  "msgid": "Build a lime kiln and a well. Additionally, build either a charcoal kiln or a coal mine for coal supply.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "2831153e55",
+  "msgid": "Build a reed yard",
+  "zh": ""
+ },
+ {
+  "key": "21af831612",
+  "msgid": "The third material necessary for improved buildings is reed, used to cover roofs. Reed fields are planted by a gardener around his building, the reed yard.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "cbabafc678",
+  "msgid": "Build a cattle farm",
+  "zh": ""
+ },
+ {
+  "key": "b1f13e1c57",
+  "msgid": "When roads are under heavy load for a long time, one carrier is usually not enough to transport goods swiftly. Traffic jams are the consequence. Such roads therefore employ a second carrier: an ox that helps to carry the wares. This doubles the transport capacity.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "189274812d",
+  "msgid": "Oxen are bred in cattle farms out of wheat and water.",
+  "zh": "",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "3a1efc5731",
+  "msgid": "The Story Begins",
+  "zh": ""
+ },
+ {
+  "key": "95b8bb7a75",
+  "msgid": "Thron sighs…",
+  "zh": ""
+ },
+ {
+  "key": "c8fd39a067",
+  "msgid": "It’s been months, and we are still hiding where the forests are old and dark.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "9cb50d01f0",
+  "msgid": "My warriors hunt at day and lie awake at night – listening to the sounds of the cruel slaughter echoing from afar amongst the ancient trees.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "bf259925cd",
+  "msgid": "We can see the raging flames that swallow Al’thunran from here, miles away.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "d5cecb87ab",
+  "msgid": "The red lights flash in the darkness and dance to the rhythm of the war drums that haunt me even in my nightmares.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "d1fdf436eb",
+  "msgid": "My father’s bones rest peacefully in the ground on which he once ended the senseless spilling of blood that had arisen amongst us. It pains me that his peace only endured for one generation.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "8afb1fee1b",
+  "msgid": "Boldreth, my loyal companion and friend is a source of peace and comfort to me in these dark times. He keeps my spirits high and those of my warriors awake, preventing greed or despair from destroying the bonds between us as well.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "6b2644f5a7",
+  "msgid": "As father told me, there are times to fight and times to lie and wait, trying not to fall asleep or die before the right time comes. And so I do wait.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "972eb348b9",
+  "msgid": "Thron is Contemplating the War",
+  "zh": ""
+ },
+ {
+  "key": "eccc1febcd",
+  "msgid": "Thron is shaking his head…",
+  "zh": ""
+ },
+ {
+  "key": "ce0e01a3fc",
+  "msgid": "Yet the war goes on. More and more of our brothers and sisters flee the brutal war raging in the capital beneath the trees.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "87ee234206",
+  "msgid": "The stories they tell about the deeds of our kin are sad to hear. I’ve spent nights lying awake, restless, more tired than I ever believed one could be. Yet whenever I close my eyes, I see the fortress my father built consumed by flames. The Throne Among the Trees, the symbol of unity and peace among our kin, became the wedge that drives us apart.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "72fba6075f",
+  "msgid": "Build two ranger’s huts",
+  "zh": ""
+ },
+ {
+  "key": "1c0c5e5e38",
+  "msgid": "Today my hunters brought men, women and little children before me who had hidden out in the forests, trying to escape the war, hate and revenge that rage among the tribes fighting each other like in olden times, when we were no more but wild beasts driven and controlled by instincts. None of my brothers will ever gain and hold control over the wooden throne, none of the tribes will be strong enough to subdue the other. There will be no end to this slaughter, unless… is this it? As father told me?",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "aa961673b8",
+  "msgid": "To rise against whoever threatens our very existence, even though it may be one of your own blood or mind?",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "d7fa467b79",
+  "msgid": "Thron is Considering the Future",
+  "zh": ""
+ },
+ {
+  "key": "ba51939fee",
+  "msgid": "Boldreth seems more and more torn as the days go by. The spirits of my fellows sink as the cold season approaches, and we are still living in no more than huts and barracks. I never intended to stay out here in the wilderness for so long – but I never thought my brothers would engage in this senseless battle for so long either.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "527c89cfab",
+  "msgid": "Perhaps it’s time to make ourselves feel a little more at ease here. Perhaps it’s time to give those who still live and think united a new home, replacing what is now lost to us? Until we can return to the place we once called our home…",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "83073e825d",
+  "msgid": "Somebody Comes up to You",
+  "zh": ""
+ },
+ {
+  "key": "500a82c75e",
+  "msgid": "An old man says…",
+  "zh": ""
+ },
+ {
+  "key": "03d5ba6fb6",
+  "msgid": "Hail, chieftain. I am Khantrukh and have seen many winters pass. Please allow me to aid you with my counsel through these darkened days.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "6949f6e3f6",
+  "msgid": "Only the gods know for how long we have to remain hidden here. The warriors hope we may march back gloriously any day now, but I strongly doubt that will happen soon. And the days are short and cold…",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "222c8f47c0",
+  "msgid": "Build a ranger’s hut next to each lumberjack’s hut.",
+  "zh": ""
+ },
+ {
+  "key": "0d1799dc8b",
+  "msgid": "The Advisor",
+  "zh": ""
+ },
+ {
+  "key": "5a35bba020",
+  "msgid": "Khantrukh notes…",
+  "zh": ""
+ },
+ {
+  "key": "19525d6e05",
+  "msgid": "I see you have already built a quarry and two lumberjack’s huts. That is a good beginning if we want to stay here longer.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "762e47a7dc",
+  "msgid": "Naturally, trees only grow at a slow rate. To make sure you have enough logs, you have to build rangers.",
+  "zh": ""
+ },
+ {
+  "key": "9f9674d33a",
+  "msgid": "But never forget – these forests are our heritage, entrusted upon us by our ancestors. We must always respect and care for them. What we take, we must give back again.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "dc935ac3f0",
+  "msgid": "So, in order to replace the trees we chop down, we should build some ranger’s huts, preferably close to the lumberjack’s huts.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "8827c51735",
+  "msgid": "In the Night",
+  "zh": ""
+ },
+ {
+  "key": "65c19d05c9",
+  "msgid": "Thron says…",
+  "zh": ""
+ },
+ {
+  "key": "54aee0e839",
+  "msgid": "During another sleepless night, I went up to the hill and gazed towards the north. The fires are still burning, satisfying their hunger upon my father’s legacy.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "74b06e9db1",
+  "msgid": "They are a constant reminder of why we have to hide here… and why we must return in the end!",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "5c19da92cf",
+  "msgid": "At the Tomb",
+  "zh": ""
+ },
+ {
+  "key": "fe8df6ba79",
+  "msgid": "Once again, I went up to my father’s tomb, in a sacred grove at the foot of the great spire of Kal’mavrath. I just stood there and felt neither the hours pass nor the cold rain pouring down from the darkened sky…",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "1ba8e4ca1d",
+  "msgid": "Somehow, it felt like a farewell. For the first time, I wondered what the future might hold for me…",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "12fa465a40",
+  "msgid": "The Other Day",
+  "zh": ""
+ },
+ {
+  "key": "ffab8b7911",
+  "msgid": "Thron says thoughtfully…",
+  "zh": ""
+ },
+ {
+  "key": "50cd953043",
+  "msgid": "Some time ago, Boldreth came to me. His advice was to move to a place closer to home – to strike at the first sign of my brothers’ forces wavering.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "536d5e1631",
+  "msgid": "But when I look over the forests I can still see black smoke rising to the sky. I know – it is too early yet, and what he hopes for will not happen any time soon. He might still be right, but I fear the bloodshed that returning too fast would cause on both sides…",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "e3331eb74d",
+  "msgid": "The Oath",
+  "zh": ""
+ },
+ {
+  "key": "ae839b3bd3",
+  "msgid": "Thron looks furious…",
+  "zh": ""
+ },
+ {
+  "key": "166d50c423",
+  "msgid": "Today, my warriors picked up an old man, wandering sick and wounded through the dark forest. We listened in horror as he told us of the atrocities taking place in Al’thunran.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "ffe5e31618",
+  "msgid": "I hereby renew my oath – I will stop this madness at any cost!",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "23c546dd91",
+  "msgid": "Your Loyal Companion",
+  "zh": ""
+ },
+ {
+  "key": "df7860fd08",
+  "msgid": "Expand north-east and build a quarry",
+  "zh": ""
+ },
+ {
+  "key": "61ba41bea5",
+  "msgid": "Brave Boldreth steps to your side…",
+  "zh": ""
+ },
+ {
+  "key": "6141ab4d60",
+  "msgid": "So you want to prepare us for a longer stay in these forests, Thron? Well, I see the wisdom in doing so, yet my heart is yearning for a glorious return to Al’thunran. Too long have we waited while our brethren have fought on the battlefield, and our axes and swords have turned rusty over time.",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "057030cab0",
+  "msgid": "Khantrukh joins in…",
+  "zh": ""
+ },
+ {
+  "key": "e1b1079f8f",
+  "msgid": "I beg your forgiveness, chieftain, but I have a grave concern to discuss with you. The rocks close to our camp are shrinking fast under our workers’ tools, and it is a matter of little time only before they are all gone.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh",
+  "terms": [
+   "Workers = 工人",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "c6306cd5e6",
+  "msgid": "Boldreth jumps up…",
+  "zh": ""
+ },
+ {
+  "key": "933d4cb452",
+  "msgid": "While it is certainly no worthy task for a warrior, at least it is something to do! Thron, what would you say about my taking a few of our most restless warriors and venturing somewhat closer to the great mountain of Kal’mavrath – maybe we will find some more big rocks to please the old man?",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "489e5c5417",
+  "msgid": "Expand north-east to the rocks",
+  "zh": "",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "e991ff90f9",
+  "msgid": "Khantrukh grumbles…",
+  "zh": ""
+ },
+ {
+  "key": "db005bc25c",
+  "msgid": "Old man? Disrespectful youth!",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "1241507a41",
+  "msgid": "Build military buildings (like sentries or barriers) to expand your territory.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "575fb2d065",
+  "msgid": "Khantrukh nods satisfied…",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "4d92ec8dfc",
+  "msgid": "At last! These rocks should last for a while.",
+  "zh": "",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "2990ec39d9",
+  "msgid": "Boldreth exclaims…",
+  "zh": ""
+ },
+ {
+  "key": "2ff4ebabb3",
+  "msgid": "Get to the rocks north-east from you and build a quarry there.",
+  "zh": "",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "6d2662ee39",
+  "msgid": "Just look at that! In the east is the great mountain of Kal’mavrath! I wonder what treasures nature might have hidden beneath its majestic flanks!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "3fcd46fc89",
+  "msgid": "Let’s expand to the east. There’s a chance for the elderly to become useful once in a while! Let us send out some of those who understand the stone’s tongue to unravel the mountain’s secrets!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "2d77fb6349",
+  "msgid": "Boldreth laughs…",
+  "zh": ""
+ },
+ {
+  "key": "67d2c82e7b",
+  "msgid": "By Chat’Karuth’s beard, this is amazing! Just imagine what we can use this coal and iron ore for!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "58f98c4e67",
+  "msgid": "It might even be enough to…",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "5ff26dff13",
+  "msgid": "Khantrukh interrupts…",
+  "zh": ""
+ },
+ {
+  "key": "ed5b62acf5",
+  "msgid": "While this is true, we should consider it later, for now other obstacles are at hand. The miners will definitely demand greater rations for working high up on the mountain in this bitter cold, and providing these supplies may not be easy.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "9f7c0b3353",
+  "msgid": "Boldreth nods…",
+  "zh": ""
+ },
+ {
+  "key": "408bd35456",
+  "msgid": "I have to hand it to you: you are right here, old man.",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "b4bb0838e9",
+  "msgid": "There seem to be quite a lot of animals in the forests here – we might just hunt down more of them. And, of course, the people would cheer a new tavern – hey, we might call it ‘Thron’s Pride’ or so if you want!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "eaea1d9970",
+  "msgid": "The elder jumps into the air…",
+  "zh": ""
+ },
+ {
+  "key": "f786055d84",
+  "msgid": "Wisdom commands to seek variety.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "229d95c82b",
+  "msgid": "North of the great mountain is a large plain – why don’t we use the space Mother Nature gave us and build a farm? I sure would enjoy a freshly baked pitta bread for a change…",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "d99984c0dc",
+  "msgid": "Start building mines on the mountain",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b7f8508428",
+  "msgid": "Boldreth cheers up…",
+  "zh": ""
+ },
+ {
+  "key": "fbf0122710",
+  "msgid": "Our hunters are out in the forests, Thron.",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "d26b88622d",
+  "msgid": "I promise you, before the sun sets today you will have a magnificent meal fit for the chieftain of all clans!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "929ad194e6",
+  "msgid": "Khantrukh gazes over the plains…",
+  "zh": ""
+ },
+ {
+  "key": "10b05441ae",
+  "msgid": "Isn’t it lovely, the view of golden fields, growing peacefully, dancing to the wind? And I believe the baker is just on his way here, with his most delicious bread reserved for our chieftain alone!",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "91f27e78ab",
+  "msgid": "A Beautiful Morning",
+  "zh": ""
+ },
+ {
+  "key": "403b9e15a5",
+  "msgid": "Thron recognizes…",
+  "zh": ""
+ },
+ {
+  "key": "aaf2eb0628",
+  "msgid": "A tavern opened for our people yesterday. While I am hardly in the mood for celebration, I noticed how much this tiny bit of home means to my people. Their songs filled the air until deep in the night, and they were in higher spirits still the day after.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "c26ea03e43",
+  "msgid": "Build coal and iron mines",
+  "zh": "",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "0e769672f4",
+  "msgid": "Maybe we actually are slowly creating a place here which we can… call home.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "f389e99c96",
+  "msgid": "Boldreth remarks…",
+  "zh": ""
+ },
+ {
+  "key": "d090f3b3dd",
+  "msgid": "So now that we have both the mines and the food to sustain them, we should bring what our brave miners gain for us into a more useful state. The iron ore has to be melted into iron so that it is ready to be forged into whatever we want. And we need the coal to keep the smelter’s ovens burning.",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "84c6d77650",
+  "msgid": "Build a coal mine and an iron mine.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "5a8760d9f9",
+  "msgid": "Khantrukh speaks…",
+  "zh": ""
+ },
+ {
+  "key": "4123e1895d",
+  "msgid": "Our miners are digging up less and less by the day! We have to go deeper, closer to the mountain’s core, if we want more of its treasures!",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "dbd5476120",
+  "msgid": "To do so, place a flag up on the mountain’s flank to the east (on mountain terrain though, not mountain meadow). When you click on the new flag, you can send geologists there. Because the flag is on a mountain, the geologists will search for ores; otherwise, they would search for water. Then build a mine for both kinds of resources that they will find, choosing the appropriate mine to be built:",
+  "zh": "",
+  "terms": [
+   "Mountain Meadow = 山地草原",
+   "Meadow = 草场",
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "2b860dcdae",
+  "msgid": "Of course, it is dark and cold in such depths and only a few venture voluntarily into these places. We should reward this bravery with greater rations for them. And a pint of beer or two will keep their spirits high.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "5b54769493",
+  "msgid": "Boldreth seems concerned…",
+  "zh": ""
+ },
+ {
+  "key": "0ae1f2dec3",
+  "msgid": "As I just discovered, we are running short on blackwood! We cannot put our warriors into some crumbling huts, and even less so in times as dangerous as ours!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "32dccf9924",
+  "msgid": "some coal",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "4471f2081c",
+  "msgid": "We need a wood hardener, and we need one now!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "8123a3cec4",
+  "msgid": "Boldreth smiles…",
+  "zh": ""
+ },
+ {
+  "key": "d2e04ffee7",
+  "msgid": "Well, old friend, this should ensure that our fortifications do not break down with our foes’ first battle cry! Now we can expand safely!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "99f7bd5022",
+  "msgid": "a lot of coal",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "d588f78bb0",
+  "msgid": "Still, it would not hurt to accumulate some grout for our further campaign; thus we could, in times of need, build a fortress such as the world has never seen before!",
+  "zh": "",
+  "note": "TRANSLATORS: Boldreth"
+ },
+ {
+  "key": "03a1cf3b80",
+  "msgid": "Khantrukh steps in…",
+  "zh": ""
+ },
+ {
+  "key": "79d8e9bc9e",
+  "msgid": "some iron",
+  "zh": "",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "bf7fe827b0",
+  "msgid": "Chieftain, this is a disgrace! It is well that we can produce grout for mighty fortifications and great buildings now – only this does not prevent our roofs from becoming leaky! Maybe the young ones like spending their nights in the rain, but I just can’t find any sleep with these raindrops dripping on my face!",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "b85eedac52",
+  "msgid": "Now this is a problem we should do something about!",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "7a7dcc1b62",
+  "msgid": "Khantrukh seems relieved…",
+  "zh": ""
+ },
+ {
+  "key": "be0d1078ce",
+  "msgid": "a lot of iron",
+  "zh": "",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "bfefebb98e",
+  "msgid": "Wonderful! Our roofs are not dripping anymore, and we have all the material we need for, well, whichever monumental building we see fit!",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "fd1cc0d5ac",
+  "msgid": "We Need Oxen!",
+  "zh": ""
+ },
+ {
+  "key": "fb128cf8ed",
+  "msgid": "As our realm is getting bigger and bigger, the traffic on the roads is overwhelming. Our poor carriers are no longer able to transport the goods as fast as we need them to. I suggest we give them some support by breeding oxen.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh"
+ },
+ {
+  "key": "d998084140",
+  "msgid": "some gold",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "de66993034",
+  "msgid": "They are amazing animals: The ox is as swift as a human being while being much stronger and very frugal: all we need is wheat and water to breed them and they will do their work on the roads loyally and reliably.",
+  "zh": "",
+  "note": "TRANSLATORS: Khantrukh",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "48dcd2e9f7",
+  "msgid": "Thron speaks…",
+  "zh": ""
+ },
+ {
+  "key": "4431b0ada8",
+  "msgid": "a lot of gold",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "fc4894d610",
+  "msgid": "The other day Boldreth asked me to accompany him to the new inn. It would cheer me up, he said.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "b52756ebe7",
+  "msgid": "When I looked around, I saw faithful faces, trusting that I could guide them through these dark days. Yet before I could speak any words of gratitude or encouragement, one of my warriors ran into the inn. He had been far out in the forest for the past days and I could see how weary he was.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "03cd8f3c63",
+  "msgid": "The news he brought changed everything…",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "9a17f5edb9",
+  "msgid": "some granite",
+  "zh": ""
+ },
+ {
+  "key": "9c1a55946c",
+  "msgid": "One Full Moon Night",
+  "zh": ""
+ },
+ {
+  "key": "2fd0b4353c",
+  "msgid": "One night, when the moon shone brightly, I climbed to the peak of Kal’mavrath.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "cbb95bc2cf",
+  "msgid": "When I gazed at the horizon, I still saw crimson lights flicker in the distance. It is incredible with how much passion my brethren fight this war. I fear the moment I will see Al’thunran again – will there be anything but ashes and wasted ruins left of our once beautiful capital when we get there?",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "912d5619ea",
+  "msgid": "a lot of granite",
+  "zh": ""
+ },
+ {
+  "key": "a1bb4a5fed",
+  "msgid": "Another Cold Day",
+  "zh": ""
+ },
+ {
+  "key": "8178ed0583",
+  "msgid": "Thron looks worried…",
+  "zh": ""
+ },
+ {
+  "key": "9f598782d6",
+  "msgid": "The winter is upon us. Many of us are suffering from the cold, yet we must endure. The day we may return cannot be far anymore – it must not be far anymore.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron",
+  "terms": [
+   "Winter = 冬季"
+  ]
+ },
+ {
+  "key": "7d66b4b7d2",
+  "msgid": "I prayed that it might get warmer again, as I prayed that the war would finally come to an end.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "2ed0a318bd",
+  "msgid": "water",
+  "zh": "",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "27620b142a",
+  "msgid": "So far, it seems that neither prayer was fulfilled.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "a1464586b9",
+  "msgid": "A friendly village has joined us!",
+  "zh": "",
+  "terms": [
+   "Village = 村庄"
+  ]
+ },
+ {
+  "key": "26e6df17b0",
+  "msgid": "We have found a village with friendly and productive people, impressed by our wealth, technology and strength.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron",
+  "terms": [
+   "Village = 村庄"
+  ]
+ },
+ {
+  "key": "79a0bacc80",
+  "msgid": "nothing was found here",
+  "zh": ""
+ },
+ {
+  "key": "041f097412",
+  "msgid": "They have lived simply, yet blithely, from hunting and farming. They have not been involved in any conflict so far, and are not ready for fighting.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron",
+  "terms": [
+   "hunting = 狩猎"
+  ]
+ },
+ {
+  "key": "1fddd13f43",
+  "msgid": "But they fear that the war around Al’thunran will set an end to this life. Therefore, they have decided to join us, hoping that we can help each other.",
+  "zh": "",
+  "note": "TRANSLATORS: Thron"
+ },
+ {
+  "key": "add2478df6",
+  "msgid": "Mines can only be built on mountain terrain. Suitable places for mines are displayed as orange mine symbols.",
+  "zh": ""
+ },
+ {
+  "key": "511932f642",
+  "msgid": "Build a hunter’s hut, a gamekeeper’s hut and a tavern",
+  "zh": ""
+ },
+ {
+  "key": "e8edd94a11",
+  "msgid": "In order to work, your miners need food.",
+  "zh": ""
+ },
+ {
+  "key": "d3c5bf3354",
+  "msgid": "A hunter can hunt down animals, while a gamekeeper prevents them from becoming extinct. The meat is then processed in a tavern into lunches for your miners.",
+  "zh": ""
+ },
+ {
+  "key": "9afc7e19ef",
+  "msgid": "This is only the first example of a ware which has to be refined before being used in a secondary building – others will follow.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "c3d9362c69",
+  "msgid": "Bake bread",
+  "zh": ""
+ },
+ {
+  "key": "f8c98c13fe",
+  "msgid": "Build a well, a farm and a bakery",
+  "zh": ""
+ },
+ {
+  "key": "520686568a",
+  "msgid": "Other ways to produce food – different kinds of food – are fishers and farms. The wheat of the farms has to be processed with water in a bakery before it becomes edible. You can obtain water by building a well. For the best productivity, build it on a spot where your geologists have found a water source.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "7b7a75832f",
+  "msgid": "Refine your mined resources",
+  "zh": ""
+ },
+ {
+  "key": "5b9e60a988",
+  "msgid": "Build a smelting works",
+  "zh": ""
+ },
+ {
+  "key": "4935cb9e61",
+  "msgid": "The iron ore your miners dig up is not usable yet – it has to be melted into iron first.",
+  "zh": "",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "ea6c5d41a7",
+  "msgid": "Enhance buildings and build a micro brewery",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "bf53df8461",
+  "msgid": "Enhance a mine and the tavern, and build a micro brewery.",
+  "zh": ""
+ },
+ {
+  "key": "816bf41287",
+  "msgid": "Enhance the coal mine or the iron mine to a deep mine, and enhance the tavern to an inn.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "53e7cffc0c",
+  "msgid": "Also build a micro brewery.",
+  "zh": ""
+ },
+ {
+  "key": "9693eff77e",
+  "msgid": "A normal mine can only dig up about one third of all the resources that lie beneath it; then it must be enhanced to a deep mine in order to keep it working properly. To enhance a building, choose it and then click the appropriate button in the appearing window.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "0945ea97ae",
+  "msgid": "Workers gain experience by successful work. With enough experience, they become more advanced workers, who are necessary to operate the enhanced buildings. Do not enhance a building before you have enough advanced workers to operate the advanced building!",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑",
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "adc051bb2c",
+  "msgid": "Such buildings usually have greater demands than the basic kind of that building – for instance, deep mines need snacks instead of rations. You will have to enhance your tavern to an inn in order to produce snacks out of pitta bread AND a second kind of food (meat or fish) AND beer.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑",
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "1792c1461d",
+  "msgid": "You may of course enhance all mines to deep mines instantly given you have the workers – bigger mines work a bit faster, smaller mines need cheaper food. It’s up to you which strategy you prefer.",
+  "zh": "",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "678ef72a8d",
+  "msgid": "Build a wood hardener",
+  "zh": ""
+ }
+]
