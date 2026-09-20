@@ -91,40 +91,40 @@ msgstr "矿工需要食物"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:73
 msgid "Build a tavern to produce some food to sustain our miners."
-msgstr ""
+msgstr "建造一座小酒馆，生产一些食物来供养我们的矿工。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:74
 msgid ""
 "Of course this means you will need more resources for preparing this food – "
 "like fish, meat or bread."
-msgstr ""
+msgstr "当然，这意味着你需要更多原料来做这些食物——比如鱼、肉或面包。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:75
 msgid ""
 "To provide these foodstuffs, you can build a fisher’s house, a hunter’s "
 "house, a farm, a mill and a bakery."
-msgstr ""
+msgstr "要供上这些吃食，你可以建渔夫之屋、猎人小屋、农场、磨坊和面包房。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:76
 msgid ""
 "Build a brewery and a winery to supply the miners with some good and strong "
 "drinks."
-msgstr ""
+msgstr "建造一座啤酒坊和一座葡萄酒酿造厂，给矿工供上够劲的好酒。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:77
 msgid "Maybe you will also need a piggery, a vineyard and some wells."
-msgstr ""
+msgstr "也许你还需要一座养猪场、一座葡萄园和几口井。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:78
 msgid ""
 "It’s up to you what you want to build. But remember – coal and iron mines "
 "need beer, marble and gold mines need wine and all mines need at least "
 "rations, which are produced out of bread OR meat OR fish."
-msgstr ""
+msgstr "想建什么由你决定。不过记住——煤矿和铁矿需要啤酒，大理石矿和金矿需要葡萄酒，而所有矿场至少都需要定额口粮，那是用面包或肉或鱼做成的。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:84
 msgid "Protect your eastern frontier"
-msgstr ""
+msgstr "守住你的东部边境"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:86
 msgid "Protect Your Eastern Frontier"
@@ -134,11 +134,11 @@ msgstr "防护东线"
 msgid ""
 "Build stronger military buildings, such as an outpost, a barrier or a tower,"
 " on the eastern frontier."
-msgstr ""
+msgstr "在东部边境建造更坚固的军事建筑，比如前哨、壁垒或塔楼。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:88
 msgid "Build a tower to watch deep inside the enemy territory."
-msgstr ""
+msgstr "建造一座塔楼，好把敌方领土深处看个清楚。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:94
 msgid "Destroy the Barbarian tribe"
@@ -156,14 +156,14 @@ msgstr "建造步兵营，开始训练士兵。"
 msgid ""
 "Attack and completely destroy the Barbarian buildings as soon as you have "
 "enough soldiers."
-msgstr ""
+msgstr "等士兵足够多，就发起进攻，把蛮族的建筑彻底摧毁。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:99
 msgid ""
 "Build a fortress on the peninsula (near where the Barbarian headquarters "
 "stood before). Finally, this will avoid new settlements of other tribes in "
 "that region."
-msgstr ""
+msgstr "在半岛上（蛮族总部原先所在的位置附近）建一座要塞。这样一来，别的部族就不会再在那一带落脚了。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:107
 msgid "A New Island"
@@ -196,7 +196,7 @@ msgid ""
 "On this island, we will start our new life. We will build up an outpost for "
 "our exile, which perhaps will become a new, beautiful home for every one of "
 "us."
-msgstr ""
+msgstr "我们将在这座岛上开始新的生活。我们要为这场流亡建起一处据点，说不定它会成为我们每个人崭新而美丽的家园。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:118
 msgid "The Green Forests"
@@ -208,7 +208,7 @@ msgid ""
 "As Saledus and I walked through these wonderful forests in the north, we "
 "felt that our future had just begun. This land is so peaceful, good and "
 "beautiful, I could stay here until the end of my life."
-msgstr ""
+msgstr "我和塞勒杜斯走过北边这些绝妙的森林时，都觉得我们的未来才刚刚开始。这片土地如此安宁、丰饶又美丽，我真愿在这里待到此生尽头。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:125
@@ -216,25 +216,25 @@ msgid ""
 "But until that day, many years may pass! For now, we must concentrate on the"
 " present, and build a few lumberjack’s houses and a sawmill to produce some "
 "basic building materials."
-msgstr ""
+msgstr "可离那一天还有许多年！眼下我们得着眼当下，建几座伐木工之屋和一座锯木厂，产出一些基础建材。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:128
 msgid ""
 "But we mustn’t forget to preserve this natural bounty. These forests should "
 "last forever, so we really have to build a forester’s house too."
-msgstr ""
+msgstr "但我们不能忘了守护这份自然的馈赠。这些森林应当长存，所以护林员之屋也非建不可。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:133
 msgid "The Rocks"
-msgstr ""
+msgstr "那些岩石"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:137
 msgid ""
 "Later, I walked down to the rocks in the south and looked for a place where "
 "we could build a quarry to get some granite for our larger buildings."
-msgstr ""
+msgstr "后来我走到南边的岩石那里，寻找一处能建采石场的地方，好为更大的建筑取些花岗石。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:140
@@ -242,37 +242,37 @@ msgid ""
 "Again, I felt like I was in paradise when I noticed that some marble-like "
 "stones were among the rocks. It seems that we will soon be able to build "
 "strong, luxurious buildings, like those we were accustomed to in Fremil."
-msgstr ""
+msgstr "当我注意到那些岩石中夹着一些像大理石的石料时，又一次觉得自己身在乐土。看来我们很快就能建起坚固而华美的建筑，就像在弗雷米尔时习以为常的那样。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:145
 msgid "Wood for the Colony"
-msgstr ""
+msgstr "供给殖民地的木料"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:149
 msgid ""
 "Good news! Today our wood economy was completed. Now we can be sure that we "
 "will have enough wood for our future building projects."
-msgstr ""
+msgstr "好消息！今天我们的木料体系建成了。现在可以确信，将来的建造计划不会缺木头。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:153
 msgid "Stones for the Colony"
-msgstr ""
+msgstr "供给殖民地的石料"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:157
 msgid ""
 "Great! Today the building of the quarry was completed. Now we will get "
 "enough granite and marble to construct larger buildings."
-msgstr ""
+msgstr "太好了！今天采石场落成。现在我们能取得足够的花岗石和大理石，用来建造更大的建筑了。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:161
 msgid "Dangerous Ship Parts"
-msgstr ""
+msgstr "不祥的船骸"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:164
 msgid "Saledus looks unhappy"
-msgstr ""
+msgstr "塞勒杜斯面露愁容"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:166
@@ -282,29 +282,29 @@ msgid ""
 "walked down to the southern shore, I found the remains of another ship. I "
 "don’t know whether these parts are all that is left of that ship. In any "
 "case, these parts do not seem to be old."
-msgstr ""
+msgstr "陛下，我不想引起恐慌，可我发现了一样东西，让我心头一沉，恐惧一阵阵涌上来。我走到南岸时，看到了另一艘船的残骸。我不知道这些碎片是不是那艘船仅剩的部分。无论如何，这些残片看上去并不旧。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:169
 msgid ""
 "Perhaps the people aboard that ship were caught in the same storm which "
 "brought us to Malac’ Mor – and were brought to this island."
-msgstr ""
+msgstr "也许那船上的人遇上了把我们卷到马拉克莫尔来的同一场风暴——然后被冲上了这座岛。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:172
 msgid ""
 "I beg you to be cautious and to build some blockhouses or sentries around "
 "our colony."
-msgstr ""
+msgstr "恳请你多加提防，在我们的殖民地周围建几座木质碉堡或岗哨。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:179
 msgid "Marble on the Mountain"
-msgstr ""
+msgstr "山中的大理石"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:180
 msgid "Saledus smiles"
-msgstr ""
+msgstr "塞勒杜斯笑了"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:182
@@ -312,7 +312,7 @@ msgid ""
 "Sire, I’ve got good news for you: As I walked to the east, I found a larger "
 "mountain. I am not absolutely sure – a geologist should check if I am right "
 "– but I believe we could mine marble from some places on the mountain."
-msgstr ""
+msgstr "陛下，我有好消息：我往东走的时候，发现了一座较大的山。我不敢完全打包票——该请地质专家来核实——但我相信山上有几处能开采大理石。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:185
@@ -320,20 +320,20 @@ msgid ""
 "It would be a good source for bolstering our supply of quality marble, "
 "beyond the meager quantities available from the quarry. Perhaps you were "
 "right when you said that this island was like paradise."
-msgstr ""
+msgstr "采石场产出的那点量太少，这会是补足优质大理石供应的好来源。也许你说得对，这座岛真像是乐土。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:188
 msgid "Please, expand to that mountain and start mining marble."
-msgstr ""
+msgstr "请向那座山扩张，开始开采大理石。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:195
 msgid "Further Mountains"
-msgstr ""
+msgstr "更多的山"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:196
 msgid "Saledus is excited"
-msgstr ""
+msgstr "塞勒杜斯很兴奋"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:198
@@ -343,7 +343,7 @@ msgid ""
 "of iron ore. I advise you to immediately build iron and coal mines (or at "
 "least charcoal kilns), smelting works, toolsmithies, armor and weapon "
 "smithies."
-msgstr ""
+msgstr "诸神在上，这运气好得难以置信！还有两座山，看样子一座藏着大量的煤，另一座藏着大量铁矿石。我建议你立刻建起铁矿和煤矿（至少也要建煅炭窑）、冶炼厂、工具铺，以及盔甲铺和兵器铺。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:201
@@ -351,25 +351,25 @@ msgid ""
 "However: for all these bigger buildings, we need better and more elegant "
 "building materials. So you have to build a house for the stonemason, who "
 "will cut columns from marble."
-msgstr ""
+msgstr "不过：这些更大的建筑都需要更好、更考究的建材。所以你得给石匠盖一座房子，由他把大理石凿成柱子。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:204
 msgid "After everything, we can now begin to live like we did in Fremil."
-msgstr ""
+msgstr "这样一来，我们终于能过上和在弗雷米尔时一样的日子了。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:209
 msgid "Food for the Miners"
-msgstr ""
+msgstr "矿工的口粮"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:210
 msgid "Amalea enters…"
-msgstr ""
+msgstr "亚玛利亚走了进来……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:212
 msgid "Lutius, don’t you think you forgot something important?"
-msgstr ""
+msgstr "卢图斯，你是不是忘了一件要紧事？"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:215
@@ -378,40 +378,40 @@ msgid ""
 "more comfortable life, but the people working in the mines are unhappy with "
 "the current situation. They have to do hard work and have no time for making"
 " their own food."
-msgstr ""
+msgstr "建矿场固然好，当然也是个好主意，能让我们日子过得更舒坦；可在矿里干活的人对眼下的情形并不满意。他们活儿又重，没工夫自己做饭。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:218
 msgid ""
 "What do you think about helping them out? I can’t tell you what we need "
 "exactly… but here are my recommendations:"
-msgstr ""
+msgstr "你看要不要帮他们一把？具体需要什么我说不准……不过这是我的几条建议："
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:223
 msgid "Our New Tavern"
-msgstr ""
+msgstr "我们的新小酒馆"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:224
 msgid "Amalea smiles"
-msgstr ""
+msgstr "亚玛利亚笑了"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:226
 msgid ""
 "I just visited our new tavern ‘At the palms’. The beer they serve is really "
 "tasty. You really should have a drink there, too."
-msgstr ""
+msgstr "我刚去过我们新开的小酒馆「棕榈下」。他们供的啤酒真是好喝。你也该去喝一杯。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:229
 msgid ""
 "It is good to see that we have now got a warmer and more familiar "
 "environment on our island. Thank you, Lutius."
-msgstr ""
+msgstr "看到我们的岛上如今有了更温暖、更有人情味的去处，真好。谢谢你，卢图斯。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:233
 msgid "The Barbarians"
-msgstr ""
+msgstr "蛮族"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:237
@@ -419,7 +419,7 @@ msgid ""
 "By the Gods! This is absolutely terrible. It seems as if we stand close to a"
 " test – and it seems as if Saledus was right with his fear concerning the "
 "shipwreck he found."
-msgstr ""
+msgstr "诸神在上！这太糟糕了。看来我们正面临一场考验——也看来塞勒杜斯对那艘船骸的担忧是对的。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:240
@@ -427,7 +427,7 @@ msgid ""
 "Today, as I walked down to the eastern shore, I got a shock. I caught sight "
 "of one of those hated, evil, Barbarian tribes with whom we have had so many "
 "problems before."
-msgstr ""
+msgstr "今天我走到东岸时吓了一跳。我瞥见了那些可恨可恶的蛮族部族中的一支，我们从前和他们有过太多过节。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:243
@@ -436,16 +436,16 @@ msgid ""
 "of them saw me, they charged towards me and started attacking me with their "
 "throwing spears. Thanks be to the Gods that I was able to flee and hide "
 "myself, before retreating back to our colony under cover of darkness."
-msgstr ""
+msgstr "起初我天真地希望他们是和平的，可他们中的一个人一看见我，就朝我冲过来，用投掷长矛攻击我。谢天谢地，我得以脱身藏起，趁着夜色退回了殖民地。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:246
 msgid "Anyway, we must build stronger military buildings as soon as possible."
-msgstr ""
+msgstr "无论如何，我们必须尽快建起更坚固的军事建筑。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:251
 msgid "Command to Attack"
-msgstr ""
+msgstr "下令进攻"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:255
@@ -453,7 +453,7 @@ msgid ""
 "That’s good. The first big military building is complete and the mining "
 "infrastructure is getting better and better. Now we should think about "
 "preparing ourselves for battle."
-msgstr ""
+msgstr "很好。第一座大型军事建筑已经落成，采矿体系也越来越好。现在该考虑备战了。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:260
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:289
@@ -464,7 +464,7 @@ msgstr "胜利"
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:264
 msgid ""
 "Today is a proud day. We have fought for our new home and risen victorious."
-msgstr ""
+msgstr "今天是值得骄傲的一天。我们为新家园而战，并取得了胜利。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:267
@@ -472,17 +472,17 @@ msgid ""
 "There are still a few Barbarians hiding on our island, but I am sure that we"
 " will find them soon. Every Barbarian who doesn’t attack us will be put in a"
 " boat with the other peaceful ones, and sent back to their country."
-msgstr ""
+msgstr "岛上还有少数蛮族藏着，但我相信我们很快会把他们找出来。凡是不攻击我们的蛮族，都会和其他和平的人一同上船，送回他们的国度。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:269
 msgid ""
 "We have established a working economy, trained new soldiers and driven the "
 "Barbarians from the island. Now we can think about our next steps."
-msgstr ""
+msgstr "我们建起了一套能运转的经济，练出了新兵，也把蛮族赶出了这座岛。现在可以考虑下一步了。"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:273
 msgid "As Time is Running By"
-msgstr ""
+msgstr "时光流逝"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:276
 msgid "7 days later…"
@@ -490,14 +490,14 @@ msgstr "七天后……"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:280
 msgid "A Message"
-msgstr ""
+msgstr "一封讯息"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:285
 msgid ""
 "Today a pigeon landed on our island. It brought a message which fills me "
 "with dark thoughts and brings back my fears."
-msgstr ""
+msgstr "今天有一只鸽子落在我们岛上。它带来一封讯息，让我心头蒙上阴影，也把我的恐惧又勾了回来。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:288
@@ -506,7 +506,7 @@ msgid ""
 "that the Empire is at war with the Barbarians. They were attacked from the "
 "north by the tribe that I was forbidden to attack. It is clear to me what I "
 "must do…"
-msgstr ""
+msgstr "这封信是写给我的，恳请我回弗雷米尔。信上说帝国正与蛮族交战。他们遭到北方那个我曾被禁止攻击的部族的进攻。我该做什么，已经很清楚了……"
 
 #: ../../../../data/campaigns/emp02.wmf/scripting/texts.lua:290
 msgid ""

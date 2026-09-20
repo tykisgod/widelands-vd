@@ -1,0 +1,430 @@
+[
+ {
+  "key": "6f66c5e3ae",
+  "msgid": "On this island, we will start our new life. We will build up an outpost for our exile, which perhaps will become a new, beautiful home for every one of us.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "121e1fd194",
+  "msgid": "As Saledus and I walked through these wonderful forests in the north, we felt that our future had just begun. This land is so peaceful, good and beautiful, I could stay here until the end of my life.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "2292bcdc15",
+  "msgid": "But until that day, many years may pass! For now, we must concentrate on the present, and build a few lumberjack’s houses and a sawmill to produce some basic building materials.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "99ce977ee3",
+  "msgid": "But we mustn’t forget to preserve this natural bounty. These forests should last forever, so we really have to build a forester’s house too.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "1f0180a05d",
+  "msgid": "The Rocks",
+  "zh": "",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "57dc6aac83",
+  "msgid": "Later, I walked down to the rocks in the south and looked for a place where we could build a quarry to get some granite for our larger buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Buildings = 建筑",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "ceb7a57714",
+  "msgid": "Again, I felt like I was in paradise when I noticed that some marble-like stones were among the rocks. It seems that we will soon be able to build strong, luxurious buildings, like those we were accustomed to in Fremil.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Buildings = 建筑",
+   "Stones = 石料",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "f35e5fb1c8",
+  "msgid": "Wood for the Colony",
+  "zh": ""
+ },
+ {
+  "key": "67769d038a",
+  "msgid": "Good news! Today our wood economy was completed. Now we can be sure that we will have enough wood for our future building projects.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Building = 建筑",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "5ea1f29928",
+  "msgid": "Stones for the Colony",
+  "zh": "",
+  "terms": [
+   "Stones = 石料"
+  ]
+ },
+ {
+  "key": "a40ae60ed6",
+  "msgid": "Great! Today the building of the quarry was completed. Now we will get enough granite and marble to construct larger buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "e015ce185d",
+  "msgid": "Dangerous Ship Parts",
+  "zh": "",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "d6c39c9986",
+  "msgid": "Saledus looks unhappy",
+  "zh": ""
+ },
+ {
+  "key": "03984eb21f",
+  "msgid": "Sire, I don’t want to start a panic, but I found something which gives me a sinking feeling in my stomach and spreads waves of fear in my heart. As I walked down to the southern shore, I found the remains of another ship. I don’t know whether these parts are all that is left of that ship. In any case, these parts do not seem to be old.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "4c6cff21bc",
+  "msgid": "Perhaps the people aboard that ship were caught in the same storm which brought us to Malac’ Mor – and were brought to this island.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "9759732766",
+  "msgid": "I beg you to be cautious and to build some blockhouses or sentries around our colony.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "41715af1bb",
+  "msgid": "Marble on the Mountain",
+  "zh": ""
+ },
+ {
+  "key": "fa1121adc2",
+  "msgid": "Saledus smiles",
+  "zh": ""
+ },
+ {
+  "key": "15b49fbbc9",
+  "msgid": "Sire, I’ve got good news for you: As I walked to the east, I found a larger mountain. I am not absolutely sure – a geologist should check if I am right – but I believe we could mine marble from some places on the mountain.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "71e6d87e5e",
+  "msgid": "It would be a good source for bolstering our supply of quality marble, beyond the meager quantities available from the quarry. Perhaps you were right when you said that this island was like paradise.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "514ed191e6",
+  "msgid": "Please, expand to that mountain and start mining marble.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "mining marble = 开采大理石",
+   "mining = 采矿"
+  ]
+ },
+ {
+  "key": "519d5a4688",
+  "msgid": "Further Mountains",
+  "zh": ""
+ },
+ {
+  "key": "735b2c1dda",
+  "msgid": "Saledus is excited",
+  "zh": ""
+ },
+ {
+  "key": "a21e60cc1a",
+  "msgid": "By the Gods, this is an unbelievable stroke of fortune! There are two more mountains, and it seems that one has a large quantity of coal and the other of iron ore. I advise you to immediately build iron and coal mines (or at least charcoal kilns), smelting works, toolsmithies, armor and weapon smithies.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "183e1c8675",
+  "msgid": "However: for all these bigger buildings, we need better and more elegant building materials. So you have to build a house for the stonemason, who will cut columns from marble.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "84dc77cec3",
+  "msgid": "After everything, we can now begin to live like we did in Fremil.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "df6698d83c",
+  "msgid": "Food for the Miners",
+  "zh": ""
+ },
+ {
+  "key": "a35603d051",
+  "msgid": "Amalea enters…",
+  "zh": ""
+ },
+ {
+  "key": "45cd7be19d",
+  "msgid": "Lutius, don’t you think you forgot something important?",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "0d0306bcd3",
+  "msgid": "It’s nice, and of course a good idea, to build mines, which will give us a more comfortable life, but the people working in the mines are unhappy with the current situation. They have to do hard work and have no time for making their own food.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "6faeaf2a4b",
+  "msgid": "What do you think about helping them out? I can’t tell you what we need exactly… but here are my recommendations:",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "9f3ad9a37b",
+  "msgid": "Our New Tavern",
+  "zh": ""
+ },
+ {
+  "key": "bbd4e4e7d1",
+  "msgid": "Amalea smiles",
+  "zh": ""
+ },
+ {
+  "key": "08d77ae19d",
+  "msgid": "I just visited our new tavern ‘At the palms’. The beer they serve is really tasty. You really should have a drink there, too.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "cae36e4e16",
+  "msgid": "It is good to see that we have now got a warmer and more familiar environment on our island. Thank you, Lutius.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "aace1749b5",
+  "msgid": "The Barbarians",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "3bcf544c94",
+  "msgid": "By the Gods! This is absolutely terrible. It seems as if we stand close to a test – and it seems as if Saledus was right with his fear concerning the shipwreck he found.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "473edb1471",
+  "msgid": "Today, as I walked down to the eastern shore, I got a shock. I caught sight of one of those hated, evil, Barbarian tribes with whom we have had so many problems before.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "badbd3c48e",
+  "msgid": "At first, I was naive and hoped that they were peaceful, but as soon as one of them saw me, they charged towards me and started attacking me with their throwing spears. Thanks be to the Gods that I was able to flee and hide myself, before retreating back to our colony under cover of darkness.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "09e7bcc72b",
+  "msgid": "Anyway, we must build stronger military buildings as soon as possible.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "d83775110e",
+  "msgid": "Command to Attack",
+  "zh": ""
+ },
+ {
+  "key": "99f530294d",
+  "msgid": "That’s good. The first big military building is complete and the mining infrastructure is getting better and better. Now we should think about preparing ourselves for battle.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Building = 建筑",
+   "mining = 采矿"
+  ]
+ },
+ {
+  "key": "f1a2bd8c43",
+  "msgid": "Today is a proud day. We have fought for our new home and risen victorious.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "a554085161",
+  "msgid": "There are still a few Barbarians hiding on our island, but I am sure that we will find them soon. Every Barbarian who doesn’t attack us will be put in a boat with the other peaceful ones, and sent back to their country.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "48c33b7135",
+  "msgid": "We have established a working economy, trained new soldiers and driven the Barbarians from the island. Now we can think about our next steps.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Economy = 经济",
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "604af232ea",
+  "msgid": "As Time is Running By",
+  "zh": ""
+ },
+ {
+  "key": "cb3fd88ec2",
+  "msgid": "A Message",
+  "zh": "",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "38d2ec5e90",
+  "msgid": "Today a pigeon landed on our island. It brought a message which fills me with dark thoughts and brings back my fears.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "47ffa96127",
+  "msgid": "The message was addressed to me, begging me to come back to Fremil. It says that the Empire is at war with the Barbarians. They were attacked from the north by the tribe that I was forbidden to attack. It is clear to me what I must do…",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Message = 消息",
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "dca2c7cf13",
+  "msgid": "Build a tavern to produce some food to sustain our miners.",
+  "zh": ""
+ },
+ {
+  "key": "8645a99bbc",
+  "msgid": "Of course this means you will need more resources for preparing this food – like fish, meat or bread.",
+  "zh": "",
+  "terms": [
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "e204ddd9e7",
+  "msgid": "To provide these foodstuffs, you can build a fisher’s house, a hunter’s house, a farm, a mill and a bakery.",
+  "zh": ""
+ },
+ {
+  "key": "d260993f1f",
+  "msgid": "Build a brewery and a winery to supply the miners with some good and strong drinks.",
+  "zh": ""
+ },
+ {
+  "key": "4a94c84bbe",
+  "msgid": "Maybe you will also need a piggery, a vineyard and some wells.",
+  "zh": ""
+ },
+ {
+  "key": "d23169d205",
+  "msgid": "It’s up to you what you want to build. But remember – coal and iron mines need beer, marble and gold mines need wine and all mines need at least rations, which are produced out of bread OR meat OR fish.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤",
+   "Fish = 鱼",
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "869e542999",
+  "msgid": "Protect your eastern frontier",
+  "zh": ""
+ },
+ {
+  "key": "c2bbea8dbd",
+  "msgid": "Build stronger military buildings, such as an outpost, a barrier or a tower, on the eastern frontier.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "469de56952",
+  "msgid": "Build a tower to watch deep inside the enemy territory.",
+  "zh": ""
+ },
+ {
+  "key": "172e8de67e",
+  "msgid": "Attack and completely destroy the Barbarian buildings as soon as you have enough soldiers.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "fac4b287b5",
+  "msgid": "Build a fortress on the peninsula (near where the Barbarian headquarters stood before). Finally, this will avoid new settlements of other tribes in that region.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ }
+]
