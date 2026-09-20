@@ -308,7 +308,7 @@ msgstr "你被打败了！"
 msgid ""
 "You lost your last warehouse and are therefore defeated. You may continue as"
 " spectator if you want."
-msgstr "你失去了你的最后一个仓库，因此输掉了游戏。如果你愿意，你可以作为观众继续留在游戏里。 "
+msgstr "你失去了你的最后一个仓库，因此输掉了游戏。如果你愿意，你可以作为观众继续留在游戏里。"
 
 #: ../../../../data/scripting/win_conditions/win_condition_texts.lua:57
 msgid "You won"

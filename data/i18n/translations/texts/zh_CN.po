@@ -578,7 +578,7 @@ msgstr "盯紧你的渔夫，并建一座养鱼屋来补充鱼类资源。"
 msgid ""
 "Always build a forester’s and a woodcutter’s house, so you will not run out "
 "of logs."
-msgstr "为了确保原木不被用光，至少要修建一间护林员之屋和一间樵夫之屋。 "
+msgstr "为了确保原木不被用光，至少要修建一间护林员之屋和一间樵夫之屋。"
 
 #: ../../../../data/txts/tips/atlanteans.lua:12
 msgid ""
@@ -626,7 +626,7 @@ msgid ""
 "You can select multiple animal types if you hold down Ctrl during selection."
 " If you then click on the map, an instance of one of the selected animal "
 "types will be placed."
-msgstr "如果在选择过程中按住Ctrl键，可以选择多种动物类型组合成一个实例。如果你点击地图，一个选定动物类型的实例组合将被放置到地图上。 "
+msgstr "如果在选择过程中按住Ctrl键，可以选择多种动物类型组合成一个实例。如果你点击地图，一个选定动物类型的实例组合将被放置到地图上。"
 
 #: ../../../../data/txts/tips/editor.lua:16
 msgid ""

@@ -57,7 +57,7 @@ msgstr "两间伐木房屋和一座锯木厂。"
 msgid ""
 "Build two more lumberjack’s houses and a sawmill as soon as there is enough "
 "space for them."
-msgstr "一旦有足够的空间，再修建两间或者更多伐木房屋和一座锯木厂。 "
+msgstr "一旦有足够的空间，再修建两间或者更多伐木房屋和一座锯木厂。"
 
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:52
 msgid "Build a forester’s house"
@@ -70,7 +70,7 @@ msgstr "护林小屋"
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:55
 msgid ""
 "Build a forester’s house to preserve the wood resources of this island."
-msgstr "修建一间护林小屋来保护这个岛屿上的木材资源。 "
+msgstr "修建一间护林小屋来保护这个岛屿上的木材资源。"
 
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:61
 msgid "Build a quarry"
@@ -106,7 +106,7 @@ msgid ""
 "What has become of our Empire? I really ask this question – why did my king "
 "forbid me from fighting against that monstrous Barbarian tribe, who first "
 "acted as a peaceful friend and then attacked my army in the darkest night?"
-msgstr "我们的帝国到底发生了什么？我真的在问这个问题–为什么我的国王禁止我与那个丑陋而又野蛮的部族作战，那个部族一开始与我们友善相处，后来却在最黑暗的夜晚袭击了我们的军队？ "
+msgstr "我们的帝国到底发生了什么？我真的在问这个问题–为什么我的国王禁止我与那个丑陋而又野蛮的部族作战，那个部族一开始与我们友善相处，后来却在最黑暗的夜晚袭击了我们的军队？"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:81
@@ -127,7 +127,7 @@ msgid ""
 "He did not want new land and did not want our land, but he told me that THIS"
 " forest was their land – and it would stay theirs until the spirits took the"
 " last man of his folk!"
-msgstr "我们在那个地区的第五个晚上，他们无缘无故地袭击了我们。我被俘获到了他们的部族首领那里，我发现自己失去了几十个好弟兄。他一边朝我吐唾沫，一边嘲笑我，并且叫我永远离开这片土地。他不想要新的土地，也不想要我们的土地，但他告诉我，这片森林是他们的土地 –他们会一直呆在自己的地盘上，直到最后一个族人的灵魂被夺走！ "
+msgstr "我们在那个地区的第五个晚上，他们无缘无故地袭击了我们。我被俘获到了他们的部族首领那里，我发现自己失去了几十个好弟兄。他一边朝我吐唾沫，一边嘲笑我，并且叫我永远离开这片土地。他不想要新的土地，也不想要我们的土地，但他告诉我，这片森林是他们的土地 –他们会一直呆在自己的地盘上，直到最后一个族人的灵魂被夺走！"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:87
@@ -145,7 +145,7 @@ msgid ""
 "these Barbarians. So, I left Fremil by boat to find a new world and a new "
 "life for myself, somewhere in the south. Now I am sailing on the Gulf of "
 "Perl with my family, some of my friends and a few of my best warriors."
-msgstr "尽管如此，我还是认为，如果不与这些野蛮人作战，我是无法洗刷耻辱的。所以，我乘船离开Fremil去向南方的某个地方，为自己寻找一个新的世界伴随着新生活。现在我正和我的家人，一些朋友，以及我最勇敢的战士们一起航行在Perl海湾。 "
+msgstr "尽管如此，我还是认为，如果不与这些野蛮人作战，我是无法洗刷耻辱的。所以，我乘船离开Fremil去向南方的某个地方，为自己寻找一个新的世界伴随着新生活。现在我正和我的家人，一些朋友，以及我最勇敢的战士们一起航行在Perl海湾。"
 
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:96
 msgid "The Rough Sea"
@@ -182,7 +182,7 @@ msgid ""
 "We landed on an unknown coast and found peaceful rest under the palm trees "
 "growing at the shore. But that is about as good as it gets. The truth is: "
 "when I woke up this morning, I saw nothing but sand around us."
-msgstr "我们在一个不知名的海滩靠岸，找到了生长在海岸上的棕榈树，得以片刻宁静的休息。但这已经是最好的了。事实上：当我今早醒来时，我们的周围除了沙子之外一无所有。 "
+msgstr "我们在一个不知名的海滩靠岸，找到了生长在海岸上的棕榈树，得以片刻宁静的休息。但这已经是最好的了。事实上：当我今早醒来时，我们的周围除了沙子之外一无所有。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:117
@@ -198,7 +198,7 @@ msgstr "不祥的预感"
 
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:124
 msgid "Saledus looks around nervously…"
-msgstr " 塞勒杜斯焦急地环顾四周…"
+msgstr "塞勒杜斯焦急地环顾四周…"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:126
@@ -305,14 +305,14 @@ msgstr "亚玛利亚进来了…"
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:180
 msgid "I’ve got two important things to talk about… First the good news:"
-msgstr "我有两件重要的事要谈…首先是好消息： "
+msgstr "我有两件重要的事要谈…首先是好消息："
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:183
 msgid ""
 "I noticed that the construction of the sawmill is complete, so we can begin "
 "to refine the logs that the lumberjacks are harvesting into planks."
-msgstr "我注意到锯木厂的已经建造完成，所以我们可以开始把伐木工人砍伐来的原木改制成厚木板。 "
+msgstr "我注意到锯木厂的已经建造完成，所以我们可以开始把伐木工人砍伐来的原木改制成厚木板。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:186
@@ -375,7 +375,7 @@ msgstr "陛下，今天我们离我们的第一座城堡更近了。南部的采
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:216
 msgid "Now we truly can look forward to settling down on another island."
-msgstr "现在我们真的可以期待在另外一个岛上定居了。 "
+msgstr "现在我们真的可以期待在另外一个岛上定居了。"
 
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:221
 msgid "Mission Complete"
@@ -387,7 +387,7 @@ msgid ""
 "Today I got the message that our ship is completely repaired. At the moment,"
 " my people are loading everything onto our newly repaired ship, hoping it "
 "will serve us better than last time."
-msgstr "今天我收到消息说我们的船只已经全部修好了。此时，我们的人正忙着在把所有东西都装上我们刚修好的船，希望它能够比上次表现的更好。 "
+msgstr "今天我收到消息说我们的船只已经全部修好了。此时，我们的人正忙着在把所有东西都装上我们刚修好的船，希望它能够比上次表现的更好。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:227

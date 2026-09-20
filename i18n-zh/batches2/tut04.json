@@ -1,0 +1,1547 @@
+[
+ {
+  "key": "1922a134be",
+  "msgid": "Your Economy and its Settings",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "f87cbe209e",
+  "msgid": "You have closed the building statistics window. I didn’t notice that you switched to the medium buildings to look up the number of taverns. Would you please be so nice and show it to me?",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "c1413db480",
+  "msgid": "Open the building statistics window again",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "e8c789f0d3",
+  "msgid": "You closed the building statistics window, although you have not yet looked up the number of taverns.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "50e76ca5df",
+  "msgid": "Please reopen it and choose the second tab (medium buildings).",
+  "zh": "",
+  "note": "TRANSLATORS: \"it\" refers to the building statistics window.",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "46d4d4e324",
+  "msgid": "Open your stock window",
+  "zh": ""
+ },
+ {
+  "key": "39c3a0947e",
+  "msgid": "The stock window gives you an overview over the wares you currently have.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "8d0fad4d1b",
+  "msgid": "Afterwards, choose ‘Stock’.",
+  "zh": ""
+ },
+ {
+  "key": "78e018260d",
+  "msgid": "You can also use the hotkey ‘%s’ to access this window quickly.",
+  "zh": ""
+ },
+ {
+  "key": "85ae1162ed",
+  "msgid": "Welcome back. In this tutorial, I’ll tell you what you can do to check how well your economy works.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "03306fe9ff",
+  "msgid": "Check for rations",
+  "zh": ""
+ },
+ {
+  "key": "e32f938b4e",
+  "msgid": "OK. In the list, you’ve seen that you have no more taverns or inns. That means that you’re not producing any rations. But let’s see what we still have in stock.",
+  "zh": ""
+ },
+ {
+  "key": "aef00cc4a8",
+  "msgid": "Building your economy up and making it work well and grow is the main part of Widelands. But you can’t control the workers directly – they will follow the general conditions you set.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Economy = 经济",
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "4fb110d3fa",
+  "msgid": "Examine the first two tabs in the stock window",
+  "zh": ""
+ },
+ {
+  "key": "6ab0d968ef",
+  "msgid": "Have a look at the first two tabs in the stock window. They show all the wares and workers you have.",
+  "zh": "",
+  "terms": [
+   "Workers = 工人",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "3189b17189",
+  "msgid": "When you have seen enough, switch back to the third tab (‘Wares in warehouses’).",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "86cb006f45",
+  "msgid": "This is what I’ll show you in this tutorial: what actions can you take to define those general conditions?",
+  "zh": ""
+ },
+ {
+  "key": "80ab01be26",
+  "msgid": "The stock window has four tabs. The first one shows you all your current wares, including those on roads, at flags and inside buildings waiting for processing.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a362914fae",
+  "msgid": "Looking at the rations, there are currently only five in total, probably on their way to somewhere. Five rations are not much for such a big economy.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "f8bd72480a",
+  "msgid": "The second tab shows you all your workers, again those on roads and in buildings summed up.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "57344c5db8",
+  "msgid": "The third tab shows you the wares that are stored in your headquarters, your warehouses and ports. They are not needed anywhere and are therefore your reserve.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "8aa80765c6",
+  "msgid": "The fourth tab shows the same thing for workers.",
+  "zh": "",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "2223e16b53",
+  "msgid": "The third tab tells you that there are no rations left in your headquarters – that’s not good!",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "b71af363a6",
+  "msgid": "You closed the stock window!",
+  "zh": ""
+ },
+ {
+  "key": "f8ee892244",
+  "msgid": "You have closed the stock window, but I have not yet finished with my explanation. Would you please reopen it and choose the first tab?",
+  "zh": ""
+ },
+ {
+  "key": "e695fabe1e",
+  "msgid": "Open the stock window again",
+  "zh": ""
+ },
+ {
+  "key": "1ec3483d14",
+  "msgid": "You closed the stock window before I finished telling you everything about it. If you already know everything, please feel free to leave this tutorial at any time.",
+  "zh": ""
+ },
+ {
+  "key": "2a2e471967",
+  "msgid": "Otherwise, please reopen it and have a look at all its tabs.",
+  "zh": "",
+  "note": "TRANSLATORS: \"it\" refers to the \"Stock\" window."
+ },
+ {
+  "key": "2ad547bccf",
+  "msgid": "You have closed the stock window, but I have not yet finished with my explanation. Would you please reopen it and choose the third tab?",
+  "zh": ""
+ },
+ {
+  "key": "f9d28811ec",
+  "msgid": "Otherwise, please reopen it and choose the third tab.",
+  "zh": "",
+  "note": "TRANSLATORS: \"it\" refers to the \"Stock\" window. | TRANSLATORS: \"it\" refers to the ware statistics window."
+ },
+ {
+  "key": "c83e9a796d",
+  "msgid": "Build new taverns",
+  "zh": ""
+ },
+ {
+  "key": "8c849302d4",
+  "msgid": "Build at least two taverns.",
+  "zh": ""
+ },
+ {
+  "key": "08c933c16c",
+  "msgid": "As long as we don’t produce rations, our miners won’t dig for ore. And without iron, we cannot forge a single helm.",
+  "zh": "",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "73c63efd93",
+  "msgid": "A Peaceful Land",
+  "zh": ""
+ },
+ {
+  "key": "c4c7f906a0",
+  "msgid": "New taverns",
+  "zh": ""
+ },
+ {
+  "key": "8759493f76",
+  "msgid": "We need new taverns",
+  "zh": ""
+ },
+ {
+  "key": "2e55e3bb4a",
+  "msgid": "Now that you have an overview, you should act. I think we should build more than one tavern – two or three are better.",
+  "zh": ""
+ },
+ {
+  "key": "6c53d1a642",
+  "msgid": "Open the in-game help window",
+  "zh": ""
+ },
+ {
+  "key": "d50bbedeea",
+  "msgid": "The encyclopedia window contains the in-game help and an encyclopedia of the tribe you’re currently playing.",
+  "zh": ""
+ },
+ {
+  "key": "6996e2cd16",
+  "msgid": "Open it. You can access it via the button at the bottom of the screen.",
+  "zh": "",
+  "note": "TRANSLATORS: \"it\" refers to the encyclopedia window"
+ },
+ {
+  "key": "95b25ee0b3",
+  "msgid": "Alternatively, you can access it directly with the ‘%s’ key.",
+  "zh": ""
+ },
+ {
+  "key": "46662551f4",
+  "msgid": "Encyclopedia",
+  "zh": ""
+ },
+ {
+  "key": "6dc121b131",
+  "msgid": "How to get help",
+  "zh": ""
+ },
+ {
+  "key": "b29310bddd",
+  "msgid": "Of course, it is difficult to remember all of my remarks and advice. For example, you might ask yourself: ‘Why do we need rations to get soldiers?’",
+  "zh": ""
+ },
+ {
+  "key": "6e21616be5",
+  "msgid": "When you’ve played a lot, you will know all these things by heart. But until then or if you’re unsure about your tribe’s needs and abilities and how its buildings and workers operate, you can look it up easily in our tribe-specific in-game help and encyclopedia.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "32ef5a8cc8",
+  "msgid": "Now about the map: you have settled in a nice valley between two mountains, rich in marble, iron ore and coal. All were hoping for a peaceful life.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "94dbf52d84",
+  "msgid": "Look up which wares are needed to recruit soldiers",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "9397282c4a",
+  "msgid": "A soldier needs a wooden spear and a helmet – from there on out, you can search backwards to find the wares and the buildings you need to supply your barracks where the soldier is recruited. When you are finished, just close the encyclopedia window.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "0789aff65e",
+  "msgid": "But one day, you discovered a barren wasteland with abandoned buildings in the east. A strange aura came from there, and no one wanted to set foot there. But the border could not be left undefended, and so you constructed three fortresses.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Wasteland = 荒地"
+  ]
+ },
+ {
+  "key": "d7528b7288",
+  "msgid": "Use the encyclopedia to find out how to create new soldiers.",
+  "zh": ""
+ },
+ {
+  "key": "265e7125ce",
+  "msgid": "Choose the ‘Wares’ tab in the encyclopedia window.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "138607bfd9",
+  "msgid": "Look up what is needed to produce a helmet and what is needed to produce a wooden spear.",
+  "zh": ""
+ },
+ {
+  "key": "9d1f05d8c4",
+  "msgid": "If you want, you may further look up what is needed to produce the wares you just looked up.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "61c4500f51",
+  "msgid": "Close the encyclopedia window when you are done.",
+  "zh": ""
+ },
+ {
+  "key": "bae963c935",
+  "msgid": "Encyclopedia details",
+  "zh": ""
+ },
+ {
+  "key": "7ee29ba212",
+  "msgid": "You had not been prepared for war, and you have to hurry now to build up an army.",
+  "zh": ""
+ },
+ {
+  "key": "1d59aa7f59",
+  "msgid": "The Encyclopedia Categories",
+  "zh": ""
+ },
+ {
+  "key": "105f41915e",
+  "msgid": "The encyclopedia has five tabs:",
+  "zh": ""
+ },
+ {
+  "key": "508b944b5a",
+  "msgid": "The ‘General’ tab contains information about all the basic interface controls for Widelands. Furthermore, you can find tips that are relevant for your tribe there.",
+  "zh": "",
+  "terms": [
+   "Controls = 控制",
+   "Tips = 提示"
+  ]
+ },
+ {
+  "key": "6348a17147",
+  "msgid": "The ‘Wares’ tab shows information about the wares that your tribe needs, including a short help text, a list of buildings that produce each ware, the needed wares to produce it and where the ware is consumed.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "44aaa90836",
+  "msgid": "The ‘Workers’ tab shows information about your tribe’s workers in a similar manner to the wares in the second tab.",
+  "zh": "",
+  "terms": [
+   "Workers = 工人",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "58c69b408f",
+  "msgid": "The ‘Buildings’ tab contains all the necessary information about the buildings of your tribe.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "a46f490afc",
+  "msgid": "Finally, the ‘Immovables’ tab shows information about the specific immovables that your tribe’s workers can place on the map.",
+  "zh": "",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "6af3aa78e5",
+  "msgid": "You closed the encyclopedia!",
+  "zh": ""
+ },
+ {
+  "key": "1b19811895",
+  "msgid": "You have closed the encyclopedia window, but I didn’t notice that you were trying to find out which wares are needed to recruit a soldier. Would you please reopen it and do so?",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "d0581339fe",
+  "msgid": "Open the encyclopedia window again",
+  "zh": ""
+ },
+ {
+  "key": "d93187a499",
+  "msgid": "You closed the encyclopedia window without searching for the information we need. If you already know everything, please feel free to leave this tutorial at any time.",
+  "zh": ""
+ },
+ {
+  "key": "5fe4c0769e",
+  "msgid": "Otherwise, please reopen the encyclopedia window and choose the second tab.",
+  "zh": ""
+ },
+ {
+  "key": "dcdcd1ca5e",
+  "msgid": "Priority Settings",
+  "zh": ""
+ },
+ {
+  "key": "7edc83fd0a",
+  "msgid": "Send the wares where they’re needed",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "daece4064c",
+  "msgid": "Great. Our taverns have now been built up and are supplying us with rations.",
+  "zh": ""
+ },
+ {
+  "key": "a41dcda54b",
+  "msgid": "At the moment, all mines are supplied with rations. If you want to prioritize a special mine, you simply have to open its window. In the wares tab, behind every ware, you can see a slider.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "f684af1465",
+  "msgid": "When you move the slider to the blue area on the left side (low priority), the corresponding ware gets delivered less frequently. Red (right side) means that as many wares as possible should be delivered to this building, maybe because it produces something important.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "c3454202bd",
+  "msgid": "The actual supply state is indicated by varying colors of the ware icons themselves:",
+  "zh": ""
+ },
+ {
+  "key": "a2d17dbd5f",
+  "msgid": "Wares stored in the building are shown in full color.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "4e6704895d",
+  "msgid": "Missing wares are greyed out.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "ad31fd5d47",
+  "msgid": "Wares not present in the building yet but already being transported there are shown in a darker grey.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "4068cdc286",
+  "msgid": "In our situation, you might want to work the bakeries as fast as possible because they supply our taverns, so you could set water to the highest priority for them. The other buildings (for example the donkey farm) would then get less water, but the bakery could work faster.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "64b9ac2a11",
+  "msgid": "Open the ware statistics window",
+  "zh": ""
+ },
+ {
+  "key": "32477852b7",
+  "msgid": "Select the ‘Wares’ entry from the ‘Statistics’ menu.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "2454c7f610",
+  "msgid": "Let’s have a look at how our wares production is doing.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "764a481f7d",
+  "msgid": "An accident",
+  "zh": ""
+ },
+ {
+  "key": "355db4e625",
+  "msgid": "Examine your ware production and consumption",
+  "zh": ""
+ },
+ {
+  "key": "6c2c0fde96",
+  "msgid": "The first two tabs show you the production and consumption of any ware. You can toggle them by simply clicking on them.",
+  "zh": ""
+ },
+ {
+  "key": "4d157d31c4",
+  "msgid": "When you have seen enough, switch to the third tab (‘Economy health’).",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "6caf43c182",
+  "msgid": "In this window, you can select wares to see how their production or consumption has changed over time. Try it out with some wares.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a385d838b3",
+  "msgid": "I’ll continue as soon as you click on the third tab (‘Economy health’).",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "72460e3d9a",
+  "msgid": "The Tavern is Burning!",
+  "zh": ""
+ },
+ {
+  "key": "b9e0a5e89f",
+  "msgid": "Examine your economy’s health",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "d33416c9f7",
+  "msgid": "The third tab shows you the economy health of the ware. When the value is positive, this means your stock is growing.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "6e20566632",
+  "msgid": "Now try this out. You can also compare it with the two previous tabs.",
+  "zh": ""
+ },
+ {
+  "key": "9c5b7aaf96",
+  "msgid": "When you have seen enough, switch to the fourth tab (‘Stock’).",
+  "zh": ""
+ },
+ {
+  "key": "cd94b69565",
+  "msgid": "In this tab, you can see the difference between production and consumption, called ‘economy health’. You can see at one glance which one of those two is higher for the selected ware, that means whether the amount increases or decreases.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "83a27916d0",
+  "msgid": "Oh no, look at this: our tavern is burning! In all the hurry, our innkeeper accidentally dropped a torch. She is fine, but we could not extinguish the fire in time.",
+  "zh": ""
+ },
+ {
+  "key": "6cf0faa4a0",
+  "msgid": "Examine your stock",
+  "zh": ""
+ },
+ {
+  "key": "d1f241f915",
+  "msgid": "The stock tab shows you how many wares you have. Compare the information from the four tabs to understand the correlation.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "4898031dac",
+  "msgid": "When you have finished, close the ware statistics window.",
+  "zh": ""
+ },
+ {
+  "key": "4867db66f3",
+  "msgid": "In the last tab, you can also see your absolute stock. It will increase when the economy health is positive, and decrease otherwise. Compare the two graphs!",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "dc2ca9edc1",
+  "msgid": "The last two tabs are good indicators to see whether shortages are about to come. Don’t forget to check them regularly!",
+  "zh": ""
+ },
+ {
+  "key": "2e846f6c7b",
+  "msgid": "You closed the ware statistics window!",
+  "zh": ""
+ },
+ {
+  "key": "411e220dc2",
+  "msgid": "You have closed the ware statistics window, but I have not yet finished with my explanation. Would you please reopen it and choose the third tab?",
+  "zh": ""
+ },
+ {
+  "key": "1c9a29936b",
+  "msgid": "Open the ware statistics window again",
+  "zh": ""
+ },
+ {
+  "key": "84d4d3b84e",
+  "msgid": "You closed the ware statistics window before I finished telling you everything about it. If you already know everything, please feel free to leave this tutorial at any time.",
+  "zh": ""
+ },
+ {
+  "key": "63d5a72fdd",
+  "msgid": "You have closed the ware statistics window, but I have not yet finished with my explanation. Would you please reopen it and choose the fourth tab?",
+  "zh": ""
+ },
+ {
+  "key": "833e27cd1d",
+  "msgid": "Otherwise, please reopen it and choose the fourth tab.",
+  "zh": "",
+  "note": "TRANSLATORS: \"it\" refers to the ware statistics window."
+ },
+ {
+  "key": "f06542f3ec",
+  "msgid": "Open the ‘Configure economy’ window",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "f664ecb01f",
+  "msgid": "Open the ‘Configure economy’ window.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "218c9d80c7",
+  "msgid": "The window can be accessed by clicking on any flag you own or from warehouse windows.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "bb8df53011",
+  "msgid": "Open the building statistics window",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "bb8fc8afdc",
+  "msgid": "I’ve shown you our stock window, where you could see which wares are at the warehouses. You remember?",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "f8c905e4c4",
+  "msgid": "Now I’ll tell you how you can determine how many wares you want to have. The window for this purpose can be accessed via any flag and is called ‘Configure economy’.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "e9604d7983",
+  "msgid": "This is the icon.",
+  "zh": ""
+ },
+ {
+  "key": "37b3d43010",
+  "msgid": "The same button is also available in warehouse windows.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "41da0b4c55",
+  "msgid": "Note that the buttons are called ‘Configure this flag’s/building’s economy’ for a reason. An economy consists of all buildings and flags connected by roads, ferries, or ships, so you can have more than one economy if their flags are not connected by any means of transportation. In that case, your separate economies can have different settings for wares and workers.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑",
+   "Economy = 经济",
+   "Workers = 工人",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "1ff947668c",
+  "msgid": "This window looks similar to the stock window, but it has additional buttons at the bottom.",
+  "zh": ""
+ },
+ {
+  "key": "bc35032d56",
+  "msgid": "You first have to select one or more wares (you can also left-click and drag). Then you can set the desired target quantity for the selected wares.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "92781c17d0",
+  "msgid": "Most buildings will only produce something when the stock level in your warehouses falls below the target quantity, so you should indicate the reserve you want to stockpile.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Stockpile = 库存"
+  ]
+ },
+ {
+  "key": "8ddd8c0bf0",
+  "msgid": "An example: the default value for scythes is 1. If you build a farm, a carrier will take a scythe and become a farmer. Then there will be no scythes left, but the target quantity is 1, therefore your toolsmith will start producing another one.",
+  "zh": ""
+ },
+ {
+  "key": "55dcd1ffff",
+  "msgid": "If you build two farms, only one of them will start working immediately. The second farm will have to wait for its worker, who will lack a scythe. If you had set the target quantity to 2 before, two scythes would have been available and both farms would have been able to start working right away.",
+  "zh": "",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "4bf022c31d",
+  "msgid": "Stockpiling wares is a double-edged sword. On the one hand, wares in stock are useful to buffer temporary fluctuations in your economy, which tend to occur all the time. On the other hand, any ware that is sitting around in a warehouse instead of being processed into something else is wasted. Finding the balance between wasteful stockpiling and just-in-time production in your supply chains is one of most profound challenges of perfecting your economy. When in doubt, lean towards having some extra reserves.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库",
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "fbe004c403",
+  "msgid": "Open the building statistics window for an overview over the buildings you have.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "5967aa34a9",
+  "msgid": "To ease the process of switching between different economic situations, you can save and apply economy profiles at the bottom of the economy options window. A profile for stockpiling and one for efficiency are preset there.",
+  "zh": "",
+  "terms": [
+   "Efficiency = 效率",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "95f8d873a3",
+  "msgid": "Most of the time, the economy options are a useful tool to ensure that resources are not wasted to produce wares your economy does not actually need. However, sometimes it can be useful to stockpile a ware in very large quantities. To achieve this, the economy options window allows you to set the target of a ware to infinite, so that it will always be produced.",
+  "zh": "",
+  "terms": [
+   "Stockpile = 库存",
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "4c63ab889f",
+  "msgid": "The same button can also be found in the building window of production sites. There, it causes only this one site to produce indefinitely, regardless of the economy settings. This can be useful to arrange, for example, that more building materials are produced near the border even if there are plenty in stock far away in your homeland.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "051086567b",
+  "msgid": "First, you will have to open the ‘Statistics’ menu at the bottom of the screen.",
+  "zh": ""
+ },
+ {
+  "key": "b5c3094531",
+  "msgid": "Produce 20 marble columns",
+  "zh": ""
+ },
+ {
+  "key": "fbcf59ffdd",
+  "msgid": "To be prepared for additional fortifications, you should produce 20 marble columns.",
+  "zh": ""
+ },
+ {
+  "key": "d196bcb4ac",
+  "msgid": "Your stonemason will not produce marble columns when they are not needed. You have to increase the target quantity.",
+  "zh": ""
+ },
+ {
+  "key": "20383c2ce1",
+  "msgid": "Afterwards, choose ‘Buildings’.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "f19ac9fe1d",
+  "msgid": "To do so, click on any flag and choose ‘Configure economy’. In this window, you can decide how many wares of each type you wish to have in stock.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "5551daa41a",
+  "msgid": "Sometimes, you will need many wares at the same time quickly – faster than they can be produced. In this case, it is good to have enough on reserve.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "2cc63358d0",
+  "msgid": "By changing the target quantity, you can therefore decide which wares/tools your resources (in this case: iron) should be turned into or whether you would like to save your iron and wait until you know what you will need it for.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "f9cc723357",
+  "msgid": "You can also use the hotkey ‘%s’.",
+  "zh": ""
+ },
+ {
+  "key": "4c088c7ef6",
+  "msgid": "Only buildings that consume wares care about this setting. Buildings that produce wares for free (e.g. your farms or wells) will always keep working.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "working = 工作",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "4dc5a71003",
+  "msgid": "Now let’s try it out: the current target quantity for marble columns is 10. Increase it to be prepared in case you will have to build up your fortifications quickly.",
+  "zh": ""
+ },
+ {
+  "key": "1c30c00aae",
+  "msgid": "Bring 20 marble columns to the front line",
+  "zh": ""
+ },
+ {
+  "key": "249b7c4331",
+  "msgid": "Bring all of the 20 marble columns to the warehouse near the front line.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "3030930c6e",
+  "msgid": "To achieve this, you will have to do two things. First, set a preference for marble columns in the desired warehouse. All marble columns produced in the future will be brought there if possible.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "ee3247c8a6",
+  "msgid": "Then, to move the marble columns out of your headquarters, you will have to click on the remove button there.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "7288aa13e9",
+  "msgid": "Warehouse Preferences",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "5341df2ef1",
+  "msgid": "Bring the marble columns to the front line",
+  "zh": ""
+ },
+ {
+  "key": "9939b82456",
+  "msgid": "The production of marble columns is working fine now, but it would be great if they were stored where we need them.",
+  "zh": "",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "9e33cf4ba8",
+  "msgid": "Normally, produced wares are brought to the closest warehouse if they are not needed elsewhere. In this case, this means our headquarters. But we would like to have them in the warehouse near our fortresses.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Warehouse = 仓库",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a5fe5a9015",
+  "msgid": "Every warehouse has four buttons to set the preference. If you move your mouse pointer over them, you will see tooltips that explain what the buttons do.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "de9246d000",
+  "msgid": "Trading",
+  "zh": ""
+ },
+ {
+  "key": "403f53e63d",
+  "msgid": "Great. We now have enough marble columns so that in case of an aggressor, we can build up our fortifications. However, it turns out that there is indeed a tribe of Frisians living in this wasteland, and they’re peaceful. They have asked to trade with us.",
+  "zh": "",
+  "terms": [
+   "Wasteland = 荒地",
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "b1250328f3",
+  "msgid": "Since Widelands is all about building up rather than burning down, trading is a much better way to interact with other tribes than to invade their land. So let’s trade.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "2bd60d2da8",
+  "msgid": "Trades are conducted via markets. Once you have a market, you and the other player negotiate about which wares you wish to exchange with each other, and how many of them. But I’ll walk you through the process step by step. First, you need to build a market.",
+  "zh": "",
+  "terms": [
+   "Player = 玩家",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "c4e69815b3",
+  "msgid": "Building statistics",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "8b66f4a45b",
+  "msgid": "Build a market",
+  "zh": ""
+ },
+ {
+  "key": "9eaa8f864d",
+  "msgid": "Build a market near the wasteland.",
+  "zh": "",
+  "terms": [
+   "Wasteland = 荒地"
+  ]
+ },
+ {
+  "key": "1d05bb1272",
+  "msgid": "The market is a big building.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "7abe7f0d45",
+  "msgid": "Within your territory, wares are carried around by carriers. But trades can happen across long distances, much too far for your carriers to walk. So we employ a caravan of donkeys to carry our wares instead.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a20ca51b07",
+  "msgid": "Donkeys are bred in a donkey farm. In this scenario, you already have one here.",
+  "zh": ""
+ },
+ {
+  "key": "c85c2b94e4",
+  "msgid": "Besides carrying trade wares, donkeys are also used to help out on busy roads: When a road receives a lot of traffic, its carrier requests a donkey to assist with the work, so twice as many wares can be transported in the same time.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "14a2b22c89",
+  "msgid": "Check out your taverns",
+  "zh": ""
+ },
+ {
+  "key": "208d981ac1",
+  "msgid": "The market is now complete, and we can start creating a trade proposal for the Frisians. This is done from the market’s window. Let me just open it for you.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "043339da41",
+  "msgid": "At first, we should find out how many taverns we currently have. Widelands offers you a window where you can easily check this.",
+  "zh": ""
+ },
+ {
+  "key": "3c003f3bb5",
+  "msgid": "As you can see, the market window contains three tabs. The first tab is the most interesting to us right now: Here you can configure and propose a new trade.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "2854589f8e",
+  "msgid": "The second tab lists trades that you have previously proposed from this market. It is currently empty, since you did not propose any trades yet.",
+  "zh": ""
+ },
+ {
+  "key": "becc6ec0d1",
+  "msgid": "The third tab lists trade offers that you received from other players, and allows you to accept or reject them. This, too, is empty, since the Frisians are waiting for you to make the first move.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "c591a862a2",
+  "msgid": "Proposing a trade is straightforward. The first step is to select the player you want to trade with from the dropdown. In this case, there is only one other player, and he is automatically preselected for you.",
+  "zh": "",
+  "terms": [
+   "Player = 玩家",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "fb04d5cc6d",
+  "msgid": "Next, you select the wares you want to send and receive respectively from the large double panel in the center of the market window.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a77afaaf6c",
+  "msgid": "When you trade with another tribe, not all wares can be exchanged. Every tribe has their own economy, and they use different wares. For instance, Frisians don’t drink wine and can’t build houses with marble; and your Imperial tribe can’t build houses out of Frisian brick and doesn’t eat their smoked fish. The panel only shows wares that you and your prospective trading partner can both use.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Economy = 经济",
+   "Trade = 贸易",
+   "Wares = 物品",
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "496072226d",
+  "msgid": "Select the wares in the panel and use the arrow buttons below it to increase or decrease the amount of the wares to exchange.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "076e1cf5d3",
+  "msgid": "Lastly, select how many batches of the selected wares will be exchanged. You can also set the trade to run indefinitely using the Infinity icon.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "5cbd9e002b",
+  "msgid": "A batch will be delivered in one transport, each ware needing a donkey.",
+  "zh": ""
+ },
+ {
+  "key": "a07b35ab82",
+  "msgid": "When you have configured everything, click the ‘Propose’ button to send the trade offer to the other player. He can then decide whether to accept or reject your proposal.",
+  "zh": "",
+  "terms": [
+   "Player = 玩家",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "285635ab14",
+  "msgid": "Try it out!",
+  "zh": ""
+ },
+ {
+  "key": "9e10ae2c97",
+  "msgid": "Propose a trade",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "b0c0b5a42f",
+  "msgid": "Offer the Frisians a trade.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "2ce1bb6053",
+  "msgid": "The Frisians will only accept a trade that is advantageous to them; that is, they will not give away more wares than they receive.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "d1c9125c12",
+  "msgid": "Trade Rejected",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "38161660b2",
+  "msgid": "The Frisians have rejected your trade offer. They will not accept a trade that may be disadvantageous to them. Send them a new trade proposal.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "9fdcacbbc0",
+  "msgid": "Look up how many taverns you have",
+  "zh": ""
+ },
+ {
+  "key": "ec57625b06",
+  "msgid": "Trade Accepted",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "29819ad283",
+  "msgid": "Well done! The Frisians have accepted your trade offer. Soon you will see a caravan of your donkeys leaving the market to bring wares to the Frisians, and a caravan of their reindeer bringing you wares in exchange.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Reindeer = 驯鹿",
+   "Trade = 贸易",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "d2d35717e4",
+  "msgid": "As you can see, the market window now has a new tab. It has one such tab for every active trade at this market. The tab shows more details about the running trade and the wares waiting to be traded, and also allows you to manage it:",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "3c1988823b",
+  "msgid": "You can pause the trade for a while and resume it when you wish.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "597295d02f",
+  "msgid": "You can move the trade to another of your markets.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "4e11cd2e67",
+  "msgid": "You can propose to extend the trade with more batches.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "ed5db82a52",
+  "msgid": "And you can cancel the trade at any time.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "1b930a4d12",
+  "msgid": "Trade Offered",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "86ebf5fbd9",
+  "msgid": "Now the Frisians have offered you a trade as well. You can find a list of all trade offers and proposals as well as running trades in the Diplomacy window. Open it via the button from the main toolbar.",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交",
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "cbd8b4b5fb",
+  "msgid": "We want to know whether we still have taverns.",
+  "zh": ""
+ },
+ {
+  "key": "0ebb646fed",
+  "msgid": "Open the diplomacy window",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "8d2017701c",
+  "msgid": "The diplomacy window gives you an overview over all your trades, trade offers, and trade proposals.",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "81c8fc4acc",
+  "msgid": "You can open it via this button from the main toolbar.",
+  "zh": ""
+ },
+ {
+  "key": "19d13bfe1e",
+  "msgid": "The Diplomacy Window",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "073a339829",
+  "msgid": "In the top half of the diplomacy window, you can see all players and their teams. Here you can invite other players to join your team or request to join theirs. But being in a team is not required for trading.",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "903b7d7b2b",
+  "msgid": "We are more interested in the bottom half of the window. Here you can see your offered, proposed, and active trades.",
+  "zh": ""
+ },
+ {
+  "key": "5b4a42b51e",
+  "msgid": "Right now, you have one trade offer – the one the Frisians just sent you. Review it, then use the buttons next to it to either accept or reject it.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "9eafc3e023",
+  "msgid": "If you wish to accept a trade, you need to select from the dropdown which market you want to use for this trade, as you can have multiple markets. You can also manage the offer directly from the window of the market where you want to accept the trade.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "a2b2ba85aa",
+  "msgid": "Choose the ‘Medium buildings’ tab in the building statistics window.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "f1d94a33d5",
+  "msgid": "Decide about the trade offer",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "095541e044",
+  "msgid": "Accept or reject the Frisians’ trade offer.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "f346c31287",
+  "msgid": "Look up how many taverns you have.",
+  "zh": ""
+ },
+ {
+  "key": "6ad92242fe",
+  "msgid": "You can do so either from the Diplomacy window or from the market’s window.",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "179e352079",
+  "msgid": "Well done! That’s all there is to it really; now you know how to send and manage trade proposals and offers.",
+  "zh": "",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "c482f59ee1",
+  "msgid": "You can have any number of active trades, and with any number of players; at the same market or across many, as you prefer.",
+  "zh": ""
+ },
+ {
+  "key": "bfb9725ac5",
+  "msgid": "To truly master the art of trading, just remember this: The value of any ware depends highly on the circumstances, and also on the tribe.",
+  "zh": ""
+ },
+ {
+  "key": "6ee27526f8",
+  "msgid": "Below every building, there are two lines. The first one shows the number of buildings you own and how many are under construction. The second line shows the average productivity if it is a production site or training site, or the stationed and desired soldiers in military buildings.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "ce54fe762b",
+  "msgid": "For example, Frisian miners will happily accept any meal, regardless of whether it was produced cheaply by an Imperial Inn or at a much higher cost in the Frisian Drinking Hall. On the other hand, Frisians can burn charcoal much more efficiently than the Empire. Therefore, trading Imperial meals against Frisian coal is a trade from which both parties can benefit greatly.",
+  "zh": "",
+  "terms": [
+   "Frisians = 弗里西亚部族",
+   "Empire = 帝国",
+   "Trade = 贸易",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "ae82b40223",
+  "msgid": "As you gain more experience with the different tribes of Widelands, you will gain a thorough understanding of the relative cost and value of each ware for each tribe. This knowledge is invaluable when deciding about trades.",
+  "zh": ""
+ },
+ {
+  "key": "1c9f074c4f",
+  "msgid": "This concludes our tutorial! I hope I could teach you how you can control the economy in Widelands. There are many options and they can be confusing at first. Even if you’ve only understood a few concepts, you mustn’t give up. Try them out in some games, become familiar with them and experience the possibilities. Then, return to this tutorial and learn the rest!",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "760d80fc9a",
+  "msgid": "Close the building statistics window when you are done.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "d1e7047b07",
+  "msgid": "This was the last tutorial I had prepared for you. I’ve now taught you everything I know. There are still secrets hidden in this world even I don’t know about. I will now search for a quiet place to spend my sunset years. If you have still questions, the Widelands community will surely help you. You can find it at:",
+  "zh": ""
+ },
+ {
+  "key": "3377bd9a9c",
+  "msgid": "This is the building statistics window. It shows you all buildings you can own, sorted by their size.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "faf9ec27dc",
+  "msgid": "Let me now explain what all those numbers mean:",
+  "zh": ""
+ },
+ {
+  "key": "f61b68f23e",
+  "msgid": "‘2/1’ below the quarry: This means that you have two quarries, plus another one which is under construction.",
+  "zh": ""
+ },
+ {
+  "key": "b97d9dc1e3",
+  "msgid": "‘0%’: This indicates the average productivity of all buildings of that type. You have just started this game, therefore none of your buildings has done any work yet, but they are going to start working soon.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "33e75908c0",
+  "msgid": "‘2/4’ below your sentry: For military buildings, the stationed soldiers are shown instead of a productivity. You want to have four soldiers in your sentries, but only two soldiers are stationed in this kind of building. This leaves two vacant positions – we really need more soldiers.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "28e4d1eb9a",
+  "msgid": "In both cases, the color (green - yellow - red) signals you how good the value is.",
+  "zh": ""
+ },
+ {
+  "key": "ed532bccb1",
+  "msgid": "If you click on a building, you can scroll through the buildings of the selected type.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9b4898914a",
+  "msgid": "If you don’t have any building of a particular building type, it will be shown greyed out.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "afc0f49c69",
+  "msgid": "This is enough explanation for now. Now try it out yourself.",
+  "zh": ""
+ },
+ {
+  "key": "4e1e7485f9",
+  "msgid": "You closed the building statistics window!",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ }
+]

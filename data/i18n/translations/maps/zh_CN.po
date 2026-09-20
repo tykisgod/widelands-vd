@@ -47,7 +47,7 @@ msgstr "一个叫家的地方"
 msgid ""
 "In this scenario, the higher production buildings including mining will be "
 "introduced."
-msgstr "在这个场景，将介绍包括采矿在内的更高产量的建筑。 "
+msgstr "在这个场景，将介绍包括采矿在内的更高产量的建筑。"
 
 #: ../../../../data/campaigns/bar02.wmf/elemental:7
 msgid "This Land is Our Land"
@@ -87,7 +87,7 @@ msgstr "第二帝国"
 #. TRANSLATORS: A short description of a campaign
 #: ../../../../data/campaigns/campaigns.lua:49
 msgid "Introduces the Barbarians."
-msgstr "介绍蛮族。 "
+msgstr "介绍蛮族。"
 
 #. TRANSLATORS: A long description of a campaign
 #: ../../../../data/campaigns/campaigns.lua:52
@@ -257,7 +257,7 @@ msgid ""
 "Saint Marcellus’ Flood. Is it really nothing more than yet another storm, or"
 " a sign from the Gods that the Frisian community on the island of Langeness "
 "is not wanted here?"
-msgstr "1362年，北弗里西亚群岛居民平静的生活被人类记忆中最大的风暴洪水之一：圣马塞卢斯洪水所打破。 这真的只不过是又一场风暴，或者是诸神的一个旨意，一个兰杰斯岛上的弗里西亚社区不想待在这里的旨意？ "
+msgstr "1362年，北弗里西亚群岛居民平静的生活被人类记忆中最大的风暴洪水之一：圣马塞卢斯洪水所打破。 这真的只不过是又一场风暴，或者是诸神的一个旨意，一个兰杰斯岛上的弗里西亚社区不想待在这里的旨意？"
 
 #: ../../../../data/campaigns/fri01.wmf/elemental:11
 msgid ""
@@ -450,7 +450,7 @@ msgid ""
 "Whether just one of nature’s strangest features or the creation of a mad "
 "(and game-hungry) god, this weird battleground awaits two opponents for "
 "another confrontation."
-msgstr "无论是大自然最奇怪的特征之一，还是创造一个疯狂的（和游戏饥渴的）上帝 ，这个诡异的战场等待着两个对手的再次对峙。 "
+msgstr "无论是大自然最奇怪的特征之一，还是创造一个疯狂的（和游戏饥渴的）上帝 ，这个诡异的战场等待着两个对手的再次对峙。"
 
 #: ../../../../data/maps/Comet_Island.wmf/elemental:8
 msgid "Comet Island"
@@ -577,7 +577,7 @@ msgstr "这是芬兰美丽的湖泊之地，河流，古老的森林和山脉。
 msgid ""
 "Yellow player has a much easier starting position than the other two; this "
 "map is suited for 1v2."
-msgstr "黄色玩家的起始位置比其他两个玩家更加容易；这张地图适合1v2。 "
+msgstr "黄色玩家的起始位置比其他两个玩家更加容易；这张地图适合1v2。"
 
 #: ../../../../data/maps/Firegames.wmf/elemental:8
 msgid "Firegames"
@@ -656,7 +656,7 @@ msgstr "黄金半岛"
 
 #: ../../../../data/maps/Golden_Peninsula.wmf/elemental:10
 msgid "Two empires race for the treasures of a legendary peninsula…"
-msgstr "两个帝国争夺传说中半岛的宝藏… "
+msgstr "两个帝国争夺传说中半岛的宝藏…"
 
 #: ../../../../data/maps/Ice_wars.wmf/elemental:8
 msgid "Ice wars"
@@ -664,7 +664,7 @@ msgstr "冰之战"
 
 #: ../../../../data/maps/Ice_wars.wmf/elemental:10
 msgid "Autumn became winter. Some things are frozen, but not the war."
-msgstr "季节从秋天来到了冬天。有些东西是冰封的，但战争却不是。 "
+msgstr "季节从秋天来到了冬天。有些东西是冰封的，但战争却不是。"
 
 #: ../../../../data/maps/Ice_wars.wmf/elemental:11
 msgid "Start positions are clockwise"
@@ -701,7 +701,7 @@ msgid ""
 "This lake, deep in the most ancient forests, has long been known for its "
 "beauty and idyllic peace. However, its sanctity has been disturbed now, as "
 "two hostile tribes have arrived at its shores…"
-msgstr "这个在最古老的森林深处的湖泊，以其美丽和田园诗般的宁静而闻名。然而，由于两个敌对部族已经抵达它的海岸，它的圣洁现在正受到了玷辱… "
+msgstr "这个在最古老的森林深处的湖泊，以其美丽和田园诗般的宁静而闻名。然而，由于两个敌对部族已经抵达它的海岸，它的圣洁现在正受到了玷辱…"
 
 #: ../../../../data/maps/Last_Bastion.wmf/elemental:8
 msgid "Last Bastion"
@@ -771,7 +771,7 @@ msgid ""
 " where two or more groups try to reach the center island as fast as "
 "possible, to be the first erecting a castle on the top of the central "
 "mountain."
-msgstr "亚特兰蒂斯文化中的一项特殊比武就是所谓的“ 越岛作战 ”，两个或两个以上的小组试图尽快到达中心岛，并力争首先在中央山顶修建城堡。 "
+msgstr "亚特兰蒂斯文化中的一项特殊比武就是所谓的“ 越岛作战 ”，两个或两个以上的小组试图尽快到达中心岛，并力争首先在中央山顶修建城堡。"
 
 #: ../../../../data/maps/MP_Scenarios/Smugglers.wmf/elemental:9
 msgid "Smugglers"
@@ -828,13 +828,13 @@ msgid ""
 "Only a small hill in the centre of the map connects these four competing "
 "tribes. Lead your army to this hill right away and build a giant stronghold "
 "as a sign of your superiority!"
-msgstr "四个相互竞争的部族通过地图中央的一座小山相互连接。马上带领你的军队到这座山上去建造一个足以展示你的优势的巨大要塞！ "
+msgstr "四个相互竞争的部族通过地图中央的一座小山相互连接。马上带领你的军队到这座山上去建造一个足以展示你的优势的巨大要塞！"
 
 #: ../../../../data/maps/Rendez-Vous.wmf/elemental:11
 msgid ""
 "There is space for only one stronghold in the centre. Water can be found "
 "everywhere, so there is no need to send out geologists."
-msgstr "中部的位置只够修建一个要塞。到处都能找到水，所以没有必要派遣地质学家四处寻找水源。 "
+msgstr "中部的位置只够修建一个要塞。到处都能找到水，所以没有必要派遣地质学家四处寻找水源。"
 
 #: ../../../../data/maps/River_Explorers.wmf/elemental:8
 msgid "River Explorers"
@@ -895,7 +895,7 @@ msgid ""
 "Four tribes struggle with their nearest neighbor to be the first to reach "
 "the mountain of gold that promises riches beyond belief. But can the two "
 "remaining ones share the resources wisely?"
-msgstr "四个部族和他们最近的邻居进行斗争，为了成为第一个到达蕴涵着难以置信的财富的黄金山脉 。可是剩下的两个部族能英明的共享这份资源吗？ "
+msgstr "四个部族和他们最近的邻居进行斗争，为了成为第一个到达蕴涵着难以置信的财富的黄金山脉 。可是剩下的两个部族能英明的共享这份资源吗？"
 
 #: ../../../../data/maps/Swamp_Island.wmf/elemental:8
 msgid "Swamp Island"
@@ -1017,7 +1017,7 @@ msgstr "这条河一直提供着食物，承载着交通与交流。这一次，
 msgid ""
 "Use the river wisely. Your opponents will do the same. You will find the "
 "main ore resources deep in the desert."
-msgstr "明智地用好这条河。你的对手也会这么做。你会在沙漠的深处找到主要的矿石资源。 "
+msgstr "明智地用好这条河。你的对手也会这么做。你会在沙漠的深处找到主要的矿石资源。"
 
 #: ../../../../data/maps/The_Oasis_Triangle.wmf/elemental:8
 msgid "The Oasis Triangle"
@@ -1051,7 +1051,7 @@ msgid ""
 "and went to war. The only survivor will sacrifice his enemies’ treasures on "
 "the ancient altar, build there a splendid castle and gain the goodwill and "
 "respect of the Gods."
-msgstr "冰消雪融。三个部族在雄伟的群山之中躲避了残酷的严冬。到了至日，他们听从先知的训导出发去打仗。唯一的幸存者将在古老的祭坛上献祭敌人的宝藏，在那里建造一座华丽的城堡，获得众神的善意和尊重。 "
+msgstr "冰消雪融。三个部族在雄伟的群山之中躲避了残酷的严冬。到了至日，他们听从先知的训导出发去打仗。唯一的幸存者将在古老的祭坛上献祭敌人的宝藏，在那里建造一座华丽的城堡，获得众神的善意和尊重。"
 
 #: ../../../../data/maps/Three_Warriors.wmf/elemental:8
 msgid "Three Warriors"

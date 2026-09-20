@@ -1533,7 +1533,7 @@ msgid ""
 "This gold digger dwelling’s main vein is exhausted. Expect strongly "
 "diminished returns on investment. You should consider dismantling or "
 "destroying it."
-msgstr "这个掘金窝棚的主矿脉已经耗尽。预计投资回报将大幅下降，你应该考虑拆除或销毁它。 "
+msgstr "这个掘金窝棚的主矿脉已经耗尽。预计投资回报将大幅下降，你应该考虑拆除或销毁它。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/amazons/hunter_gatherers_hut/init.lua:8
@@ -2598,7 +2598,7 @@ msgstr "编织蛛丝布"
 #. TRANSLATORS: Completed/Skipped/Did not start tailoring a tabard because ...
 #: ../../../../data/tribes/buildings/productionsites/atlanteans/weaving_mill/init.lua:76
 msgid "tailoring a tabard"
-msgstr "缝制无袖短外套"
+msgstr "缝制战袍"
 
 #. TRANSLATORS: Completed/Skipped/Did not start tailoring a golden tabard
 #. because ...
@@ -3618,7 +3618,7 @@ msgid ""
 "area. Please make sure there is a working clay pit nearby and the aqua farm "
 "is supplied with all needed wares, or consider dismantling or destroying "
 "this building."
-msgstr "渔夫在他的水产养殖场工作区域内已找不到任何可捕的鱼类。 请确保附近有一个能够正常工作的黏土井，和能够正常供应所需的所有物品的水产养殖场，或者考虑拆除或摧毁这座建筑。 "
+msgstr "渔夫在他的水产养殖场工作区域内已找不到任何可捕的鱼类。 请确保附近有一个能够正常工作的黏土井，和能够正常供应所需的所有物品的水产养殖场，或者考虑拆除或摧毁这座建筑。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/armor_smithy_large/init.lua:8
@@ -3775,7 +3775,7 @@ msgid ""
 "clay ponds in his work area. Please make sure there is a working clay pit "
 "nearby and the charcoal burner’s house is supplied with all needed wares, or"
 " consider dismantling or destroying this building."
-msgstr "烧炭工在他的煅炭厂工作区域内已找不到任何黏土池。 请确保附近有一个能够正常工作的黏土井，和能够正常供应所需的所有物品的煅炭厂，或者考虑拆除或摧毁这座建筑。 "
+msgstr "烧炭工在他的煅炭厂工作区域内已找不到任何黏土池。 请确保附近有一个能够正常工作的黏土井，和能够正常供应所需的所有物品的煅炭厂，或者考虑拆除或摧毁这座建筑。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/charcoal_kiln/init.lua:8
@@ -4258,13 +4258,13 @@ msgstr "士兵的闪避从0级升级到第1级"
 #: ../../../../data/tribes/buildings/trainingsites/amazons/training_glade/init.lua:99
 msgctxt "amazons_building"
 msgid "upgrading soldier evade from level 1 to level 2"
-msgstr " 士兵的闪避从第1级升级到第2级 "
+msgstr "士兵的闪避从第1级升级到第2级"
 
 #. TRANSLATORS: Completed/Skipped/Did not start upgrading ... because ...
 #: ../../../../data/tribes/buildings/trainingsites/amazons/training_glade/init.lua:113
 msgctxt "amazons_building"
 msgid "upgrading soldier evade from level 2 to level 3"
-msgstr " 士兵的闪避从第2级升级到第3级 "
+msgstr "士兵的闪避从第2级升级到第3级"
 
 #. TRANSLATORS: Completed/Skipped/Did not start upgrading ... because ...
 #: ../../../../data/tribes/buildings/trainingsites/amazons/training_glade/init.lua:128
@@ -4301,7 +4301,7 @@ msgstr "士兵的防御从第1级升级到第2级"
 #: ../../../../data/tribes/buildings/trainingsites/amazons/warriors_gathering/init.lua:113
 msgctxt "amazons_building"
 msgid "No soldier to train!"
-msgstr " 没有士兵训练！"
+msgstr "没有士兵训练！"
 
 #. TRANSLATORS: Amazon training site tooltip when none of the present soldiers
 #. match the current training program
@@ -4365,7 +4365,7 @@ msgstr "士兵的攻击从第3级升级到第4级"
 #: ../../../../data/tribes/buildings/trainingsites/atlanteans/labyrinth/init.lua:142
 msgctxt "atlanteans_building"
 msgid "No soldier to train!"
-msgstr " 没有士兵训练！"
+msgstr "没有士兵训练！"
 
 #. TRANSLATORS: Atlantean training site tooltip when none of the present
 #. soldiers match the current training program
@@ -4409,7 +4409,7 @@ msgstr "士兵的闪避从0级升级到第1级"
 #: ../../../../data/tribes/buildings/trainingsites/atlanteans/labyrinth/init.lua:124
 msgctxt "atlanteans_building"
 msgid "upgrading soldier evade from level 1 to level 2"
-msgstr " 士兵的闪避从第1级升级到第2级 "
+msgstr "士兵的闪避从第1级升级到第2级"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/trainingsites/barbarians/battlearena/init.lua:8
@@ -4427,7 +4427,7 @@ msgstr "士兵的闪避从0级升级到第1级"
 #: ../../../../data/tribes/buildings/trainingsites/barbarians/battlearena/init.lua:104
 msgctxt "barbarians_building"
 msgid "upgrading soldier evade from level 1 to level 2"
-msgstr " 士兵的闪避从第1级升级到第2级 "
+msgstr "士兵的闪避从第1级升级到第2级"
 
 #. TRANSLATORS: Barbarian training site tooltip when it has no soldiers
 #. assigned
@@ -4435,7 +4435,7 @@ msgstr " 士兵的闪避从第1级升级到第2级 "
 #: ../../../../data/tribes/buildings/trainingsites/barbarians/trainingcamp/init.lua:204
 msgctxt "barbarians_building"
 msgid "No soldier to train!"
-msgstr " 没有士兵训练！"
+msgstr "没有士兵训练！"
 
 #. TRANSLATORS: Barbarian training site tooltip when none of the present
 #. soldiers match the current training program
@@ -4518,7 +4518,7 @@ msgstr "士兵的闪避从0级升级到第1级"
 #: ../../../../data/tribes/buildings/trainingsites/empire/trainingcamp/init.lua:193
 msgctxt "empire_building"
 msgid "No soldier to train!"
-msgstr " 没有士兵训练！"
+msgstr "没有士兵训练！"
 
 #. TRANSLATORS: Empire training site tooltip when none of the present soldiers
 #. match the current training program
@@ -4539,7 +4539,7 @@ msgstr "角斗场"
 #: ../../../../data/tribes/buildings/trainingsites/empire/colosseum/init.lua:66
 msgctxt "empire_building"
 msgid "upgrading soldier evade from level 1 to level 2"
-msgstr " 士兵的闪避从第1级升级到第2级 "
+msgstr "士兵的闪避从第1级升级到第2级"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/trainingsites/empire/trainingcamp/init.lua:8
@@ -4636,7 +4636,7 @@ msgstr "士兵的健康从第1级升级到第2级"
 #: ../../../../data/tribes/buildings/trainingsites/frisians/training_camp/init.lua:181
 msgctxt "frisians_building"
 msgid "No soldier to train!"
-msgstr " 没有士兵训练！"
+msgstr "没有士兵训练！"
 
 #. TRANSLATORS: Frisian training site tooltip when none of the present
 #. soldiers match the current training program
@@ -5687,7 +5687,7 @@ msgstr "贸易前哨"
 msgid ""
 "If this player runs low on important wares, they will be replenished for "
 "free"
-msgstr "如果这名玩家缺乏重要物品，他们将得到免费的补充 "
+msgstr "如果这名玩家缺乏重要物品，他们将得到免费的补充"
 
 #. TRANSLATORS: This is the name of a starting condition
 #: ../../../../data/tribes/initialization/amazons/starting_conditions/village.lua:11
@@ -5716,7 +5716,7 @@ msgstr "亚特兰蒂斯人"
 msgid ""
 "This tribe is known from the oldest tales. The sons and daughters of "
 "Atlantis."
-msgstr "从最古老的传说中获知了这个部族，亚特兰蒂斯的儿女。 "
+msgstr "从最古老的传说中获知了这个部族，亚特兰蒂斯的儿女。"
 
 #: ../../../../data/tribes/initialization/atlanteans/starting_conditions/poor_hamlet.lua:49
 #: ../../../../data/tribes/initialization/barbarians/starting_conditions/poor_hamlet.lua:47
@@ -5734,7 +5734,7 @@ msgstr "蛮族"
 
 #: ../../../../data/tribes/initialization/barbarians/init.lua:13
 msgid "The mighty tribes of the east-lands."
-msgstr "东方的强大部族。 "
+msgstr "东方的强大部族。"
 
 #. TRANSLATORS: This is a tribe name
 #: ../../../../data/tribes/initialization/empire/init.lua:12
@@ -5803,13 +5803,13 @@ msgstr "船"
 #: ../../../../data/tribes/ships/amazons/init.lua:48
 msgctxt "shipname"
 msgid "Orinoco"
-msgstr "奥里诺科河"
+msgstr "奥里诺科号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:50
 msgctxt "shipname"
 msgid "Amazonas"
-msgstr "亚马逊"
+msgstr "亚马逊号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:52
@@ -7009,301 +7009,301 @@ msgstr "海蓝宝石号"
 #: ../../../../data/tribes/ships/atlanteans/init.lua:169
 msgctxt "shipname"
 msgid "Atlantean’s Stronghold"
-msgstr "亚特兰蒂斯岛的要塞"
+msgstr "亚特兰蒂斯人的堡垒号"
 
 #. TRANSLATORS: This is an Atlantean ship name
 #: ../../../../data/tribes/ships/atlanteans/init.lua:171
 msgctxt "shipname"
 msgid "Atlantis"
-msgstr "亚特兰蒂斯"
+msgstr "亚特兰蒂斯号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:173
 msgctxt "shipname"
 msgid "Bahama"
-msgstr "巴哈马"
+msgstr "巴哈马号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:175
 msgctxt "shipname"
 msgid "Barbados"
-msgstr "巴巴多斯岛"
+msgstr "巴巴多斯号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:177
 msgctxt "shipname"
 msgid "Barbuda"
-msgstr "巴尔布达"
+msgstr "巴尔布达号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:179
 msgctxt "shipname"
 msgid "Beryl"
-msgstr "绿柱石"
+msgstr "绿柱石号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:181
 msgctxt "shipname"
 msgid "Blanquilla"
-msgstr "布兰基亚岛"
+msgstr "布兰基亚号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:183
 msgctxt "shipname"
 msgid "Caicos"
-msgstr "凯科斯群岛"
+msgstr "凯科斯号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:185
 msgctxt "shipname"
 msgid "Cassiterite"
-msgstr "锡石"
+msgstr "锡石号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:187
 msgctxt "shipname"
 msgid "Cat’s Eye"
-msgstr "猫眼"
+msgstr "猫眼号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:189
 msgctxt "shipname"
 msgid "Citrine"
-msgstr "黄水晶"
+msgstr "黄水晶号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:191
 msgctxt "shipname"
 msgid "Colionder"
-msgstr "克林德尔"
+msgstr "科利翁德号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:193
 msgctxt "shipname"
 msgid "Dominica"
-msgstr "多米尼加"
+msgstr "多米尼加号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:195
 msgctxt "shipname"
 msgid "Eleuthera"
-msgstr "伊柳塞拉"
+msgstr "伊柳塞拉号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:197
 msgctxt "shipname"
 msgid "Emerald"
-msgstr "绿宝石"
+msgstr "绿宝石号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:199
 msgctxt "shipname"
 msgid "Grenada"
-msgstr "格林纳达"
+msgstr "格林纳达号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:201
 msgctxt "shipname"
 msgid "Guadeloupe"
-msgstr "瓜德罗普岛"
+msgstr "瓜德罗普号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:203
 msgctxt "shipname"
 msgid "Inagua"
-msgstr "伊纳瓜 "
+msgstr "伊纳瓜号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:205
 msgctxt "shipname"
 msgid "Jundlina"
-msgstr "朱鼎利纳"
+msgstr "云德琳娜号"
 
 #. TRANSLATORS: This is an Atlantean ship name
 #: ../../../../data/tribes/ships/atlanteans/init.lua:207
 msgctxt "shipname"
 msgid "Juventud"
-msgstr "尤文图德"
+msgstr "尤文图德号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:209
 msgctxt "shipname"
 msgid "King Ajanthul"
-msgstr "阿甘图尔国王"
+msgstr "阿甘图尔国王号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:211
 msgctxt "shipname"
 msgid "King Askandor"
-msgstr "阿斯坎多尔国王"
+msgstr "阿斯坎多国王号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:213
 msgctxt "shipname"
 msgid "Kitts"
-msgstr "基茨"
+msgstr "基茨号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:215
 msgctxt "shipname"
 msgid "Loftomor"
-msgstr "罗夫托莫"
+msgstr "洛夫托摩号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:217
 msgctxt "shipname"
 msgid "Malachite"
-msgstr "孔雀石"
+msgstr "孔雀石号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:219
 msgctxt "shipname"
 msgid "Martinique"
-msgstr "马提尼克岛"
+msgstr "马提尼克号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:221
 msgctxt "shipname"
 msgid "Montserrat"
-msgstr "蒙特塞拉特岛"
+msgstr "蒙特塞拉特号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:223
 msgctxt "shipname"
 msgid "Moonstone"
-msgstr "月光石"
+msgstr "月光石号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:225
 msgctxt "shipname"
 msgid "Mystic Quartz"
-msgstr "神秘石英"
+msgstr "神秘石英号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:227
 msgctxt "shipname"
 msgid "Nassau"
-msgstr "巴哈马群岛"
+msgstr "拿骚号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:229
 msgctxt "shipname"
 msgid "Nevis"
-msgstr "尼维斯岛"
+msgstr "尼维斯号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:231
 msgctxt "shipname"
 msgid "Obsidian"
-msgstr "黑曜石"
+msgstr "黑曜石号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:233
 msgctxt "shipname"
 msgid "Onyx"
-msgstr "玛瑙"
+msgstr "玛瑙号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:235
 msgctxt "shipname"
 msgid "Opol"
-msgstr "奥波尔"
+msgstr "奥波尔号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:237
 msgctxt "shipname"
 msgid "Orchila"
-msgstr "奥契拉岛"
+msgstr "奥契拉号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:239
 msgctxt "shipname"
 msgid "Ostur"
-msgstr "奥斯特"
+msgstr "奥斯图尔号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:241
 msgctxt "shipname"
 msgid "Pearl"
-msgstr "珍珠"
+msgstr "珍珠号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:243
 msgctxt "shipname"
 msgid "Sapphire"
-msgstr "蓝宝石"
+msgstr "蓝宝石号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:245
 msgctxt "shipname"
 msgid "Satul"
-msgstr "萨图尔神"
+msgstr "萨图尔号"
 
 #. TRANSLATORS: This Atlantean ship is named after an in-game character
 #: ../../../../data/tribes/ships/atlanteans/init.lua:247
 msgctxt "shipname"
 msgid "Sidolus"
-msgstr "西多勒斯"
+msgstr "西多卢斯号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:249
 msgctxt "shipname"
 msgid "Sphalerite"
-msgstr "闪锌矿"
+msgstr "闪锌矿号"
 
 #. TRANSLATORS: This is an Atlantean ship name
 #: ../../../../data/tribes/ships/atlanteans/init.lua:251
 msgctxt "shipname"
 msgid "Spider"
-msgstr "蜘蛛"
+msgstr "蜘蛛号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:253
 msgctxt "shipname"
 msgid "Spinel"
-msgstr "尖晶石"
+msgstr "尖晶石号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:255
 msgctxt "shipname"
 msgid "Sunstone"
-msgstr "日长石"
+msgstr "日长石号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:257
 msgctxt "shipname"
 msgid "Tiger Eye"
-msgstr "虎睛石"
+msgstr "虎睛石号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:259
 msgctxt "shipname"
 msgid "Tobago"
-msgstr "多巴哥岛"
+msgstr "多巴哥号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:261
 msgctxt "shipname"
 msgid "Topaz"
-msgstr "黄宝石"
+msgstr "黄宝石号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:263
 msgctxt "shipname"
 msgid "Tortuga"
-msgstr "托尔图加岛"
+msgstr "托尔图加号"
 
 #. TRANSLATORS: This Atlantean ship is named after a mineral
 #: ../../../../data/tribes/ships/atlanteans/init.lua:265
 msgctxt "shipname"
 msgid "Tourmaline"
-msgstr "黑碧玺"
+msgstr "黑碧玺号"
 
 #. TRANSLATORS: This Atlantean ship is named after an island
 #: ../../../../data/tribes/ships/atlanteans/init.lua:267
 msgctxt "shipname"
 msgid "Trinidad"
-msgstr "特立尼达"
+msgstr "特立尼达号"
 
 #. TRANSLATORS: This is the Barbarians’ ship’s name used in lists of units
 #: ../../../../data/tribes/ships/barbarians/init.lua:8
@@ -7315,31 +7315,31 @@ msgstr "船"
 #: ../../../../data/tribes/ships/barbarians/init.lua:41
 msgctxt "shipname"
 msgid "Agilaz"
-msgstr "阿吉拉兹"
+msgstr "阿吉拉兹号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:43
 msgctxt "shipname"
 msgid "Aslaug"
-msgstr "亚丝拉琪"
+msgstr "亚丝拉琪号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:45
 msgctxt "shipname"
 msgid "Baldr"
-msgstr "巴尔德"
+msgstr "巴尔德号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:47
 msgctxt "shipname"
 msgid "Bear"
-msgstr "熊"
+msgstr "熊号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:49
 msgctxt "shipname"
 msgid "Beowulf"
-msgstr "贝奥武甫"
+msgstr "贝奥武甫号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:51
@@ -7351,19 +7351,19 @@ msgstr "野牛号"
 #: ../../../../data/tribes/ships/barbarians/init.lua:53
 msgctxt "shipname"
 msgid "Boldreth"
-msgstr "博尔德雷思"
+msgstr "博尔德雷思号"
 
 #. TRANSLATORS: This Barbarian ship is named after an in-game character
 #: ../../../../data/tribes/ships/barbarians/init.lua:55
 msgctxt "shipname"
 msgid "Chat’Karuth"
-msgstr "查特·卡鲁斯"
+msgstr "查特·卡鲁斯号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:57
 msgctxt "shipname"
 msgid "Dellingr"
-msgstr "得林"
+msgstr "得林号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:59
@@ -7375,19 +7375,19 @@ msgstr "雄鹰号"
 #: ../../../../data/tribes/ships/barbarians/init.lua:61
 msgctxt "shipname"
 msgid "Fulla"
-msgstr "芙拉"
+msgstr "芙拉号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:63
 msgctxt "shipname"
 msgid "Gersemi"
-msgstr "格尔塞蜜"
+msgstr "格尔塞蜜号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:65
 msgctxt "shipname"
 msgid "Hagbard"
-msgstr "哈格巴德"
+msgstr "哈格巴德号"
 
 #. TRANSLATORS: This Barbarian ship is named after a barbarian bard
 #: ../../../../data/tribes/ships/barbarians/init.lua:67
@@ -7399,133 +7399,133 @@ msgstr "哈霍尔号"
 #: ../../../../data/tribes/ships/barbarians/init.lua:69
 msgctxt "shipname"
 msgid "Heidrek"
-msgstr "海德雷克"
+msgstr "海德雷克号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:71
 msgctxt "shipname"
 msgid "Heimdallr"
-msgstr "海姆达尔"
+msgstr "海姆达尔号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:73
 msgctxt "shipname"
 msgid "Hnoss"
-msgstr "赫诺丝"
+msgstr "赫诺丝号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:75
 msgctxt "shipname"
 msgid "Hrothgar"
-msgstr "赫罗斯加"
+msgstr "赫罗斯加号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:77
 msgctxt "shipname"
 msgid "Ingeld"
-msgstr "英叶德"
+msgstr "英叶德号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:79
 msgctxt "shipname"
 msgid "Karl Hundason"
-msgstr "卡尔亨德森"
+msgstr "卡尔亨德森号"
 
 #. TRANSLATORS: This Barbarian ship is named after an in-game character
 #: ../../../../data/tribes/ships/barbarians/init.lua:81
 msgctxt "shipname"
 msgid "Khantrukh"
-msgstr "坎特鲁克"
+msgstr "坎特鲁克号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:83
 msgctxt "shipname"
 msgid "Lynx"
-msgstr "猞猁"
+msgstr "猞猁号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:85
 msgctxt "shipname"
 msgid "Mani"
-msgstr "曼尼"
+msgstr "曼尼号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:87
 msgctxt "shipname"
 msgid "Odin"
-msgstr "奥丁"
+msgstr "奥丁号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:89
 msgctxt "shipname"
 msgid "Red Fox"
-msgstr "红狐"
+msgstr "红狐号"
 
 #. TRANSLATORS: This Barbarian ship is mentioned in some lore texts
 #: ../../../../data/tribes/ships/barbarians/init.lua:91
 msgctxt "shipname"
 msgid "Saxnot"
-msgstr "萨克斯诺特"
+msgstr "萨克斯诺特号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:93
 msgctxt "shipname"
 msgid "Sigmund"
-msgstr "西格蒙德"
+msgstr "西格蒙德号"
 
 #. TRANSLATORS: This Barbarian ship is named after a barbarian bard
 #: ../../../../data/tribes/ships/barbarians/init.lua:95
 msgctxt "shipname"
 msgid "Sigurd"
-msgstr "西古德"
+msgstr "西古德号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:97
 msgctxt "shipname"
 msgid "Snotra"
-msgstr "斯洛特拉"
+msgstr "斯洛特拉号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:99
 msgctxt "shipname"
 msgid "Thor"
-msgstr "雷神"
+msgstr "索尔号"
 
 #. TRANSLATORS: This Barbarian ship is named after an in-game character
 #: ../../../../data/tribes/ships/barbarians/init.lua:101
 msgctxt "shipname"
 msgid "Thron"
-msgstr "斯隆"
+msgstr "斯隆号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:103
 msgctxt "shipname"
 msgid "Ullr"
-msgstr "乌勒尔"
+msgstr "乌勒尔号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:105
 msgctxt "shipname"
 msgid "Valdar"
-msgstr "瓦尔达"
+msgstr "瓦尔达号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:107
 msgctxt "shipname"
 msgid "Vili"
-msgstr "威宁"
+msgstr "威宁号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:109
 msgctxt "shipname"
 msgid "Volf"
-msgstr "伏尔夫"
+msgstr "伏尔夫号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:111
 msgctxt "shipname"
 msgid "Wild Boar"
-msgstr "野猪"
+msgstr "野猪号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:113
@@ -7543,13 +7543,13 @@ msgstr "欧洲野牛号"
 #: ../../../../data/tribes/ships/barbarians/init.lua:117
 msgctxt "shipname"
 msgid "Wolverine"
-msgstr "狼獾"
+msgstr "狼獾号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:119
 msgctxt "shipname"
 msgid "Yrsa"
-msgstr "伊尔萨"
+msgstr "伊尔萨号"
 
 #. TRANSLATORS: This is the Empire's ship's name used in lists of units
 #: ../../../../data/tribes/ships/empire/init.lua:8
@@ -7561,7 +7561,7 @@ msgstr "船"
 #: ../../../../data/tribes/ships/empire/init.lua:41
 msgctxt "shipname"
 msgid "Adriatic Sea"
-msgstr "亚得里亚海"
+msgstr "亚得里亚海号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:43
@@ -7579,25 +7579,25 @@ msgstr "阿格里帕号"
 #: ../../../../data/tribes/ships/empire/init.lua:47
 msgctxt "shipname"
 msgid "Alexandria"
-msgstr "亚历山大"
+msgstr "亚历山大号"
 
 #. TRANSLATORS: This Empire ship is named after an in-game character
 #: ../../../../data/tribes/ships/empire/init.lua:49
 msgctxt "shipname"
 msgid "Amalea"
-msgstr "亚玛利亚"
+msgstr "亚玛利亚号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:51
 msgctxt "shipname"
 msgid "Amolius"
-msgstr "阿莫利乌斯"
+msgstr "阿莫利乌斯号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman god
 #: ../../../../data/tribes/ships/empire/init.lua:53
 msgctxt "shipname"
 msgid "Apollo"
-msgstr "阿波罗"
+msgstr "阿波罗号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:55
@@ -7609,7 +7609,7 @@ msgstr "天鹰号"
 #: ../../../../data/tribes/ships/empire/init.lua:57
 msgctxt "shipname"
 msgid "Augustus"
-msgstr "奥古斯都"
+msgstr "奥古斯都号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:59
@@ -7621,43 +7621,43 @@ msgstr "黄金号"
 #: ../../../../data/tribes/ships/empire/init.lua:61
 msgctxt "shipname"
 msgid "Azurea Sea"
-msgstr "阿祖拉海"
+msgstr "阿祖拉海号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:63
 msgctxt "shipname"
 msgid "Baltic Sea"
-msgstr "波罗的海"
+msgstr "波罗的海号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:65
 msgctxt "shipname"
 msgid "Bellona"
-msgstr "贝洛娜"
+msgstr "贝洛娜号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:67
 msgctxt "shipname"
 msgid "Brutus"
-msgstr "布鲁特斯"
+msgstr "布鲁特斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:69
 msgctxt "shipname"
 msgid "Caligula"
-msgstr "卡利古拉"
+msgstr "卡利古拉号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:71
 msgctxt "shipname"
 msgid "Camilla"
-msgstr "卡米拉"
+msgstr "卡米拉号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:73
 msgctxt "shipname"
 msgid "Carrara"
-msgstr "卡拉拉"
+msgstr "卡拉拉号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:75
@@ -7681,19 +7681,19 @@ msgstr "牡鹿号"
 #: ../../../../data/tribes/ships/empire/init.lua:81
 msgctxt "shipname"
 msgid "Cicero"
-msgstr "西塞罗"
+msgstr "西塞罗号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:83
 msgctxt "shipname"
 msgid "Claudius"
-msgstr "克劳迪厄斯"
+msgstr "克劳狄乌斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:85
 msgctxt "shipname"
 msgid "Diana"
-msgstr "戴安娜"
+msgstr "戴安娜号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:87
@@ -7705,7 +7705,7 @@ msgstr "海豚号"
 #: ../../../../data/tribes/ships/empire/init.lua:89
 msgctxt "shipname"
 msgid "Domitianus"
-msgstr "多米蒂亚努斯"
+msgstr "图密善号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:91
@@ -7717,7 +7717,7 @@ msgstr "埃特纳号"
 #: ../../../../data/tribes/ships/empire/init.lua:93
 msgctxt "shipname"
 msgid "Faustulus"
-msgstr "浮士德"
+msgstr "福斯图卢斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:95
@@ -7735,7 +7735,7 @@ msgstr "加尔巴号"
 #: ../../../../data/tribes/ships/empire/init.lua:99
 msgctxt "shipname"
 msgid "Gallus"
-msgstr "加卢斯"
+msgstr "加卢斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:101
@@ -7753,7 +7753,7 @@ msgstr "帝国荣光号"
 #: ../../../../data/tribes/ships/empire/init.lua:105
 msgctxt "shipname"
 msgid "Ianus"
-msgstr "雅努斯"
+msgstr "雅努斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:107
@@ -7765,25 +7765,25 @@ msgstr "尤利乌斯·恺撒号"
 #: ../../../../data/tribes/ships/empire/init.lua:109
 msgctxt "shipname"
 msgid "Iuno"
-msgstr "卢诺"
+msgstr "尤诺号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman god
 #: ../../../../data/tribes/ships/empire/init.lua:111
 msgctxt "shipname"
 msgid "Iupiter"
-msgstr "卢皮特"
+msgstr "朱庇特号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:113
 msgctxt "shipname"
 msgid "Latium"
-msgstr "拉齐奥"
+msgstr "拉齐奥号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:115
 msgctxt "shipname"
 msgid "Latonia"
-msgstr "拉托尼亚"
+msgstr "拉托尼亚号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:117
@@ -7801,19 +7801,19 @@ msgstr "野兔号"
 #: ../../../../data/tribes/ships/empire/init.lua:121
 msgctxt "shipname"
 msgid "Liguria"
-msgstr "利古里亚"
+msgstr "利古里亚号"
 
 #. TRANSLATORS: This Empire ship is named after an in-game character
 #: ../../../../data/tribes/ships/empire/init.lua:123
 msgctxt "shipname"
 msgid "Lutius"
-msgstr "卢图斯"
+msgstr "卢提乌斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:125
 msgctxt "shipname"
 msgid "Marble"
-msgstr "大理石"
+msgstr "大理石号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:127
@@ -7825,55 +7825,55 @@ msgstr "马可·奥勒留号"
 #: ../../../../data/tribes/ships/empire/init.lua:129
 msgctxt "shipname"
 msgid "Mars"
-msgstr "战神"
+msgstr "玛尔斯号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman goddess
 #: ../../../../data/tribes/ships/empire/init.lua:131
 msgctxt "shipname"
 msgid "Minerva"
-msgstr "密涅瓦"
+msgstr "密涅瓦号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman god
 #: ../../../../data/tribes/ships/empire/init.lua:133
 msgctxt "shipname"
 msgid "Neptune"
-msgstr "海神尼普顿"
+msgstr "尼普顿号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:135
 msgctxt "shipname"
 msgid "Nero"
-msgstr "尼禄"
+msgstr "尼禄号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:137
 msgctxt "shipname"
 msgid "Nerva"
-msgstr "涅尔瓦"
+msgstr "涅尔瓦号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:139
 msgctxt "shipname"
 msgid "Octavianus"
-msgstr "屋大维"
+msgstr "屋大维号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:141
 msgctxt "shipname"
 msgid "Otho"
-msgstr "奥托"
+msgstr "奥托号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman god
 #: ../../../../data/tribes/ships/empire/init.lua:143
 msgctxt "shipname"
 msgid "Pluto"
-msgstr "冥王"
+msgstr "普鲁托号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:145
 msgctxt "shipname"
 msgid "Portus Bellus"
-msgstr "贝卢斯港"
+msgstr "贝卢斯港号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:147
@@ -7885,19 +7885,19 @@ msgstr "战利品号"
 #: ../../../../data/tribes/ships/empire/init.lua:149
 msgctxt "shipname"
 msgid "Quirinus"
-msgstr "基里努斯"
+msgstr "基里努斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:151
 msgctxt "shipname"
 msgid "Remus"
-msgstr "雷姆斯"
+msgstr "雷姆斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:153
 msgctxt "shipname"
 msgid "Romulus"
-msgstr "罗米拉斯"
+msgstr "罗慕路斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:155
@@ -7909,13 +7909,13 @@ msgstr "天箭号"
 #: ../../../../data/tribes/ships/empire/init.lua:157
 msgctxt "shipname"
 msgid "Saledus"
-msgstr "塞勒杜斯"
+msgstr "塞勒杜斯号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman deity
 #: ../../../../data/tribes/ships/empire/init.lua:159
 msgctxt "shipname"
 msgid "Saturn"
-msgstr "农神"
+msgstr "萨图尔努斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:161
@@ -7933,7 +7933,7 @@ msgstr "塞内卡号"
 #: ../../../../data/tribes/ships/empire/init.lua:165
 msgctxt "shipname"
 msgid "Siena"
-msgstr "锡耶纳"
+msgstr "锡耶纳号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:167
@@ -7945,25 +7945,25 @@ msgstr "锋矛号"
 #: ../../../../data/tribes/ships/empire/init.lua:169
 msgctxt "shipname"
 msgid "Thyrrenia"
-msgstr "伊特鲁里亚"
+msgstr "第勒尼安号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:171
 msgctxt "shipname"
 msgid "Tiberius"
-msgstr "泰比里厄斯"
+msgstr "提比略号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:173
 msgctxt "shipname"
 msgid "Titus"
-msgstr "提图斯"
+msgstr "提图斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:175
 msgctxt "shipname"
 msgid "Traianus"
-msgstr "特拉扬斯"
+msgstr "图拉真号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:177
@@ -7975,7 +7975,7 @@ msgstr "猎手号"
 #: ../../../../data/tribes/ships/empire/init.lua:179
 msgctxt "shipname"
 msgid "Venus"
-msgstr "维纳斯"
+msgstr "维纳斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:181
@@ -7993,13 +7993,13 @@ msgstr "黄蜂号"
 #: ../../../../data/tribes/ships/empire/init.lua:185
 msgctxt "shipname"
 msgid "Vespasianus"
-msgstr "维斯帕西安"
+msgstr "韦帕芗号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman goddess
 #: ../../../../data/tribes/ships/empire/init.lua:187
 msgctxt "shipname"
 msgid "Vesta"
-msgstr "女灶神"
+msgstr "维斯塔号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:189
@@ -8011,13 +8011,13 @@ msgstr "维苏威号"
 #: ../../../../data/tribes/ships/empire/init.lua:191
 msgctxt "shipname"
 msgid "Vinea"
-msgstr "威尼亚"
+msgstr "威尼亚号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:193
 msgctxt "shipname"
 msgid "Vitellius"
-msgstr "维特里乌斯"
+msgstr "维特利乌斯号"
 
 #. TRANSLATORS: This is the Frisians' ship's name used in lists of units
 #: ../../../../data/tribes/ships/frisians/init.lua:8
@@ -8029,168 +8029,168 @@ msgstr "船"
 #: ../../../../data/tribes/ships/frisians/init.lua:48
 msgctxt "shipname"
 msgid "Amrum"
-msgstr "阿姆鲁姆"
+msgstr "阿姆鲁姆号"
 
 #. TRANSLATORS: This Frisian ship is named after a no longer existing island
 #. in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:50
 msgctxt "shipname"
 msgid "Alt-Nordstrand"
-msgstr "奥特-诺德斯特兰"
+msgstr "奥特-诺德斯特兰号"
 
 #. TRANSLATORS: This Frisian ship is named after a peninsula in Northern
 #. Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:52
 msgctxt "shipname"
 msgid "Eiderstedt"
-msgstr "艾德斯特德"
+msgstr "艾德斯特德号"
 
 #. TRANSLATORS: This Frisian ship is named after an island in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:54
 msgctxt "shipname"
 msgid "Föhr"
-msgstr "弗尔"
+msgstr "弗尔号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:56
 msgctxt "shipname"
 msgid "Gröde"
-msgstr "格勒德"
+msgstr "格勒德号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:58
 msgctxt "shipname"
 msgid "Habel"
-msgstr "哈贝尔"
+msgstr "哈贝尔号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:60
 msgctxt "shipname"
 msgid "Hamburger Hallig"
-msgstr "汉堡角"
+msgstr "汉堡哈利格号"
 
 #. TRANSLATORS: This Frisian ship is named after an island in the North Sea
 #: ../../../../data/tribes/ships/frisians/init.lua:62
 msgctxt "shipname"
 msgid "Helgoland"
-msgstr "黑尔戈兰岛"
+msgstr "黑尔戈兰号"
 
 #. TRANSLATORS: This Frisian ship is named after a region in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:64
 msgctxt "shipname"
 msgid "Hever"
-msgstr "希佛堡"
+msgstr "黑弗号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:66
 msgctxt "shipname"
 msgid "Hooge"
-msgstr "霍克岛"
+msgstr "霍格号"
 
 #. TRANSLATORS: This Frisian ship is named after a sand in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:68
 msgctxt "shipname"
 msgid "Japsand"
-msgstr "杰彭士德"
+msgstr "杰彭士德号"
 
 #. TRANSLATORS: This Frisian ship is named after a sand in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:70
 msgctxt "shipname"
 msgid "Kormoransand"
-msgstr "鸬鹚沙滩"
+msgstr "鸬鹚沙滩号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:72
 msgctxt "shipname"
 msgid "Langeneß"
-msgstr "兰根ß"
+msgstr "朗格内斯号"
 
 #. TRANSLATORS: This Frisian ship is named after a water body in Northern
 #. Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:74
 msgctxt "shipname"
 msgid "Norderaue"
-msgstr "诺德劳"
+msgstr "诺德劳号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:76
 msgctxt "shipname"
 msgid "Norderoog"
-msgstr "诺德罗格"
+msgstr "诺德罗格号"
 
 #. TRANSLATORS: This Frisian ship is named after a sand in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:78
 msgctxt "shipname"
 msgid "Norderoogsand"
-msgstr "诺德罗格沙滩"
+msgstr "诺德罗格沙滩号"
 
 #. TRANSLATORS: This Frisian ship is named after an island in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:80
 msgctxt "shipname"
 msgid "Nordstrand"
-msgstr "诺德斯特兰德"
+msgstr "诺德斯特兰德号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:82
 msgctxt "shipname"
 msgid "Nordstrandischmoor"
-msgstr "诺德斯特兰德伊斯穆尔"
+msgstr "诺德斯特兰德伊斯穆尔号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:84
 msgctxt "shipname"
 msgid "Oland"
-msgstr "厄兰岛"
+msgstr "厄兰号"
 
 #. TRANSLATORS: This Frisian ship is named after an island in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:86
 msgctxt "shipname"
 msgid "Pellworm"
-msgstr "佩尔沃姆"
+msgstr "佩尔沃姆号"
 
 #. TRANSLATORS: This Frisian ship is named after a no longer existing island
 #. in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:88
 msgctxt "shipname"
 msgid "Strand"
-msgstr "斯特兰德"
+msgstr "斯特兰德号"
 
 #. TRANSLATORS: This Frisian ship is named after a water body in Northern
 #. Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:90
 msgctxt "shipname"
 msgid "Süderaue"
-msgstr "苏德劳"
+msgstr "苏德劳号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:92
 msgctxt "shipname"
 msgid "Süderoog"
-msgstr "苏德鲁格"
+msgstr "苏德鲁格号"
 
 #. TRANSLATORS: This Frisian ship is named after a sand in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:94
 msgctxt "shipname"
 msgid "Süderoogsand"
-msgstr "苏德鲁格沙滩"
+msgstr "苏德鲁格沙滩号"
 
 #. TRANSLATORS: This Frisian ship is named after a Hallig in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:96
 msgctxt "shipname"
 msgid "Südfall"
-msgstr "苏德福尔"
+msgstr "苏德福尔号"
 
 #. TRANSLATORS: This Frisian ship is named after an island in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:98
 msgctxt "shipname"
 msgid "Sylt"
-msgstr "叙尔特岛"
+msgstr "叙尔特号"
 
 #. TRANSLATORS: This Frisian ship is named after a region in Northern Frisia
 #: ../../../../data/tribes/ships/frisians/init.lua:100
 msgctxt "shipname"
 msgid "Uthlande"
-msgstr "乌斯兰德"
+msgstr "乌斯兰德号"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/armor/init.lua:77
@@ -8900,7 +8900,7 @@ msgstr "短剑"
 #: ../../../../data/tribes/wares/tabard/init.lua:8
 msgctxt "ware"
 msgid "Tabard"
-msgstr "无袖短外套"
+msgstr "战袍"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/tabard_golden/init.lua:8

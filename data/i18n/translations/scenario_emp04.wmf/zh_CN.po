@@ -1618,7 +1618,7 @@ msgstr "士兵的健康从第3级升级到第4级"
 #: ../../../../data/campaigns/emp04.wmf/scripting/tribes/trainingcamp1/init.lua:177
 msgctxt "empire_building"
 msgid "No soldier to train!"
-msgstr " 没有士兵训练！"
+msgstr "没有士兵训练！"
 
 #. TRANSLATORS: Empire training site tooltip when none of the present soldiers
 #. match the current training program
