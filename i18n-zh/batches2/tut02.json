@@ -1,0 +1,733 @@
+[
+ {
+  "key": "215d6b158a",
+  "msgid": "Build a training camp",
+  "zh": ""
+ },
+ {
+  "key": "8ee54d59e4",
+  "msgid": "The battle arena only trains the soldiers in evade. To get the strongest possible soldier, you also need to build a training camp, which trains them in attack and health.",
+  "zh": ""
+ },
+ {
+  "key": "9d2fc4c4a1",
+  "msgid": "Great, our training camp has now been finished, too. Now nothing will hinder us from getting the strongest warriors the world has ever seen.",
+  "zh": ""
+ },
+ {
+  "key": "6730b740a8",
+  "msgid": "To train in the training camp, our soldiers need food like in the battle arena, but no strong beer. Instead, they need different axes for attack training and helmets for health training.",
+  "zh": ""
+ },
+ {
+  "key": "4fc2dc7779",
+  "msgid": "This equipment is produced in smithies out of coal, iron, and sometimes gold. You will learn more about this in the second scenario of the Barbarian campaign.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤",
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "ab99c60fd5",
+  "msgid": "You should also keep in mind that each of the tribes in Widelands has its own way of training, so the buildings and wares are different. Also, the ability levels cannot be compared: an Imperial soldier has a base attack of %1% at level 0, while a Barbarian soldier at the same level only has a base attack of %2%.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "03f6a07da6",
+  "msgid": "Explore Your Surroundings",
+  "zh": ""
+ },
+ {
+  "key": "000e3c9052",
+  "msgid": "Large parts of the map haven’t been explored yet. It might be a good idea to know which direction is best for expanding our empire.",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "86f75644d9",
+  "msgid": "You can try your luck and expand randomly, but this is risky. A safer way is to use a scout to explore unseen parts of the map. What if he finds mountains overflowing with gold?",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "5a4ae0c259",
+  "msgid": "We will need a scout’s hut to start exploring. It is a small building.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "f860b4b56e",
+  "msgid": "Build a scout’s hut.",
+  "zh": ""
+ },
+ {
+  "key": "e5708d4595",
+  "msgid": "Build a scout’s hut",
+  "zh": ""
+ },
+ {
+  "key": "86f4c513da",
+  "msgid": "It’s good to know your surroundings. A scout will explore unseen parts of the map for you.",
+  "zh": ""
+ },
+ {
+  "key": "ffedacca0b",
+  "msgid": "Build a Scout’s Hut.",
+  "zh": ""
+ },
+ {
+  "key": "25d22afd4c",
+  "msgid": "Scout is ready",
+  "zh": ""
+ },
+ {
+  "key": "cd7ca17a3e",
+  "msgid": "Ready to go!",
+  "zh": ""
+ },
+ {
+  "key": "712c70e9a4",
+  "msgid": "Well done! Your scout’s hut has been built. While our scout is moving in, let’s learn a little bit more about him.",
+  "zh": ""
+ },
+ {
+  "key": "14770d47c3",
+  "msgid": "First of all, he will need to take some food with him on his scouting trips. Fortunately, we have some rations in our warehouse.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库",
+   "scouting = 侦察"
+  ]
+ },
+ {
+  "key": "bbb0ad85e2",
+  "msgid": "When provided with food, he will walk randomly around the area. You should follow his movement before fog of war hides what he saw.",
+  "zh": ""
+ },
+ {
+  "key": "320d569fe6",
+  "msgid": "Explore the map",
+  "zh": ""
+ },
+ {
+  "key": "371b409faf",
+  "msgid": "Wait for the scout to explore unseen areas.",
+  "zh": ""
+ },
+ {
+  "key": "ce89d050c3",
+  "msgid": "Observe your scout.",
+  "zh": ""
+ },
+ {
+  "key": "30fc93d3ba",
+  "msgid": "Scout made progress",
+  "zh": ""
+ },
+ {
+  "key": "ccd6730b0a",
+  "msgid": "New horizons?",
+  "zh": ""
+ },
+ {
+  "key": "5999baf0d6",
+  "msgid": "As you can see, scouts can go quite far. The good news is that there are no enemies around.",
+  "zh": ""
+ },
+ {
+  "key": "2648e8004f",
+  "msgid": "You can use the minimap to see the exploration’s progress.",
+  "zh": ""
+ },
+ {
+  "key": "963cd03ad8",
+  "msgid": "Don’t forget that scouting is hard work and as such cannot be done without provision of food.",
+  "zh": "",
+  "terms": [
+   "scouting = 侦察"
+  ]
+ },
+ {
+  "key": "fd8e896a51",
+  "msgid": "Heroes and Rookies",
+  "zh": ""
+ },
+ {
+  "key": "585a873565",
+  "msgid": "While our soldiers are training, let me tell you what we can do with them.",
+  "zh": ""
+ },
+ {
+  "key": "c7b4de219d",
+  "msgid": "In every military building, you can set the preference for heroes (trained soldiers) or rookies. From time to time, a soldier will walk out of the building and be replaced by a stronger/weaker one automatically – this is what you saw earlier.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "6726910873",
+  "msgid": "The initial setting depends on the type of the building. For the Barbarians, the sentry is the only building that prefers rookies by default. You should change this setting to fit your current needs.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "cea8e14712",
+  "msgid": "When you are expanding into no man’s land, you can make your buildings prefer rookies. When you are planning to attack, send heroes into that region. Conquered buildings always prefer heroes.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "be275d7499",
+  "msgid": "Soldier capacity",
+  "zh": ""
+ },
+ {
+  "key": "85787bdb61",
+  "msgid": "Adjusting the number of soldiers",
+  "zh": ""
+ },
+ {
+  "key": "b9a29f23b8",
+  "msgid": "There is another way how you can control the strength of a military building: by the number of soldiers stationed there. Just click on the arrow buttons to decrease or increase the desired number of soldiers. Every building has a maximum capacity. In case of the barrier, it is five, for example.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "0594d6ddbf",
+  "msgid": "If you wish to send a certain soldier away, you can simply click on it. It will then be replaced by another soldier.",
+  "zh": ""
+ },
+ {
+  "key": "1a42e02f32",
+  "msgid": "Let me also describe what the numbers in the status string mean. This string can contain an arrow and up to three numbers, e.g. ‘↑ 1 (+5) soldier (+2)’.",
+  "zh": "",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "6369feff70",
+  "msgid": "The arrow shows whether the building is set to prefer heroes (upwards arrow) or rookies (downwards arrow).",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "1dafb919d7",
+  "msgid": "The first number describes how many soldiers are currently in this building. In this example, only one soldier is left inside (each military building is always guarded by at least one soldier).",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "1b4499f989",
+  "msgid": "The second number tells you how many additional soldiers reside in this building, but are currently outside. The five soldiers may be attacking an enemy. They will return when they have been successful.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "bb9ffe88ae",
+  "msgid": "The third number indicates the missing soldiers. From the eight soldiers (1 + 5 + 2) you wish to have here, two may have died. They will be replaced by new soldiers from your warehouse, if possible.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "da3421945b",
+  "msgid": "Soldiers in the headquarters",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "6fcddb1b00",
+  "msgid": "Your headquarters has some capabilities of military sites: It conquers some land, the enemy can attack it directly, and the stored soldiers defend it and its surroundings when attacked. On the other hand, there’s a difference too: you can’t start an attack with the soldiers in your headquarters.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "4a7be14e3b",
+  "msgid": "The military capabilities of the headquarters are a big difference from plain warehouses that don’t conquer land, and need nearby military sites for defense. Soldiers stored in plain warehouses don’t participate in any fighting, and plain warehouses can’t be attacked directly.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "2132557d66",
+  "msgid": "Soldier settings of the headquarters",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "506bd189f8",
+  "msgid": "While all soldiers who happen to be in your headquarters help defending it, they are not permanently assigned to the headquarters, so they can be sent away any time when a military site needs a soldier. Fortunately you can also assign some soldiers to the defense of the headquarters the same way you set soldier capacity and preference for military sites. If you do so, the headquarters will only let surplus soldiers be sent to other buildings, but not soldiers from the assigned garrison.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "1b4cee0770",
+  "msgid": "If you look at the status lines, you can see that your warehouse has nothing in it, but your headquarters has a ‘—’ sign initially. That means that there is no garrison set up to protect the headquarters, though there may still be some soldiers stored there. If you increase the desired number of soldiers to more than zero, then the headquarters will show the same soldier information as military sites in the status. Surplus soldiers are never shown in the status.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Warehouse = 仓库",
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "b33d071857",
+  "msgid": "Dismantle your sentry",
+  "zh": ""
+ },
+ {
+  "key": "730f767379",
+  "msgid": "Dismantling military buildings",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "db214aa0ed",
+  "msgid": "Soldiers, Training and Warfare",
+  "zh": ""
+ },
+ {
+  "key": "cabf9c2953",
+  "msgid": "You can only reduce the number of soldiers to one. The last soldier of a building will never come out (unless this building is attacked). If you want to have your soldier elsewhere, you will have to dismantle or burn down the building.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "f8de5285d3",
+  "msgid": "However, destroying a military building is always linked with a risk: the land is still yours, but it is no longer protected. Any enemy that builds his own military sites can take over that land without a fight, causing your buildings to burst into flames. Furthermore, some parts of the land can now be hidden under the fog of war. You should therefore only dismantle military buildings deep inside your territory where you are safe from enemies.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "4871645826",
+  "msgid": "Have you seen your sentry? Since it cannot contain many soldiers and is next to a stronger barrier, it is rather useless.",
+  "zh": ""
+ },
+ {
+  "key": "50ddc8b9f5",
+  "msgid": "Dismantle it.",
+  "zh": "",
+  "note": "TRANSLATORS: 'it' refers to the Barbarian sentry"
+ },
+ {
+  "key": "5a5b494f83",
+  "msgid": "You can also use this opportunity to become familiar with the other options: the heroes/rookies preference and the capacity.",
+  "zh": ""
+ },
+ {
+  "key": "45e7a6c6a0",
+  "msgid": "In this scenario, I’m going to tell you about soldiers, their training and their profession: warfare. Although Widelands is about building up, not burning down, there is an enemy you sometimes have to defeat. Yet warfare is mainly focused on economics, not on military strategies, and its mechanics deserve explanation.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b7de9873d9",
+  "msgid": "Soldiers, dismissed!",
+  "zh": ""
+ },
+ {
+  "key": "9d6bba32ec",
+  "msgid": "Dismantle your north-western sentry",
+  "zh": ""
+ },
+ {
+  "key": "0bf6fc5df0",
+  "msgid": "You can control the number of soldiers stationed at a military site with the arrow buttons. If you want to get even your last soldier out, you will have to destroy it. However, it then will no longer protect your territory, which will make it vulnerable to hostile attacks.",
+  "zh": ""
+ },
+ {
+  "key": "b49b02e756",
+  "msgid": "Dismantle your sentry in the north-west, next to the barrier.",
+  "zh": ""
+ },
+ {
+  "key": "88a2af1a6e",
+  "msgid": "I’ve set up a small village that contains the most important buildings. You also have enough wares, so you do not have to take care of your weapons production. In a real game, you will not have this luxury.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Village = 村庄",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "eee1a1c4c1",
+  "msgid": "Enhance Your Fortress",
+  "zh": ""
+ },
+ {
+  "key": "2fc7bcd008",
+  "msgid": "Enhancing Buildings",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "a4e6789d5e",
+  "msgid": "Well done. Now you know how to draw back your soldiers from the places where you don’t need them. It is time to tell you how to reinforce your front line.",
+  "zh": ""
+ },
+ {
+  "key": "17bb97c256",
+  "msgid": "Your fortress is already quite strong and conquers a lot of space. But there is an even bigger building: the citadel.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "5cf4e7ff5a",
+  "msgid": "Citadels can’t be built directly. Instead, you’ll have to construct a fortress first and then enhance it to a citadel. To do so, click on the fortress, then choose the ‘Enhance to Citadel’ button.",
+  "zh": ""
+ },
+ {
+  "key": "b397a686f6",
+  "msgid": "Your soldiers will leave the fortress while the construction is going on. This means that your fortress will lose its military influence, as I described above.",
+  "zh": ""
+ },
+ {
+  "key": "6bced3b6a2",
+  "msgid": "Enhance your fortress to a citadel now.",
+  "zh": ""
+ },
+ {
+  "key": "0cbba5dad3",
+  "msgid": "Enhance your fortress to a citadel",
+  "zh": ""
+ },
+ {
+  "key": "6b18405ad8",
+  "msgid": "Enhance your fortress to a mighty citadel.",
+  "zh": ""
+ },
+ {
+  "key": "42c1611595",
+  "msgid": "The citadel can house 12 soldiers, and it is the biggest military building the Barbarians can build. It also costs a lot of resources and takes a long time to build. It is most suited to guard strategically important points like constricted points or mountains.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Building = 建筑",
+   "Points = 得分"
+  ]
+ },
+ {
+  "key": "fe02dc3638",
+  "msgid": "Defeat your Enemy",
+  "zh": ""
+ },
+ {
+  "key": "7f1ab131b0",
+  "msgid": "Defeat the Enemy",
+  "zh": ""
+ },
+ {
+  "key": "47ae8cd7a0",
+  "msgid": "Great work, the citadel is finished. But what’s that? A hostile tribe has settled next to us while the citadel was under construction! Do you see how they took away a part of our land? And our lumberjack has now lost his place of work. This is what I was talking about. Let’s take our land back and defeat the enemy!",
+  "zh": ""
+ },
+ {
+  "key": "3d83b6f412",
+  "msgid": "To attack a building, click on its doors, choose the number of soldiers that you wish to send and click on the ‘Attack’ button.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b2cf2308bd",
+  "msgid": "Your soldiers will come from all nearby military buildings. Likewise, the defenders will come from all nearby military buildings of the enemy and intercept your forces.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "cbacbc3266",
+  "msgid": "Attack and conquer all military buildings of the enemy and destroy their headquarters.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "5e3b72eb70",
+  "msgid": "Defeat Your Enemy",
+  "zh": ""
+ },
+ {
+  "key": "3e8e1ad3be",
+  "msgid": "Defeat the enemy tribe",
+  "zh": ""
+ },
+ {
+  "key": "e40d607182",
+  "msgid": "Defeat the nearby enemy.",
+  "zh": ""
+ },
+ {
+  "key": "1f7dbb2c2d",
+  "msgid": "Conclusion",
+  "zh": ""
+ },
+ {
+  "key": "51f900c625",
+  "msgid": "Thank you for playing this tutorial. I hope you enjoyed it and you learned how to create and train soldiers, how to control where they go and how to defeat an enemy. Did you see how easily you could overwhelm your enemy? Having trained soldiers is a huge advantage.",
+  "zh": ""
+ },
+ {
+  "key": "e024cfa619",
+  "msgid": "But a war is expensive, and not always the path leading to the goal. When setting up a new game, you can also choose peaceful win conditions. You should definitely try them out, they’re worth it.",
+  "zh": ""
+ },
+ {
+  "key": "1722eea826",
+  "msgid": "You are now ready to play the campaigns. They will teach you about the different economies of the tribes. You can also play the remaining tutorials, but they are not crucial for succeeding in the campaigns.",
+  "zh": ""
+ },
+ {
+  "key": "553e62e17b",
+  "msgid": "Soldiers’ abilities",
+  "zh": ""
+ },
+ {
+  "key": "553a5e49e9",
+  "msgid": "New soldiers are created differently from normal workers: recruits will walk from a warehouse (or your headquarters) to the barracks where they will receive some basic training and become soldiers. Basic Barbarian soldiers do not use armor, they only need an ax.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部",
+   "Warehouse = 仓库",
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "6c1ff7d730",
+  "msgid": "Take a look at the soldiers that are on their way to our military buildings. They look different from normal workers: they have a health bar over their head that displays their remaining health, and they have four symbols, which symbolize the individual soldier’s current levels in the four different categories: health, attack, defense and evade.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "5d412beeaa",
+  "msgid": "If a Barbarian soldier is fully trained, he has level %1% health, level %2% attack, level %3% defense and level %4% evade. This is one fearsome warrior then! The individual abilities have the following meaning:",
+  "zh": "",
+  "note": "TRANSLATORS: the current stats are: 3 health, 5 attack, 0 defense, 2 evade."
+ },
+ {
+  "key": "36c1dbd795",
+  "msgid": "Health:",
+  "zh": ""
+ },
+ {
+  "key": "417430db46",
+  "msgid": "The total life of a soldier. A Barbarian soldier starts with %1% health, and he will gain %2% health with each health level.",
+  "zh": "",
+  "note": "TRANSLATORS: the current stats are: 13000 health, 2800 health gain."
+ },
+ {
+  "key": "688ec18e21",
+  "msgid": "Attack:",
+  "zh": ""
+ },
+ {
+  "key": "eebf437b9b",
+  "msgid": "The amount of damage a soldier will inflict on the enemy when an attack is successful. A Barbarian soldier with attack level 0 inflicts ~%1% points of health damage when he succeeds in hitting an enemy. For each attack level, he gains %2% damage points.",
+  "zh": "",
+  "note": "TRANSLATORS: the current stats are: 1400 damage, gains 850 damage points.",
+  "terms": [
+   "Points = 得分"
+  ]
+ },
+ {
+  "key": "e252d8e759",
+  "msgid": "Defense:",
+  "zh": ""
+ },
+ {
+  "key": "a50135f8b2",
+  "msgid": "The defense is the percentage that is subtracted from the attack value. The Barbarians cannot train in this skill and therefore have always defense level 0, which means that the damage is always reduced by %1%%%. If an attacker with an attack value of 3500 points hits a Barbarian soldier, the Barbarian will lose 3500×%2%%% = %3% health.",
+  "zh": "",
+  "note": "TRANSLATORS: the current stats are: 3%. The calculated health value is 3395 | TRANSLATORS: The last two %% after the placeholder are the percent symbol.",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Points = 得分"
+  ]
+ },
+ {
+  "key": "b01b2cf129",
+  "msgid": "Evade:",
+  "zh": ""
+ },
+ {
+  "key": "0ddfb9e899",
+  "msgid": "Evade is the chance that the soldier is able to dodge an attack. A level 0 Barbarian has a %1%%% chance to evade an attack, and this increases in steps of %2%%% for each level.",
+  "zh": "",
+  "note": "TRANSLATORS: the current stats are: 25% evade, increases in steps of 15%. | TRANSLATORS: The last two %% after the placeholder are the percent symbol."
+ },
+ {
+  "key": "7f51f2d489",
+  "msgid": "The Battle Arena",
+  "zh": ""
+ },
+ {
+  "key": "ce0fd0dbc7",
+  "msgid": "Now I have talked about training and levels. Let me elaborate on that.",
+  "zh": ""
+ },
+ {
+  "key": "b686377ff1",
+  "msgid": "A newly created soldier has no experience and is not very good at fighting. To make him stronger, you can build training sites.",
+  "zh": ""
+ },
+ {
+  "key": "401f04595f",
+  "msgid": "One of these training sites is the battle arena. It is a big and expensive building, and it trains soldiers in evade. Since soldiers get very hungry during their workout, this building needs a lot of food and strong beer. In a real game, you should have a good infrastructure before you build it.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9d8f12397b",
+  "msgid": "To see evade training in action, build a battle arena.",
+  "zh": ""
+ },
+ {
+  "key": "396de93c92",
+  "msgid": "While we’re waiting for the battle arena, you’ll probably notice some soldiers walking around. They are automatically exchanged from time to time. I’ll teach you about that later.",
+  "zh": ""
+ },
+ {
+  "key": "c442d4e5c0",
+  "msgid": "Build a battle arena",
+  "zh": ""
+ },
+ {
+  "key": "585fc7afe9",
+  "msgid": "Build a battle arena. It is a big building.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "4a19493b47",
+  "msgid": "Since the construction will take some time, you can change the game speed using %1$s and %2$s.",
+  "zh": ""
+ },
+ {
+  "key": "563563c23d",
+  "msgid": "The Battle Arena Has Been Constructed",
+  "zh": ""
+ },
+ {
+  "key": "a621fd9e6f",
+  "msgid": "Very good. Our battle arena has been finished, and the soldiers are already walking towards it.",
+  "zh": ""
+ },
+ {
+  "key": "371e2bdb8f",
+  "msgid": "The needed wares are also delivered there. For successful training, you need pitta bread and strong beer, as well as either fish or meat.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品",
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "960bb97893",
+  "msgid": "For more information, you can have a look at the building’s help window, accessible via the question mark in every building’s window.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "d98e472b9a",
+  "msgid": "To learn how far your soldiers have progressed in their training, you can have a look at their icons. They are modified by red dots:",
+  "zh": ""
+ },
+ {
+  "key": "a7b0bfafe9",
+  "msgid": "No red dots means that the soldier is not trained, so he has level 0. All your new recruits have this.",
+  "zh": ""
+ },
+ {
+  "key": "e7dbc0db4c",
+  "msgid": "With every successful training step, your soldier becomes stronger. This is indicated by a red dot. This soldier is on level 1 in evade training.",
+  "zh": ""
+ },
+ {
+  "key": "fb27f01b7c",
+  "msgid": "When your soldier has reached the highest possible level (in this case level 2), this is indicated by a white background color.",
+  "zh": ""
+ },
+ {
+  "key": "f90fdbf161",
+  "msgid": "The Training Camp",
+  "zh": ""
+ },
+ {
+  "key": "6030da8d26",
+  "msgid": "There is a second training site: the training camp. It is a big building too, and to complement the battle arena, it trains attack and health (remember, the Barbarian soldiers cannot be trained in defense).",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "30c227d61b",
+  "msgid": "Build a training camp.",
+  "zh": ""
+ }
+]

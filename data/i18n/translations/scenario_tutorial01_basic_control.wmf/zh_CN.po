@@ -95,7 +95,7 @@ msgstr "现在请关闭「目标」窗口以继续。"
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:67
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:69
 msgid "Show building spaces"
-msgstr "显示建筑空地"
+msgstr "显示建筑空间"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:70
 msgid "Activate ‘Show Building Spaces’. There are two ways you can do this:"
@@ -115,7 +115,7 @@ msgstr "现在把建筑空间显示出来。"
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:77
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:92
 msgid "Building Spaces"
-msgstr "建筑空地"
+msgstr "建筑空间"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:81
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:96
@@ -146,19 +146,19 @@ msgstr "通常从一个大本营开局。在这座大建筑前有一面蓝旗。
 msgid ""
 "We need to find a nice place for the lumberjack’s hut. To make this easier, "
 "we can activate ‘Show Building Spaces’."
-msgstr "我们需要找到一处适宜伐木小屋的地方。 为了简化操作，我们可以激活“显示建筑空地”。"
+msgstr "我们得给伐木小屋找一处合适的地方。为了方便，可以先开启「显示建筑空间」。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:86
 msgid ""
 "I’ll show you where the menu is and where to show and hide the building "
 "spaces."
-msgstr "我将向你展示菜单的位置，以及显示和隐藏建筑空地的位置。"
+msgstr "我来告诉你这个菜单在哪儿，以及在哪里显示和隐藏建筑空间。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:97
 msgid ""
 "Now that I have shown you where to show and hide the building spaces, please"
 " switch them on so that we can place our first building."
-msgstr "既然已经展示了显示和隐藏建筑空地，请打开它们，以便放置第一座建筑物。"
+msgstr "现在你已经知道在哪里显示和隐藏建筑空间了，请把它们打开，好让我们放下第一座建筑。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:106
 msgid "Lumberjack’s Spot"

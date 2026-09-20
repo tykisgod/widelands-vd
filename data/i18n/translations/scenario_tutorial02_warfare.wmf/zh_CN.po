@@ -22,7 +22,7 @@ msgstr "介绍"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:23
 msgid "Soldiers, Training and Warfare"
-msgstr ""
+msgstr "士兵、训练与战争"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:24
 msgid ""
@@ -31,18 +31,18 @@ msgid ""
 "burning down, there is an enemy you sometimes have to defeat. Yet warfare is"
 " mainly focused on economics, not on military strategies, and its mechanics "
 "deserve explanation."
-msgstr ""
+msgstr "这一关我要讲的是士兵、他们的训练，以及他们的本行：战争。Widelands 讲的虽是建设而非焚毁，但有些敌人你终究得击败。不过战争主要还是经济问题而非军事谋略，其中的机制值得说明一番。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:25
 msgid ""
 "I’ve set up a small village that contains the most important buildings. You "
 "also have enough wares, so you do not have to take care of your weapons "
 "production. In a real game, you will not have this luxury."
-msgstr ""
+msgstr "我已经替你搭好了一个小村子，最要紧的建筑都有。物品也够，所以你不必操心武器生产。真打起来可没这等好事。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:32
 msgid "Soldiers’ abilities"
-msgstr ""
+msgstr "士兵的能力"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:34
 msgid ""
@@ -50,7 +50,7 @@ msgid ""
 " from a warehouse (or your headquarters) to the barracks where they will "
 "receive some basic training and become soldiers. Basic Barbarian soldiers do"
 " not use armor, they only need an ax."
-msgstr ""
+msgstr "新兵的产生方式与普通工人不同：应募者会从仓库（或你的总部）走到步兵营，在那里接受基础训练成为士兵。基础的蛮族士兵不穿甲，只需要一把斧头。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:35
 msgid ""
@@ -59,7 +59,7 @@ msgid ""
 "head that displays their remaining health, and they have four symbols, which"
 " symbolize the individual soldier’s current levels in the four different "
 "categories: health, attack, defense and evade."
-msgstr ""
+msgstr "看看那些正赶往我们军事建筑的士兵。他们和普通工人长得不一样：头顶有一条血条显示剩余生命，还有四个符号，分别表示这名士兵在四类能力上的当前等级：生命、攻击、防御和闪避。"
 
 #. TRANSLATORS: the current stats are: 3 health, 5 attack, 0 defense, 2 evade.
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:37
@@ -67,22 +67,22 @@ msgid ""
 "If a Barbarian soldier is fully trained, he has level %1% health, level %2% "
 "attack, level %3% defense and level %4% evade. This is one fearsome warrior "
 "then! The individual abilities have the following meaning:"
-msgstr ""
+msgstr "蛮族士兵练满后，生命 %1% 级、攻击 %2% 级、防御 %3% 级、闪避 %4% 级。那可是一名令人生畏的战士！各项能力的含义如下："
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:38
 msgid "Health:"
-msgstr ""
+msgstr "生命："
 
 #. TRANSLATORS: the current stats are: 13000 health, 2800 health gain.
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:40
 msgid ""
 "The total life of a soldier. A Barbarian soldier starts with %1% health, and"
 " he will gain %2% health with each health level."
-msgstr ""
+msgstr "士兵的总血量。蛮族士兵初始生命为 %1%，每提升一级生命增加 %2%。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:41
 msgid "Attack:"
-msgstr ""
+msgstr "攻击："
 
 #. TRANSLATORS: the current stats are: 1400 damage, gains 850 damage points.
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:43
@@ -91,11 +91,11 @@ msgid ""
 "successful. A Barbarian soldier with attack level 0 inflicts ~%1% points of "
 "health damage when he succeeds in hitting an enemy. For each attack level, "
 "he gains %2% damage points."
-msgstr ""
+msgstr "一次成功攻击对敌人造成的伤害量。攻击 0 级的蛮族士兵命中敌人时造成约 %1% 点生命伤害，攻击每升一级增加 %2% 点伤害。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:45
 msgid "Defense:"
-msgstr ""
+msgstr "防御："
 
 #. TRANSLATORS: the current stats are: 3%. The calculated health value is 3395
 #. TRANSLATORS: The last two %% after the placeholder are the percent symbol.
@@ -106,11 +106,11 @@ msgid ""
 "level 0, which means that the damage is always reduced by %1%%%. If an "
 "attacker with an attack value of 3500 points hits a Barbarian soldier, the "
 "Barbarian will lose 3500×%2%%% = %3% health."
-msgstr ""
+msgstr "防御是从攻击值里扣除的百分比。蛮族无法训练这项技能，因此防御始终为 0 级，也就是伤害恒定减少 %1%%%。若一名攻击值 3500 点的进攻者命中蛮族士兵，该士兵将损失 3500×%2%%% = %3% 点生命。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:49
 msgid "Evade:"
-msgstr ""
+msgstr "闪避："
 
 #. TRANSLATORS: the current stats are: 25% evade, increases in steps of 15%.
 #. TRANSLATORS: The last two %% after the placeholder are the percent symbol.
@@ -119,22 +119,22 @@ msgid ""
 "Evade is the chance that the soldier is able to dodge an attack. A level 0 "
 "Barbarian has a %1%%% chance to evade an attack, and this increases in steps"
 " of %2%%% for each level."
-msgstr ""
+msgstr "闪避是士兵躲开一次攻击的几率。0 级蛮族有 %1%%% 的几率闪避，每升一级提高 %2%%%。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:57
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:79
 msgid "The Battle Arena"
-msgstr ""
+msgstr "角斗场"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:59
 msgid "Now I have talked about training and levels. Let me elaborate on that."
-msgstr ""
+msgstr "刚才我提到了训练和等级，这里展开说说。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:60
 msgid ""
 "A newly created soldier has no experience and is not very good at fighting. "
 "To make him stronger, you can build training sites."
-msgstr ""
+msgstr "新造出来的士兵毫无经验，打起仗来很不行。要让他变强，你可以建训练场。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:61
 msgid ""
@@ -142,18 +142,18 @@ msgid ""
 "building, and it trains soldiers in evade. Since soldiers get very hungry "
 "during their workout, this building needs a lot of food and strong beer. In "
 "a real game, you should have a good infrastructure before you build it."
-msgstr ""
+msgstr "其中一种训练场是角斗场。它是一座又大又贵的建筑，负责训练闪避。士兵操练时饿得很快，所以这座建筑要消耗大量食物和烈啤酒。真打起来时，最好等基础建设完善了再建它。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:62
 msgid "To see evade training in action, build a battle arena."
-msgstr ""
+msgstr "想看看闪避训练是怎么回事，就建一座角斗场。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:63
 msgid ""
 "While we’re waiting for the battle arena, you’ll probably notice some "
 "soldiers walking around. They are automatically exchanged from time to time."
 " I’ll teach you about that later."
-msgstr ""
+msgstr "等角斗场的工夫，你大概会注意到有些士兵在走来走去。他们会时不时自动轮换，这个稍后我再教你。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:69
 msgid "Battle Arena"
@@ -161,81 +161,81 @@ msgstr "搏击场"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:71
 msgid "Build a battle arena"
-msgstr ""
+msgstr "建一座角斗场"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:72
 msgid "Build a battle arena. It is a big building."
-msgstr ""
+msgstr "建一座角斗场。它是大型建筑。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:73
 msgid ""
 "Since the construction will take some time, you can change the game speed "
 "using %1$s and %2$s."
-msgstr ""
+msgstr "施工要花些时间，你可以用 %1$s 和 %2$s 调整游戏速度。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:81
 msgid "The Battle Arena Has Been Constructed"
-msgstr ""
+msgstr "角斗场已建成"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:82
 msgid ""
 "Very good. Our battle arena has been finished, and the soldiers are already "
 "walking towards it."
-msgstr ""
+msgstr "很好。我们的角斗场完工了，士兵们已经在往那边走。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:84
 msgid ""
 "The needed wares are also delivered there. For successful training, you need"
 " pitta bread and strong beer, as well as either fish or meat."
-msgstr ""
+msgstr "所需的物品也会送过去。要训练顺利，你需要皮塔饼和烈啤酒，外加鱼或肉。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:85
 msgid ""
 "For more information, you can have a look at the building’s help window, "
 "accessible via the question mark in every building’s window."
-msgstr ""
+msgstr "想了解更多，可以看看该建筑的帮助窗口——每座建筑的窗口里都有一个问号可以进入。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:86
 msgid ""
 "To learn how far your soldiers have progressed in their training, you can "
 "have a look at their icons. They are modified by red dots:"
-msgstr ""
+msgstr "想知道士兵训练到了什么程度，看他们的图标即可。图标上会加红点："
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:87
 msgid ""
 "No red dots means that the soldier is not trained, so he has level 0. All "
 "your new recruits have this."
-msgstr ""
+msgstr "没有红点表示该士兵未受训练，即 0 级。你所有的新兵都是这样。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:88
 msgid ""
 "With every successful training step, your soldier becomes stronger. This is "
 "indicated by a red dot. This soldier is on level 1 in evade training."
-msgstr ""
+msgstr "每完成一步训练，士兵就更强一分，用一个红点表示。这名士兵的闪避训练已达 1 级。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:89
 msgid ""
 "When your soldier has reached the highest possible level (in this case level"
 " 2), this is indicated by a white background color."
-msgstr ""
+msgstr "当士兵达到可能的最高等级（本例中是 2 级），图标背景会变成白色。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:95
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:97
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:115
 msgid "The Training Camp"
-msgstr ""
+msgstr "训练营"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:98
 msgid ""
 "There is a second training site: the training camp. It is a big building "
 "too, and to complement the battle arena, it trains attack and health "
 "(remember, the Barbarian soldiers cannot be trained in defense)."
-msgstr ""
+msgstr "还有第二种训练场：训练营。它同样是大型建筑，与角斗场互补，负责训练攻击和生命（记住，蛮族士兵无法训练防御）。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:99
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:109
 msgid "Build a training camp."
-msgstr ""
+msgstr "建一座训练营。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:105
 msgid "Training Camp"
@@ -243,34 +243,34 @@ msgstr "训练营"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:107
 msgid "Build a training camp"
-msgstr ""
+msgstr "建一座训练营"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:108
 msgid ""
 "The battle arena only trains the soldiers in evade. To get the strongest "
 "possible soldier, you also need to build a training camp, which trains them "
 "in attack and health."
-msgstr ""
+msgstr "角斗场只训练士兵的闪避。要练出最强的士兵，你还得建一座训练营，它负责训练攻击和生命。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:117
 msgid ""
 "Great, our training camp has now been finished, too. Now nothing will hinder"
 " us from getting the strongest warriors the world has ever seen."
-msgstr ""
+msgstr "很好，训练营也建好了。现在没什么能阻挡我们练出世上最强悍的战士了。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:118
 msgid ""
 "To train in the training camp, our soldiers need food like in the battle "
 "arena, but no strong beer. Instead, they need different axes for attack "
 "training and helmets for health training."
-msgstr ""
+msgstr "在训练营受训，士兵和在角斗场一样需要食物，但不需要烈啤酒。他们需要的是各种斧头来练攻击、头盔来练生命。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:119
 msgid ""
 "This equipment is produced in smithies out of coal, iron, and sometimes "
 "gold. You will learn more about this in the second scenario of the Barbarian"
 " campaign."
-msgstr ""
+msgstr "这些装备由铁匠铺用煤、铁、有时还有黄金打造。关于这些，你会在蛮族战役的第二关里学到更多。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:120
 msgid ""
@@ -279,7 +279,7 @@ msgid ""
 "ability levels cannot be compared: an Imperial soldier has a base attack of "
 "%1% at level 0, while a Barbarian soldier at the same level only has a base "
 "attack of %2%."
-msgstr ""
+msgstr "还要记住，Widelands 里每个部族的训练方式都不一样，用到的建筑和物品也不同。而且能力等级之间不能直接比较：帝国士兵 0 级时基础攻击为 %1%，而同级的蛮族士兵基础攻击只有 %2%。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:126
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:138
@@ -288,68 +288,68 @@ msgstr "侦察兵小屋"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:128
 msgid "Explore Your Surroundings"
-msgstr ""
+msgstr "探索周边"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:129
 msgid ""
 "Large parts of the map haven’t been explored yet. It might be a good idea to"
 " know which direction is best for expanding our empire."
-msgstr ""
+msgstr "地图上大片区域还没探明。先弄清往哪个方向扩张最合适，会是个好主意。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:130
 msgid ""
 "You can try your luck and expand randomly, but this is risky. A safer way is"
 " to use a scout to explore unseen parts of the map. What if he finds "
 "mountains overflowing with gold?"
-msgstr ""
+msgstr "你可以碰碰运气随便扩，但那样有风险。稳妥些的办法是派侦察兵去探明未知区域。万一他找到一座金矿满溢的山呢？"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:131
 msgid "We will need a scout’s hut to start exploring. It is a small building."
-msgstr ""
+msgstr "要开始探索，我们得有一座侦察兵小屋。它是小型建筑。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:132
 msgid "Build a scout’s hut."
-msgstr ""
+msgstr "建一座侦察兵小屋。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:140
 msgid "Build a scout’s hut"
-msgstr ""
+msgstr "建一座侦察兵小屋"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:141
 msgid ""
 "It’s good to know your surroundings. A scout will explore unseen parts of "
 "the map for you."
-msgstr ""
+msgstr "摸清周边总是好的。侦察兵会替你探明地图上尚未看见的区域。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:142
 msgid "Build a Scout’s Hut."
-msgstr ""
+msgstr "建造侦察兵小屋。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:148
 msgid "Scout is ready"
-msgstr ""
+msgstr "侦察兵已就位"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:150
 msgid "Ready to go!"
-msgstr ""
+msgstr "整装待发！"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:151
 msgid ""
 "Well done! Your scout’s hut has been built. While our scout is moving in, "
 "let’s learn a little bit more about him."
-msgstr ""
+msgstr "做得好！侦察兵小屋建好了。趁侦察兵入住的工夫，我们再多了解他一些。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:152
 msgid ""
 "First of all, he will need to take some food with him on his scouting trips."
 " Fortunately, we have some rations in our warehouse."
-msgstr ""
+msgstr "首先，他出去侦察时得带上些吃的。还好我们仓库里有一些口粮。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:153
 msgid ""
 "When provided with food, he will walk randomly around the area. You should "
 "follow his movement before fog of war hides what he saw."
-msgstr ""
+msgstr "只要有食物，他就会在周边随机走动。你最好跟着他的脚步看，免得战争迷雾又把他看到的东西盖回去。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:159
 msgid "Scout"
@@ -357,49 +357,49 @@ msgstr "侦察兵"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:161
 msgid "Explore the map"
-msgstr ""
+msgstr "探索地图"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:162
 msgid "Wait for the scout to explore unseen areas."
-msgstr ""
+msgstr "等侦察兵探明未知区域。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:163
 msgid "Observe your scout."
-msgstr ""
+msgstr "留意你的侦察兵。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:169
 msgid "Scout made progress"
-msgstr ""
+msgstr "侦察有进展"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:171
 msgid "New horizons?"
-msgstr ""
+msgstr "新天地？"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:172
 msgid ""
 "As you can see, scouts can go quite far. The good news is that there are no "
 "enemies around."
-msgstr ""
+msgstr "如你所见，侦察兵能走得相当远。好消息是周围没有敌人。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:173
 msgid "You can use the minimap to see the exploration’s progress."
-msgstr ""
+msgstr "你可以用小地图查看探索的进度。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:174
 msgid ""
 "Don’t forget that scouting is hard work and as such cannot be done without "
 "provision of food."
-msgstr ""
+msgstr "别忘了侦察是件苦差事，没有食物供应就干不成。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:180
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:182
 msgid "Heroes and Rookies"
-msgstr ""
+msgstr "精锐与新兵"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:183
 msgid ""
 "While our soldiers are training, let me tell you what we can do with them."
-msgstr ""
+msgstr "趁士兵们受训的工夫，我来说说能拿他们做什么。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:184
 msgid ""
@@ -407,29 +407,29 @@ msgid ""
 "soldiers) or rookies. From time to time, a soldier will walk out of the "
 "building and be replaced by a stronger/weaker one automatically – this is "
 "what you saw earlier."
-msgstr ""
+msgstr "每座军事建筑都可以设定偏好精锐（受过训练的士兵）还是新兵。时不时会有士兵走出建筑，自动被更强或更弱的人替换——你刚才看到的就是这个。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:185
 msgid ""
 "The initial setting depends on the type of the building. For the Barbarians,"
 " the sentry is the only building that prefers rookies by default. You should"
 " change this setting to fit your current needs."
-msgstr ""
+msgstr "初始设定取决于建筑类型。对蛮族来说，岗哨是唯一默认偏好新兵的建筑。你应当按当前需要调整这项设定。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:186
 msgid ""
 "When you are expanding into no man’s land, you can make your buildings "
 "prefer rookies. When you are planning to attack, send heroes into that "
 "region. Conquered buildings always prefer heroes."
-msgstr ""
+msgstr "往无人之地扩张时，可以让建筑偏好新兵；准备进攻时，就把精锐派到那一带去。攻占来的建筑一律偏好精锐。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:192
 msgid "Soldier capacity"
-msgstr ""
+msgstr "驻军容量"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:194
 msgid "Adjusting the number of soldiers"
-msgstr ""
+msgstr "调整士兵数量"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:195
 msgid ""
@@ -438,51 +438,51 @@ msgid ""
 " buttons to decrease or increase the desired number of soldiers. Every "
 "building has a maximum capacity. In case of the barrier, it is five, for "
 "example."
-msgstr ""
+msgstr "还有一种控制军事建筑强度的办法：调整驻扎的士兵数。点击箭头按钮即可增减期望的士兵数。每座建筑都有容量上限，以壁垒为例是五人。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:196
 msgid ""
 "If you wish to send a certain soldier away, you can simply click on it. It "
 "will then be replaced by another soldier."
-msgstr ""
+msgstr "如果你想遣走某个士兵，直接点他就行，会有另一名士兵顶上。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:197
 msgid ""
 "Let me also describe what the numbers in the status string mean. This string"
 " can contain an arrow and up to three numbers, e.g. ‘↑ 1 (+5) soldier (+2)’."
-msgstr ""
+msgstr "我再讲讲状态栏里那串数字的含义。这串文字可能含一个箭头和最多三个数字，例如「↑ 1 (+5) 士兵 (+2)」。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:198
 msgid ""
 "The arrow shows whether the building is set to prefer heroes (upwards arrow)"
 " or rookies (downwards arrow)."
-msgstr ""
+msgstr "箭头表示这座建筑偏好精锐（向上箭头）还是新兵（向下箭头）。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:199
 msgid ""
 "The first number describes how many soldiers are currently in this building."
 " In this example, only one soldier is left inside (each military building is"
 " always guarded by at least one soldier)."
-msgstr ""
+msgstr "第一个数字是这座建筑里当前有多少士兵。本例中里面只剩一个（每座军事建筑始终至少留一人守着）。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:200
 msgid ""
 "The second number tells you how many additional soldiers reside in this "
 "building, but are currently outside. The five soldiers may be attacking an "
 "enemy. They will return when they have been successful."
-msgstr ""
+msgstr "第二个数字告诉你另有多少士兵隶属这座建筑但目前在外。那五个可能正在进攻敌人，得手后就会回来。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:201
 msgid ""
 "The third number indicates the missing soldiers. From the eight soldiers (1 "
 "+ 5 + 2) you wish to have here, two may have died. They will be replaced by "
 "new soldiers from your warehouse, if possible."
-msgstr ""
+msgstr "第三个数字表示缺额。你希望这里有八人（1 + 5 + 2），其中两人可能已阵亡。只要条件允许，仓库会派新兵补上。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:207
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:209
 msgid "Soldiers in the headquarters"
-msgstr ""
+msgstr "总部里的士兵"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:210
 msgid ""
@@ -490,7 +490,7 @@ msgid ""
 "land, the enemy can attack it directly, and the stored soldiers defend it "
 "and its surroundings when attacked. On the other hand, there’s a difference "
 "too: you can’t start an attack with the soldiers in your headquarters."
-msgstr ""
+msgstr "你的总部具备军事据点的部分能力：它能占领一片土地，敌人可以直接攻打它，遭袭时存放其中的士兵会保卫它和周边。但也有不同之处：你不能用总部里的士兵发起进攻。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:211
 msgid ""
@@ -498,12 +498,12 @@ msgid ""
 "plain warehouses that don’t conquer land, and need nearby military sites for"
 " defense. Soldiers stored in plain warehouses don’t participate in any "
 "fighting, and plain warehouses can’t be attacked directly."
-msgstr ""
+msgstr "总部的军事能力是它与普通仓库的一大区别——普通仓库不占领土地，防守要靠附近的军事据点。存放在普通仓库里的士兵不参与任何战斗，普通仓库也不能被直接攻打。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:217
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:219
 msgid "Soldier settings of the headquarters"
-msgstr ""
+msgstr "总部的驻军设定"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:220
 msgid ""
@@ -514,7 +514,7 @@ msgid ""
 "set soldier capacity and preference for military sites. If you do so, the "
 "headquarters will only let surplus soldiers be sent to other buildings, but "
 "not soldiers from the assigned garrison."
-msgstr ""
+msgstr "凡是恰好在总部里的士兵都会参与防守，但他们并非常驻总部，因此军事据点缺人时随时可能被调走。好在你也可以像给军事据点设定容量与偏好那样，给总部指派一支守军。这么做之后，总部只会把多余的士兵派往其他建筑，不动指派的守军。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:221
 msgid ""
@@ -525,15 +525,15 @@ msgid ""
 "soldiers to more than zero, then the headquarters will show the same soldier"
 " information as military sites in the status. Surplus soldiers are never "
 "shown in the status."
-msgstr ""
+msgstr "看状态行就会发现，你的仓库里什么都没有，而总部一开始显示的是「—」。那表示尚未为总部设立守军，尽管里面可能仍存着一些士兵。一旦你把期望士兵数调到大于零，总部的状态栏就会像军事据点一样显示士兵信息。多余的士兵从不在状态栏中显示。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:227
 msgid "Dismantle your sentry"
-msgstr ""
+msgstr "拆掉你的岗哨"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:229
 msgid "Dismantling military buildings"
-msgstr ""
+msgstr "拆除军事建筑"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:230
 msgid ""
@@ -541,7 +541,7 @@ msgid ""
 "building will never come out (unless this building is attacked). If you want"
 " to have your soldier elsewhere, you will have to dismantle or burn down the"
 " building."
-msgstr ""
+msgstr "士兵数最少只能减到一。建筑里的最后一名士兵永远不会出来（除非这座建筑遭到攻击）。想把他调到别处，就只能拆除或烧毁这座建筑。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:231
 msgid ""
@@ -552,32 +552,32 @@ msgid ""
 " be hidden under the fog of war. You should therefore only dismantle "
 "military buildings deep inside your territory where you are safe from "
 "enemies."
-msgstr ""
+msgstr "不过摧毁军事建筑总是伴随风险：土地仍是你的，却不再受保护。任何敌人只要在附近建起自己的军事据点，就能不战而取走这片土地，你的建筑随之付之一炬。此外部分区域会重新被战争迷雾笼罩。所以只应拆除深处腹地、远离敌人的军事建筑。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:232
 msgid ""
 "Have you seen your sentry? Since it cannot contain many soldiers and is next"
 " to a stronger barrier, it is rather useless."
-msgstr ""
+msgstr "看到你那座岗哨了吗？它容不下几个士兵，旁边又有更强的壁垒，实在没什么用。"
 
 #. TRANSLATORS: 'it' refers to the Barbarian sentry
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:234
 msgid "Dismantle it."
-msgstr ""
+msgstr "把它拆掉。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:235
 msgid ""
 "You can also use this opportunity to become familiar with the other options:"
 " the heroes/rookies preference and the capacity."
-msgstr ""
+msgstr "你也可以趁这个机会熟悉一下其他选项：精锐／新兵偏好，以及容量。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:241
 msgid "Soldiers, dismissed!"
-msgstr ""
+msgstr "士兵，解散！"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:243
 msgid "Dismantle your north-western sentry"
-msgstr ""
+msgstr "拆掉你西北面的岗哨"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:244
 msgid ""
@@ -585,59 +585,59 @@ msgid ""
 " arrow buttons. If you want to get even your last soldier out, you will have"
 " to destroy it. However, it then will no longer protect your territory, "
 "which will make it vulnerable to hostile attacks."
-msgstr ""
+msgstr "你可以用箭头按钮控制军事据点的驻军数。想把最后一个士兵也调出来，就只能摧毁它。但那样它就不再保护你的领土，容易被敌人趁虚而入。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:245
 msgid "Dismantle your sentry in the north-west, next to the barrier."
-msgstr ""
+msgstr "拆掉你西北面壁垒旁边的那座岗哨。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:251
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:264
 msgid "Enhance Your Fortress"
-msgstr ""
+msgstr "把你的要塞升级"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:253
 msgid "Enhancing Buildings"
-msgstr ""
+msgstr "升级建筑"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:254
 msgid ""
 "Well done. Now you know how to draw back your soldiers from the places where"
 " you don’t need them. It is time to tell you how to reinforce your front "
 "line."
-msgstr ""
+msgstr "做得好。现在你知道怎么把士兵从用不着的地方撤回来了。是时候讲讲怎么加固你的前线。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:255
 msgid ""
 "Your fortress is already quite strong and conquers a lot of space. But there"
 " is an even bigger building: the citadel."
-msgstr ""
+msgstr "你的要塞已经相当坚固，占地也广。但还有更大的建筑：堡垒。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:256
 msgid ""
 "Citadels can’t be built directly. Instead, you’ll have to construct a "
 "fortress first and then enhance it to a citadel. To do so, click on the "
 "fortress, then choose the ‘Enhance to Citadel’ button."
-msgstr ""
+msgstr "堡垒不能直接建造，得先造一座要塞再把它升级成堡垒。做法是点击要塞，然后选「升级为堡垒」按钮。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:257
 msgid ""
 "Your soldiers will leave the fortress while the construction is going on. "
 "This means that your fortress will lose its military influence, as I "
 "described above."
-msgstr ""
+msgstr "施工期间士兵会离开要塞。也就是说，你的要塞会暂时失去军事影响力，正如我刚才所说。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:258
 msgid "Enhance your fortress to a citadel now."
-msgstr ""
+msgstr "现在把你的要塞升级成堡垒。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:266
 msgid "Enhance your fortress to a citadel"
-msgstr ""
+msgstr "把要塞升级为堡垒"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:267
 msgid "Enhance your fortress to a mighty citadel."
-msgstr ""
+msgstr "把你的要塞升级为一座雄伟的堡垒。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:268
 msgid ""
@@ -645,15 +645,15 @@ msgid ""
 "the Barbarians can build. It also costs a lot of resources and takes a long "
 "time to build. It is most suited to guard strategically important points "
 "like constricted points or mountains."
-msgstr ""
+msgstr "堡垒可驻 12 名士兵，是蛮族能建的最大军事建筑。它耗费资源极多，建造也很费时，最适合扼守隘口、山地这类战略要地。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:275
 msgid "Defeat your Enemy"
-msgstr ""
+msgstr "击败你的敌人"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:277
 msgid "Defeat the Enemy"
-msgstr ""
+msgstr "击败敌人"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:278
 msgid ""
@@ -662,44 +662,44 @@ msgid ""
 "they took away a part of our land? And our lumberjack has now lost his place"
 " of work. This is what I was talking about. Let’s take our land back and "
 "defeat the enemy!"
-msgstr ""
+msgstr "干得漂亮，堡垒完工了。可这是怎么回事？堡垒施工期间，一个敌对部族在我们隔壁扎下了根！看到他们夺走了我们一块地吗？我们的樵夫也因此没了活干。我说的就是这种事。把地夺回来，击败敌人！"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:279
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:290
 msgid ""
 "To attack a building, click on its doors, choose the number of soldiers that"
 " you wish to send and click on the ‘Attack’ button."
-msgstr ""
+msgstr "要攻打一座建筑，点它的大门，选定你想派出的士兵数，再点「攻击」按钮。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:279
 msgid ""
 "Your soldiers will come from all nearby military buildings. Likewise, the "
 "defenders will come from all nearby military buildings of the enemy and "
 "intercept your forces."
-msgstr ""
+msgstr "你的士兵会从附近所有军事建筑赶来。同样，守方也会从敌人附近所有军事建筑赶来迎击。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:280
 msgid ""
 "Attack and conquer all military buildings of the enemy and destroy their "
 "headquarters."
-msgstr ""
+msgstr "攻占敌人的全部军事建筑，并摧毁其总部。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:286
 msgid "Defeat Your Enemy"
-msgstr ""
+msgstr "击败你的敌人"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:288
 msgid "Defeat the enemy tribe"
-msgstr ""
+msgstr "击败敌对部族"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:289
 msgid "Defeat the nearby enemy."
-msgstr ""
+msgstr "击败近旁的敌人。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:295
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:297
 msgid "Conclusion"
-msgstr ""
+msgstr "结语"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:298
 msgid ""
@@ -707,18 +707,18 @@ msgid ""
 "how to create and train soldiers, how to control where they go and how to "
 "defeat an enemy. Did you see how easily you could overwhelm your enemy? "
 "Having trained soldiers is a huge advantage."
-msgstr ""
+msgstr "感谢你玩完这个教程。希望你玩得愉快，也学会了怎样造兵练兵、怎样调度他们，以及怎样击败敌人。看到你压倒敌人有多轻松了吗？有一支练过的军队，优势是巨大的。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:299
 msgid ""
 "But a war is expensive, and not always the path leading to the goal. When "
 "setting up a new game, you can also choose peaceful win conditions. You "
 "should definitely try them out, they’re worth it."
-msgstr ""
+msgstr "但战争代价高昂，也未必是通往目标的路。开新局时你也可以选择和平的胜利条件，很值得一试。"
 
 #: ../../../../data/campaigns/tutorial02_warfare.wmf/scripting/texts.lua:300
 msgid ""
 "You are now ready to play the campaigns. They will teach you about the "
 "different economies of the tribes. You can also play the remaining "
 "tutorials, but they are not crucial for succeeding in the campaigns."
-msgstr ""
+msgstr "现在你已经可以去玩战役了，它们会教你各部族不同的经济。剩下的教程也可以玩，但对通关战役并非必需。"
