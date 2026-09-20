@@ -792,7 +792,7 @@ Lumberjack	伐木工	empire_worker	tribes
 Lumberjack’s House	伐木工之屋	empire_building	tribes	
 Lumberjack’s Hut	伐木小屋	barbarians_building	tribes	
 Luna	卢纳号	shipname	tribes	
-Lutius	卢提乌斯号	shipname	tribes	
+Lutius	卢图斯号	shipname	tribes	
 Lynx	猞猁		world	
 Lynx	猞猁号	shipname	tribes	
 Machete	弯刀	ware	tribes	
@@ -959,7 +959,7 @@ No Artifacts	没有远古遗物		win_conditions
 No Bushes	没有灌木		tribes	
 No Coal	没有煤		tribes	
 No Crystals	没有晶体		tribes	
-No Fields	没有场地		tribes	
+No Fields	没有田地		tribes	
 No Fish	没有鱼		tribes	
 No Flowers	没有花朵		tribes	
 No Game, No Fish	没有猎物，没有鱼		tribes	
@@ -967,14 +967,14 @@ No Gold	没有黄金		tribes
 No Granite	没有花岗石		tribes	
 No Ground	没有土地		tribes	
 No Iron	没有铁		tribes	
-No Level Ground	没有地坪		tribes	
+No Level Ground	没有平地		tribes	
 No Marble	没有大理石		tribes	
 No Ponds	没有池塘		tribes	
 No Resources	没有资源	resource_indicator	tribes	
 No Rocks	没有岩石		tribes	
 No Stones	没有石料		tribes	
-No Tree to Cut Lianas	没有树可供砍伐藤蔓植物		tribes	
-No Trees	没有树		tribes	
+No Tree to Cut Lianas	没有可采藤蔓的树		tribes	
+No Trees	没有树木		tribes	
 No Water	没有水		tribes	
 Norderaue	诺德劳号	shipname	tribes	
 Norderoog	诺德罗格号	shipname	tribes	
@@ -1003,16 +1003,16 @@ Orchila	奥契拉号	shipname	tribes
 Orinoco	奥里诺科号	shipname	tribes	
 Ostur	奥斯图尔号	shipname	tribes	
 Otho	奥托号	shipname	tribes	
-Out of Berries	没有浆果资源了		tribes	
-Out of Clay Ponds	粘土池塘范围之外		tribes	
-Out of Fields	场地之外		tribes	
-Out of Fish	没有鱼类资源了		tribes	
-Out of Fish Ponds	鱼塘范围之外		tribes	
-Out of Flowers	没有花朵资源了		tribes	
-Out of Game and Fish	没有猎物和鱼了		tribes	
-Out of Rocks	没有岩石资源了		tribes	
-Out of Trees	没有树木资源了		tribes	
-Out of Water	没有水资源了		tribes	
+Out of Berries	浆果已耗尽		tribes	
+Out of Clay Ponds	黏土池塘已耗尽		tribes	
+Out of Fields	田地已耗尽		tribes	
+Out of Fish	鱼已耗尽		tribes	
+Out of Fish Ponds	鱼塘已耗尽		tribes	
+Out of Flowers	花朵已耗尽		tribes	
+Out of Game and Fish	猎物和鱼已耗尽		tribes	
+Out of Rocks	岩石已耗尽		tribes	
+Out of Trees	树木已耗尽		tribes	
+Out of Water	水源已耗尽		tribes	
 Outpost	前哨	empire_building	tribes	
 Outpost	前哨	frisians_building	tribes	
 Overview:	概览：		win_conditions	

@@ -136,7 +136,7 @@ msgid ""
 "furious at the Barbarians, yet forbade any attack on these tribes. He "
 "believed that our army was too weak to survive in a war against the "
 "Barbarians."
-msgstr "三个星期后，我回到 Fremil 接受国王的训示。他对野蛮人非常愤怒，却禁止对这些部族进行任何攻击。他认为我们的军队太弱了，以至于无法在与野蛮人的战争中存活下来。"
+msgstr "三个星期后，我回到弗雷米尔面见国王。他对蛮族大为震怒，却禁止对这些部族发动任何进攻。他认为我们的军队太弱，撑不过一场与蛮族的战争。"
 
 #. TRANSLATORS: Lutius - Diary. Gulf of Perl is a place name.
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:90
@@ -145,7 +145,7 @@ msgid ""
 "these Barbarians. So, I left Fremil by boat to find a new world and a new "
 "life for myself, somewhere in the south. Now I am sailing on the Gulf of "
 "Perl with my family, some of my friends and a few of my best warriors."
-msgstr "尽管如此，我还是认为，如果不与这些野蛮人作战，我是无法洗刷耻辱的。所以，我乘船离开Fremil去向南方的某个地方，为自己寻找一个新的世界伴随着新生活。现在我正和我的家人，一些朋友，以及我最勇敢的战士们一起航行在Perl海湾。"
+msgstr "即便如此，我仍然看不出不与这些蛮族一战，还能怎样洗刷我的耻辱。于是我乘船离开弗雷米尔，去南方的某个地方为自己寻一个新世界、一段新人生。此刻我正带着家人、几位朋友和几名最勇猛的战士，航行在珀尔湾上。"
 
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:96
 msgid "The Rough Sea"
@@ -399,7 +399,7 @@ msgstr "今晚将是我们在这个岛上的最后一夜。明天早上我们将
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:230
 msgid "I still wonder if we will ever see Fremil again."
-msgstr "我仍然在想我们是否还能够再见到 Fremil。"
+msgstr "我仍在想，我们还能不能再见到弗雷米尔。"
 
 #: ../../../../data/campaigns/emp01.wmf/scripting/texts.lua:231
 msgid "Victory"

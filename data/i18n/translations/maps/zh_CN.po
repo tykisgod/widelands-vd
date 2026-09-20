@@ -211,7 +211,7 @@ msgid ""
 "a new life. But his destiny takes his ship into a heavy storm, which nearly "
 "destroys it. Only with a lot of luck he manages to beach his damaged ship on"
 " an unknown desert strand and save his people. For now."
-msgstr "在一场对蛮族的关键战役中落败、丢掉帝国大片疆土之后，卢修斯离开弗雷米尔，去开始新的人生。然而命运把他的船卷入一场几乎将其撕碎的狂风暴雨。全凭一点运气，他才得以把受损的船搁浅在一片无名的沙漠海滩上，保住了族人的性命——至少暂时如此。"
+msgstr "在一场对蛮族的关键战役中落败、丢掉帝国大片疆土之后，卢图斯离开弗雷米尔，去开始新的人生。然而命运把他的船卷入一场几乎将其撕碎的狂风暴雨。全凭一点运气，他才得以把受损的船搁浅在一片无名的沙漠海滩上，保住了族人的性命——至少暂时如此。"
 
 #: ../../../../data/campaigns/emp02.wmf/elemental:9
 msgid "An Outpost for Exile"

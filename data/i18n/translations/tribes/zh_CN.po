@@ -1289,7 +1289,7 @@ msgstr "收获木薯"
 #: ../../../../data/tribes/buildings/productionsites/frisians/farm/init.lua:109
 #: ../../../../data/tribes/buildings/productionsites/frisians/reed_farm/init.lua:100
 msgid "No Fields"
-msgstr "没有场地"
+msgstr "没有田地"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/cassava_plantation/init.lua:90
 #: ../../../../data/tribes/buildings/productionsites/amazons/cocoa_farm/init.lua:98
@@ -1302,7 +1302,7 @@ msgstr "没有场地"
 #: ../../../../data/tribes/buildings/productionsites/frisians/farm/init.lua:110
 #: ../../../../data/tribes/buildings/productionsites/frisians/reed_farm/init.lua:101
 msgid "Out of Fields"
-msgstr "场地之外"
+msgstr "田地已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/cassava_plantation/init.lua:91
 msgctxt "amazons_building"
@@ -1563,7 +1563,7 @@ msgstr "没有猎物，没有鱼"
 #. TRANSLATORS: "Game" means animals that you can hunt
 #: ../../../../data/tribes/buildings/productionsites/amazons/hunter_gatherers_hut/init.lua:85
 msgid "Out of Game and Fish"
-msgstr "没有猎物和鱼了"
+msgstr "猎物和鱼已耗尽"
 
 #. TRANSLATORS: "game" means animals that you can hunt
 #: ../../../../data/tribes/buildings/productionsites/amazons/hunter_gatherers_hut/init.lua:87
@@ -1619,11 +1619,11 @@ msgstr "剪切藤蔓植物"
 #: ../../../../data/tribes/buildings/productionsites/empire/lumberjacks_house/init.lua:53
 #: ../../../../data/tribes/buildings/productionsites/frisians/woodcutters_house/init.lua:66
 msgid "No Trees"
-msgstr "没有树"
+msgstr "没有树木"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/liana_cutters_hut/init.lua:61
 msgid "No Tree to Cut Lianas"
-msgstr "没有树可供砍伐藤蔓植物"
+msgstr "没有可采藤蔓的树"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/liana_cutters_hut/init.lua:62
 msgctxt "amazons_building"
@@ -1847,7 +1847,7 @@ msgstr "没有岩石"
 #: ../../../../data/tribes/buildings/productionsites/empire/quarry/init.lua:81
 #: ../../../../data/tribes/buildings/productionsites/frisians/quarry/init.lua:67
 msgid "Out of Rocks"
-msgstr "没有岩石资源了"
+msgstr "岩石已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/stonecutters_hut/init.lua:58
 msgctxt "amazons_building"
@@ -1937,7 +1937,7 @@ msgstr "没有水"
 #: ../../../../data/tribes/buildings/productionsites/empire/well/init.lua:63
 #: ../../../../data/tribes/buildings/productionsites/frisians/well/init.lua:65
 msgid "Out of Water"
-msgstr "没有水资源了"
+msgstr "水源已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/water_gatherers_hut/init.lua:65
 msgctxt "amazons_building"
@@ -1986,7 +1986,7 @@ msgstr "砍伐树木"
 #: ../../../../data/tribes/buildings/productionsites/empire/lumberjacks_house/init.lua:54
 #: ../../../../data/tribes/buildings/productionsites/frisians/woodcutters_house/init.lua:67
 msgid "Out of Trees"
-msgstr "没有树木资源了"
+msgstr "树木已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/woodcutters_hut/init.lua:75
 msgctxt "amazons_building"
@@ -2206,7 +2206,7 @@ msgstr "没有鱼"
 #: ../../../../data/tribes/buildings/productionsites/empire/fishers_house/init.lua:57
 #: ../../../../data/tribes/buildings/productionsites/frisians/fishers_house/init.lua:70
 msgid "Out of Fish"
-msgstr "没有鱼类资源了"
+msgstr "鱼已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/atlanteans/fishbreeders_house/init.lua:57
 msgctxt "atlanteans_building"
@@ -2313,7 +2313,7 @@ msgstr "没有猎物"
 #: ../../../../data/tribes/buildings/productionsites/empire/hunters_house/init.lua:57
 #: ../../../../data/tribes/buildings/productionsites/frisians/hunters_house/init.lua:79
 msgid "Out of Game"
-msgstr "没有猎物资源了"
+msgstr "猎物已耗尽"
 
 #. TRANSLATORS: "game" means animals that you can hunt
 #: ../../../../data/tribes/buildings/productionsites/atlanteans/hunters_house/init.lua:56
@@ -3609,7 +3609,7 @@ msgstr "没有池塘"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/aqua_farm/init.lua:109
 msgid "Out of Fish Ponds"
-msgstr "鱼塘范围之外"
+msgstr "鱼塘已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/aqua_farm/init.lua:110
 msgctxt "frisians_building"
@@ -3692,7 +3692,7 @@ msgstr "没有花朵"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/beekeepers_house/init.lua:70
 msgid "Out of Flowers"
-msgstr "没有花朵资源了"
+msgstr "花朵已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/beekeepers_house/init.lua:71
 msgctxt "frisians_building"
@@ -3766,7 +3766,7 @@ msgstr "采煤"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/charcoal_burners_house/init.lua:109
 msgid "Out of Clay Ponds"
-msgstr "粘土池塘范围之外"
+msgstr "黏土池塘已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/charcoal_burners_house/init.lua:110
 msgctxt "frisians_building"
@@ -3801,7 +3801,7 @@ msgstr "没有土地"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/clay_pit/init.lua:87
 msgid "No Level Ground"
-msgstr "没有地坪"
+msgstr "没有平地"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/clay_pit/init.lua:88
 msgctxt "frisians_building"
@@ -3855,7 +3855,7 @@ msgstr "没有灌木"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/collectors_house/init.lua:70
 msgid "Out of Berries"
-msgstr "没有浆果资源了"
+msgstr "浆果已耗尽"
 
 #: ../../../../data/tribes/buildings/productionsites/frisians/collectors_house/init.lua:71
 msgctxt "frisians_building"
@@ -4301,7 +4301,7 @@ msgstr "士兵的防御从第1级升级到第2级"
 #: ../../../../data/tribes/buildings/trainingsites/amazons/warriors_gathering/init.lua:113
 msgctxt "amazons_building"
 msgid "No soldier to train!"
-msgstr "没有士兵训练！"
+msgstr "没有可训练的士兵！"
 
 #. TRANSLATORS: Amazon training site tooltip when none of the present soldiers
 #. match the current training program
@@ -4365,7 +4365,7 @@ msgstr "士兵的攻击从第3级升级到第4级"
 #: ../../../../data/tribes/buildings/trainingsites/atlanteans/labyrinth/init.lua:142
 msgctxt "atlanteans_building"
 msgid "No soldier to train!"
-msgstr "没有士兵训练！"
+msgstr "没有可训练的士兵！"
 
 #. TRANSLATORS: Atlantean training site tooltip when none of the present
 #. soldiers match the current training program
@@ -4435,7 +4435,7 @@ msgstr "士兵的闪避从第1级升级到第2级"
 #: ../../../../data/tribes/buildings/trainingsites/barbarians/trainingcamp/init.lua:204
 msgctxt "barbarians_building"
 msgid "No soldier to train!"
-msgstr "没有士兵训练！"
+msgstr "没有可训练的士兵！"
 
 #. TRANSLATORS: Barbarian training site tooltip when none of the present
 #. soldiers match the current training program
@@ -4518,7 +4518,7 @@ msgstr "士兵的闪避从0级升级到第1级"
 #: ../../../../data/tribes/buildings/trainingsites/empire/trainingcamp/init.lua:193
 msgctxt "empire_building"
 msgid "No soldier to train!"
-msgstr "没有士兵训练！"
+msgstr "没有可训练的士兵！"
 
 #. TRANSLATORS: Empire training site tooltip when none of the present soldiers
 #. match the current training program
@@ -4636,7 +4636,7 @@ msgstr "士兵的健康从第1级升级到第2级"
 #: ../../../../data/tribes/buildings/trainingsites/frisians/training_camp/init.lua:181
 msgctxt "frisians_building"
 msgid "No soldier to train!"
-msgstr "没有士兵训练！"
+msgstr "没有可训练的士兵！"
 
 #. TRANSLATORS: Frisian training site tooltip when none of the present
 #. soldiers match the current training program
@@ -7807,7 +7807,7 @@ msgstr "利古里亚号"
 #: ../../../../data/tribes/ships/empire/init.lua:123
 msgctxt "shipname"
 msgid "Lutius"
-msgstr "卢提乌斯号"
+msgstr "卢图斯号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:125
