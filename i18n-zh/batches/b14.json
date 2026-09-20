@@ -1,0 +1,956 @@
+[
+ {
+  "key": "21faddff18",
+  "msgid": "Cancel?",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "0fde53f67d",
+  "msgid": "Do you really want to cancel this trade agreement?",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "8f9a2b662b",
+  "msgid": "Extend Trade",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "5788ebff4e",
+  "msgid": "Select by how many batches you want to extend this trade:",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "8b5944713d",
+  "msgid": "Toggle indefinite trade",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "ad2227cdc9",
+  "msgid": "Batches:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "bb48d5e561",
+  "msgid": "Unpause?",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "6b16d4f9b3",
+  "msgid": "Do you really want to unpause this trade?\n\nDoing so will reset all queues to their maximum capacity.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "46e60c525e",
+  "msgid": "%u ship",
+  "zh": "",
+  "msgid_plural": "%u ships",
+  "note": "* TRANSLATORS: Number of ships that should attack. Used in the attack | window.",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "12b9ee2fa6",
+  "msgid": "%u soldier",
+  "zh": "",
+  "msgid_plural": "%u soldiers",
+  "note": "* TRANSLATORS: Number of soldiers that should attack. Used in the attack | window.",
+  "ui": "ui/game",
+  "current": "%u个士兵",
+  "terms": [
+   "Soldier = 士兵"
+  ]
+ },
+ {
+  "key": "f78c95cc1a",
+  "msgid": "Number of ships",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "dc1d7ff5e1",
+  "msgid": "Number of soldiers",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "士兵人数"
+ },
+ {
+  "key": "6ba1089e35",
+  "msgid": "Send less ships. Hold down Ctrl to send no ships",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "65cda15f89",
+  "msgid": "Send less soldiers. Hold down Ctrl to send no soldiers",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "少派些士兵。按住Ctrl键不派遣士兵 "
+ },
+ {
+  "key": "c936de31cc",
+  "msgid": "Send more ships. Hold down Ctrl to send as many ships as possible",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "9701a64e88",
+  "msgid": "Send more soldiers. Hold down Ctrl to send as many soldiers as possible",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "多派些士兵。按住Ctrl键派遣尽可能多的士兵"
+ },
+ {
+  "key": "29f7ce9bd4",
+  "msgid": "Start attack",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "发动攻击"
+ },
+ {
+  "key": "34c735d4d0",
+  "msgid": "Attackers:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "攻击者："
+ },
+ {
+  "key": "2b3bd4325e",
+  "msgid": "Click on a ship to remove her from the list of attackers",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Click = 单击",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "77edfaa382",
+  "msgid": "Click on a soldier to remove him from the list of attackers",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "点击一名士兵，将其从攻击者名单中删除 ",
+  "terms": [
+   "Soldier = 士兵",
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "9364daa1e7",
+  "msgid": "Hold down Ctrl to remove all ships from the list",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "8fa97dd7b4",
+  "msgid": "Hold down Ctrl to remove all soldiers from the list",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "按住Ctrl键从列表中删除所有士兵"
+ },
+ {
+  "key": "5e588a65fe",
+  "msgid": "Hold down Shift to remove all ships up to the one you’re pointing at",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "a77272e810",
+  "msgid": "Hold down Shift to remove all soldiers up to the one you’re pointing at",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "按住Shift键将所有士兵移动到你所指的位置"
+ },
+ {
+  "key": "af7436b45a",
+  "msgid": "Not attacking:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "不攻击："
+ },
+ {
+  "key": "68d0b1dc03",
+  "msgid": "Click on a ship to add her to the list of attackers",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Click = 单击",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "c772786101",
+  "msgid": "Click on a soldier to add him to the list of attackers",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "点击一名士兵，将他添加到攻击者名单中",
+  "terms": [
+   "Soldier = 士兵",
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "89dfd4ea36",
+  "msgid": "Hold down Ctrl to add all ships to the list",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "cb012b6842",
+  "msgid": "Hold down Ctrl to add all soldiers to the list",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "按住Ctrl键将所有士兵添加到列表中"
+ },
+ {
+  "key": "695bed1dd6",
+  "msgid": "Hold down Shift to add all ships up to the one you’re pointing at",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "a401d5f56c",
+  "msgid": "Hold down Shift to add all soldiers up to the one you’re pointing at",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "按住Shift键，将所有士兵添加到你所指的位置"
+ },
+ {
+  "key": "ebe0d8e265",
+  "msgid": "Destroy target",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "摧毁目标"
+ },
+ {
+  "key": "4e0bed852f",
+  "msgid": "Destroy the target building instead of conquering it",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "摧毁目标建筑而不是征服它",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "a74b682ea8",
+  "msgid": "Show Debug Window",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "显示调试窗口"
+ },
+ {
+  "key": "fef7fc4bca",
+  "msgid": "Center view on this",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "以此为视角中心"
+ },
+ {
+  "key": "2b2e23b39b",
+  "msgid": "%1$s  HP: %2$u/%3$u  AT: +%4$u%%",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "a175c13543",
+  "msgid": "HP: %1$u/%2$u  AT: %3$u/%4$u  DE: %5$u/%6$u  EV: %7$u/%8$u",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "健康：%1$u/%2$u 攻击：%3$u/%4$u 防御：%5$u/%6$u  闪避：%7$u/%8$u"
+ },
+ {
+  "key": "c310f7d04d",
+  "msgid": "Attack",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "攻击"
+ },
+ {
+  "key": "7186f6edec",
+  "msgid": "Low productivity threshold:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "低生产率阈值："
+ },
+ {
+  "key": "8b21026734",
+  "msgid": "Show previous building",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "显示上一栋建筑",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9ddabb8a77",
+  "msgid": "Show next building",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "显示下一栋建筑",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b23cce24a3",
+  "msgid": "Buildings will be considered unproductive if their productivity falls below this percentage",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "如果建筑物的生产率低于这个百分比，将被视为无产出的建筑物",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "3d80a5653c",
+  "msgid": "Small buildings",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "小型建筑",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "38a9b16e4b",
+  "msgid": "Medium buildings",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "中型建筑",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "4d62f79726",
+  "msgid": "Big buildings",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "大型建筑",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "7445ff84a0",
+  "msgid": "Mines",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "矿"
+ },
+ {
+  "key": "bbf0aaf33e",
+  "msgid": "Ports",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "港口"
+ },
+ {
+  "key": "29ee19b69c",
+  "msgid": "Building Statistics",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建筑统计",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "c0e89082c7",
+  "msgid": "Low productivity:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "低生产率："
+ },
+ {
+  "key": "63205eef90",
+  "msgid": "%1%/%2%",
+  "zh": "",
+  "note": "* TRANSLATORS: Buildings: owned / under construction | * TRANSLATORS: %1% = the experience a worker has | * TRANSLATORS: %2% = the experience a worker needs to reach the next level",
+  "ui": "ui/game",
+  "current": "%1%/%2%"
+ },
+ {
+  "key": "ddccf7112f",
+  "msgid": "Lacking soldiers:",
+  "zh": "",
+  "note": "* TRANSLATORS: Label for number of buildings that are waiting for soldiers",
+  "ui": "ui/game",
+  "current": "缺少士兵："
+ },
+ {
+  "key": "458e5cce64",
+  "msgid": "(no building selected)",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "（没有选中建筑）",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "f89f0e0530",
+  "msgid": "Owned:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "拥有："
+ },
+ {
+  "key": "d278790e54",
+  "msgid": "Under construction:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建设之中："
+ },
+ {
+  "key": "8d03ae0a66",
+  "msgid": "Muted – click to unmute",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "静音–单击取消静音",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "f52d800cb6",
+  "msgid": "Mute this building’s messages",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "把这栋建筑的信息调整为静默状态",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b5fb2a9a8f",
+  "msgid": "All buildings of this type are muted – click to unmute",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "此类型的所有建筑都已调整为静默状态 – 单击取消静默",
+  "terms": [
+   "Buildings = 建筑",
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "08244f355c",
+  "msgid": "Mute all buildings of this type",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "将所有此类建筑调整为静默状态",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "2926335ec7",
+  "msgid": "Continue",
+  "zh": "",
+  "note": "* TRANSLATORS: Stop/Continue toggle button for production sites.",
+  "ui": "ui/game",
+  "current": "继续"
+ },
+ {
+  "key": "d35f8f4e14",
+  "msgid": "Stop",
+  "zh": "",
+  "note": "* TRANSLATORS: Stop/Continue toggle button for production sites.",
+  "ui": "ui/game",
+  "current": "停止"
+ },
+ {
+  "key": "7538dfaf12",
+  "msgid": "Stop producing indefinitely",
+  "zh": "",
+  "note": "* TRANSLATORS: Infinite Production toggle button for production sites.",
+  "ui": "ui/game"
+ },
+ {
+  "key": "6596025f56",
+  "msgid": "Produce indefinitely regardless of the economy’s needs",
+  "zh": "",
+  "note": "* TRANSLATORS: Infinite Production toggle button for production sites.",
+  "ui": "ui/game",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "670a96f211",
+  "msgid": "Enhance to %s",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "升级至 %s"
+ },
+ {
+  "key": "764496fc5c",
+  "msgid": "Construction costs:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建设成本："
+ },
+ {
+  "key": "412351e258",
+  "msgid": "Destroy",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "摧毁"
+ },
+ {
+  "key": "ed5402b2e4",
+  "msgid": "Dismantle",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "拆除"
+ },
+ {
+  "key": "6bf98e7ba0",
+  "msgid": "Returns:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "可回收："
+ },
+ {
+  "key": "ca5286c825",
+  "msgid": "Watch the scout",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "观察侦察兵",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "cbe0786cad",
+  "msgid": "Hide work area",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "隐藏工作区域"
+ },
+ {
+  "key": "2e41565f01",
+  "msgid": "Show work area",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "显示工作区域"
+ },
+ {
+  "key": "acd75ee1dd",
+  "msgid": "Start an expedition",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "启动一次探险"
+ },
+ {
+  "key": "6f8788afcb",
+  "msgid": "Cancel the expedition",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "取消探险"
+ },
+ {
+  "key": "f282fd5118",
+  "msgid": "Chat",
+  "zh": "",
+  "ui": "ui/game, ui/wui",
+  "current": "聊天"
+ },
+ {
+  "key": "466c48c0bb",
+  "msgid": "Script Console",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's main menu",
+  "ui": "ui/game, ui/wui",
+  "current": "脚本控制台"
+ },
+ {
+  "key": "2141e8ed25",
+  "msgid": "Exit Game",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip | * TRANSLATORS: An entry in the game's main menu | * TRANSLATORS: This is the helptext for an access key combination.",
+  "ui": "ui/game, ui/wui",
+  "current": "退出游戏"
+ },
+ {
+  "key": "97046c9938",
+  "msgid": "Replace player with %s",
+  "zh": "",
+  "note": "* TRANSLATORS: Dropdown selection. Parameter is the name of the AI that | will be used as replacement for a disconnected player",
+  "ui": "ui/game",
+  "current": "使用%s替换游戏玩家",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "a0b09b1715",
+  "msgid": "Client got disconnected",
+  "zh": "",
+  "note": "* TRANSLATORS: Window label",
+  "ui": "ui/game",
+  "current": "客户端已断开连接"
+ },
+ {
+  "key": "568fab5188",
+  "msgid": "A player disconnected from the game. An automatic save game has been created. Do you want to continue playing?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "一个游戏玩家已经从游戏断开连接。游戏存档已自动创建。你想继续游戏吗？",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "b74244589d",
+  "msgid": "Continue game",
+  "zh": "",
+  "note": "* TRANSLATORS: Button text",
+  "ui": "ui/game",
+  "current": "继续游戏"
+ },
+ {
+  "key": "0504669507",
+  "msgid": "Replace the disconnected player with the selected AI and continue playing",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip",
+  "ui": "ui/game",
+  "current": "用选定的AI替换断开连接的游戏玩家并继续进行游戏",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "fc187e1c4a",
+  "msgid": "AI for the disconnected player",
+  "zh": "",
+  "note": "* TRANSLATORS: Dropdown tooltip to select the AI difficulty when a player | has | disconnected from a game",
+  "ui": "ui/game",
+  "current": "断开连接的游戏玩家的AI",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "4debe14676",
+  "msgid": "Send the builder away",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Builder = 建筑工人"
+  ]
+ },
+ {
+  "key": "9e8cfbb81f",
+  "msgid": "Building materials",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建筑材料",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "e66b8ec028",
+  "msgid": "Stopped",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "停止"
+ },
+ {
+  "key": "81025acdee",
+  "msgid": "Stop this building’s work after completion",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "完工后停止这栋建筑的工作",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "3a484bc930",
+  "msgid": "Normal policy",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "正常策略"
+ },
+ {
+  "key": "36cb30992d",
+  "msgid": "Preferably store selected wares here",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "最好在这里储存精选的物品",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "b77a2a1983",
+  "msgid": "Do not store selected wares here",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "不要把精选的物品存储在这里",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "bd2e6c567e",
+  "msgid": "Remove selected wares from here",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "把精选的物品从这里移走",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "18a435f5f9",
+  "msgid": "Ware settings to apply after construction",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建设完毕之后执行物品的设置"
+ },
+ {
+  "key": "91aabec2e5",
+  "msgid": "Worker settings to apply after construction",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建设完毕之后执行工人的设置"
+ },
+ {
+  "key": "5a439a8b8b",
+  "msgid": "Start an expedition from this port after completion",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建设完毕之后从这个港口启动一次探险",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "0f7aaac3a0",
+  "msgid": "Prefer rookies",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "较喜欢新手"
+ },
+ {
+  "key": "1db3dbfb3e",
+  "msgid": "Prefer heroes",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "较喜欢英雄"
+ },
+ {
+  "key": "89a756c465",
+  "msgid": "No preference",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "77dd41d717",
+  "msgid": "Settings to apply after construction",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建设完毕之后执行设置"
+ },
+ {
+  "key": "14aed7d3dc",
+  "msgid": "Decrease capacity. Hold down Ctrl to set the capacity to the lowest value",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "降低容量。按住Ctrl键可将容量设置为最低值"
+ },
+ {
+  "key": "dcc4a4dc79",
+  "msgid": "Increase capacity. Hold down Ctrl to set the capacity to the highest value",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "增加容量。按住Ctrl键可将容量设置为最高值"
+ },
+ {
+  "key": "ac80af9d25",
+  "msgid": "Debug Field",
+  "zh": "",
+  "note": "* TRANSLATORS: Title for a window that shows debug information for a field | on the map",
+  "ui": "ui/game",
+  "current": "调试区域"
+ },
+ {
+  "key": "5f74a0e914",
+  "msgid": "Leave",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "6e0ac1e5ea",
+  "msgid": "Leave your current team and become teamless",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "95f5ebfab3",
+  "msgid": "Resign",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "9a9e1379d1",
+  "msgid": "Give up and become a spectator",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "b29900b7c5",
+  "msgid": "Join",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "974d8ad9ea",
+  "msgid": "Request to join this player’s team",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Player = 玩家",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "d77d16d375",
+  "msgid": "Invite",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "8df7d36b87",
+  "msgid": "Invite this player to join your team",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Player = 玩家",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "24422ec4f1",
+  "msgid": "Trade offers you have received from other players",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "a3f1c9b716",
+  "msgid": "Trades you have proposed to other players",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "7a60419dc6",
+  "msgid": "Your active trade agreements",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "0e37c569a0",
+  "msgid": "No team",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "c998805e5b",
+  "msgid": "Team %u",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "团队%u",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "eb49aa0054",
+  "msgid": "Won at %s",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "c206f34489",
+  "msgid": "Lost at %s",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "2ce4c4cfed",
+  "msgid": "Resigned at %s",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "81a7f81ec6",
+  "msgid": "Approve",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "81d36eb973",
+  "msgid": "Reject",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "646e6a8c32",
+  "msgid": "Accept",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "30a2c07fa5",
+  "msgid": "Refuse",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "2e87923fde",
+  "msgid": "Retract",
+  "zh": "",
+  "ui": "ui/game"
+ }
+]

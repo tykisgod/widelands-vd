@@ -1,0 +1,938 @@
+[
+ {
+  "key": "3f73110c19",
+  "msgid": "List of games in your local network:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "本地网络游戏列表"
+ },
+ {
+  "key": "b019ea3591",
+  "msgid": "Your nickname:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "您的名字"
+ },
+ {
+  "key": "e614f1291d",
+  "msgid": "Host to connect:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "连接主机"
+ },
+ {
+  "key": "2577a70d1d",
+  "msgid": "Load previous host",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "载入先前的主机"
+ },
+ {
+  "key": "1aaa43fe1e",
+  "msgid": "Apply",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "应用"
+ },
+ {
+  "key": "69603dc855",
+  "msgid": "Language",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "语言"
+ },
+ {
+  "key": "2a5d17b878",
+  "msgid": "Window Size",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "窗口大小"
+ },
+ {
+  "key": "f8bc997503",
+  "msgid": "Display",
+  "zh": "",
+  "msgctxt": "multiscreen",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "88be90b266",
+  "msgid": "Let the system draw the mouse cursor",
+  "zh": "",
+  "note": "* TRANSLATORS: short description for the sdl_cursor option",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "57c223e92e",
+  "msgid": "If in doubt, leave this enabled. When disabled, cursor updates may be slow and the cursor appears frozen during long operations. Disable it only if the cursor doesn’t appear right, or if you want it to be visible in screenshots or screencasts.",
+  "zh": "",
+  "note": "* TRANSLATORS: tooltip text for the sdl_cursor option",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "e67752bae4",
+  "msgid": "Accessibility mode for tooltips",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "工具提示的辅助模式"
+ },
+ {
+  "key": "2eaae2ce73",
+  "msgid": "Dock windows to edges",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "将窗口停靠到边缘"
+ },
+ {
+  "key": "e93fcc7d2a",
+  "msgid": "Distance for windows to snap to other panels:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "窗口吸附到其他面板的距离"
+ },
+ {
+  "key": "7552faae65",
+  "msgid": "Distance for windows to snap to borders:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "窗口吸附到边界的距离"
+ },
+ {
+  "key": "104c959210",
+  "msgid": "User interface scaling factor",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "95a9b12154",
+  "msgid": "Edit keyboard and mouse actions…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "编辑键盘和鼠标操作..."
+ },
+ {
+  "key": "eefc7b7f43",
+  "msgid": "Save game automatically every:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "自动保存游戏的时间间隔："
+ },
+ {
+  "key": "66e1a63696",
+  "msgid": "Maximum number of autosave files:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "自动保存文件的最大数目："
+ },
+ {
+  "key": "708d343847",
+  "msgid": "Delete replays after:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5e7c740f35",
+  "msgid": "Skip autosaves while inactive",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7799005929",
+  "msgid": "Compress Widelands data files (maps, replays, and savegames)",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "6d41ce38be",
+  "msgid": "Keep history of sent chat messages in a file",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "aaa2e6b4f3",
+  "msgid": "Show Census",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/wui",
+  "current": "显示普查数据"
+ },
+ {
+  "key": "6837d58222",
+  "msgid": "Show Status",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/wui",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "2fc143e44a",
+  "msgid": "Show Soldier Levels",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/wui",
+  "current": "显示士兵层级",
+  "terms": [
+   "Soldier = 士兵"
+  ]
+ },
+ {
+  "key": "dd4828d6da",
+  "msgid": "Show Buildings",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/wui",
+  "current": "显示建筑",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "38dd82b529",
+  "msgid": "Show Workarea Overlaps",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's show/hide menu to toggle whether | workarea overlaps | * are highlighted",
+  "ui": "ui/fsmenu, ui/wui",
+  "current": "显示叠加的工作区域"
+ },
+ {
+  "key": "6f7d757686",
+  "msgid": "Pause game when inactive for:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "8b7d9502fc",
+  "msgid": "Start building road after placing a flag",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "放置旗帜后开始筑路",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "e4e08baa2f",
+  "msgid": "Show in-game chat with transparent background",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "游戏内的聊天使用透明背景"
+ },
+ {
+  "key": "5aaf2e1e4d",
+  "msgid": "Use single watchwindow mode",
+  "zh": "",
+  "note": "* TRANSLATORS: A watchwindow is a window where you keep watching an object | or a map region, | * TRANSLATORS: and it also lets you jump to it on the map.",
+  "ui": "ui/fsmenu",
+  "current": "使用单一监视窗口模式"
+ },
+ {
+  "key": "372a2fba5b",
+  "msgid": "Display system time in the info panel",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "在信息面板上显示系统时间"
+ },
+ {
+  "key": "3954087ece",
+  "msgid": "Allow diagonal scrolling with the numeric keypad",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "允许使用数字键盘进行对角滚动"
+ },
+ {
+  "key": "1b5e568349",
+  "msgid": "Scroll when the mouse cursor is near the screen edge",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "当鼠标光标靠近屏幕边缘时滚动"
+ },
+ {
+  "key": "8806b2a44d",
+  "msgid": "Invert click-and-drag map movement direction",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "2105c36af9",
+  "msgid": "Animate automatic map movements",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "把地图自动移动制作成动画片"
+ },
+ {
+  "key": "b20944ac7d",
+  "msgid": "Teach me how to play",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "教我如何玩游戏"
+ },
+ {
+  "key": "af72820ee4",
+  "msgid": "Progress…",
+  "zh": "",
+  "note": "* TRANSLATORS: Button to bring up a window to edit teaching progress in the | Options",
+  "ui": "ui/fsmenu",
+  "current": "进度..."
+ },
+ {
+  "key": "42a916febe",
+  "msgid": "Interface",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "接口"
+ },
+ {
+  "key": "e6db6b48e2",
+  "msgid": "Sound",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "声音"
+ },
+ {
+  "key": "6e66b5134c",
+  "msgid": "Saving",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "保存"
+ },
+ {
+  "key": "3417b4c8be",
+  "msgid": "New Games",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "新游戏"
+ },
+ {
+  "key": "a85a46f484",
+  "msgid": "In-Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "在游戏内"
+ },
+ {
+  "key": "1074af3609",
+  "msgid": "User interface scaling factor:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "88f5846ca0",
+  "msgid": "Off",
+  "zh": "",
+  "note": "* TRANSLATORS: Options: Save game automatically every:",
+  "ui": "ui/fsmenu",
+  "current": "关"
+ },
+ {
+  "key": "5d836a2aec",
+  "msgid": "Never",
+  "zh": "",
+  "note": "* TRANSLATORS: Options: Delete replays after:",
+  "ui": "ui/fsmenu",
+  "current": "永不"
+ },
+ {
+  "key": "f2e72c135e",
+  "msgid": "Follow mouse",
+  "zh": "",
+  "msgctxt": "multiscreen",
+  "note": "* TRANSLATORS: Entry in the display selection dropdown",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "b1fd939946",
+  "msgid": "#%1% (%2%, %3%, %4%, %5%)",
+  "zh": "",
+  "note": "* TRANSLATORS: Display index and virtual coordinates, e.g, '#0 (0, 0, 1920, | 1080)'",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ba2d36f28b",
+  "msgid": "Fullscreen",
+  "zh": "",
+  "note": "* TRANSLATORS: Entry in the window size dropdown",
+  "ui": "ui/fsmenu",
+  "current": "全屏"
+ },
+ {
+  "key": "2d2a6618e5",
+  "msgid": "Maximized",
+  "zh": "",
+  "note": "* TRANSLATORS: Entry in the window size dropdown",
+  "ui": "ui/fsmenu",
+  "current": "最大化"
+ },
+ {
+  "key": "8fcdc985e3",
+  "msgid": "%1% × %2%",
+  "zh": "",
+  "note": "* TRANSLATORS: Screen resolution, e.g. 800 × 600",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "857fcfdbcf",
+  "msgid": "Try system language",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "尝试系统语言"
+ },
+ {
+  "key": "2e217b6f3a",
+  "msgid": "The translation into %s is complete.",
+  "zh": "",
+  "note": "* TRANSLATORS: %s = language name",
+  "ui": "ui/fsmenu",
+  "current": " %s翻译已完成。"
+ },
+ {
+  "key": "6b72332469",
+  "msgid": "The translation into %1% is %2%%% complete.",
+  "zh": "",
+  "note": "* TRANSLATORS: %1% = language name, %2% = percentage",
+  "ui": "ui/fsmenu",
+  "current": "%1%翻译已完成%2%%%。"
+ },
+ {
+  "key": "fdd511d3c0",
+  "msgid": "If you wish to help us translate, please visit %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "如果你想帮助我们翻译，请访问%s"
+ },
+ {
+  "key": "e851afd934",
+  "msgid": "%d×",
+  "zh": "",
+  "msgctxt": "ui_scaling_factor",
+  "note": "* TRANSLATORS: This is a UI scaling integer value of the form \"2×\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "9fe2f82b90",
+  "msgid": "%.1f×",
+  "zh": "",
+  "msgctxt": "ui_scaling_factor",
+  "note": "* TRANSLATORS: This is a UI scaling integer value of the form \"1.5×\" or | \"1,5×\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "26f4b66aa9",
+  "msgid": "%.2f×",
+  "zh": "",
+  "msgctxt": "ui_scaling_factor",
+  "note": "* TRANSLATORS: This is a UI scaling integer value of the form \"1.25×\" or | \"1,75×\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "e75550f4be",
+  "msgid": "Map Generation Error",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "地图生成错误"
+ },
+ {
+  "key": "2572e26292",
+  "msgid": "The random map generator was unable to generate a suitable map. This happens occasionally because the generator is still in beta stage. Please try again with slightly different settings.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "随机地图生成器不能生成合适的地图。这种情况偶尔发生，因为生成器仍处于beta阶段。请稍微调整设置之后重试。",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "992c248a1b",
+  "msgid": "The random map generator is still in beta stage. The maps it generates are usually – but not always – well playable. Seafaring and artifacts are not supported. Add-ons of the Tribes and Script categories are disabled in random matches.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Artifacts = 远古遗物",
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容",
+   "Random = 随机",
+   "Well = 井"
+  ]
+ },
+ {
+  "key": "9314a019b3",
+  "msgid": "Return to campaign selection",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "返回战役选项"
+ },
+ {
+  "key": "b11fa42ba0",
+  "msgid": "Play this scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "进入这个场景"
+ },
+ {
+  "key": "4a8b23c89e",
+  "msgid": "Play this tutorial",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "进入此教程"
+ },
+ {
+  "key": "a010dd8b0c",
+  "msgid": "The order in which the tutorials should be played",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "教程应该遵循的进行顺序"
+ },
+ {
+  "key": "52f78e83cd",
+  "msgid": "Tutorial Name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "教程名称",
+  "terms": [
+   "Name = 船名",
+   "Name = 玩家名称",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "73a713e433",
+  "msgid": "The number of this scenario in the campaign",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "战役中的场景数"
+ },
+ {
+  "key": "220f52907c",
+  "msgid": "Scenario Name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "场景名称",
+  "terms": [
+   "Name = 船名",
+   "Name = 玩家名称",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "5b2bfb420d",
+  "msgid": "#",
+  "zh": "",
+  "note": "* TRANSLATORS: Campaign scenario number table header",
+  "ui": "ui/fsmenu",
+  "current": "#"
+ },
+ {
+  "key": "ef98a5460d",
+  "msgid": "Invalid path to file in campaigns.lua of tutorials.lua: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "campaigns.lua 中的文件路径无效 在  tutorials.lua：%s"
+ },
+ {
+  "key": "d6d8f11bb1",
+  "msgid": "Choose Scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "选择场景"
+ },
+ {
+  "key": "512708901c",
+  "msgid": "Choose Tutorial",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "选择教程"
+ },
+ {
+  "key": "647b805ef4",
+  "msgid": "Pick a tutorial from the list, then hit “OK”.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "从列表中选择一个教程，然后点击“确认”。",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "33f8359124",
+  "msgid": "You can see a description of the currently selected tutorial on the right.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "你可以在右边看到当前所选择的教程描述。"
+ },
+ {
+  "key": "8dc1ffe2cf",
+  "msgid": "Tutorial",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "教程"
+ },
+ {
+  "key": "772f6f9d15",
+  "msgid": "Author",
+  "zh": "",
+  "note": "* TRANSLATORS: Label in campaign scenario details if there is 1 author | * TRANSLATORS: Label in map details if there is 1 author",
+  "ui": "ui/fsmenu, ui/shared",
+  "current": "作者"
+ },
+ {
+  "key": "20d7adf411",
+  "msgid": "Authors",
+  "zh": "",
+  "note": "* TRANSLATORS: Label in campaign scenario details if there is more than 1 | author. If | you need plural forms here, please let us know. | * TRANSLATORS: Label in map details if there is more than 1 author. If you | need plural | forms here, please let us know.",
+  "ui": "ui/fsmenu, ui/shared",
+  "current": "作者"
+ },
+ {
+  "key": "31f4b2ec74",
+  "msgid": "You",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the \"name\" of the single player",
+  "ui": "ui/fsmenu",
+  "current": "你"
+ },
+ {
+  "key": "1e99e01ad2",
+  "msgid": "Using SDL version:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "b758c05f24",
+  "msgid": "SDL video driver:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "16213446dd",
+  "msgid": "SDL horizontal scroll:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "4c22377783",
+  "msgid": "assuming inverted",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a15af601b7",
+  "msgid": "Locale:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "c5422e3cbb",
+  "msgid": "Home Directory:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "6c0e487e05",
+  "msgid": "Configuration File:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "配置文件："
+ },
+ {
+  "key": "b1797de60e",
+  "msgid": "Data Directory:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "数据目录：",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "00e08ec5cd",
+  "msgid": "Locale Directory:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "6a6d0a2205",
+  "msgid": "Executable Directory:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "3ac1620fa7",
+  "msgid": "Enabled Add-Ons:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "9ac4ee35a7",
+  "msgid": "Inactive Installed Add-Ons:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "1909d497fc",
+  "msgid": "Copy the technical report to the clipboard",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "复制技术报告到剪贴板"
+ },
+ {
+  "key": "5899a9e764",
+  "msgid": "MacOS",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "MacOS"
+ },
+ {
+  "key": "84c12e5181",
+  "msgid": "Windows (64 bit)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "Windows (64 bit)"
+ },
+ {
+  "key": "072db04eaf",
+  "msgid": "Windows (32 bit)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "Windows (32 bit)"
+ },
+ {
+  "key": "efe264f440",
+  "msgid": "Linux",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "Linux"
+ },
+ {
+  "key": "d4d1358e04",
+  "msgid": "FreeBSD",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "FreeBSD"
+ },
+ {
+  "key": "64d9893e60",
+  "msgid": "Unix",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "Unix"
+ },
+ {
+  "key": "7363cef039",
+  "msgid": "Unknown",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "未知"
+ },
+ {
+  "key": "ac2a75c0d8",
+  "msgid": "Operating System:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "操作系统："
+ },
+ {
+  "key": "12ea6c1ed1",
+  "msgid": "Compiled with SDL version:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "22a387cbe3",
+  "msgid": "Mark All",
+  "zh": "",
+  "note": "* TRANSLATORS: Button label to mark or unmark all checkboxes in an options | window",
+  "ui": "ui/fsmenu",
+  "current": "标记全部"
+ },
+ {
+  "key": "adc3befc34",
+  "msgid": "Unmark All",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "取消全部"
+ },
+ {
+  "key": "b9f619a63f",
+  "msgid": "Edit Teaching Progress",
+  "zh": "",
+  "msgctxt": "teaching_progress",
+  "note": "* TRANSLATORS: Window Title in Options",
+  "ui": "ui/fsmenu",
+  "current": "编辑教学进度"
+ },
+ {
+  "key": "04ae9a71cc",
+  "msgid": "Teaching objectives",
+  "zh": "",
+  "msgctxt": "teaching_progress",
+  "note": "* TRANSLATORS: Title above a list",
+  "ui": "ui/fsmenu",
+  "current": "教学目标"
+ },
+ {
+  "key": "8b39c6dd20",
+  "msgid": "Destroy building?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "摧毁建筑？",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "ff526adc6d",
+  "msgid": "Do you really want to destroy this building?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "你真的想摧毁这栋建筑吗？ ",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "c39132a8d7",
+  "msgid": "Dismantle building?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "拆除建筑？",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "8ccc435c1b",
+  "msgid": "Do you really want to dismantle this building?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "你真的想拆除这栋建筑吗？ ",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "a880062c06",
+  "msgid": "Preserve wares",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "保存物品",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "547a1c73de",
+  "msgid": "Any wares left in the building will be dropped out by the builder, increasing the dismantling time",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建筑者会把留在大楼里的所有物品都扔掉，从而延长拆卸时间",
+  "terms": [
+   "Building = 建筑",
+   "Builder = 建筑工人",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a0d918ca98",
+  "msgid": "Enhance building?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "升级建筑？",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "8945acbbbd",
+  "msgid": "Do you really want to enhance this building?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "你真的想把这栋建筑升级吗？ ",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "847f752a04",
+  "msgid": "Be careful if the enemy is near!",
+  "zh": "",
+  "note": "* TRANSLATORS: Warning message when player wants to enhance a military | building",
+  "ui": "ui/game",
+  "current": "敌人在附近的时候一定要小心！",
+  "terms": [
+   "Be careful = 注意"
+  ]
+ },
+ {
+  "key": "1bba760fca",
+  "msgid": "Any wares left in the building will be dropped out by the builder, increasing the enhancing time",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建筑者会把留在大楼里的所有物品都扔掉，从而延长升级时间",
+  "terms": [
+   "Building = 建筑",
+   "Builder = 建筑工人",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "7430b50b4a",
+  "msgid": "Sink the ship?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "沉掉这艘船？",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "b8d1a6883f",
+  "msgid": "Do you really want to sink %s?",
+  "zh": "",
+  "note": "* TRANSLATORS: %s is a ship name",
+  "ui": "ui/game",
+  "current": "你真的想沉掉%s吗？"
+ },
+ {
+  "key": "ab8a855daf",
+  "msgid": "Cancel expedition?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "取消探险？"
+ },
+ {
+  "key": "563a1bd586",
+  "msgid": "Do you really want to cancel the active expedition?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "你真的想放弃已激活的探险？"
+ },
+ {
+  "key": "4c548ecdf1",
+  "msgid": "Do you really want to give up and become a spectator?",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "f8a0420811",
+  "msgid": "Resign?",
+  "zh": "",
+  "ui": "ui/game"
+ }
+]

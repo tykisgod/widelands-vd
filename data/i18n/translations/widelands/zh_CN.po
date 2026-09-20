@@ -7694,19 +7694,19 @@ msgstr "开始局域网游戏"
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:48
 msgid "List of games in your local network:"
-msgstr "本地网络游戏列表"
+msgstr "本地网络中的游戏列表："
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:60
 msgid "Your nickname:"
-msgstr "您的名字"
+msgstr "你的昵称："
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:70
 msgid "Host to connect:"
-msgstr "连接主机"
+msgstr "要连接的主机："
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:83
 msgid "Load previous host"
-msgstr "载入先前的主机"
+msgstr "载入上次的主机"
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:100
 msgid "Host a new game"
@@ -7745,7 +7745,7 @@ msgstr "输入的主机名或地址无效，无法连接。"
 #, c-format
 msgctxt "ui_scaling_factor"
 msgid "%d×"
-msgstr ""
+msgstr "%d×"
 
 #. * TRANSLATORS: This is a UI scaling integer value of the form "1.5×" or
 #. "1,5×"
@@ -7753,7 +7753,7 @@ msgstr ""
 #, c-format
 msgctxt "ui_scaling_factor"
 msgid "%.1f×"
-msgstr ""
+msgstr "%.1f×"
 
 #. * TRANSLATORS: This is a UI scaling integer value of the form "1.25×" or
 #. "1,75×"
@@ -7761,7 +7761,7 @@ msgstr ""
 #, c-format
 msgctxt "ui_scaling_factor"
 msgid "%.2f×"
-msgstr ""
+msgstr "%.2f×"
 
 #: ../../../../src/ui/fsmenu/options.cc:117
 msgid "Apply"
@@ -7778,12 +7778,12 @@ msgstr "窗口大小"
 #: ../../../../src/ui/fsmenu/options.cc:182
 msgctxt "multiscreen"
 msgid "Display"
-msgstr ""
+msgstr "显示器"
 
 #. * TRANSLATORS: short description for the sdl_cursor option
 #: ../../../../src/ui/fsmenu/options.cc:191
 msgid "Let the system draw the mouse cursor"
-msgstr ""
+msgstr "由系统绘制鼠标指针"
 
 #. * TRANSLATORS: tooltip text for the sdl_cursor option
 #: ../../../../src/ui/fsmenu/options.cc:193
@@ -7792,70 +7792,70 @@ msgid ""
 "and the cursor appears frozen during long operations. Disable it only if the"
 " cursor doesn’t appear right, or if you want it to be visible in screenshots"
 " or screencasts."
-msgstr ""
+msgstr "拿不准就保持开启。关闭后指针更新可能变慢，长时间操作期间指针会显得卡住。只有当指针显示不正常，或你希望它出现在截图和录屏中时，才关闭它。"
 
 #: ../../../../src/ui/fsmenu/options.cc:202
 msgid "Accessibility mode for tooltips"
-msgstr "工具提示的辅助模式"
+msgstr "工具提示无障碍模式"
 
 #: ../../../../src/ui/fsmenu/options.cc:212
 msgid "Dock windows to edges"
-msgstr "将窗口停靠到边缘"
+msgstr "窗口吸附到边缘"
 
 #: ../../../../src/ui/fsmenu/options.cc:222
 msgid "Distance for windows to snap to other panels:"
-msgstr "窗口吸附到其他面板的距离"
+msgstr "窗口吸附到其他面板的距离："
 
 #: ../../../../src/ui/fsmenu/options.cc:232
 msgid "Distance for windows to snap to borders:"
-msgstr "窗口吸附到边界的距离"
+msgstr "窗口吸附到边界的距离："
 
 #: ../../../../src/ui/fsmenu/options.cc:244
 msgid "User interface scaling factor"
-msgstr ""
+msgstr "界面缩放比例"
 
 #: ../../../../src/ui/fsmenu/options.cc:254
 msgid "Edit keyboard and mouse actions…"
-msgstr "编辑键盘和鼠标操作..."
+msgstr "编辑键盘与鼠标操作…"
 
 #: ../../../../src/ui/fsmenu/options.cc:267
 msgid "Save game automatically every:"
-msgstr "自动保存游戏的时间间隔："
+msgstr "自动保存间隔："
 
 #: ../../../../src/ui/fsmenu/options.cc:278
 msgid "Maximum number of autosave files:"
-msgstr "自动保存文件的最大数目："
+msgstr "自动存档最大数量："
 
 #: ../../../../src/ui/fsmenu/options.cc:291
 msgid "Delete replays after:"
-msgstr ""
+msgstr "回放保留时长："
 
 #: ../../../../src/ui/fsmenu/options.cc:301
 msgid "Skip autosaves while inactive"
-msgstr ""
+msgstr "闲置时跳过自动保存"
 
 #: ../../../../src/ui/fsmenu/options.cc:308
 msgid "Compress Widelands data files (maps, replays, and savegames)"
-msgstr ""
+msgstr "压缩 Widelands 数据文件（地图、回放与存档）"
 
 #: ../../../../src/ui/fsmenu/options.cc:316
 msgid "Keep history of sent chat messages in a file"
-msgstr ""
+msgstr "把发出的聊天消息记录到文件"
 
 #: ../../../../src/ui/fsmenu/options.cc:327
 #: ../../../../src/ui/wui/interactive_gamebase.cc:278
 msgid "Show Census"
-msgstr "显示普查数据"
+msgstr "显示名称"
 
 #: ../../../../src/ui/fsmenu/options.cc:329
 #: ../../../../src/ui/wui/interactive_gamebase.cc:287
 msgid "Show Status"
-msgstr ""
+msgstr "显示状态"
 
 #: ../../../../src/ui/fsmenu/options.cc:334
 #: ../../../../src/ui/wui/interactive_gamebase.cc:296
 msgid "Show Soldier Levels"
-msgstr "显示士兵层级"
+msgstr "显示士兵等级"
 
 #: ../../../../src/ui/fsmenu/options.cc:336
 #: ../../../../src/ui/wui/interactive_gamebase.cc:305
@@ -7868,19 +7868,19 @@ msgstr "显示建筑"
 #: ../../../../src/ui/fsmenu/options.cc:341
 #: ../../../../src/ui/wui/interactive_player.cc:381
 msgid "Show Workarea Overlaps"
-msgstr "显示叠加的工作区域"
+msgstr "显示工作范围重叠"
 
 #: ../../../../src/ui/fsmenu/options.cc:351
 msgid "Pause game when inactive for:"
-msgstr ""
+msgstr "闲置多久后暂停游戏："
 
 #: ../../../../src/ui/fsmenu/options.cc:361
 msgid "Start building road after placing a flag"
-msgstr "放置旗帜后开始筑路"
+msgstr "放置旗帜后立即开始修路"
 
 #: ../../../../src/ui/fsmenu/options.cc:366
 msgid "Show in-game chat with transparent background"
-msgstr "游戏内的聊天使用透明背景"
+msgstr "游戏内聊天使用透明背景"
 
 #. * TRANSLATORS: A watchwindow is a window where you keep watching an object
 #. or a map region,
@@ -7891,37 +7891,37 @@ msgstr "使用单一监视窗口模式"
 
 #: ../../../../src/ui/fsmenu/options.cc:382
 msgid "Display system time in the info panel"
-msgstr "在信息面板上显示系统时间"
+msgstr "在信息面板中显示系统时间"
 
 #: ../../../../src/ui/fsmenu/options.cc:387
 msgid "Allow diagonal scrolling with the numeric keypad"
-msgstr "允许使用数字键盘进行对角滚动"
+msgstr "允许用小键盘进行对角滚动"
 
 #: ../../../../src/ui/fsmenu/options.cc:392
 msgid "Scroll when the mouse cursor is near the screen edge"
-msgstr "当鼠标光标靠近屏幕边缘时滚动"
+msgstr "鼠标指针靠近屏幕边缘时滚动画面"
 
 #: ../../../../src/ui/fsmenu/options.cc:397
 msgid "Invert click-and-drag map movement direction"
-msgstr ""
+msgstr "反转拖拽地图的移动方向"
 
 #: ../../../../src/ui/fsmenu/options.cc:402
 msgid "Animate automatic map movements"
-msgstr "把地图自动移动制作成动画片"
+msgstr "地图自动移动时显示动画"
 
 #: ../../../../src/ui/fsmenu/options.cc:411
 msgid "Teach me how to play"
-msgstr "教我如何玩游戏"
+msgstr "教我怎么玩"
 
 #. * TRANSLATORS: Button to bring up a window to edit teaching progress in the
 #. Options
 #: ../../../../src/ui/fsmenu/options.cc:421
 msgid "Progress…"
-msgstr "进度..."
+msgstr "进度…"
 
 #: ../../../../src/ui/fsmenu/options.cc:439
 msgid "Interface"
-msgstr "接口"
+msgstr "界面"
 
 #: ../../../../src/ui/fsmenu/options.cc:440
 msgid "Sound"
@@ -7937,11 +7937,11 @@ msgstr "新游戏"
 
 #: ../../../../src/ui/fsmenu/options.cc:443
 msgid "In-Game"
-msgstr "在游戏内"
+msgstr "游戏内"
 
 #: ../../../../src/ui/fsmenu/options.cc:468
 msgid "User interface scaling factor:"
-msgstr ""
+msgstr "界面缩放比例："
 
 #. * TRANSLATORS: Options: Save game automatically every:
 #: ../../../../src/ui/fsmenu/options.cc:552
@@ -7958,13 +7958,13 @@ msgstr "永不"
 #: ../../../../src/ui/fsmenu/options.cc:610
 msgctxt "multiscreen"
 msgid "Follow mouse"
-msgstr ""
+msgstr "跟随鼠标"
 
 #. * TRANSLATORS: Display index and virtual coordinates, e.g, '#0 (0, 0, 1920,
 #. 1080)'
 #: ../../../../src/ui/fsmenu/options.cc:616
 msgid "#%1% (%2%, %3%, %4%, %5%)"
-msgstr ""
+msgstr "#%1%（%2%, %3%, %4%, %5%）"
 
 #. * TRANSLATORS: Entry in the window size dropdown
 #: ../../../../src/ui/fsmenu/options.cc:631
@@ -7980,7 +7980,7 @@ msgstr "最大化"
 #: ../../../../src/ui/fsmenu/options.cc:650
 #: ../../../../src/ui/fsmenu/options.cc:658
 msgid "%1% × %2%"
-msgstr ""
+msgstr "%1% × %2%"
 
 #: ../../../../src/ui/fsmenu/options.cc:711
 msgid "Try system language"
@@ -7990,17 +7990,17 @@ msgstr "尝试系统语言"
 #: ../../../../src/ui/fsmenu/options.cc:823
 #, c-format
 msgid "The translation into %s is complete."
-msgstr " %s翻译已完成。"
+msgstr "%s 的翻译已完成。"
 
 #. * TRANSLATORS: %1% = language name, %2% = percentage
 #: ../../../../src/ui/fsmenu/options.cc:827
 msgid "The translation into %1% is %2%%% complete."
-msgstr "%1%翻译已完成%2%%%。"
+msgstr "%1% 的翻译已完成 %2%%%。"
 
 #: ../../../../src/ui/fsmenu/options.cc:839
 #, c-format
 msgid "If you wish to help us translate, please visit %s"
-msgstr "如果你想帮助我们翻译，请访问%s"
+msgstr "如果你愿意帮忙翻译，请访问 %s"
 
 #: ../../../../src/ui/fsmenu/random_game.cc:73
 msgid ""
@@ -8008,7 +8008,7 @@ msgid ""
 "usually – but not always – well playable. Seafaring and artifacts are not "
 "supported. Add-ons of the Tribes and Script categories are disabled in "
 "random matches."
-msgstr ""
+msgstr "随机地图生成器仍处于测试阶段。它生成的地图通常可玩，但并非总是如此。不支持航海与远古遗物。随机对局中会禁用「部族」和「脚本」类别的附加内容。"
 
 #: ../../../../src/ui/fsmenu/random_game.cc:127
 msgid "Map Generation Error"
@@ -8019,11 +8019,11 @@ msgid ""
 "The random map generator was unable to generate a suitable map. This happens"
 " occasionally because the generator is still in beta stage. Please try again"
 " with slightly different settings."
-msgstr "随机地图生成器不能生成合适的地图。这种情况偶尔发生，因为生成器仍处于beta阶段。请稍微调整设置之后重试。"
+msgstr "随机地图生成器未能生成合适的地图。这种情况偶有发生，因为生成器仍处于测试阶段。请稍微调整设置后重试。"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:47
 msgid "Choose Scenario"
-msgstr "选择场景"
+msgstr "选择剧本"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:47
 msgid "Choose Tutorial"
@@ -8031,28 +8031,28 @@ msgstr "选择教程"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:87
 msgid "Pick a tutorial from the list, then hit “OK”."
-msgstr "从列表中选择一个教程，然后点击“确认”。"
+msgstr "从列表中挑一个教程，然后点「确定」。"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:89
 msgid ""
 "You can see a description of the currently selected tutorial on the right."
-msgstr "你可以在右边看到当前所选择的教程描述。"
+msgstr "右侧可以看到当前所选教程的说明。"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:106
 msgid "Return to campaign selection"
-msgstr "返回战役选项"
+msgstr "返回战役选择"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:107
 msgid "Play this scenario"
-msgstr "进入这个场景"
+msgstr "开始这个剧本"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:107
 msgid "Play this tutorial"
-msgstr "进入此教程"
+msgstr "开始这个教程"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:128
 msgid "The order in which the tutorials should be played"
-msgstr "教程应该遵循的进行顺序"
+msgstr "建议的教程进行顺序"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:129
 msgid "Tutorial Name"
@@ -8060,11 +8060,11 @@ msgstr "教程名称"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:131
 msgid "The number of this scenario in the campaign"
-msgstr "战役中的场景数"
+msgstr "该剧本在战役中的序号"
 
 #: ../../../../src/ui/fsmenu/scenario_select.cc:132
 msgid "Scenario Name"
-msgstr "场景名称"
+msgstr "剧本名称"
 
 #. * TRANSLATORS: Campaign scenario number table header
 #: ../../../../src/ui/fsmenu/scenario_select.cc:136
@@ -8074,7 +8074,7 @@ msgstr "#"
 #: ../../../../src/ui/fsmenu/scenario_select.cc:265
 #, c-format
 msgid "Invalid path to file in campaigns.lua of tutorials.lua: %s"
-msgstr "campaigns.lua 中的文件路径无效 在  tutorials.lua：%s"
+msgstr "campaigns.lua 或 tutorials.lua 中的文件路径无效：%s"
 
 #: ../../../../src/ui/fsmenu/scenariodetails.cc:47
 msgid "Tutorial"
@@ -8137,31 +8137,31 @@ msgstr "操作系统："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:95
 msgid "Compiled with SDL version:"
-msgstr ""
+msgstr "编译时的 SDL 版本："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:102
 msgid "Using SDL version:"
-msgstr ""
+msgstr "使用的 SDL 版本："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:108
 msgid "SDL video driver:"
-msgstr ""
+msgstr "SDL 视频驱动："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:113
 msgid "SDL horizontal scroll:"
-msgstr ""
+msgstr "SDL 横向滚动："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:113
 msgid "assuming inverted"
-msgstr ""
+msgstr "按反转处理"
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:117
 msgid "Locale:"
-msgstr ""
+msgstr "区域设置："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:118
 msgid "Home Directory:"
-msgstr ""
+msgstr "主目录："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:119
 msgid "Configuration File:"
@@ -8173,23 +8173,23 @@ msgstr "数据目录："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:121
 msgid "Locale Directory:"
-msgstr ""
+msgstr "语言目录："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:123
 msgid "Executable Directory:"
-msgstr ""
+msgstr "可执行文件目录："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:126
 msgid "Enabled Add-Ons:"
-msgstr ""
+msgstr "已启用的附加内容："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:128
 msgid "Inactive Installed Add-Ons:"
-msgstr ""
+msgstr "已安装但未启用的附加内容："
 
 #: ../../../../src/ui/fsmenu/tech_info.cc:239
 msgid "Copy the technical report to the clipboard"
-msgstr "复制技术报告到剪贴板"
+msgstr "把技术报告复制到剪贴板"
 
 #. * TRANSLATORS: Window Title in Options
 #: ../../../../src/ui/fsmenu/training_wheel_options.cc:42
@@ -8207,11 +8207,11 @@ msgstr "教学目标"
 #. window
 #: ../../../../src/ui/fsmenu/training_wheel_options.cc:181
 msgid "Mark All"
-msgstr "标记全部"
+msgstr "全部勾选"
 
 #: ../../../../src/ui/fsmenu/training_wheel_options.cc:181
 msgid "Unmark All"
-msgstr "取消全部"
+msgstr "全部取消"
 
 #: ../../../../src/ui/game/actionconfirm.cc:271
 msgid "Destroy building?"
@@ -8219,7 +8219,7 @@ msgstr "摧毁建筑？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:272
 msgid "Do you really want to destroy this building?"
-msgstr "你真的想摧毁这栋建筑吗？ "
+msgstr "确定要摧毁这座建筑吗？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:332
 msgid "Dismantle building?"
@@ -8227,18 +8227,18 @@ msgstr "拆除建筑？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:333
 msgid "Do you really want to dismantle this building?"
-msgstr "你真的想拆除这栋建筑吗？ "
+msgstr "确定要拆除这座建筑吗？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:337
 #: ../../../../src/ui/game/actionconfirm.cc:405
 msgid "Preserve wares"
-msgstr "保存物品"
+msgstr "保留物品"
 
 #: ../../../../src/ui/game/actionconfirm.cc:340
 msgid ""
 "Any wares left in the building will be dropped out by the builder, "
 "increasing the dismantling time"
-msgstr "建筑者会把留在大楼里的所有物品都扔掉，从而延长拆卸时间"
+msgstr "建筑工人会把建筑内剩余的物品搬出来，这会延长拆除时间"
 
 #: ../../../../src/ui/game/actionconfirm.cc:391
 msgid "Enhance building?"
@@ -8247,29 +8247,29 @@ msgstr "升级建筑？"
 #: ../../../../src/ui/game/actionconfirm.cc:395
 #: ../../../../src/ui/game/actionconfirm.cc:398
 msgid "Do you really want to enhance this building?"
-msgstr "你真的想把这栋建筑升级吗？ "
+msgstr "确定要升级这座建筑吗？"
 
 #. * TRANSLATORS: Warning message when player wants to enhance a military
 #. building
 #: ../../../../src/ui/game/actionconfirm.cc:397
 msgid "Be careful if the enemy is near!"
-msgstr "敌人在附近的时候一定要小心！"
+msgstr "敌人在附近时请务必小心！"
 
 #: ../../../../src/ui/game/actionconfirm.cc:408
 msgid ""
 "Any wares left in the building will be dropped out by the builder, "
 "increasing the enhancing time"
-msgstr "建筑者会把留在大楼里的所有物品都扔掉，从而延长升级时间"
+msgstr "建筑工人会把建筑内剩余的物品搬出来，这会延长升级时间"
 
 #: ../../../../src/ui/game/actionconfirm.cc:461
 msgid "Sink the ship?"
-msgstr "沉掉这艘船？"
+msgstr "凿沉这艘船？"
 
 #. * TRANSLATORS: %s is a ship name
 #: ../../../../src/ui/game/actionconfirm.cc:463
 #, c-format
 msgid "Do you really want to sink %s?"
-msgstr "你真的想沉掉%s吗？"
+msgstr "确定要凿沉 %s 吗？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:500
 msgid "Cancel expedition?"
@@ -8277,52 +8277,52 @@ msgstr "取消探险？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:501
 msgid "Do you really want to cancel the active expedition?"
-msgstr "你真的想放弃已激活的探险？"
+msgstr "确定要取消正在进行的探险吗？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:540
 msgid "Do you really want to give up and become a spectator?"
-msgstr ""
+msgstr "确定要认输并转为观战者吗？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:540
 msgid "Resign?"
-msgstr ""
+msgstr "认输？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:568
 msgid "Cancel?"
-msgstr ""
+msgstr "取消？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:568
 msgid "Do you really want to cancel this trade agreement?"
-msgstr ""
+msgstr "确定要取消这份贸易协议吗？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:596
 msgid "Extend Trade"
-msgstr ""
+msgstr "延长贸易"
 
 #: ../../../../src/ui/game/actionconfirm.cc:597
 msgid "Select by how many batches you want to extend this trade:"
-msgstr ""
+msgstr "选择要把这项贸易延长多少批："
 
 #: ../../../../src/ui/game/actionconfirm.cc:603
 #: ../../../../src/ui/game/marketwindow.cc:75
 msgid "Toggle indefinite trade"
-msgstr ""
+msgstr "切换为无限期贸易"
 
 #: ../../../../src/ui/game/actionconfirm.cc:604
 #: ../../../../src/ui/game/marketwindow.cc:76
 msgid "Batches:"
-msgstr ""
+msgstr "批数："
 
 #: ../../../../src/ui/game/actionconfirm.cc:639
 msgid "Unpause?"
-msgstr ""
+msgstr "取消暂停？"
 
 #: ../../../../src/ui/game/actionconfirm.cc:640
 msgid ""
 "Do you really want to unpause this trade?\n"
 "\n"
 "Doing so will reset all queues to their maximum capacity."
-msgstr ""
+msgstr "确定要恢复这项贸易吗？\n\n这会把所有队列重置为最大容量。"
 
 #: ../../../../src/ui/game/attack_window.cc:79
 msgid "Attack"
@@ -8334,7 +8334,7 @@ msgstr "攻击"
 #, c-format
 msgid "%u ship"
 msgid_plural "%u ships"
-msgstr[0] ""
+msgstr[0] "%u 艘船"
 
 #. * TRANSLATORS: Number of soldiers that should attack. Used in the attack
 #. window.
@@ -8343,32 +8343,32 @@ msgstr[0] ""
 #, c-format
 msgid "%u soldier"
 msgid_plural "%u soldiers"
-msgstr[0] "%u个士兵"
+msgstr[0] "%u 名士兵"
 
 #: ../../../../src/ui/game/attack_window.cc:376
 msgid "Number of ships"
-msgstr ""
+msgstr "出动船只数"
 
 #: ../../../../src/ui/game/attack_window.cc:376
 msgid "Number of soldiers"
-msgstr "士兵人数"
+msgstr "出动士兵数"
 
 #: ../../../../src/ui/game/attack_window.cc:383
 msgid "Send less ships. Hold down Ctrl to send no ships"
-msgstr ""
+msgstr "少派些船。按住 Ctrl 则一艘不派"
 
 #: ../../../../src/ui/game/attack_window.cc:384
 msgid "Send less soldiers. Hold down Ctrl to send no soldiers"
-msgstr "少派些士兵。按住Ctrl键不派遣士兵 "
+msgstr "少派些士兵。按住 Ctrl 则一个不派"
 
 #: ../../../../src/ui/game/attack_window.cc:390
 msgid "Send more ships. Hold down Ctrl to send as many ships as possible"
-msgstr ""
+msgstr "多派些船。按住 Ctrl 则尽可能多派"
 
 #: ../../../../src/ui/game/attack_window.cc:391
 msgid ""
 "Send more soldiers. Hold down Ctrl to send as many soldiers as possible"
-msgstr "多派些士兵。按住Ctrl键派遣尽可能多的士兵"
+msgstr "多派些士兵。按住 Ctrl 则尽可能多派"
 
 #: ../../../../src/ui/game/attack_window.cc:396
 msgid "Start attack"
@@ -8376,60 +8376,60 @@ msgstr "发动攻击"
 
 #: ../../../../src/ui/game/attack_window.cc:417
 msgid "Attackers:"
-msgstr "攻击者："
+msgstr "参战："
 
 #: ../../../../src/ui/game/attack_window.cc:424
 msgid "Click on a ship to remove her from the list of attackers"
-msgstr ""
+msgstr "单击某艘船可将其移出参战名单"
 
 #: ../../../../src/ui/game/attack_window.cc:425
 msgid "Click on a soldier to remove him from the list of attackers"
-msgstr "点击一名士兵，将其从攻击者名单中删除 "
+msgstr "单击某名士兵可将其移出参战名单"
 
 #: ../../../../src/ui/game/attack_window.cc:427
 msgid "Hold down Ctrl to remove all ships from the list"
-msgstr ""
+msgstr "按住 Ctrl 可把所有船移出名单"
 
 #: ../../../../src/ui/game/attack_window.cc:428
 msgid "Hold down Ctrl to remove all soldiers from the list"
-msgstr "按住Ctrl键从列表中删除所有士兵"
+msgstr "按住 Ctrl 可把所有士兵移出名单"
 
 #: ../../../../src/ui/game/attack_window.cc:432
 msgid "Hold down Shift to remove all ships up to the one you’re pointing at"
-msgstr ""
+msgstr "按住 Shift 可把指针所指那艘之前的船全部移出名单"
 
 #: ../../../../src/ui/game/attack_window.cc:433
 msgid ""
 "Hold down Shift to remove all soldiers up to the one you’re pointing at"
-msgstr "按住Shift键将所有士兵移动到你所指的位置"
+msgstr "按住 Shift 可把指针所指那名之前的士兵全部移出名单"
 
 #: ../../../../src/ui/game/attack_window.cc:440
 msgid "Not attacking:"
-msgstr "不攻击："
+msgstr "不参战："
 
 #: ../../../../src/ui/game/attack_window.cc:446
 msgid "Click on a ship to add her to the list of attackers"
-msgstr ""
+msgstr "单击某艘船可将其加入参战名单"
 
 #: ../../../../src/ui/game/attack_window.cc:447
 msgid "Click on a soldier to add him to the list of attackers"
-msgstr "点击一名士兵，将他添加到攻击者名单中"
+msgstr "单击某名士兵可将其加入参战名单"
 
 #: ../../../../src/ui/game/attack_window.cc:449
 msgid "Hold down Ctrl to add all ships to the list"
-msgstr ""
+msgstr "按住 Ctrl 可把所有船加入名单"
 
 #: ../../../../src/ui/game/attack_window.cc:450
 msgid "Hold down Ctrl to add all soldiers to the list"
-msgstr "按住Ctrl键将所有士兵添加到列表中"
+msgstr "按住 Ctrl 可把所有士兵加入名单"
 
 #: ../../../../src/ui/game/attack_window.cc:453
 msgid "Hold down Shift to add all ships up to the one you’re pointing at"
-msgstr ""
+msgstr "按住 Shift 可把指针所指那艘之前的船全部加入名单"
 
 #: ../../../../src/ui/game/attack_window.cc:454
 msgid "Hold down Shift to add all soldiers up to the one you’re pointing at"
-msgstr "按住Shift键，将所有士兵添加到你所指的位置"
+msgstr "按住 Shift 可把指针所指那名之前的士兵全部加入名单"
 
 #: ../../../../src/ui/game/attack_window.cc:471
 msgid "Destroy target"
@@ -8437,7 +8437,7 @@ msgstr "摧毁目标"
 
 #: ../../../../src/ui/game/attack_window.cc:472
 msgid "Destroy the target building instead of conquering it"
-msgstr "摧毁目标建筑而不是征服它"
+msgstr "摧毁目标建筑，而不是占领它"
 
 #: ../../../../src/ui/game/attack_window.cc:483
 #: ../../../../src/ui/game/buildingwindow.cc:426
@@ -8448,18 +8448,18 @@ msgstr "显示调试窗口"
 #: ../../../../src/ui/game/attack_window.cc:487
 #: ../../../../src/ui/game/buildingwindow.cc:442
 msgid "Center view on this"
-msgstr "以此为视角中心"
+msgstr "将视角居中到此处"
 
 #: ../../../../src/ui/game/attack_window.cc:630
 #, c-format
 msgid "%1$s  HP: %2$u/%3$u  AT: +%4$u%%"
-msgstr ""
+msgstr "%1$s  生命：%2$u/%3$u  攻击：+%4$u%%"
 
 #: ../../../../src/ui/game/attack_window.cc:635
 #: ../../../../src/ui/game/soldierlist.cc:558
 #, c-format
 msgid "HP: %1$u/%2$u  AT: %3$u/%4$u  DE: %5$u/%6$u  EV: %7$u/%8$u"
-msgstr "健康：%1$u/%2$u 攻击：%3$u/%4$u 防御：%5$u/%6$u  闪避：%7$u/%8$u"
+msgstr "生命：%1$u/%2$u  攻击：%3$u/%4$u  防御：%5$u/%6$u  闪避：%7$u/%8$u"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:51
 #: ../../../../src/wlapplication_options.cc:651
@@ -8468,37 +8468,37 @@ msgstr "建筑统计"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:81
 msgid "(no building selected)"
-msgstr "（没有选中建筑）"
+msgstr "（未选中建筑）"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:87
 msgid "Owned:"
-msgstr "拥有："
+msgstr "已拥有："
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:93
 msgid "Under construction:"
-msgstr "建设之中："
+msgstr "建造中："
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:123
 msgid "Low productivity threshold:"
-msgstr "低生产率阈值："
+msgstr "低产能阈值："
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:134
 #: ../../../../src/ui/game/building_statistics_menu.cc:153
 #: ../../../../src/ui/game/building_statistics_menu.cc:172
 msgid "Show previous building"
-msgstr "显示上一栋建筑"
+msgstr "显示上一座建筑"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:143
 #: ../../../../src/ui/game/building_statistics_menu.cc:162
 #: ../../../../src/ui/game/building_statistics_menu.cc:181
 msgid "Show next building"
-msgstr "显示下一栋建筑"
+msgstr "显示下一座建筑"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:228
 msgid ""
 "Buildings will be considered unproductive if their productivity falls below "
 "this percentage"
-msgstr "如果建筑物的生产率低于这个百分比，将被视为无产出的建筑物"
+msgstr "生产率低于此百分比的建筑将被视为低产能"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:362
 msgid "Small buildings"
@@ -8514,7 +8514,7 @@ msgstr "大型建筑"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:368
 msgid "Mines"
-msgstr "矿"
+msgstr "矿井"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:370
 msgid "Ports"
@@ -8522,7 +8522,7 @@ msgstr "港口"
 
 #: ../../../../src/ui/game/building_statistics_menu.cc:731
 msgid "Low productivity:"
-msgstr "低生产率："
+msgstr "低产能："
 
 #. * TRANSLATORS: Buildings: owned / under construction
 #. * TRANSLATORS: %1% = the experience a worker has
@@ -8541,19 +8541,19 @@ msgstr "缺少士兵："
 
 #: ../../../../src/ui/game/buildingwindow.cc:218
 msgid "Muted – click to unmute"
-msgstr "静音–单击取消静音"
+msgstr "已静音 – 单击取消"
 
 #: ../../../../src/ui/game/buildingwindow.cc:219
 msgid "Mute this building’s messages"
-msgstr "把这栋建筑的信息调整为静默状态"
+msgstr "静音这座建筑的消息"
 
 #: ../../../../src/ui/game/buildingwindow.cc:224
 msgid "All buildings of this type are muted – click to unmute"
-msgstr "此类型的所有建筑都已调整为静默状态 – 单击取消静默"
+msgstr "该类型的所有建筑都已静音 – 单击取消"
 
 #: ../../../../src/ui/game/buildingwindow.cc:228
 msgid "Mute all buildings of this type"
-msgstr "将所有此类建筑调整为静默状态"
+msgstr "静音该类型的所有建筑"
 
 #. * TRANSLATORS: Stop/Continue toggle button for production sites.
 #: ../../../../src/ui/game/buildingwindow.cc:292
@@ -8568,22 +8568,22 @@ msgstr "停止"
 #. * TRANSLATORS: Infinite Production toggle button for production sites.
 #: ../../../../src/ui/game/buildingwindow.cc:308
 msgid "Stop producing indefinitely"
-msgstr ""
+msgstr "无限期停止生产"
 
 #. * TRANSLATORS: Infinite Production toggle button for production sites.
 #: ../../../../src/ui/game/buildingwindow.cc:310
 msgid "Produce indefinitely regardless of the economy’s needs"
-msgstr ""
+msgstr "无视经济需求，持续生产"
 
 #: ../../../../src/ui/game/buildingwindow.cc:334
 #, c-format
 msgid "Enhance to %s"
-msgstr "升级至 %s"
+msgstr "升级为 %s"
 
 #: ../../../../src/ui/game/buildingwindow.cc:337
 #: ../../../../src/ui/game/fieldaction.cc:123
 msgid "Construction costs:"
-msgstr "建设成本："
+msgstr "建造成本："
 
 #: ../../../../src/ui/game/buildingwindow.cc:355
 msgid "Destroy"
@@ -8603,11 +8603,11 @@ msgstr "观察侦察兵"
 
 #: ../../../../src/ui/game/buildingwindow.cc:709
 msgid "Hide work area"
-msgstr "隐藏工作区域"
+msgstr "隐藏工作范围"
 
 #: ../../../../src/ui/game/buildingwindow.cc:712
 msgid "Show work area"
-msgstr "显示工作区域"
+msgstr "显示工作范围"
 
 #: ../../../../src/ui/game/buildingwindow.cc:737
 #: ../../../../src/ui/game/constructionsitewindow.cc:318
@@ -8639,7 +8639,7 @@ msgstr "客户端已断开连接"
 msgid ""
 "A player disconnected from the game. An automatic save game has been "
 "created. Do you want to continue playing?"
-msgstr "一个游戏玩家已经从游戏断开连接。游戏存档已自动创建。你想继续游戏吗？"
+msgstr "有一名玩家与游戏断开了连接，已自动创建存档。要继续游戏吗？"
 
 #. * TRANSLATORS: Button text
 #: ../../../../src/ui/game/client_disconnected.cc:87
@@ -8650,14 +8650,14 @@ msgstr "继续游戏"
 #: ../../../../src/ui/game/client_disconnected.cc:89
 msgid ""
 "Replace the disconnected player with the selected AI and continue playing"
-msgstr "用选定的AI替换断开连接的游戏玩家并继续进行游戏"
+msgstr "用选定的 AI 接替断线的玩家并继续游戏"
 
 #. * TRANSLATORS: Dropdown tooltip to select the AI difficulty when a player
 #. has
 #. disconnected from a game
 #: ../../../../src/ui/game/client_disconnected.cc:99
 msgid "AI for the disconnected player"
-msgstr "断开连接的游戏玩家的AI"
+msgstr "接替断线玩家的 AI"
 
 #. * TRANSLATORS: Button tooltip
 #. * TRANSLATORS: An entry in the game's main menu
@@ -8674,12 +8674,12 @@ msgstr "退出游戏"
 #: ../../../../src/ui/game/client_disconnected.cc:132
 #, c-format
 msgid "Replace player with %s"
-msgstr "使用%s替换游戏玩家"
+msgstr "用 %s 接替该玩家"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:164
 #: ../../../../src/ui/game/dismantlesitewindow.cc:79
 msgid "Send the builder away"
-msgstr ""
+msgstr "遣走建筑工人"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:170
 #: ../../../../src/ui/game/dismantlesitewindow.cc:85
@@ -8688,168 +8688,168 @@ msgstr "建筑材料"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:246
 msgid "Stopped"
-msgstr "停止"
+msgstr "已停止"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:247
 msgid "Stop this building’s work after completion"
-msgstr "完工后停止这栋建筑的工作"
+msgstr "这座建筑完成当前工作后停工"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:276
 #: ../../../../src/ui/game/warehousewindow.cc:158
 msgid "Normal policy"
-msgstr "正常策略"
+msgstr "常规策略"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:280
 #: ../../../../src/ui/game/warehousewindow.cc:159
 msgid "Preferably store selected wares here"
-msgstr "最好在这里储存精选的物品"
+msgstr "优先在此存放选中的物品"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:284
 #: ../../../../src/ui/game/warehousewindow.cc:160
 msgid "Do not store selected wares here"
-msgstr "不要把精选的物品存储在这里"
+msgstr "不要在此存放选中的物品"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:288
 #: ../../../../src/ui/game/warehousewindow.cc:161
 msgid "Remove selected wares from here"
-msgstr "把精选的物品从这里移走"
+msgstr "把选中的物品从此处移走"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:307
 msgid "Ware settings to apply after construction"
-msgstr "建设完毕之后执行物品的设置"
+msgstr "建成后生效的物品设置"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:310
 msgid "Worker settings to apply after construction"
-msgstr "建设完毕之后执行工人的设置"
+msgstr "建成后生效的工人设置"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:318
 msgid "Start an expedition from this port after completion"
-msgstr "建设完毕之后从这个港口启动一次探险"
+msgstr "建成后从这座港口启动一次探险"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:371
 #: ../../../../src/ui/game/soldierlist.cc:490
 msgid "Prefer rookies"
-msgstr "较喜欢新手"
+msgstr "优先派新兵"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:375
 #: ../../../../src/ui/game/soldierlist.cc:493
 msgid "Prefer heroes"
-msgstr "较喜欢英雄"
+msgstr "优先派精锐"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:379
 #: ../../../../src/ui/game/soldierlist.cc:496
 msgid "No preference"
-msgstr ""
+msgstr "无偏好"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:414
 msgid "Settings to apply after construction"
-msgstr "建设完毕之后执行设置"
+msgstr "建成后生效的设置"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:530
 #: ../../../../src/ui/game/soldiercapacitycontrol.cc:85
 msgid ""
 "Decrease capacity. Hold down Ctrl to set the capacity to the lowest value"
-msgstr "降低容量。按住Ctrl键可将容量设置为最低值"
+msgstr "减少容量。按住 Ctrl 可直接设为最小值"
 
 #: ../../../../src/ui/game/constructionsitewindow.cc:540
 #: ../../../../src/ui/game/soldiercapacitycontrol.cc:94
 msgid ""
 "Increase capacity. Hold down Ctrl to set the capacity to the highest value"
-msgstr "增加容量。按住Ctrl键可将容量设置为最高值"
+msgstr "增加容量。按住 Ctrl 可直接设为最大值"
 
 #. * TRANSLATORS: Title for a window that shows debug information for a field
 #. on the map
 #: ../../../../src/ui/game/debug_ui.cc:136
 msgid "Debug Field"
-msgstr "调试区域"
+msgstr "调试地块"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:107
 msgid "Leave"
-msgstr ""
+msgstr "离开"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:108
 msgid "Leave your current team and become teamless"
-msgstr ""
+msgstr "离开当前团队，变为无团队状态"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:110
 msgid "Resign"
-msgstr ""
+msgstr "认输"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:111
 msgid "Give up and become a spectator"
-msgstr ""
+msgstr "放弃并转为观战者"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:128
 msgid "Join"
-msgstr ""
+msgstr "加入"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:129
 msgid "Request to join this player’s team"
-msgstr ""
+msgstr "请求加入该玩家的团队"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:131
 msgid "Invite"
-msgstr ""
+msgstr "邀请"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:132
 msgid "Invite this player to join your team"
-msgstr ""
+msgstr "邀请该玩家加入你的团队"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:193
 msgid "Trade offers you have received from other players"
-msgstr ""
+msgstr "你收到的其他玩家的贸易提议"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:195
 msgid "Trades you have proposed to other players"
-msgstr ""
+msgstr "你向其他玩家发出的贸易提议"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:196
 msgid "Your active trade agreements"
-msgstr ""
+msgstr "你正在进行的贸易协议"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:246
 msgid "No team"
-msgstr ""
+msgstr "无团队"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:246
 #, c-format
 msgid "Team %u"
-msgstr "团队%u"
+msgstr "团队 %u"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:261
 #, c-format
 msgid "Won at %s"
-msgstr ""
+msgstr "于 %s 获胜"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:264
 #, c-format
 msgid "Lost at %s"
-msgstr ""
+msgstr "于 %s 落败"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:267
 #, c-format
 msgid "Resigned at %s"
-msgstr ""
+msgstr "于 %s 认输"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:323
 msgid "Approve"
-msgstr ""
+msgstr "批准"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:324
 msgid "Reject"
-msgstr ""
+msgstr "驳回"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:330
 msgid "Accept"
-msgstr ""
+msgstr "接受"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:331
 msgid "Refuse"
-msgstr ""
+msgstr "拒绝"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:347
 msgid "Retract"
-msgstr ""
+msgstr "撤回"
 
 #: ../../../../src/ui/game/diplomacy_menu.cc:403
 #: ../../../../src/ui/game/marketwindow.cc:936
