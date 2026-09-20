@@ -190,6 +190,38 @@ def drop_obsolete(po):
     return len(blocks) - len(kept)
 
 
+def enforce_file_policy():
+    """合并之后，无条件把 i18n 文件摆回该有的样子。
+
+    为什么不能只在冲突时处理：实测上游改了 zh_CN.po 而 git 报的是
+    "Auto-merging"——它按行级三方合并"成功"了，根本没产生冲突，于是
+    冲突分支一次都没进。上游的旧译文会就这么静默混进我们的文件。
+    .po 是按 key 索引的数据文件，行级合并的结果本就没有意义。
+
+    所以策略与有没有冲突无关：
+        zh_CN.po  一律恢复成本方 HEAD 的版本（之后再做 key 级合并）
+        *.pot     一律取上游的版本
+
+    全部用显式路径，不用 glob——glob 一旦匹配不到，配上 check=False
+    就会把失败悄悄吞掉，而这一步做错的代价是译文全毁。
+    """
+    head_po = set(out('ls-tree', '-r', '--name-only', 'HEAD',
+                      'data/i18n/translations/').splitlines())
+
+    restore, take = [], []
+    for name, pot, po in domains():
+        rel_po = f'data/i18n/translations/{name}/{LOCALE}.po'
+        rel_pot = f'data/i18n/translations/{name}/{name}.pot'
+        if rel_po in head_po:
+            restore.append(rel_po)          # 上游新增的域在 HEAD 里没有，跳过
+        take.append(rel_pot)
+
+    if restore:
+        git('checkout', 'HEAD', '--', *restore)
+    git('checkout', UPSTREAM, '--', *take, check=False, quiet=True)
+    print(f'  译文文件恢复本方 {len(restore)} 个，pot 取上游 {len(take)} 个')
+
+
 def key_merge(pot2po, only=None):
     """用新 pot 的键集重建 zh_CN.po，保留本方译文。
 
@@ -267,11 +299,7 @@ def main():
     print(r.stdout.strip() or r.stderr.strip())
     resolve_conflicts()
 
-    # pot 无条件取上游：它是从源码自动生成的产物，本 fork 从不修改。
-    # 没冲突时 merge 已经带过来了，这一步是兜底。
-    git('checkout', UPSTREAM, '--', 'data/i18n/translations', check=False, quiet=True)
-    git('checkout', 'HEAD', '--', f'data/i18n/translations/*/{LOCALE}.po',
-        check=False, quiet=True)
+    enforce_file_policy()
 
     key_merge(pot2po, None if args.all_domains else changed_domains)
 
