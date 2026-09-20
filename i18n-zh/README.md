@@ -94,6 +94,7 @@ python i18n-zh/check_po.py data/i18n/translations/widelands/zh_CN.po \
 | `run-zh.ps1` | 以中文启动游戏 |
 | `screenshot.ps1` | 视觉验收抓屏 |
 | `update_stats.py` | 重算 `translation_stats.conf` 的词数统计 |
+| `sync-upstream.py` | 同步上游改动（merge + key 级合并 + 校验） |
 | `keep-english.txt` | 合法保持英文的 msgid（OpenGL、Ctrl、`%.2f MB` 等） |
 | `STYLE.md` | 术语之外的译文规范 |
 | `batches/` | 各批次的原文与译文，便于追溯 |
@@ -105,8 +106,50 @@ python i18n-zh/check_po.py data/i18n/translations/widelands/zh_CN.po \
   `use_fuzzy` 默认为 `true` 且从不被覆盖），`check_po.py` 将其判为 error
 - 占位符文法是 Widelands 自有的（`src/base/format/tree.h:40-75`），
   `%N%` 是"第 N 个参数"而非字面百分号，且编号与不编号不得混用
-- 与上游同步不能只靠 `git rebase`，需补做 key 级合并，详见设计文档
-  `docs/superpowers/specs/2026-09-20-widelands-zh-localization-design.md` §10.1
+- 与上游同步不能只靠 `git rebase`，需补做 key 级合并，见下一节
+
+## 与上游同步
+
+```bash
+python i18n-zh/sync-upstream.py            # 只看上游有什么新东西，不改工作区
+python i18n-zh/sync-upstream.py --apply    # 真的合并，改动 git add 但不提交
+```
+
+`.github/workflows/zh_sync_check.yaml` 每周一自动跑一次：有新东西就把同步
+结果推到 `sync/upstream-<日期>` 分支并开 issue。**刻意不自动开 PR**——上游
+的 `build.yaml` 在 `pull_request` 上触发，其中只有 appimage / dev_release
+两个 job 带 `github.repository == 'widelands/widelands'` 守卫，其余会实打实
+地在本 fork 上跑整套构建矩阵。推到 `sync/` 分支不触发任何东西（`build.yaml`
+的 push 过滤是 `[master, protected/*]`）。要跑 CI 时由人手动开 PR。
+
+### 为什么是 merge 不是 rebase
+
+zh-CN 领先上游的提交里有 36 个改过 `zh_CN.po`，涉及 31 个文件。rebase 会
+逐个重放这 36 个提交，上游只要动过同一批文件，冲突就要解 36 次；而且 rebase
+重写历史，公开的默认分支必须 force-push，别人克隆过的副本全废。merge 只有
+一个合并点，冲突解一次。
+
+附带好处：`--ours` / `--theirs` 在 rebase 期间含义与平时相反（ours 是被
+rebase 到的上游），选反了直接销毁全部译文；merge 里是直觉含义，这个坑消失。
+
+### `.po` 不做行级合并
+
+上游本地不跑 msgmerge，合并发生在 Transifex 服务端（`utils/buildcat.py` 里
+带 msgmerge 的函数是无调用者的死代码，真实链路在
+`utils/merge_and_push_translations.sh:158-172`）。fork 拿不到这一步，必须自己
+补 **key 级合并**：新 pot 的键集 + 本方译文 → 新 po（`pot2po
+--nofuzzymatching`）。上游新增的串成为空条目，上游删掉的串自动消失。
+
+合并后的文件策略与有没有冲突无关——实测上游改了 `zh_CN.po` 时 git 报的是
+`Auto-merging`，按行级三方合并"成功"、压根不产生冲突，上游的旧译文会静默
+混进来。所以脚本一律：`zh_CN.po` 恢复本方版本、`*.pot` 取上游，再做 key 合并。
+
+### 校验必须带 `--require-complete`
+
+`check_po.py:762` 默认跳过未译条目（翻译期是对的，否则几千条空串全报错）。
+但同步场景下恰恰相反：上游新增的串是空条目，不带这个开关会**静默通过**，
+条目数和非空率都看不出异常，覆盖率却已经掉了。`sync-upstream.py` 内部已经
+带上，手动跑校验时别忘。
 
 ## 许可
 

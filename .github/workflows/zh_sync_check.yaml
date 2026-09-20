@@ -1,0 +1,93 @@
+# 本 fork 自有的 workflow，与上游继承来的那 13 个无关。
+# 每周看一眼上游有没有新东西，有就把同步结果推到一条 sync/ 分支并开 issue。
+#
+# 刻意不开 PR：上游的 build.yaml 在 pull_request 上触发，且只有 appimage /
+# dev_release 两个 job 带 `github.repository == 'widelands/widelands'` 守卫，
+# 其余 job 会实打实地在本 fork 上跑整套构建矩阵。推到 sync/ 分支不会触发
+# 任何东西（build.yaml 的 push 过滤是 [master, protected/*]），开 issue 也不会。
+# 想跑 CI 的时候，由人手动从那条分支开 PR。
+name: 上游同步检查
+
+on:
+  schedule:
+    - cron: '17 3 * * 1'      # 每周一 03:17 UTC
+  workflow_dispatch:           # 也可以手动点
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  sync:
+    if: github.repository == 'tykisgod/widelands-vd'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: zh-CN
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 装 pot2po
+        run: python -m pip install --quiet translate-toolkit
+
+      - name: 配 upstream remote
+        run: |
+          git remote add upstream https://github.com/widelands/widelands.git
+          git fetch upstream --quiet
+          git config user.name  'zh-sync bot'
+          git config user.email 'noreply@github.com'
+
+      - name: 勘察
+        id: survey
+        run: |
+          python i18n-zh/sync-upstream.py | tee survey.txt
+          behind=$(grep -oP '落后 \K[0-9]+' survey.txt | head -1)
+          echo "behind=${behind:-0}" >> "$GITHUB_OUTPUT"
+
+      - name: 同步并推分支
+        if: steps.survey.outputs.behind != '0'
+        id: sync
+        run: |
+          branch="sync/upstream-$(date -u +%Y%m%d)"
+          echo "branch=$branch" >> "$GITHUB_OUTPUT"
+          git checkout -b "$branch"
+          set +e
+          python i18n-zh/sync-upstream.py --apply | tee sync.txt
+          rc=$?
+          set -e
+          echo "rc=$rc" >> "$GITHUB_OUTPUT"
+          git commit -q -m "Merge upstream/master into zh-CN（自动同步，待人工确认）" || true
+          git push -f origin "$branch"
+
+      - name: 开 issue
+        if: steps.survey.outputs.behind != '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          {
+            echo "上游有 ${{ steps.survey.outputs.behind }} 个新提交，已同步到分支"
+            echo "\`${{ steps.sync.outputs.branch }}\`。"
+            echo
+            if [ "${{ steps.sync.outputs.rc }}" = "0" ]; then
+              echo "**校验通过**，没有新串要翻译，可以直接合。"
+            else
+              echo "**校验没过** —— 多半是上游新增了串需要翻译，详见下面的日志。"
+            fi
+            echo
+            echo "[看改动](https://github.com/${{ github.repository }}/compare/zh-CN...${{ steps.sync.outputs.branch }})"
+            echo
+            echo '<details><summary>同步日志</summary>'
+            echo
+            echo '```'
+            tail -60 sync.txt
+            echo '```'
+            echo
+            echo '</details>'
+          } > body.md
+          gh issue create \
+            --title "上游同步：$(date -u +%Y-%m-%d)" \
+            --body-file body.md
