@@ -1018,10 +1018,13 @@ function translators() return {
       entries = {
          {
             members = {
+               "Claude Code (Anthropic)",
+               "Codex (OpenAI)",
                "Frank Tang (roadt)",
                "luojie-dune",
                "royweiluo",
                "Susie Shi",
+               "tyk (Variables Digital)",
                "XIA",
             },
          },

@@ -32,6 +32,7 @@ using System;
 using System.Runtime.InteropServices;
 public class Win {
   [DllImport("user32.dll")] public static extern bool SetProcessDPIAware();
+  [DllImport("user32.dll")] public static extern IntPtr GetForegroundWindow();
   [DllImport("user32.dll")] public static extern bool SetCursorPos(int x, int y);
   [DllImport("user32.dll")] public static extern void mouse_event(int f, int x, int y, int d, int e);
   [DllImport("user32.dll")] public static extern bool SetForegroundWindow(IntPtr h);
@@ -91,6 +92,16 @@ try {
     [Win]::SetForegroundWindow($hwnd) | Out-Null
     Start-Sleep -Seconds 3
 
+    # Windows 会阻止后台进程抢占前台。若置顶失败就直接报错——否则
+    # CopyFromScreen 会抓到桌面上无关的窗口内容。
+    for ($try = 0; $try -lt 5 -and [Win]::GetForegroundWindow() -ne $hwnd; $try++) {
+        [Win]::SetForegroundWindow($hwnd) | Out-Null
+        Start-Sleep -Milliseconds 600
+    }
+    if ([Win]::GetForegroundWindow() -ne $hwnd) {
+        throw '无法把游戏窗口置于前台，已放弃抓屏（避免抓到无关内容）。请手动点一下游戏窗口后重试。'
+    }
+
     $r = New-Object Win+RECT
     [Win]::GetWindowRect($hwnd, [ref]$r) | Out-Null
 
@@ -108,6 +119,9 @@ try {
     }
     if ($Click.Count -gt 0) {
         Start-Sleep -Seconds 2
+        if ([Win]::GetForegroundWindow() -ne $hwnd) {
+            throw '点击后游戏窗口失去前台，已放弃抓屏。'
+        }
         [Win]::GetWindowRect($hwnd, [ref]$r) | Out-Null
     }
     $w = $r.Right - $r.Left

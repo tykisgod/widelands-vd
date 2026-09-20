@@ -4,14 +4,17 @@
 # Translators:
 # Roy Luo <1598359376@qq.com>, 2021
 # liu lizhi <xingzuo88@qq.com>, 2021
+# tyk (Variables Digital), 2026
+# Claude Code (Anthropic), 2026
+# Codex (OpenAI), 2026
 msgid ""
 msgstr ""
 "Project-Id-Version: Widelands\n"
 "Report-Msgid-Bugs-To: https://www.widelands.org/wiki/ReportingBugs/\n"
 "POT-Creation-Date: 2026-02-23 04:25+0000\n"
-"PO-Revision-Date: 2015-11-03 18:55+0000\n"
-"Last-Translator: liu lizhi <xingzuo88@qq.com>, 2021\n"
-"Language-Team: Chinese (China) (http://app.transifex.com/widelands/widelands/language/zh_CN/)\n"
+"PO-Revision-Date: 2026-09-20 13:20\n"
+"Last-Translator: tyk (Variables Digital), 2026\n"
+"Language-Team: Chinese (Simplified) (https://github.com/tykisgod/widelands-vd)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
