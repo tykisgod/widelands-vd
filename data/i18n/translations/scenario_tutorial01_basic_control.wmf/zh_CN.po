@@ -20,26 +20,26 @@ msgstr ""
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:14
 msgid "Nice And Easy Does It All the Time"
-msgstr ""
+msgstr "不慌不忙，稳扎稳打"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:17
 msgid ""
 "I am sorry, but I will have to tear this down. We might need the space here "
 "later on."
-msgstr ""
+msgstr "抱歉，我得把它拆掉。这块地方以后可能还有用。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:20
 msgid ""
 "I am sorry, but I will have to tear this down again. We might need the space"
 " here later on."
-msgstr ""
+msgstr "抱歉，我又得把它拆掉。这块地方以后可能还有用。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:22
 msgid ""
 "If I am too slow for you, you might want to play a real game and just find "
 "everything out for yourself. Otherwise, please bear with me, I am not the "
 "youngest and quickest anymore."
-msgstr ""
+msgstr "要是嫌我太慢，你大可以去玩一局真正的游戏，自己把一切摸清楚。不然就请多担待，我毕竟不年轻了，手脚也不快了。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:41
 msgid "Welcome to the Widelands Tutorial!"
@@ -57,40 +57,40 @@ msgstr "Widelands 是一款节奏缓慢的累积型策略游戏，着重于建�
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:46
 msgid "You will be guided through this tutorial by objectives."
-msgstr ""
+msgstr "本教程会用「目标」一路引导你。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:53
 msgid "Objectives and how to handle them"
-msgstr ""
+msgstr "目标窗口及其用法"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:55
 msgid "Handling of the ‘Objectives’ window"
-msgstr ""
+msgstr "「目标」窗口的用法"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:56
 msgid ""
 "You can open and close the ‘Objectives’ window by clicking on the "
 "‘Objectives’ button in the toolbar on the bottom of the screen."
-msgstr ""
+msgstr "点击屏幕底部工具栏上的「目标」按钮，即可打开或关闭「目标」窗口。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:57
 msgid ""
 "Like most other windows, you can also close the window by right-clicking on "
 "it."
-msgstr ""
+msgstr "和大多数窗口一样，右键点击也能把它关掉。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:58
 msgid "You can also minimize windows by middle-clicking on them."
-msgstr ""
+msgstr "在窗口上按鼠标中键还能把它最小化。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:59
 msgid ""
 "When you have accomplished an objective, it will disappear from the list."
-msgstr ""
+msgstr "达成某个目标后，它就会从列表中消失。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:61
 msgid "Now please close the ‘Objectives’ window to proceed."
-msgstr ""
+msgstr "现在请关闭「目标」窗口以继续。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:67
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:69
@@ -99,18 +99,18 @@ msgstr "显示建筑空地"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:70
 msgid "Activate ‘Show Building Spaces’. There are two ways you can do this:"
-msgstr ""
+msgstr "开启「显示建筑空间」。有两种办法："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:71
 #, lua-format
 msgid ""
 "Press %s to toggle them, or select ‘Show Building Spaces’ in the ‘Show / "
 "Hide’ menu."
-msgstr ""
+msgstr "按 %s 切换，或在「显示 / 隐藏」菜单里选「显示建筑空间」。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:72
 msgid "Show the building spaces now."
-msgstr ""
+msgstr "现在把建筑空间显示出来。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:77
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:92
@@ -128,7 +128,7 @@ msgid ""
 "the Atlanteans, the Frisians and the Amazons. All tribes have different "
 "economies, strengths, and weaknesses, but the general gameplay is the same "
 "for all. We will play the Barbarians for now."
-msgstr ""
+msgstr "Widelands 里有五个部族：蛮族、帝国、亚特兰蒂斯人、弗里西亚部族和亚马逊人。各部族的经济、长处与短处各不相同，但总体玩法是一样的。我们眼下就玩蛮族。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:84
 msgid ""
@@ -199,7 +199,7 @@ msgid ""
 "headquarters. After ordering the construction site, I was automatically put "
 "into road building mode, so all I have to do is click on the blue flag in "
 "front of my headquarters."
-msgstr ""
+msgstr "这样还不成。我还得把樵夫小屋连到总部。下达建造命令后，系统自动把我切到了修路模式，所以我只要点一下总部门前那面蓝旗就行。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:145
 msgid ""
@@ -209,7 +209,7 @@ msgid ""
 "menu). Therefore, I have entered the road building mode manually. I will "
 "tell you later how to do that. To build the road, all I have to do now is "
 "click on the blue flag in front of my headquarters."
-msgstr ""
+msgstr "这样还不成。我还得把樵夫小屋连到总部。你关掉了「放置旗帜后立即开始修路」这个选项（要改的话，在 Widelands 主菜单里选「选项」）。所以我手动进入了修路模式——稍后我会告诉你怎么做。现在要修这条路，我只需点一下总部门前那面蓝旗。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:153
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:187
@@ -295,18 +295,18 @@ msgid ""
 "If you click on the construction site, a window will open. You can see the "
 "wares that are still missing grayed out. You can also see the progress of "
 "this construction site."
-msgstr ""
+msgstr "点击建筑工地会打开一个窗口。还缺的物品会显示为灰色，你也能在这里看到工地的进度。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:223
 msgid ""
 "This button toggles showing the building’s work area. When the lumberjack "
 "leaves the building to look for trees to fell, he will only look for them "
 "within this area. Let me show you how perfect this spot is."
-msgstr ""
+msgstr "这个按钮用来开关建筑的工作范围。樵夫出门找树砍的时候，只会在这个范围里找。我给你看看这个位置有多完美。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:224
 msgid "Close the construction site window when you have seen enough."
-msgstr ""
+msgstr "看够了就把建筑工地的窗口关掉。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:234
 msgid "Well done! Let’s wait till the hut is finished."
@@ -316,15 +316,15 @@ msgstr "干的不错！让我们等到小屋完成。"
 msgid ""
 "If you want things to go faster, simply use the %1$s key on your keyboard to"
 " increase the game speed. You can use %2$s to make the game slower again."
-msgstr ""
+msgstr "想快一点的话，按键盘上的 %1$s 键就能加快游戏速度，%2$s 则能放慢。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:237
 msgid "Change is rapid with %1$s/%2$s and smooth with %3$s/%4$s."
-msgstr ""
+msgstr "%1$s/%2$s 大幅调整，%3$s/%4$s 平滑微调。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:244
 msgid "The Lumberjack’s Hut is Done"
-msgstr ""
+msgstr "樵夫小屋建好了"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:247
 msgid ""
@@ -335,34 +335,34 @@ msgstr "相当棒。伐木屋已经完成。一个伐木工人会入住并开始
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:259
 msgid "Moving the View"
-msgstr ""
+msgstr "移动视角"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:261
 msgid "Move your view"
-msgstr ""
+msgstr "移动你的视角"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:262
 msgid ""
 "Moving your view is essential to get a complete overview of your whole "
 "economy. There are three ways to move your view in Widelands."
-msgstr ""
+msgstr "要通盘掌握自己的经济，移动视角必不可少。Widelands 里有三种移动视角的方式。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:263
 msgid "The first one is to use the cursor keys on your keyboard."
-msgstr ""
+msgstr "第一种是用键盘上的方向键。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:264
 msgid ""
 "The second one is the more common and faster one: press-and-hold the right "
 "mouse button anywhere on the map, then move your mouse around and you’ll see"
 " the view scroll."
-msgstr ""
+msgstr "第二种更常用也更快：在地图上任意位置按住鼠标右键不放，然后移动鼠标，画面就会跟着滚动。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:265
 msgid ""
 "The third one is to use the minimap. It is especially useful for traveling "
 "big distances."
-msgstr ""
+msgstr "第三种是用小地图，尤其适合长距离移动。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:267
 msgid ""
@@ -370,15 +370,15 @@ msgid ""
 "on a laptop with a touchpad. You can enable map movement with touchpad "
 "scrolling in the the Widelands main menu: Choose ‘Options’, then press ‘Edit"
 " keyboard and mouse actions’, and select the ‘Mouse Scrolling’ tab."
-msgstr ""
+msgstr "如果你在带触控板的笔记本上游玩，按住右键移动可能不太舒服。可以在 Widelands 主菜单里开启用触控板滚动来移动地图：选「选项」，点「编辑键盘与鼠标操作」，再选「鼠标滚屏」标签页。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:271
 msgid "Some Rocks Were Found"
-msgstr ""
+msgstr "发现了一些岩石"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:273
 msgid "Getting a Quarry Up"
-msgstr ""
+msgstr "把采石场建起来"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:275
 msgid ""
@@ -386,20 +386,20 @@ msgid ""
 "quarry next to some rocks lying around. As it happens, there is a pile of "
 "them just to the west (left) of your headquarters. I will teach you now how "
 "to move your view over there."
-msgstr ""
+msgstr "花岗岩可以在石矿里开采，但更省事的办法是在散落的岩石旁边建一座采石场。正巧，你总部以西（左边）就有一堆。我这就教你把视角挪过去。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:283
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:285
 msgid "Learn to use the minimap"
-msgstr ""
+msgstr "学会使用小地图"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:286
 msgid "Try moving around by clicking on the minimap"
-msgstr ""
+msgstr "试着点击小地图来移动视角"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:287
 msgid "Play around a bit with the different overlays (roads, flags, etc.)"
-msgstr ""
+msgstr "玩玩看各种叠加显示（道路、旗帜等等）"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:288
 #, lua-format
@@ -407,61 +407,61 @@ msgid ""
 "When you are ready to continue, close the minimap by selecting ‘Hide "
 "Minimap’ in the ‘Map View’ menu or by pressing ‘%s’. Of course, a right-"
 "click also works."
-msgstr ""
+msgstr "准备好继续时，在「地图视图」菜单里选「隐藏小地图」，或按「%s」把小地图关掉。当然，右键点一下也行。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:292
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:307
 msgid "Moving Your View"
-msgstr ""
+msgstr "移动你的视角"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:294
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:309
 msgid "Using the Minimap"
-msgstr ""
+msgstr "使用小地图"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:296
 msgid "Very good. And now about the minimap."
-msgstr ""
+msgstr "很好。现在说说小地图。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:298
 #, lua-format
 msgid ""
 "You can open it by selecting the ‘Show Minimap’ entry in the ‘Map View’ menu"
 " at the bottom of the screen or simply by using the keyboard shortcut ‘%s’."
-msgstr ""
+msgstr "在屏幕底部的「地图视图」菜单里选「显示小地图」就能打开它，用快捷键「%s」也行。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:300
 msgid "I will open it for you."
-msgstr ""
+msgstr "我来替你打开。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:311
 msgid ""
 "The minimap shows the complete map in miniature. You can directly jump to "
 "any field by left-clicking on it. You can also toggle buildings, roads, "
 "flags and player indicators on and off inside the minimap."
-msgstr ""
+msgstr "小地图以缩略形式显示整张地图。左键点击任意位置就能直接跳过去。你还能在小地图里开关建筑、道路、旗帜和玩家标识的显示。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:319
 msgid "Onward to the Quarry"
-msgstr ""
+msgstr "接着说采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:320
 msgid "Great. Now about that quarry…"
-msgstr ""
+msgstr "很好。现在说那座采石场……"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:331
 msgid "Build a quarry next to the rocks"
-msgstr ""
+msgstr "在岩石旁边建一座采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:333
 msgid "Build a Quarry"
-msgstr ""
+msgstr "建一座采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:334
 msgid ""
 "There are some rocks to the west of your headquarters. Build a quarry right "
 "next to them."
-msgstr ""
+msgstr "你总部西边有一些岩石。就在它们旁边建一座采石场。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:335
 #, lua-format
@@ -469,86 +469,86 @@ msgid ""
 "The quarry is a small building like the lumberjack’s hut. You can therefore "
 "build it on any field that shows a red, yellow or green house when the "
 "building spaces symbols are enabled (Press ‘%s’ for that)."
-msgstr ""
+msgstr "采石场和樵夫小屋一样是小型建筑。所以只要开启了建筑空间标记（按「%s」），凡是显示红、黄、绿房屋图标的地块都能建。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:336
 msgid ""
 "Just click on any house symbol next to the rocks, select the small buildings"
 " tab in the window that opens up, then click on the quarry symbol."
-msgstr ""
+msgstr "点击岩石旁边任意一个房屋图标，在弹出的窗口里选小型建筑标签页，然后点采石场图标即可。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:342
 msgid "How to Build a Quarry"
-msgstr ""
+msgstr "怎么建采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:345
 msgid ""
 "Build a quarry next to those rocks here. Remember how I did it earlier?"
-msgstr ""
+msgstr "就在这些岩石旁边建一座采石场。还记得我刚才是怎么做的吗？"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:346
 msgid ""
 "Make sure that you are showing the building spaces, then just click on the "
 "space where you want the building to be, choose it from the window that "
 "appears, and it is placed."
-msgstr ""
+msgstr "先确保建筑空间标记是显示的，然后点你想建的位置，在弹出的窗口里挑一个，就放好了。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:347
 msgid ""
 "You can build four things on fields in Widelands: flags, small houses, "
 "medium houses and big houses. But not every field can hold everything. The "
 "build space symbols ease recognition:"
-msgstr ""
+msgstr "Widelands 里地块上能建四样东西：旗帜、小型房屋、中型房屋和大型房屋。但不是每块地都什么都能建。建筑空间标记能帮你一眼看出来："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:348
 msgid "Everything can be built on the green house symbol."
-msgstr ""
+msgstr "绿色房屋标记上什么都能建。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:349
 msgid ""
 "Everything except for big buildings can be built on a yellow house symbol."
-msgstr ""
+msgstr "黄色房屋标记上除大型建筑外都能建。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:350
 msgid "Red building symbols can only hold small buildings and flags."
-msgstr ""
+msgstr "红色建筑标记只能放小型建筑和旗帜。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:351
 msgid "And finally, the yellow flag symbol only allows for flags."
-msgstr ""
+msgstr "最后，黄色旗帜标记就只能放旗帜了。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:352
 msgid ""
 "If you place something on a field, the surrounding fields might have less "
 "space for holding buildings, so choose your fields wisely."
-msgstr ""
+msgstr "在一块地上放了东西，周围地块能容纳建筑的空间可能就变小了，所以选位置要想清楚。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:358
 msgid ""
 "If you decide you do not want to build a road at this time, you can cancel "
 "road building by clicking on the starting flag of the road and selecting the"
 " abort symbol."
-msgstr ""
+msgstr "如果这会儿你不想修路了，点击这条路的起始旗帜，选那个中止图标，就能取消修路。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:363
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:377
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:390
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:408
 msgid "Road Building"
-msgstr ""
+msgstr "修路"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:365
 msgid ""
 "Excellent! Directly after placing the building, you have been switched into "
 "road building mode. The new road will start at the flag in front of your "
 "newly placed construction site."
-msgstr ""
+msgstr "很好！放下建筑之后，你就直接被切到了修路模式。新路会从新建工地门前的旗帜开始。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:366
 msgid ""
 "You can enter road building mode for any flag by left-clicking on a flag and"
 " selecting the road building symbol."
-msgstr ""
+msgstr "对任意一面旗帜，左键点击它再选修路图标，就能进入修路模式。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:368
 msgid ""
@@ -556,104 +556,104 @@ msgid ""
 "you just ordered the quarry. You can either make it longer by one field at a"
 " time by left-clicking multiple times on neighboring fields for perfect "
 "control over the route the road takes, like so:"
-msgstr ""
+msgstr "现在说这条路。记住：你刚下单采石场，我们已经处在修路模式了。你可以左键连点相邻地块，一格一格把路延长，这样能完全掌控路线走向，像这样："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:379
 msgid ""
 "Excellent! Remember, we also need to build a road to the quarry. To enter "
 "road building mode for any flag, left-click on a flag and select the road "
 "building symbol."
-msgstr ""
+msgstr "很好！记住，我们还得给采石场修一条路。对任意一面旗帜，左键点击它再选修路图标，就能进入修路模式。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:381
 msgid ""
 "Now, about this road. I’ll enter the road building mode and then make it "
 "longer by one field at a time by left-clicking multiple times on neighboring"
 " fields for perfect control over the route the road takes, like so:"
-msgstr ""
+msgstr "现在说这条路。我来进入修路模式，然后左键连点相邻地块，一格一格把路延长，这样能完全掌控路线走向，像这样："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:391
 msgid ""
 "Or, you can directly click the flag where the road should end, like so:"
-msgstr ""
+msgstr "或者，你也可以直接点击这条路该结束的那面旗帜，像这样："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:398
 msgid "Connect the quarry to the headquarters"
-msgstr ""
+msgstr "把采石场连到总部"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:400
 msgid "Connect Your Construction Site"
-msgstr ""
+msgstr "把你的建筑工地连起来"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:401
 msgid ""
 "Connect your quarry construction site to your headquarters with a road."
-msgstr ""
+msgstr "用一条路把采石场工地连到总部。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:402
 msgid ""
 "To build a completely new road, just click on the flag in front of your "
 "construction site, click on the build road icon and then click on the flag "
 "in front of your headquarters. Wait for the completion of the quarry."
-msgstr ""
+msgstr "要修一条全新的路，只需点击工地门前的旗帜，点修路图标，再点总部门前的旗帜。然后等采石场建完。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:403
 msgid ""
 "If you hold Ctrl or Shift+Ctrl while you finish the road, flags are placed "
 "automatically."
-msgstr ""
+msgstr "收尾时按住 Ctrl 或 Shift+Ctrl，旗帜会自动放好。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:410
 msgid ""
 "One more thing: around the field where your road would end, you can see "
 "different markers. They have the following meaning:"
-msgstr ""
+msgstr "还有一点：在你这条路将要结束的那块地周围，能看到一些不同的标记。含义如下："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:411
 msgid ""
 "The terrain is flat here. Your carriers will be very swift on this terrain."
-msgstr ""
+msgstr "此处地势平坦，搬运工在这样的地形上走得很快。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:412
 msgid ""
 "There is a small slope to climb to reach this field. This means that your "
 "workers will be faster walking downhill than they will be walking uphill."
-msgstr ""
+msgstr "要到这块地需要爬一小段坡。也就是说，工人下坡比上坡走得快。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:413
 msgid ""
 "The connection between the fields is extremely steep. The speed increase in "
 "one direction is huge while the slowdown in the other is also substantial."
-msgstr ""
+msgstr "两块地之间极为陡峭。一个方向上提速很多，另一个方向上减速也同样明显。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:414
 msgid ""
 "Keep the slopes in mind while placing roads and use them to your advantage. "
 "Also, try to keep roads as short as possible and always remember to place as"
 " many flags as you can on road segments to share the load better."
-msgstr ""
+msgstr "修路时把坡度放在心上，善加利用。另外尽量让路短一些，别忘了在路段上尽可能多插旗帜，好让搬运工分担负荷。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:421
 msgid "Quarry not Connected"
-msgstr ""
+msgstr "采石场未连通"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:423
 msgid ""
 "Your workers do not like to walk across country. You have to build a road "
 "from your headquarters to the construction site so that carriers can "
 "transport wares."
-msgstr ""
+msgstr "你的工人可不乐意翻山越岭。你得从总部修一条路到工地，搬运工才能运送物品。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:430
 msgid "You Destroyed the Construction Site!"
-msgstr ""
+msgstr "你把建筑工地拆了！"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:432
 msgid ""
 "It seems like you destroyed a construction site for a quarry we wanted to "
 "build. Luckily, we still have enough logs left this time, so you can simply "
 "build another one."
-msgstr ""
+msgstr "看样子你把我们想建的采石场工地给拆了。幸好这次原木还够，你再建一座就是。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:433
 msgid ""
@@ -661,47 +661,47 @@ msgid ""
 "created from time to time. To do so, you will have to go back to the main "
 "menu and choose ‘Single Player’ → ‘Load Game’. And please be a bit more "
 "careful next time."
-msgstr ""
+msgstr "你也可以从之前的存档重新载入。还好游戏会时不时自动存档。要这么做，得回到主菜单选「单人游戏」→「载入游戏」。下次请当心些。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:441
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:443
 msgid "Build another quarry"
-msgstr ""
+msgstr "再建一座采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:444
 msgid ""
 "Build a second quarry near the rocks and connect it to your road network."
-msgstr ""
+msgstr "在岩石旁边再建一座采石场，并把它接入你的路网。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:445
 msgid ""
 "You can connect the new road to any flag of your existing road network. You "
 "can create junctions everywhere, not only in front of buildings."
-msgstr ""
+msgstr "新路可以接到现有路网的任意一面旗帜上。岔路口哪儿都能修，不限于建筑门前。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:450
 msgid "Build a second quarry"
-msgstr ""
+msgstr "建第二座采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:452
 msgid ""
 "When there are many rocks, you can consider building another quarry. This "
 "will make the granite production faster."
-msgstr ""
+msgstr "岩石多的时候，可以考虑再建一座采石场，花岗岩就能产得更快。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:461
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:481
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:492
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:502
 msgid "Census and Status"
-msgstr ""
+msgstr "名称与状态"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:463
 msgid ""
 "While we wait, I’ll quickly show you another useful feature. It is sometimes"
 " hard to tell all the buildings apart. Widelands offers a feature to show "
 "label texts called the ‘census’ over the buildings."
-msgstr ""
+msgstr "等着的工夫，我顺手再教你一个好用的功能。有时候实在分不清哪座建筑是哪座，Widelands 可以在建筑上方显示名称标注。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:464
 #, lua-format
@@ -709,16 +709,16 @@ msgid ""
 "In order to show or hide the building census labels, you can select the "
 "‘Show Census’ / ‘Hide Census’ entry from the ‘Show / Hide’ menu on the "
 "bottom, or press the ‘%s’ key on the keyboard."
-msgstr ""
+msgstr "要显示或隐藏建筑名称标注，可以在底部的「显示 / 隐藏」菜单里选「显示名称」／「隐藏名称」，或者按键盘上的「%s」键。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:465
 msgid "Let me enable the census for you."
-msgstr ""
+msgstr "我替你把名称标注打开。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:474
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:476
 msgid "Show the building status"
-msgstr ""
+msgstr "显示建筑状态"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:477
 #, lua-format
@@ -726,24 +726,24 @@ msgid ""
 "In order to show or hide the building status labels, you can select the "
 "‘Show Status’ entry from the ‘Show / Hide’ menu on the bottom, or press the "
 "‘%s’ key on the keyboard."
-msgstr ""
+msgstr "要显示或隐藏建筑状态标注，可以在底部的「显示 / 隐藏」菜单里选「显示状态」，或者按键盘上的「%s」键。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:484
 msgid ""
 "Now, wouldn’t it be nice to check on our quarries’ progress without having "
 "to open their windows?"
-msgstr ""
+msgstr "话说回来，不用挨个打开窗口就能看到采石场的进度，岂不更好？"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:485
 msgid ""
 "In addition to the buildings’ census, you can also activate status labels on"
 " them. This will display information about the productivity of buildings or "
 "the progress of construction sites."
-msgstr ""
+msgstr "除了名称标注，你还可以给建筑打开状态标注。它会显示建筑的生产率或工地的进度。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:494
 msgid "Now we know what’s going on. Let’s wait for the quarries to finish."
-msgstr ""
+msgstr "这下情况一目了然。等采石场建完吧。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:504
 msgid ""
@@ -753,100 +753,100 @@ msgid ""
 "workplace and where any number of your wares can be stored until they are "
 "needed somewhere. So they act like a kind of town center, and to signify "
 "this, they get unique names."
-msgstr ""
+msgstr "你可能注意到总部的名称标注跟别的不一样。那是因为它属于一种叫仓库的特殊建筑。仓库是工人在被派去岗位之前休息的地方，也是任意数量的物品在被别处需要之前存放的地方。所以它有点像市镇中心，为示区别，它们都有独一无二的名字。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:505
 msgid ""
 "The small crowns beside the name mark it as your headquarters. As you play "
 "Widelands, you will see three kinds of warehouses, marked by little icons:"
-msgstr ""
+msgstr "名字旁边那个小王冠表示这是你的总部。玩下去你会见到三种仓库，各有小图标标识："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:506
 msgid ""
 "The headquarters where you usually start the game. It is marked by small "
 "crowns: ♔"
-msgstr ""
+msgstr "总部，通常是你开局的地方。标识是小王冠：♔"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:507
 msgid ""
 "Plain warehouses that simply hold wares and workers to keep them distributed"
 " all over your territory. They are marked by small houses: ⟰"
-msgstr ""
+msgstr "普通仓库，只是存放物品和工人，好让它们分布在你的领土各处。标识是小房子：⟰"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:508
 msgid ""
 "Ports that you’ll use in seafaring. They don’t only store your wares and "
 "workers, but can also load them on your ships to send them across the seas. "
 "They are marked by small anchors: ⚓"
-msgstr ""
+msgstr "港口，航海时要用。它们不只存放物品和工人，还能把它们装船运往海外。标识是小锚：⚓"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:509
 msgid ""
 "All of them are assigned names automatically that match the tribe, but you "
 "can change their names to your liking too."
-msgstr ""
+msgstr "它们的名字都会按部族自动取好，不过你也可以随自己喜好改。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:517
 msgid "Change the name of your little village"
-msgstr ""
+msgstr "给你的小村子改个名"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:519
 msgid "Change the name of your headquarters"
-msgstr ""
+msgstr "给你的总部改个名"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:520
 msgid ""
 "In order to set a new name for your headquarters, first click on it to open "
 "its window."
-msgstr ""
+msgstr "要给总部起个新名字，先点击它打开窗口。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:521
 msgid "You will see an edit box at the top of the window showing the name."
-msgstr ""
+msgstr "窗口顶部有一个显示名字的输入框。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:522
 msgid "All you have to do is delete the old name and type in the new one."
-msgstr ""
+msgstr "你只需删掉旧名字，输入新的就行。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:523
 msgid "When you’re done, just close the window."
-msgstr ""
+msgstr "改好后把窗口关上即可。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:528
 msgid "Be creative"
-msgstr ""
+msgstr "发挥点创意"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:529
 msgid ""
 "I see you closed the window without changing the name. I’m sure you can come"
 " up with something. But if you don’t want to, at least delete the old name, "
 "please, to show me you’ve found the editbox."
-msgstr ""
+msgstr "我看你没改名字就把窗口关了。你肯定想得出点什么来。实在不想改，至少把旧名字删掉，让我知道你找到输入框了。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:540
 msgid "Archive all messages in your inbox"
-msgstr ""
+msgstr "把收件箱里的消息全部归档"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:542
 msgid "Archive Your Inbox Messages"
-msgstr ""
+msgstr "归档收件箱中的消息"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:543
 msgid "Archive all your messages in your inbox now."
-msgstr ""
+msgstr "现在把收件箱里的消息全部归档。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:544
 msgid ""
 "Keep clicking the ‘Archive selected message’ button until all messages have "
 "been archived and the list is empty."
-msgstr ""
+msgstr "反复点击「归档所选消息」按钮，直到所有消息都归档、列表清空为止。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:545
 #, lua-format
 msgid ""
 "You can also hold down the Ctrl or Shift key to select multiple messages, or"
 " press %s to select them all."
-msgstr ""
+msgstr "你也可以按住 Ctrl 或 Shift 键多选消息，或者按 %s 全选。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:546
 #, lua-format
@@ -854,14 +854,14 @@ msgid ""
 "You can toggle the message window by pressing ‘%s’ or clicking the second "
 "button from the right at the very bottom of the screen. The newest message "
 "will be marked for you automatically."
-msgstr ""
+msgstr "按「%s」或点击屏幕最底部右起第二个按钮，可以开关消息窗口。最新的一条消息会自动帮你选中。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:547
 msgid ""
 "The message window is central to fully controlling your tribe’s fortune. "
 "However, you will get a lot of messages in a real game. To keep your head "
 "straight, you should try to keep the inbox empty."
-msgstr ""
+msgstr "消息窗口是全面掌控部族命运的枢纽。不过真打起来消息会很多，为了不被淹没，最好让收件箱保持清空。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:552
 msgid "Messages"
@@ -869,14 +869,14 @@ msgstr "消息"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:553
 msgid "Introducing Messages"
-msgstr ""
+msgstr "初识消息"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:555
 msgid ""
 "Hi, it’s me again! This time, I have sent you a message. Messages are sent "
 "to you by Widelands to inform you about important events: empty mines, "
 "attacks on your tribe, won or lost military buildings, resources found…"
-msgstr ""
+msgstr "嗨，又是我！这回我给你发了一条消息。Widelands 会用消息通知你各种要紧事：矿井采空、部族遇袭、军事建筑得失、发现资源……"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:556
 msgid ""
@@ -884,46 +884,46 @@ msgid ""
 " bottom of the screen. This button will also change appearance whenever new "
 "messages are available, but there is also a bell sound played whenever you "
 "receive a new message."
-msgstr ""
+msgstr "消息窗口可以用屏幕底部右起第二个按钮开关。有新消息时这个按钮的样子也会变，同时还会响一声铃。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:557
 msgid ""
 "You have two messages at the moment. This one, which you are currently "
 "reading, and the one that informed you that a new headquarters was added to "
 "your economy. Let’s learn how to archive messages:"
-msgstr ""
+msgstr "你现在有两条消息：一条是你正在读的这条，另一条是通知你经济中新增了一座总部。我们来学学怎么归档消息："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:564
 msgid "Close the messages window"
-msgstr ""
+msgstr "关闭消息窗口"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:566
 msgid "Close the Messages Window"
-msgstr ""
+msgstr "关闭消息窗口"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:567
 msgid ""
 "All windows in Widelands (except story message windows showing ‘OK’) can be "
 "closed by right-clicking into them. Some windows can also be toggled with "
 "the buttons and menus at the very bottom of the screen."
-msgstr ""
+msgstr "Widelands 里所有窗口（带「确定」的剧情消息窗口除外）都能用右键点击关闭。有些窗口还能用屏幕最底部的按钮和菜单开关。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:568
 msgid "The windows can also be minimized by middle-clicking in them."
-msgstr ""
+msgstr "在窗口内按鼠标中键还能把它最小化。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:569
 msgid "Close the messages window now by right-clicking into it."
-msgstr ""
+msgstr "现在右键点击消息窗口，把它关掉。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:575
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:585
 msgid "Closing Windows"
-msgstr ""
+msgstr "关闭窗口"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:577
 msgid "Excellent. Now we need to focus on other things."
-msgstr ""
+msgstr "很好。现在我们该关心别的事了。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:587
 msgid ""
@@ -931,70 +931,70 @@ msgid ""
 "I’ll take all rocks away from the poor stonemasons in the quarries. They "
 "will then send a message each that they can’t find any in their work areas "
 "the next time they try to do some work."
-msgstr ""
+msgstr "做得好！要不我们看看消息在真正的游戏里是怎么回事？为此，我要把采石场里那几位可怜石匠面前的岩石统统拿走。等他们下次想干活时，就会各自发来一条消息，说工作范围里找不到岩石了。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:595
 msgid "Destroy the two quarries"
-msgstr ""
+msgstr "拆掉这两座采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:597
 msgid "Destroy the Quarries"
-msgstr ""
+msgstr "拆掉采石场"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:598
 msgid ""
 "Since our quarries are useless now, you can destroy them and reuse the space"
 " later on."
-msgstr ""
+msgstr "既然采石场已经没用了，不如拆掉，把地方腾出来以后再用。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:599
 msgid ""
 "There are two different ways of destroying a building: burning down and "
 "dismantling. Try them both out on your quarries."
-msgstr ""
+msgstr "摧毁建筑有两种方式：烧毁和拆除。在你的两座采石场上各试一种。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:600
 msgid ""
 "Burning down the quarry: This is the fastest way of clearing the space. "
 "While the worker abandons the building, the wares are lost."
-msgstr ""
+msgstr "烧毁采石场：这是腾地最快的办法。工人会弃屋而去，里面的物品则全部损失。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:601
 msgid ""
 "Dismantling the quarry: A builder will walk from the headquarters to "
 "dismantle the quarry piece by piece. Thereby, you regain some of the "
 "resources you used for the construction."
-msgstr ""
+msgstr "拆除采石场：一名建筑工人会从总部走过来，把采石场一点一点拆掉。这样你能收回一部分建造时用掉的资源。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:606
 msgid "Messages Arrived!"
-msgstr ""
+msgstr "消息来了！"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:608
 msgid ""
 "You received some messages. See how the button at the bottom of the screen "
 "has changed appearance?"
-msgstr ""
+msgstr "你收到了几条消息。看到屏幕底部那个按钮的样子变了吗？"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:619
 msgid "Expand your territory"
-msgstr ""
+msgstr "扩张你的领土"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:621
 msgid "Make your Territory Grow"
-msgstr ""
+msgstr "让你的领土壮大起来"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:622
 msgid ""
 "Build a military building on your border. Choose the one you like most."
-msgstr ""
+msgstr "在你的边境上建一座军事建筑，挑你最喜欢的那种。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:623
 msgid ""
 "The sentry is the only military site that fits on a small building plot. If "
 "your lumberjack has cleared enough space, you can also build a bigger "
 "military building."
-msgstr ""
+msgstr "岗哨是唯一能放进小型建筑地块的军事据点。如果你的樵夫清出了足够空地，也可以建更大的军事建筑。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:624
 msgid ""
@@ -1002,11 +1002,11 @@ msgid ""
 "medium (yellow) building plots, but buildings can be built on a building "
 "plot that provides more space than they need. You should always keep that in"
 " mind when you search for a suitable place."
-msgstr ""
+msgstr "记住，大型建筑（绿色图标）不能建在小型（红色）或中型（黄色）地块上，但建筑可以建在空间绰绰有余的地块上。找位置时要一直把这点放在心上。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:628
 msgid "Expanding Your Territory!"
-msgstr ""
+msgstr "扩张你的领土！"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:631
 msgid ""
@@ -1015,7 +1015,7 @@ msgid ""
 " a basic building infrastructure, and we do not have access to mountains, "
 "which we need to mine minerals and coal. So, we have to expand our "
 "territory."
-msgstr ""
+msgstr "还有一件事我想教你：扩张领土。我们总部周围这块起始之地，勉强够搭一套基本的建筑架子，而且够不着山地，没法开采矿物和煤。所以我们必须扩张。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:632
 msgid ""
@@ -1026,62 +1026,62 @@ msgid ""
 "conquer around itself and the more soldiers can be stationed there. The "
 "buildings also vary in their vision range: buildings with a tower see "
 "farther than others."
-msgstr ""
+msgstr "扩张很简单，在领土边缘建一座军事建筑就行。蛮族有四种军事建筑可选：岗哨、壁垒、塔楼和要塞。建筑越大，造价越高，但周围能占下的土地越多，能驻扎的士兵也越多。它们的视野范围也不同：带塔的建筑看得更远。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:633
 msgid ""
 "As soon as a military building is manned, it will extend your land. I will "
 "tell you more about military buildings in another tutorial."
-msgstr ""
+msgstr "军事建筑一旦有人驻守，就会扩展你的疆域。关于军事建筑，我会在另一个教程里细说。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:640
 msgid "Military Site Occupied"
-msgstr ""
+msgstr "军事据点已进驻"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:642
 msgid "Your territory has just grown!"
-msgstr ""
+msgstr "你的领土刚刚扩大了！"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:644
 msgid ""
 "Great. Do you see how your territory has grown since your soldiers entered "
 "your new military building?"
-msgstr ""
+msgstr "很好。看到士兵进驻新的军事建筑之后，你的领土是怎么扩大的了吗？"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:655
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:657
 msgid "Conclusion"
-msgstr ""
+msgstr "结语"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:659
 msgid ""
 "This concludes the first tutorial. In order to learn more about the game, I "
 "suggest to play one of the other tutorials. Each of them covers a different "
 "topic."
-msgstr ""
+msgstr "第一个教程到此结束。想进一步了解这个游戏，我建议你再玩玩其他教程，每个教程各讲一个主题。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:660
 msgid ""
 "However, since you now know how to control Widelands, you can also start a "
 "game (or continue this one) and discover more by yourself."
-msgstr ""
+msgstr "不过既然你已经会操作 Widelands 了，也可以直接开一局（或者接着玩这一局），自己去发现更多。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:661
 msgid "To leave this game and return to the main menu:"
-msgstr ""
+msgstr "要离开本局回到主菜单："
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:662
 msgid ""
 "Click on the ‘Main Menu’ button on the very left at the bottom of the "
 "screen."
-msgstr ""
+msgstr "点击屏幕底部最左边的「主菜单」按钮。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:663
 msgid "Then click on the ‘Exit Game’ entry."
-msgstr ""
+msgstr "然后点「退出游戏」。"
 
 #: ../../../../data/campaigns/tutorial01_basic_control.wmf/scripting/texts.lua:664
 msgid ""
 "Thanks for playing this tutorial. Enjoy Widelands and remember to visit us "
 "at"
-msgstr ""
+msgstr "感谢你玩完这个教程。祝你玩得开心，也别忘了来看看我们："
