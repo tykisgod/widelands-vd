@@ -61,13 +61,17 @@ def ui_hint(refs):
 
 
 def glossary_hits(text, terms_by_en):
-    """原文中命中的术语，按长度降序，供翻译时直接采用。"""
+    """原文中命中的术语，按长度降序，供翻译时直接采用。
+
+    必须按词边界匹配。用子串匹配会把 Log→原木 命中 "logged"、Port→港口
+    命中 "supported"/"reporting"，给出误导性的术语提示。
+    """
     hits = []
-    low = text.lower()
     for en, zh in terms_by_en:
         if len(en) < 3:
             continue
-        if en.lower() in low:
+        if re.search(r'(?<![A-Za-z])' + re.escape(en) + r'(?![A-Za-z])',
+                     text, re.IGNORECASE):
             hits.append(f'{en} = {zh}')
         if len(hits) >= 8:
             break

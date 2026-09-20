@@ -1,0 +1,952 @@
+[
+ {
+  "key": "0f4602b009",
+  "msgid": "Decrease the value",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "减小值"
+ },
+ {
+  "key": "50ee5e81e6",
+  "msgid": "Decrease the value by %s",
+  "zh": "",
+  "note": "* TRANSLATORS: You may want to treat this as \"Decrease the value %s\", you | get | the chance to translate the substituted text as \"by <n units>\"",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "f6302c89ca",
+  "msgid": "Increase the value",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "增加值"
+ },
+ {
+  "key": "2ac888b1c5",
+  "msgid": "Increase the value by %s",
+  "zh": "",
+  "note": "* TRANSLATORS: You may want to treat this as \"Increase the value %s\", you | get | the chance to translate the substituted text as \"by <n units>\"",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "842e5512cc",
+  "msgid": "%d minute",
+  "zh": "",
+  "msgid_plural": "%d minutes",
+  "msgctxt": "spinbox_change",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by <n> minutes\" | You may want to treat this as \"by <n> minutes\", depending on how you | translated \"Increase/Decrease the value by %s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "7794a8f104",
+  "msgid": "%d minute",
+  "zh": "",
+  "msgid_plural": "%d minutes",
+  "note": "* TRANSLATORS: The current value of a spinbox",
+  "ui": "ui/basic",
+  "current": "%d 分钟"
+ },
+ {
+  "key": "cb253ec44f",
+  "msgid": "%d hour",
+  "zh": "",
+  "msgid_plural": "%d hours",
+  "msgctxt": "spinbox_change",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by <n> hours\" | You may want to treat this as \"by <n> hours\", depending on how you | translated \"Increase/Decrease the value by %s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "fb095e2b43",
+  "msgid": "%d hour",
+  "zh": "",
+  "msgid_plural": "%d hours",
+  "note": "* TRANSLATORS: The current value of a spinbox",
+  "ui": "ui/basic",
+  "current": "%d小时"
+ },
+ {
+  "key": "8794dc6ee6",
+  "msgid": "%1$s and %2$s",
+  "zh": "",
+  "msgctxt": "spinbox_change_hours_mins",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by X hours and Y minutes\" | You may want to treat this as \"by X hours and Y minutes\", depending on how | you | translated \"Increase/Decrease the value by %s\". You can also defer | translation | of \"by X hours\" and \"by Y minutes\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "f1e79ad577",
+  "msgid": "%d hour",
+  "zh": "",
+  "msgid_plural": "%d hours",
+  "msgctxt": "spinbox_change_hours_mins",
+  "note": "* TRANSLATORS: .. | The hours part of \"Increase/Decrease the value by X hours and Y minutes\". | You may want to treat this as \"by <n> hours\", depending on how you | translated | \"Increase/Decrease the value by %s\" and \"%1$s and %2$s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "7dcee4bb23",
+  "msgid": "%d minute",
+  "zh": "",
+  "msgid_plural": "%d minutes",
+  "msgctxt": "spinbox_change_hours_mins",
+  "note": "* TRANSLATORS: .. | The minutes part of \"Increase/Decrease the value by X hours and Y minutes\" | You may want to treat this as \"by <n> minutes\", depending on how you | translated \"Increase/Decrease the value by %s\" and \"%1$s and %2$s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "06cd8ee7f9",
+  "msgid": "%d week",
+  "zh": "",
+  "msgid_plural": "%d weeks",
+  "msgctxt": "spinbox_change",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by <n> weeks\" | You may want to treat this as \"by <n> weeks\", depending on how you | translated \"Increase/Decrease the value by %s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "ed30d8159b",
+  "msgid": "%d week",
+  "zh": "",
+  "msgid_plural": "%d weeks",
+  "note": "* TRANSLATORS: The current value of a spinbox",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "1a73910fad",
+  "msgid": "%d pixel",
+  "zh": "",
+  "msgid_plural": "%d pixels",
+  "msgctxt": "spinbox_change",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by <n> pixels\" | You may want to treat this as \"by <n> pixels\", depending on how you | translated \"Increase/Decrease the value by %s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "cfad035edb",
+  "msgid": "%d pixel",
+  "zh": "",
+  "msgid_plural": "%d pixels",
+  "note": "* TRANSLATORS: The current value of a spinbox",
+  "ui": "ui/basic",
+  "current": "%d 像素"
+ },
+ {
+  "key": "de59eadf8d",
+  "msgid": "%d field",
+  "zh": "",
+  "msgid_plural": "%d fields",
+  "msgctxt": "spinbox_change",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by <n> fields\" | You may want to treat this as \"by <n> fields\", depending on how you | translated \"Increase/Decrease the value by %s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "d7f309272f",
+  "msgid": "%d field",
+  "zh": "",
+  "msgid_plural": "%d fields",
+  "note": "* TRANSLATORS: The current value of a spinbox",
+  "ui": "ui/basic",
+  "current": "%d 领域"
+ },
+ {
+  "key": "d2ce93261b",
+  "msgid": "%i %%",
+  "zh": "",
+  "msgctxt": "spinbox_change",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by <n>%\" | You may want to treat this as \"by <n>%\", depending on how you | translated \"Increase/Decrease the value by %s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "cefebec625",
+  "msgid": "%i %%",
+  "zh": "",
+  "note": "* TRANSLATORS: The current value of a spinbox",
+  "ui": "ui/basic, ui/editor",
+  "current": "%i%%"
+ },
+ {
+  "key": "954550346a",
+  "msgid": "%d",
+  "zh": "",
+  "msgctxt": "spinbox_change",
+  "note": "* TRANSLATORS: \"Increase/Decrease the value by <n>\" | You may want to treat this as \"by <n>\", depending on how you | translated \"Increase/Decrease the value by %s\".",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "a9b049708e",
+  "msgid": "Click to reverse sorting",
+  "zh": "",
+  "ui": "ui/basic",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "252e5b722c",
+  "msgid": "Click to sort by this column",
+  "zh": "",
+  "ui": "ui/basic",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "9180689c4a",
+  "msgid": "%1$s<br>(%2$s)",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip format for table headers: %1 is column description, | %2 is | \"Click to sort ...\" or \"Click to reverse...\"",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "5503e6ccd0",
+  "msgid": "Cut",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "df2571402d",
+  "msgid": "Cut the selected text to the clipboard",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "baf1db0cff",
+  "msgid": "Copy",
+  "zh": "",
+  "ui": "ui/basic, ui/fsmenu",
+  "current": "复制"
+ },
+ {
+  "key": "25a0cc3941",
+  "msgid": "Copy the selected text to the clipboard",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "9e555e9e20",
+  "msgid": "Paste",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "dc85f5839c",
+  "msgid": "Paste the clipboard content",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "4c060fa6dc",
+  "msgid": "Delete",
+  "zh": "",
+  "ui": "ui/basic, ui/editor, ui/fsmenu",
+  "current": "删除"
+ },
+ {
+  "key": "a9b6a91464",
+  "msgid": "Delete the selected text",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "d57bfc9fef",
+  "msgid": "Select All",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "9e6ca95a21",
+  "msgid": "Select the entire text",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "e27a6820d2",
+  "msgid": "Minimize",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "最小化"
+ },
+ {
+  "key": "ac70442067",
+  "msgid": "Restore",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "还原"
+ },
+ {
+  "key": "1a2ebe501d",
+  "msgid": "Pin",
+  "zh": "",
+  "ui": "ui/basic, ui/wui",
+  "current": "固定"
+ },
+ {
+  "key": "d2d5127b95",
+  "msgid": "Unpin",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "解除固定"
+ },
+ {
+  "key": "4e2128c869",
+  "msgid": "Close",
+  "zh": "",
+  "ui": "ui/basic, ui/fsmenu, ui/game",
+  "current": "关闭"
+ },
+ {
+  "key": "df86ad23b7",
+  "msgid": "Minimize the window",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "b938a5db2d",
+  "msgid": "Unminimize the window",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "c201fdc460",
+  "msgid": "Pin the window",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "60c3c2d06e",
+  "msgid": "Unpin the window",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "bf66fff53e",
+  "msgid": "Close the window",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "963e7d7939",
+  "msgid": "Current: %s …",
+  "zh": "",
+  "note": "* TRANSLATORS: %s are the currently selected items in an editor tool",
+  "ui": "ui/editor",
+  "current": "当前：%s......"
+ },
+ {
+  "key": "c2b56013a7",
+  "msgid": "Click to select an item. Use the Ctrl key to select multiple items.",
+  "zh": "",
+  "note": "* TRANSLATORS: Help text in an editor tool",
+  "ui": "ui/editor",
+  "current": " 单击以选择项目。使用Ctrl键选择多个项目。 ",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "a6147f96f1",
+  "msgid": "Current: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: %s are the currently selected items in an editor tool",
+  "ui": "ui/editor",
+  "current": "当前：%s"
+ },
+ {
+  "key": "ee1e1e65b4",
+  "msgid": "Main Menu",
+  "zh": "",
+  "note": "* TRANSLATORS: Title for the main menu button in the editor | * TRANSLATORS: Title for the main menu button in the game",
+  "ui": "ui/editor, ui/fsmenu, ui/game",
+  "current": "主菜单"
+ },
+ {
+  "key": "7a152d89a7",
+  "msgid": "Esc",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "ui": "ui/editor, ui/wui",
+  "current": "Esc键"
+ },
+ {
+  "key": "4793d9e24d",
+  "msgid": "Tools",
+  "zh": "",
+  "msgctxt": "editor",
+  "note": "* TRANSLATORS: Title for the tool menu button in the editor | * TRANSLATORS: Heading in the editor keyboard shortcuts help",
+  "ui": "ui/editor",
+  "current": "工具"
+ },
+ {
+  "key": "eb119959d0",
+  "msgid": "An error has occured. The error message is:\n\n%1$s\n\nPlease report this problem to help us improve Widelands. You will find related messages in the standard output (stdout.txt on Windows). You are using version %2$s.\nPlease add this information to your report.",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "f9b49e50b6",
+  "msgid": "Loading map “%s”…",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "载入地图 “%s”…"
+ },
+ {
+  "key": "5c20326610",
+  "msgid": "Show / Hide",
+  "zh": "",
+  "note": "* TRANSLATORS: Title for a menu button in the editor. This menu will | show/hide | building spaces, animals, immovables, resources | * TRANSLATORS: Title for a menu button in the game. This menu will | show/hide | building spaces, census, status, etc.",
+  "ui": "ui/editor, ui/wui",
+  "current": "显示/隐藏"
+ },
+ {
+  "key": "ecbb0ed025",
+  "msgid": "Loading world…",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "载入广袤大地…"
+ },
+ {
+  "key": "7f8a3f1f68",
+  "msgid": "Tool size",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "工具尺寸"
+ },
+ {
+  "key": "8407eb5298",
+  "msgid": "Tool gaps: %u%%",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "df13d93c0b",
+  "msgid": "Are you certain that you want to publish this map online?\n\nName: %1$s\nInternal name: %2$s\nAuthor: %3$s\nDescription: %4$s\nHint: %5$s\n\n",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "2fdf124a19",
+  "msgid": "Publish Map",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "98126610f5",
+  "msgid": "By uploading, you agree to publish the map under the terms of the GNU General Public License (GPL) version 2 or any later version (the same license under which Widelands itself is distributed). For more information, see %s.",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "64954ed8ca",
+  "msgid": "Login Error",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "8ac10a1716",
+  "msgid": "Undo",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "撤销"
+ },
+ {
+  "key": "93ead33b40",
+  "msgid": "Uploading Add-On…",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "a7b60be3e6",
+  "msgid": "Saving map…",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "590ad964e2",
+  "msgid": "Error Saving Map!",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "保存地图错误！"
+ },
+ {
+  "key": "de76e5f909",
+  "msgid": "Packaging add-on…",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "8288809543",
+  "msgid": "Redo",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "重做"
+ },
+ {
+  "key": "b8d98be1a1",
+  "msgid": "Add-On Generation Error",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "dd7f02da47",
+  "msgid": "The add-on could not be written to the disk.",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "8f9ea94ad3",
+  "msgid": "Uploading…",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu"
+ },
+ {
+  "key": "5c97c72606",
+  "msgid": "Upload Error",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "16c390b7d7",
+  "msgid": "Success",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "a9fb2bbe9c",
+  "msgid": "The add-on was uploaded successfully.",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "99521eeea6",
+  "msgid": "Help",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination.",
+  "ui": "ui/editor, ui/game, ui/wui",
+  "current": "帮助"
+ },
+ {
+  "key": "236703ec6f",
+  "msgid": "New Map",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's main menu",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "新地图"
+ },
+ {
+  "key": "e9c1ee721b",
+  "msgid": "New Random Map",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's main menu",
+  "ui": "ui/editor",
+  "current": "新随机地图",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "9ece065eaf",
+  "msgid": "Load Map",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's main menu | * TRANSLATORS: This is the helptext for an access key combination.",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "加载地图"
+ },
+ {
+  "key": "548e0c67be",
+  "msgid": "Save Map",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's main menu | * TRANSLATORS: This is the helptext for an access key combination.",
+  "ui": "ui/editor",
+  "current": "保存地图"
+ },
+ {
+  "key": "e24260093e",
+  "msgid": "Publish Map Online…",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's main menu",
+  "ui": "ui/editor",
+  "current": "发布在线地图..."
+ },
+ {
+  "key": "117af75f87",
+  "msgid": "Map Options",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's main menu",
+  "ui": "ui/editor",
+  "current": "地图选项"
+ },
+ {
+  "key": "b562480ce7",
+  "msgid": "Exit Editor",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's main menu | * TRANSLATORS: This is the helptext for an access key combination.",
+  "ui": "ui/editor",
+  "current": "退出编辑器"
+ },
+ {
+  "key": "3e8d6523f9",
+  "msgid": "Change height",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "改变高度"
+ },
+ {
+  "key": "159a216162",
+  "msgid": "Change the terrain height",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the change height tool in the editor",
+  "ui": "ui/editor",
+  "current": "改变地形高度"
+ },
+ {
+  "key": "a94d2f8160",
+  "msgid": "Random height",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "随机海拔",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "7a3bd3844e",
+  "msgid": "Set the terrain height to random values",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the random height tool in the editor",
+  "ui": "ui/editor",
+  "current": " 把地形高度设定为随机值",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "0e16c1b907",
+  "msgid": "Terrain",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor, ui/wui",
+  "current": "地形"
+ },
+ {
+  "key": "5d7f730d20",
+  "msgid": "Change the map’s terrain",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the terrain tool in the editor",
+  "ui": "ui/editor",
+  "current": "改变地图的地形"
+ },
+ {
+  "key": "ca91a55630",
+  "msgid": "Add or remove immovables",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the immovables tool in the editor",
+  "ui": "ui/editor",
+  "current": "添加或删除固定物"
+ },
+ {
+  "key": "27f8767e95",
+  "msgid": "Animals",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "动物"
+ },
+ {
+  "key": "d7aec002ea",
+  "msgid": "Add or remove animals",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the animals tool in the editor",
+  "ui": "ui/editor",
+  "current": "添加或删除动物"
+ },
+ {
+  "key": "3a8df55028",
+  "msgid": "Set or change resources",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the resources tool in the editor",
+  "ui": "ui/editor",
+  "current": "设置或改变资源"
+ },
+ {
+  "key": "a5364f02ba",
+  "msgid": "Port spaces",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "港口空间",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "ca624cfcad",
+  "msgid": "Add or remove port spaces",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the port spaces tool in the editor",
+  "ui": "ui/editor",
+  "current": "添加或删除港口空间",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "aafb1744e7",
+  "msgid": "Players",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "玩家"
+ },
+ {
+  "key": "059d7e9e86",
+  "msgid": "Set number of players and their names, tribes and starting positions",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the map size tool in the editor",
+  "ui": "ui/editor",
+  "current": "设置玩家数量和他们的名字，部族和起始位置"
+ },
+ {
+  "key": "2b352eb305",
+  "msgid": "Map origin",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "地图原点"
+ },
+ {
+  "key": "0bbdf03fb3",
+  "msgid": "Set the position that will have the coordinates (0, 0). This will be the top-left corner of a generated minimap.",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the map origin tool in the editor",
+  "ui": "ui/editor",
+  "current": "设置坐标为(0,0)的位置。将以此生成迷你地图的左上角。"
+ },
+ {
+  "key": "af7688c929",
+  "msgid": "Map size",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "地图尺寸"
+ },
+ {
+  "key": "071d825686",
+  "msgid": "Change the map’s size",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the map size tool in the editor",
+  "ui": "ui/editor",
+  "current": "改变地图的尺寸"
+ },
+ {
+  "key": "919897b5a3",
+  "msgid": "Information",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "信息"
+ },
+ {
+  "key": "37dc592a8a",
+  "msgid": "Click on a field to show information about it",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the map information tool in the editor",
+  "ui": "ui/editor",
+  "current": "点击区域以显示与其相关的信息",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "e20ee2e011",
+  "msgid": "Tool History",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "ui/editor",
+  "current": "工具历史"
+ },
+ {
+  "key": "411000002c",
+  "msgid": "Restore previous tool settings",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the tool history tool in the editor",
+  "ui": "ui/editor",
+  "current": "恢复先前的工具设置"
+ },
+ {
+  "key": "e6410a8f98",
+  "msgid": "Hide Building Spaces",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether | building spaces are | * shown | * TRANSLATORS: An entry in the game's show/hide menu to toggle whether | building spaces are | * shown",
+  "ui": "ui/editor, ui/wui",
+  "current": "隐藏建筑空间",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "ac30fc3dcd",
+  "msgid": "Show Building Spaces",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu, ui/wui",
+  "current": "显示建筑空间",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "59697c5a73",
+  "msgid": "Hide Maximum Building Spaces",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether to | show maximum | * building spaces that will be available if all immovables (trees, rocks, | etc.) are removed",
+  "ui": "ui/editor",
+  "current": "隐藏最大建筑空间",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "bc32eae9b7",
+  "msgid": "Show Maximum Building Spaces",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "78ede91c54",
+  "msgid": "Toggle whether to show maximum building spaces that will be available if all immovables (trees, rocks, etc.) are removed",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Building = 建筑",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "68695fddf6",
+  "msgid": "Disable height heat map",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether | the map height heat map is shown",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "3959c5ca55",
+  "msgid": "Enable height heat map",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "c92ce24f72",
+  "msgid": "Hide Grid",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether | the map grid is shown",
+  "ui": "ui/editor",
+  "current": "隐藏网格"
+ },
+ {
+  "key": "122eeb69c2",
+  "msgid": "Show Grid",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "显示网格"
+ },
+ {
+  "key": "d0dfe8ba54",
+  "msgid": "Hide Oceans",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether | the oceans are shown",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "43ef67e470",
+  "msgid": "Show Oceans",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "6bd5d65fec",
+  "msgid": "Display separate water bodies with differently coloured overlays to see which coasts can be connected by shipping routes",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "ce3489a480",
+  "msgid": "Hide Immovables",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether | immovables | *  (trees, rocks etc.) are shown",
+  "ui": "ui/editor",
+  "current": "隐藏固定物"
+ },
+ {
+  "key": "edf210fe2e",
+  "msgid": "Show Immovables",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "显示固定物"
+ },
+ {
+  "key": "38d2702d94",
+  "msgid": "Hide Animals",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether | animals are shown",
+  "ui": "ui/editor",
+  "current": "隐藏动物"
+ },
+ {
+  "key": "aadddc49f6",
+  "msgid": "Show Animals",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "显示动物"
+ },
+ {
+  "key": "8ca06ce780",
+  "msgid": "Hide Resources",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's show/hide menu to toggle whether | resources are shown",
+  "ui": "ui/editor",
+  "current": "隐藏资源"
+ },
+ {
+  "key": "7b5f21207e",
+  "msgid": "Show Resources",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "显示资源"
+ },
+ {
+  "key": "fbf877cfc1",
+  "msgid": "Unsupported Format",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "不支持的格式"
+ }
+]

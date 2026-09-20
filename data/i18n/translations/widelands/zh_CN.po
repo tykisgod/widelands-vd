@@ -2605,48 +2605,48 @@ msgid ""
 "Widelands could not establish a connection to the given address.\n"
 "Either there was no metaserver running at the supposed port or\n"
 "your network setup is broken."
-msgstr "Widelands无法建立到指定地址的连接。\n 如果没有元数据服务器运行在指定的端口，\n 就是您的网络设置存在问题。"
+msgstr "Widelands 无法连接到指定地址。\n可能是指定端口上没有运行元服务器，\n也可能是你的网络设置有问题。"
 
 #: ../../../../src/network/internet_gaming.cc:168
 msgid "Users marked with IRC will possibly not react to messages."
-msgstr "标识有IRC的用户可能不会对消息做出反应。"
+msgstr "标有 IRC 的用户可能不会回应消息。"
 
 #: ../../../../src/network/internet_gaming.cc:206
 msgid "Successfully reconnected to the metaserver!"
-msgstr "已成功重新连接到元数据服务器"
+msgstr "已成功重新连接到元服务器！"
 
 #: ../../../../src/network/internet_gaming.cc:329
 #: ../../../../src/network/network_gaming_messages.cc:40
 #, c-format
 msgid "Something went wrong: %s"
-msgstr "出了点问题: %s"
+msgstr "出了点问题：%s"
 
 #: ../../../../src/network/internet_gaming.cc:421
 msgid "Welcome to the Widelands Metaserver!"
-msgstr "欢迎来到Widelands元数据服务器！"
+msgstr "欢迎来到 Widelands 元服务器！"
 
 #: ../../../../src/network/internet_gaming.cc:425
 #, c-format
 msgid ""
 "You have been logged in as ‘%s’ since your requested name is already in use "
 "or reserved."
-msgstr ""
+msgstr "你请求的名称已被占用或被保留，因此以 ‘%s’ 的身份登录。"
 
 #: ../../../../src/network/internet_gaming.cc:437
 msgid "Our forums can be found at:"
-msgstr "我们的论坛位于："
+msgstr "我们的论坛在："
 
 #: ../../../../src/network/internet_gaming.cc:439
 msgid "For reporting bugs, visit:"
-msgstr "报告软件错误，请访问："
+msgstr "报告缺陷请访问："
 
 #: ../../../../src/network/internet_gaming.cc:462
 msgid "Mixed up"
-msgstr "混合"
+msgstr "顺序错乱"
 
 #: ../../../../src/network/internet_gaming.cc:462
 msgid "The metaserver sent a strange ERROR during connection"
-msgstr "元数据服务器在连接过程中发送了一个奇怪的错误"
+msgstr "元服务器在连接过程中发来了一个异常的错误"
 
 #: ../../../../src/network/internet_gaming.cc:476
 msgid "Unexpected packet"
@@ -2657,33 +2657,33 @@ msgid ""
 "Received an unexpected network packet from the metaserver. The metaserver "
 "could be using a different protocol version. If the error persists, try "
 "updating your game."
-msgstr "从元数据服务器接收到意外的网络数据包。元数据服务器可能使用不同的协议版本。如果错误仍然存在，请尝试更新游戏。"
+msgstr "收到了来自元服务器的意外网络数据包。元服务器可能使用了不同的协议版本。如果错误持续出现，请尝试更新游戏。"
 
 #: ../../../../src/network/internet_gaming.cc:487
 #, c-format
 msgid ""
 "WARNING: Received a %s command although we are not in CONNECTING state."
-msgstr "警告： 收到 %s 命令， 虽然我们并不处于连接状态。"
+msgstr "警告：收到了 %s 命令，但当前并不处于连接中状态。"
 
 #: ../../../../src/network/internet_gaming.cc:495
 #, c-format
 msgid "Server time offset is %d second."
 msgid_plural "Server time offset is %d seconds."
-msgstr[0] "服务器的时间偏移值为 %d 秒。"
+msgstr[0] "服务器时间偏移 %d 秒。"
 
 #: ../../../../src/network/internet_gaming.cc:509
 #, c-format
 msgid "Invalid chat message type \"%s\"."
-msgstr "无效的聊天信息类型 \"%s\"。"
+msgstr "无效的聊天消息类型 “%s”。"
 
 #: ../../../../src/network/internet_gaming.cc:509
 msgid "Invalid message type"
-msgstr "无效的信息类型"
+msgstr "无效的消息类型"
 
 #: ../../../../src/network/internet_gaming.cc:549
 #, c-format
 msgid "The game %s is now available"
-msgstr "游戏 %s 现在有效"
+msgstr "游戏 %s 现已可加入"
 
 #: ../../../../src/network/internet_gaming.cc:559
 #, c-format
@@ -2702,58 +2702,58 @@ msgstr "%s 离开了大厅"
 
 #: ../../../../src/network/internet_gaming.cc:666
 msgid "Chat message could not be sent."
-msgstr "不能发送聊天信息。"
+msgstr "聊天消息发送失败。"
 
 #: ../../../../src/network/internet_gaming.cc:674
 msgid "Command could not be executed."
-msgstr "命令不能被执行。"
+msgstr "命令无法执行。"
 
 #: ../../../../src/network/internet_gaming.cc:692
 #, c-format
 msgid "ERROR: %s"
-msgstr "错误： %s"
+msgstr "错误：%s"
 
 #: ../../../../src/network/internet_gaming.cc:695
 msgid "An unexpected error message has been received about command %1%: %2%"
-msgstr "接收到关于命令的意外错误消息 %1%: %2%"
+msgstr "收到关于命令 %1% 的意外错误消息：%2%"
 
 #: ../../../../src/network/internet_gaming.cc:706
 #, c-format
 msgid "Received an unknown command from the metaserver: %s"
-msgstr "从元数据服务器接收到未知的命令: %s"
+msgstr "收到来自元服务器的未知命令：%s"
 
 #: ../../../../src/network/internet_gaming.cc:859
 msgid "Message could not be sent: You are not connected to the metaserver!"
-msgstr "信息不能被发送：你没有连接到元数据服务器！"
+msgstr "消息发送失败：你尚未连接到元服务器！"
 
 #: ../../../../src/network/internet_gaming.cc:879
 #: ../../../../src/network/internet_gaming.cc:887
 msgid "Message could not be sent: Was this supposed to be a private message?"
-msgstr "信息不能被发送：这是私有的信息吗？"
+msgstr "消息发送失败：这条本该是私聊消息吗？"
 
 #: ../../../../src/network/internet_gaming.cc:902
 msgid "Supported admin commands:"
-msgstr "支持的管理命令"
+msgstr "支持的管理员命令："
 
 #: ../../../../src/network/internet_gaming.cc:903
 msgid "/motd <msg> - Set a permanent greeting message"
-msgstr "/motd <msg> - 设置长期的问候语"
+msgstr "/motd <msg> - 设置长期的欢迎消息"
 
 #: ../../../../src/network/internet_gaming.cc:904
 msgid "/announce <msg> - Send a one time system message"
-msgstr "/announce <msg> - 发送一次系统消息"
+msgstr "/announce <msg> - 发送一次性的系统消息"
 
 #: ../../../../src/network/internet_gaming.cc:907
 msgid "/warn <user> <msg> - Send a private system message to the given user"
-msgstr "/warn <user> <msg> - 给指定的用户发送私有的系统消息"
+msgstr "/warn <user> <msg> - 向指定用户发送私密系统消息"
 
 #: ../../../../src/network/internet_gaming.cc:910
 msgid "/kick <user|game> - Remove the given user or game from the metaserver"
-msgstr "/kick <user|game> - 从元数据服务器移除指定的用户或游戏"
+msgstr "/kick <user|game> - 将指定用户或游戏移出元服务器"
 
 #: ../../../../src/network/internet_gaming.cc:912
 msgid "/ban <user> - Ban a user for 24 hours from the metaserver"
-msgstr "/ban <user> - 禁止用户在24小时内访问元数据服务器 "
+msgstr "/ban <user> - 禁止某用户访问元服务器 24 小时"
 
 #: ../../../../src/network/internet_gaming.cc:991
 msgid "Conversion error"
@@ -2764,7 +2764,7 @@ msgstr "转换错误"
 #: ../../../../src/network/internet_gaming.cc:994
 #, c-format
 msgid "Unable to determine truth value for \"%s\""
-msgstr "无法确定的 \"%s\" 真实值"
+msgstr "无法判断 “%s” 的真假值"
 
 #: ../../../../src/network/internet_gaming.cc:1018
 msgctxt "chat_sender"
@@ -2773,23 +2773,23 @@ msgstr "未知"
 
 #: ../../../../src/network/internet_gaming_messages.cc:28
 msgid "There is no user with this name logged in."
-msgstr " 没有使用此账号名的用户登录。 "
+msgstr "没有使用该名称登录的用户。"
 
 #: ../../../../src/network/internet_gaming_messages.cc:29
 msgid "The game no longer exists, maybe it has just been closed."
-msgstr " 游戏已不存在，也许刚刚被关闭。"
+msgstr "该游戏已不存在，可能刚刚被关闭。"
 
 #: ../../../../src/network/internet_gaming_messages.cc:30
 msgid "Wrong password, please try again."
-msgstr "错误的密码，请再试试。"
+msgstr "密码错误，请重试。"
 
 #: ../../../../src/network/internet_gaming_messages.cc:31
 msgid "You have been temporarily banned from online gaming."
-msgstr " 你被暂时禁止在线游戏。"
+msgstr "你已被暂时禁止进行在线游戏。"
 
 #: ../../../../src/network/internet_gaming_messages.cc:32
 msgid "The protocol version you are using is not supported!"
-msgstr "你所使用的协议版本不再被支持！"
+msgstr "你使用的协议版本不受支持！"
 
 #: ../../../../src/network/internet_gaming_messages.cc:33
 msgid "You are already logged in!"
@@ -2799,47 +2799,47 @@ msgstr "你已经登录了！"
 msgid ""
 "You got disconnected, as you sent a superuser command without superuser "
 "permission. This incident will be logged and reported to the administrator."
-msgstr "你被中断了连接，因为你在没有超级用户权限的情况下发送了超级用户命令。此事件将被记录并报告给管理员。"
+msgstr "你被断开了连接，因为你在没有超级用户权限的情况下发送了超级用户命令。此事件将被记录并报告给管理员。"
 
 #: ../../../../src/network/internet_gaming_messages.cc:40
 msgid "Connection was closed by the client normally."
-msgstr " 客户端正常关闭了连接。"
+msgstr "客户端正常关闭了连接。"
 
 #: ../../../../src/network/internet_gaming_messages.cc:41
 msgid "The connection to the metaserver was lost."
-msgstr " 与元数据服务器的连接已丢失。"
+msgstr "与元服务器的连接已断开。"
 
 #: ../../../../src/network/internet_gaming_messages.cc:42
 msgid "Metaserver did not answer"
-msgstr "元数据服务器没有应答"
+msgstr "元服务器未应答"
 
 #: ../../../../src/network/internet_gaming_messages.cc:45
 msgid ""
 "You got disconnected from the metaserver, as you did not answer a PING "
 "request in time."
-msgstr " 你已与元数据服务器断开连接，因为你没有及时响应PING请求。 "
+msgstr "你与元服务器的连接已断开，因为未及时响应 PING 请求。"
 
 #: ../../../../src/network/net_addons.cc:926
 #, c-format
 msgid "Sending metadata for %s"
-msgstr ""
+msgstr "正在发送 %s 的元信息"
 
 #: ../../../../src/network/net_addons.cc:968
 #, c-format
 msgid "Uploading %s"
-msgstr ""
+msgstr "正在上传 %s"
 
 #: ../../../../src/network/network_gaming_messages.cc:30
 msgid "Client has left the game."
-msgstr "客户端离开了游戏。 "
+msgstr "客户端已离开游戏。"
 
 #: ../../../../src/network/network_gaming_messages.cc:31
 msgid "Client crashed and performed an emergency save."
-msgstr "因客户端发生严重故障，执行了一次应急存档。"
+msgstr "客户端崩溃，已执行应急存档。"
 
 #: ../../../../src/network/network_gaming_messages.cc:32
 msgid "Connection was lost."
-msgstr " 连接丢失。"
+msgstr "连接已断开。"
 
 #: ../../../../src/network/network_gaming_messages.cc:33
 msgid "Server has left the game."
@@ -2847,60 +2847,60 @@ msgstr "服务器已退出游戏。"
 
 #: ../../../../src/network/network_gaming_messages.cc:35
 msgid "The game has started just after you tried to connect."
-msgstr "游戏在你尝试连接之后刚刚开始。"
+msgstr "就在你尝试连接之后，游戏开始了。"
 
 #: ../../../../src/network/network_gaming_messages.cc:36
 msgid "Server has crashed and performed an emergency save."
-msgstr "因服务器发生严重故障，执行了一次应急存档。"
+msgstr "服务器崩溃，已执行应急存档。"
 
 #: ../../../../src/network/network_gaming_messages.cc:37
 msgid "Client and host have become desynchronized."
-msgstr "客户端和主机已不再同步。"
+msgstr "客户端与主机已不同步。"
 
 #: ../../../../src/network/network_gaming_messages.cc:38
 #, c-format
 msgid "Kicked by the host: %s"
-msgstr "被主机踢出： %s"
+msgstr "被主机踢出：%s"
 
 #: ../../../../src/network/network_gaming_messages.cc:39
 #, c-format
 msgid "Client sent malformed commands: %s"
-msgstr "客户端发送了格式错误的命令： %s"
+msgstr "客户端发送了格式错误的命令：%s"
 
 #: ../../../../src/network/network_gaming_messages.cc:41
 #, c-format
 msgid "%1$s has left the game (%2$s)"
-msgstr "%1$s 离开了游戏 (%2$s)"
+msgstr "%1$s 离开了游戏（%2$s）"
 
 #: ../../../../src/network/network_gaming_messages.cc:42
 #, c-format
 msgid "%1$s has been replaced with %2$s"
-msgstr "%1$s 已被替换为 %2$s"
+msgstr "%1$s 已被 %2$s 接替"
 
 #: ../../../../src/network/network_gaming_messages.cc:43
 #, c-format
 msgid "Unknown user has left the game (%s)"
-msgstr "未知用户已离开游戏 (%s)"
+msgstr "未知用户已离开游戏（%s）"
 
 #: ../../../../src/network/network_gaming_messages.cc:45
 msgid "Server sent a SYNCREQUEST even though no game is running."
-msgstr "服务器发送了SYNCREQUEST，即使没有游戏正在运行。"
+msgstr "游戏并未运行，服务器却发来了 SYNCREQUEST。"
 
 #: ../../../../src/network/network_gaming_messages.cc:46
 msgid "Received a PLAYERCOMMAND even though no game is running."
-msgstr "收到一条 PLAYERCOMMAND，即使没有游戏正在运行。"
+msgstr "游戏并未运行，却收到了 PLAYERCOMMAND。"
 
 #: ../../../../src/network/network_gaming_messages.cc:47
 msgid "Unexpectedly received LAUNCH command from server."
-msgstr "从服务器意外地收到LAUNCH命令。"
+msgstr "意外收到了服务器发来的 LAUNCH 命令。"
 
 #: ../../../../src/network/network_gaming_messages.cc:49
 msgid "Server sent a player update for a player that does not exist."
-msgstr "服务器为不存在的游戏玩家发送了玩家更新。"
+msgstr "服务器发来了一个不存在的玩家的更新。"
 
 #: ../../../../src/network/network_gaming_messages.cc:51
 msgid "Server sent a user update for a user that does not exist."
-msgstr "服务器为不存在的用户发送了用户更新。"
+msgstr "服务器发来了一个不存在的用户的更新。"
 
 #: ../../../../src/network/network_gaming_messages.cc:52
 msgid "Server uses a different protocol version"
@@ -2909,19 +2909,19 @@ msgstr "服务器使用了不同的协议版本"
 #: ../../../../src/network/network_gaming_messages.cc:54
 #, c-format
 msgid "Received command number %s, which is not allowed in this state."
-msgstr "收到在这种状态下不被允许的命令编号 %s 。"
+msgstr "收到命令编号 %s，该命令在当前状态下不被允许。"
 
 #: ../../../../src/network/network_gaming_messages.cc:56
 msgid "Client reports time to host that is running backwards."
-msgstr "客户端向主机报告反向运行的时间。"
+msgstr "客户端向主机报告了倒流的时间。"
 
 #: ../../../../src/network/network_gaming_messages.cc:58
 msgid "Client simulates beyond the game time allowed by the host."
-msgstr "客户端模拟超出主机允许的游戏时间。"
+msgstr "客户端的模拟超出了主机允许的游戏时间。"
 
 #: ../../../../src/network/network_gaming_messages.cc:59
 msgid "Client did not submit sync report in time."
-msgstr "客户端没有及时提交sync报告。"
+msgstr "客户端未及时提交同步报告。"
 
 #: ../../../../src/network/network_gaming_messages.cc:60
 msgid "The game has already started."
@@ -2929,19 +2929,19 @@ msgstr "游戏已经开始了。"
 
 #: ../../../../src/network/network_gaming_messages.cc:61
 msgid "Client has no access to other player’s settings."
-msgstr "客户端无法访问其他游戏玩家的设置。"
+msgstr "客户端无权访问其他玩家的设置。"
 
 #: ../../../../src/network/network_gaming_messages.cc:62
 msgid "Client has no access to server settings."
-msgstr "客户端不能读取服务器的设置。"
+msgstr "客户端无权访问服务器设置。"
 
 #: ../../../../src/network/network_gaming_messages.cc:64
 msgid "Client sent TIME command even though game is not running."
-msgstr "客户端发送 TIME 命令，即使游戏没有运行。"
+msgstr "游戏并未运行，客户端却发送了 TIME 命令。"
 
 #: ../../../../src/network/network_gaming_messages.cc:65
 msgid "Client sent a PLAYERCOMMAND for another player."
-msgstr "客户端发送一条 PLAYER COMMAND 给另外一个玩家。"
+msgstr "客户端为另一个玩家发送了 PLAYERCOMMAND。"
 
 #: ../../../../src/network/network_gaming_messages.cc:66
 msgid "Client sent unexpected synchronization report."
@@ -2949,17 +2949,17 @@ msgstr "客户端发送了意外的同步报告。"
 
 #: ../../../../src/network/network_gaming_messages.cc:68
 msgid "Client requests file although none is available to send."
-msgstr "客户端请求文件，尽管没有文件是可以可发送的。 "
+msgstr "客户端请求文件，但当前没有可发送的文件。"
 
 #: ../../../../src/network/network_gaming_messages.cc:69
 #, c-format
 msgid "Host sent player %s to the lobby!"
-msgstr "主机将玩家 %s 送到大厅！"
+msgstr "主机把玩家 %s 送回了大厅！"
 
 #: ../../../../src/network/network_gaming_messages.cc:71
 #, c-format
 msgid "WARNING: %1$s uses version: %2$s, while Host uses version: %3$s"
-msgstr "WARNING: %1$s 使用的版本: %2$s, 主机此时使用的版本: %3$s"
+msgstr "警告：%1$s 使用版本 %2$s，而主机使用版本 %3$s"
 
 #: ../../../../src/network/network_gaming_messages.cc:72
 #, c-format
@@ -2969,48 +2969,48 @@ msgstr "%s 已加入游戏"
 #: ../../../../src/network/network_gaming_messages.cc:73
 #, c-format
 msgid "Started to send file %1$s to %2$s!"
-msgstr "开始发送文件 %1$s 到 %2$s!"
+msgstr "开始向 %2$s 发送文件 %1$s！"
 
 #: ../../../../src/network/network_gaming_messages.cc:74
 #, c-format
 msgid "Completed transfer of file %1$s to %2$s"
-msgstr " 已完成文件 %1$s 到 %2$s 的传输。"
+msgstr "已完成向 %2$s 传输文件 %1$s"
 
 #: ../../../../src/network/network_gaming_messages.cc:75
 #, c-format
 msgid "The player ‘%s’ was defeated and became a spectator."
-msgstr "玩家 ‘%s’ 被打败了，成为了旁观者。"
+msgstr "玩家 ‘%s’ 已被击败，转为观战者。"
 
 #: ../../../../src/network/network_gaming_messages.cc:76
 #, c-format
 msgid "Client %1$s did not answer for more than %2$s."
-msgstr " 客户端 %1$s 没有应答超过了 %2$s 的时间。"
+msgstr "客户端 %1$s 已超过 %2$s 未应答。"
 
 #: ../../../../src/network/network_gaming_messages.cc:77
 #, c-format
 msgid "Client %s has cheating features enabled!"
-msgstr ""
+msgstr "客户端 %s 启用了作弊功能！"
 
 #: ../../../../src/network/network_gaming_messages.cc:78
 #, c-format
 msgid "Client %s is cheating!"
-msgstr ""
+msgstr "客户端 %s 正在作弊！"
 
 #. * TRANSLATORS: %1 and %2 are user and player names
 #: ../../../../src/network/network_gaming_messages.cc:80
 #, c-format
 msgid "Cheating: Client %1$s now controls %2$s"
-msgstr ""
+msgstr "作弊：客户端 %1$s 现在控制着 %2$s"
 
 #. * TRANSLATORS: %1 and %2 are user and player names
 #: ../../../../src/network/network_gaming_messages.cc:82
 #, c-format
 msgid "Client %1$s is cheating, acting as %2$s!"
-msgstr ""
+msgstr "客户端 %1$s 正在作弊，冒充 %2$s！"
 
 #: ../../../../src/network/network_lan_promotion.cc:359
 msgid "Failed to use the local network!"
-msgstr "本地网络不可用！"
+msgstr "无法使用本地网络！"
 
 #. * TRANSLATORS: %s is a list of alternative ports with "or"
 #: ../../../../src/network/network_lan_promotion.cc:361
@@ -3018,7 +3018,7 @@ msgstr "本地网络不可用！"
 msgid ""
 "Widelands was unable to use the local network. Maybe some other process is "
 "already running a server on port %s or your network setup is broken."
-msgstr "Widelands无法使用本地网络。可能其他的进程正运行在服务器的 %s 端口上，或者您的网络设置已中断。"
+msgstr "Widelands 无法使用本地网络。可能已有其他进程占用了端口 %s，也可能是你的网络设置有问题。"
 
 #. * TRANSLATORS: File name for saving objective achieved
 #. * TRANSLATORS: %1% = map name. %2% = achievement name
@@ -3030,7 +3030,7 @@ msgstr "%1% (%2%)"
 #: ../../../../src/scripting/ui/lua_panel_create_child.cc:85
 #: ../../../../src/ui/shared/plugins.cc:42
 msgid "Plugin Error"
-msgstr ""
+msgstr "插件错误"
 
 #: ../../../../src/scripting/ui/lua_panel_create_child.cc:64
 #: ../../../../src/scripting/ui/lua_panel_create_child.cc:86
@@ -3039,7 +3039,7 @@ msgstr ""
 msgid ""
 "Error when running plugin:\n"
 "%s"
-msgstr ""
+msgstr "运行插件时出错：\n%s"
 
 #: ../../../../src/ui/basic/color_chooser.cc:260
 msgid "Choose Color…"
@@ -3068,7 +3068,7 @@ msgstr "选择颜色…"
 #: ../../../../src/ui/game/story_message_box.cc:72
 #: ../../../../src/ui/shared/addons_login_box.cc:51
 msgid "OK"
-msgstr "确认"
+msgstr "确定"
 
 #: ../../../../src/ui/basic/color_chooser.cc:288
 #: ../../../../src/ui/basic/messagebox.cc:124
@@ -3101,19 +3101,19 @@ msgstr "初始颜色"
 #: ../../../../src/ui/basic/color_chooser.cc:306
 msgctxt "color"
 msgid "R"
-msgstr "R"
+msgstr "红"
 
 #. * TRANSLATORS: First letter of the word "Green"
 #: ../../../../src/ui/basic/color_chooser.cc:315
 msgctxt "color"
 msgid "G"
-msgstr "G"
+msgstr "绿"
 
 #. * TRANSLATORS: First letter of the word "Blue"
 #: ../../../../src/ui/basic/color_chooser.cc:324
 msgctxt "color"
 msgid "B"
-msgstr "B"
+msgstr "蓝"
 
 #: ../../../../src/ui/basic/color_chooser.cc:334
 msgid "Default Color"
@@ -3133,14 +3133,14 @@ msgstr "蓝色"
 
 #: ../../../../src/ui/basic/color_chooser.cc:483
 msgid "Remove from favorites"
-msgstr ""
+msgstr "从收藏中移除"
 
 #: ../../../../src/ui/basic/color_chooser.cc:483
 #: ../../../../src/ui/fsmenu/addons/packager.cc:106
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:168
 #: ../../../../src/ui/game/quicknavigation.cc:286
 msgid "–"
-msgstr ""
+msgstr "–"
 
 #: ../../../../src/ui/basic/color_chooser.cc:490
 #: ../../../../src/ui/editor/main_menu_map_options.cc:108
@@ -3152,7 +3152,7 @@ msgstr "+"
 
 #: ../../../../src/ui/basic/color_chooser.cc:490
 msgid "Add current color to favorites"
-msgstr ""
+msgstr "将当前颜色加入收藏"
 
 #: ../../../../src/ui/basic/dropdown.cc:114
 msgctxt "dropdown"
@@ -3169,48 +3169,48 @@ msgstr "选择项目"
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:370
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:197
 msgid "%1%: %2%"
-msgstr "%1%:%2%"
+msgstr "%1%：%2%"
 
 #. * TRANSLATORS: Selection in Dropdown menus.
 #: ../../../../src/ui/basic/dropdown.cc:425
 msgctxt "dropdown"
 msgid "Not Selected"
-msgstr "未选定"
+msgstr "未选择"
 
 #: ../../../../src/ui/basic/dropdown.h:483
 msgid "No matches"
-msgstr "没有匹配到对手"
+msgstr "无匹配项"
 
 #: ../../../../src/ui/basic/pagination.cc:50
 msgid "Go to first page"
-msgstr ""
+msgstr "跳转到首页"
 
 #: ../../../../src/ui/basic/pagination.cc:59
 msgid "Go to last page"
-msgstr ""
+msgstr "跳转到末页"
 
 #: ../../../../src/ui/basic/pagination.cc:67
 msgid "Items per page"
-msgstr ""
+msgstr "每页条目数"
 
 #: ../../../../src/ui/basic/pagination.cc:208
 msgctxt "all_items"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #: ../../../../src/ui/basic/pagination.cc:232
 #: ../../../../src/ui/basic/pagination.cc:241
 #, c-format
 msgid "Go to page %d"
-msgstr ""
+msgstr "跳转到第 %d 页"
 
 #: ../../../../src/ui/basic/panel.cc:325
 msgid "Please wait…"
-msgstr "请稍候..."
+msgstr "请稍候…"
 
 #: ../../../../src/ui/basic/panel.cc:467
 msgid "Game ending – please wait…"
-msgstr "游戏结束 – 请稍候..."
+msgstr "游戏正在结束 – 请稍候…"
 
 #: ../../../../src/ui/basic/progresswindow.cc:80
 #: ../../../../src/wlapplication.cc:490
@@ -3219,7 +3219,7 @@ msgstr "载入中…"
 
 #: ../../../../src/ui/basic/spinbox.cc:157
 msgid "Decrease the value"
-msgstr "减小值"
+msgstr "减小数值"
 
 #. * TRANSLATORS: You may want to treat this as "Decrease the value %s", you
 #. get
@@ -3228,11 +3228,11 @@ msgstr "减小值"
 #: ../../../../src/ui/basic/spinbox.cc:189
 #, c-format
 msgid "Decrease the value by %s"
-msgstr ""
+msgstr "减少 %s"
 
 #: ../../../../src/ui/basic/spinbox.cc:170
 msgid "Increase the value"
-msgstr "增加值"
+msgstr "增大数值"
 
 #. * TRANSLATORS: You may want to treat this as "Increase the value %s", you
 #. get
@@ -3241,7 +3241,7 @@ msgstr "增加值"
 #: ../../../../src/ui/basic/spinbox.cc:193
 #, c-format
 msgid "Increase the value by %s"
-msgstr ""
+msgstr "增加 %s"
 
 #. * TRANSLATORS: "Increase/Decrease the value by <n> minutes"
 #. You may want to treat this as "by <n> minutes", depending on how you
@@ -3251,7 +3251,7 @@ msgstr ""
 msgctxt "spinbox_change"
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
+msgstr[0] "%d 分钟"
 
 #. * TRANSLATORS: The current value of a spinbox
 #: ../../../../src/ui/basic/spinbox.cc:472
@@ -3269,7 +3269,7 @@ msgstr[0] "%d 分钟"
 msgctxt "spinbox_change"
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
+msgstr[0] "%d 小时"
 
 #. * TRANSLATORS: The current value of a spinbox
 #: ../../../../src/ui/basic/spinbox.cc:485
@@ -3277,7 +3277,7 @@ msgstr[0] ""
 #, c-format
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] "%d小时"
+msgstr[0] "%d 小时"
 
 #. * TRANSLATORS: "Increase/Decrease the value by X hours and Y minutes"
 #. You may want to treat this as "by X hours and Y minutes", depending on how
@@ -3289,7 +3289,7 @@ msgstr[0] "%d小时"
 #, c-format
 msgctxt "spinbox_change_hours_mins"
 msgid "%1$s and %2$s"
-msgstr ""
+msgstr "%1$s %2$s"
 
 #. * TRANSLATORS: ..
 #. The hours part of "Increase/Decrease the value by X hours and Y minutes".
@@ -3301,7 +3301,7 @@ msgstr ""
 msgctxt "spinbox_change_hours_mins"
 msgid "%d hour"
 msgid_plural "%d hours"
-msgstr[0] ""
+msgstr[0] "%d 小时"
 
 #. * TRANSLATORS: ..
 #. The minutes part of "Increase/Decrease the value by X hours and Y minutes"
@@ -3312,7 +3312,7 @@ msgstr[0] ""
 msgctxt "spinbox_change_hours_mins"
 msgid "%d minute"
 msgid_plural "%d minutes"
-msgstr[0] ""
+msgstr[0] "%d 分钟"
 
 #. * TRANSLATORS: "Increase/Decrease the value by <n> weeks"
 #. You may want to treat this as "by <n> weeks", depending on how you
@@ -3322,14 +3322,14 @@ msgstr[0] ""
 msgctxt "spinbox_change"
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] ""
+msgstr[0] "%d 周"
 
 #. * TRANSLATORS: The current value of a spinbox
 #: ../../../../src/ui/basic/spinbox.cc:536
 #, c-format
 msgid "%d week"
 msgid_plural "%d weeks"
-msgstr[0] ""
+msgstr[0] "%d 周"
 
 #. * TRANSLATORS: "Increase/Decrease the value by <n> pixels"
 #. You may want to treat this as "by <n> pixels", depending on how you
@@ -3339,7 +3339,7 @@ msgstr[0] ""
 msgctxt "spinbox_change"
 msgid "%d pixel"
 msgid_plural "%d pixels"
-msgstr[0] ""
+msgstr[0] "%d 像素"
 
 #. * TRANSLATORS: The current value of a spinbox
 #: ../../../../src/ui/basic/spinbox.cc:545
@@ -3356,14 +3356,14 @@ msgstr[0] "%d 像素"
 msgctxt "spinbox_change"
 msgid "%d field"
 msgid_plural "%d fields"
-msgstr[0] ""
+msgstr[0] "%d 格"
 
 #. * TRANSLATORS: The current value of a spinbox
 #: ../../../../src/ui/basic/spinbox.cc:554
 #, c-format
 msgid "%d field"
 msgid_plural "%d fields"
-msgstr[0] "%d 领域"
+msgstr[0] "%d 格"
 
 #. * TRANSLATORS: "Increase/Decrease the value by <n>%"
 #. You may want to treat this as "by <n>%", depending on how you
@@ -3372,7 +3372,7 @@ msgstr[0] "%d 领域"
 #, c-format
 msgctxt "spinbox_change"
 msgid "%i %%"
-msgstr ""
+msgstr "%i %%"
 
 #. * TRANSLATORS: The current value of a spinbox
 #: ../../../../src/ui/basic/spinbox.cc:563
@@ -3380,7 +3380,7 @@ msgstr ""
 #: ../../../../src/ui/editor/main_menu_random_map.cc:497
 #, c-format
 msgid "%i %%"
-msgstr "%i%%"
+msgstr "%i %%"
 
 #. * TRANSLATORS: "Increase/Decrease the value by <n>"
 #. You may want to treat this as "by <n>", depending on how you
@@ -3389,15 +3389,15 @@ msgstr "%i%%"
 #, c-format
 msgctxt "spinbox_change"
 msgid "%d"
-msgstr ""
+msgstr "%d"
 
 #: ../../../../src/ui/basic/table.cc:163
 msgid "Click to reverse sorting"
-msgstr ""
+msgstr "单击可反转排序"
 
 #: ../../../../src/ui/basic/table.cc:163
 msgid "Click to sort by this column"
-msgstr ""
+msgstr "单击可按此列排序"
 
 #. * TRANSLATORS: Tooltip format for table headers: %1 is column description,
 #. %2 is
@@ -3405,15 +3405,15 @@ msgstr ""
 #: ../../../../src/ui/basic/table.cc:169
 #, c-format
 msgid "%1$s<br>(%2$s)"
-msgstr ""
+msgstr "%1$s<br>（%2$s）"
 
 #: ../../../../src/ui/basic/textinput.cc:376
 msgid "Cut"
-msgstr ""
+msgstr "剪切"
 
 #: ../../../../src/ui/basic/textinput.cc:376
 msgid "Cut the selected text to the clipboard"
-msgstr ""
+msgstr "将选中文本剪切到剪贴板"
 
 #: ../../../../src/ui/basic/textinput.cc:379
 #: ../../../../src/ui/fsmenu/tech_info.cc:238
@@ -3422,15 +3422,15 @@ msgstr "复制"
 
 #: ../../../../src/ui/basic/textinput.cc:379
 msgid "Copy the selected text to the clipboard"
-msgstr ""
+msgstr "将选中文本复制到剪贴板"
 
 #: ../../../../src/ui/basic/textinput.cc:382
 msgid "Paste"
-msgstr ""
+msgstr "粘贴"
 
 #: ../../../../src/ui/basic/textinput.cc:382
 msgid "Paste the clipboard content"
-msgstr ""
+msgstr "粘贴剪贴板内容"
 
 #: ../../../../src/ui/basic/textinput.cc:385
 #: ../../../../src/ui/editor/main_menu_map_options.cc:61
@@ -3445,16 +3445,16 @@ msgstr "删除"
 
 #: ../../../../src/ui/basic/textinput.cc:385
 msgid "Delete the selected text"
-msgstr ""
+msgstr "删除选中文本"
 
 #: ../../../../src/ui/basic/textinput.cc:388
 #: ../../../../src/wlapplication_options.cc:365
 msgid "Select All"
-msgstr ""
+msgstr "全选"
 
 #: ../../../../src/ui/basic/textinput.cc:388
 msgid "Select the entire text"
-msgstr ""
+msgstr "选中全部文本"
 
 #: ../../../../src/ui/basic/window.cc:80
 #: ../../../../src/ui/basic/window.cc:862
@@ -3485,38 +3485,38 @@ msgstr "固定"
 #: ../../../../src/ui/basic/window.cc:152
 #: ../../../../src/ui/basic/window.cc:856
 msgid "Unpin"
-msgstr "解除固定"
+msgstr "取消固定"
 
 #: ../../../../src/ui/basic/window.cc:847
 msgid "Minimize the window"
-msgstr ""
+msgstr "最小化窗口"
 
 #: ../../../../src/ui/basic/window.cc:847
 msgid "Unminimize the window"
-msgstr ""
+msgstr "还原窗口"
 
 #: ../../../../src/ui/basic/window.cc:857
 msgid "Pin the window"
-msgstr ""
+msgstr "固定窗口"
 
 #: ../../../../src/ui/basic/window.cc:857
 msgid "Unpin the window"
-msgstr ""
+msgstr "取消固定窗口"
 
 #: ../../../../src/ui/basic/window.cc:862
 msgid "Close the window"
-msgstr ""
+msgstr "关闭窗口"
 
 #. * TRANSLATORS: %s are the currently selected items in an editor tool
 #: ../../../../src/ui/editor/categorized_item_selection_menu.h:208
 #, c-format
 msgid "Current: %s …"
-msgstr "当前：%s......"
+msgstr "当前：%s …"
 
 #. * TRANSLATORS: Help text in an editor tool
 #: ../../../../src/ui/editor/categorized_item_selection_menu.h:211
 msgid "Click to select an item. Use the Ctrl key to select multiple items."
-msgstr " 单击以选择项目。使用Ctrl键选择多个项目。 "
+msgstr "单击以选择项目。按住 Ctrl 键可多选。"
 
 #. * TRANSLATORS: %s are the currently selected items in an editor tool
 #: ../../../../src/ui/editor/categorized_item_selection_menu.h:214
@@ -3538,7 +3538,7 @@ msgstr "主菜单"
 #: ../../../../src/ui/wui/interactive_gamebase.cc:102
 msgctxt "hotkey"
 msgid "Esc"
-msgstr "Esc键"
+msgstr "Esc"
 
 #. * TRANSLATORS: Title for the tool menu button in the editor
 #. * TRANSLATORS: Heading in the editor keyboard shortcuts help
@@ -3557,7 +3557,7 @@ msgstr "工具"
 #: ../../../../src/ui/editor/editorinteractive.cc:133
 #: ../../../../src/ui/wui/interactive_gamebase.cc:83
 msgid "Show / Hide"
-msgstr "显示/隐藏"
+msgstr "显示 / 隐藏"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:146
 msgid "Tool size"
@@ -3587,14 +3587,14 @@ msgstr "帮助"
 #: ../../../../src/ui/fsmenu/main.cc:438
 #: ../../../../src/wlapplication_options.cc:451
 msgid "New Map"
-msgstr "新地图"
+msgstr "新建地图"
 
 #. * TRANSLATORS: An entry in the editor's main menu
 #: ../../../../src/ui/editor/editorinteractive.cc:222
 #: ../../../../src/ui/editor/main_menu_random_map.cc:841
 #: ../../../../src/wlapplication_options.cc:456
 msgid "New Random Map"
-msgstr "新随机地图"
+msgstr "新建随机地图"
 
 #. * TRANSLATORS: An entry in the editor's main menu
 #. * TRANSLATORS: This is the helptext for an access key combination.
@@ -3603,7 +3603,7 @@ msgstr "新随机地图"
 #: ../../../../src/ui/fsmenu/main.cc:443
 #: ../../../../src/wlapplication_options.cc:866
 msgid "Load Map"
-msgstr "加载地图"
+msgstr "载入地图"
 
 #. * TRANSLATORS: An entry in the editor's main menu
 #. * TRANSLATORS: This is the helptext for an access key combination.
@@ -3616,7 +3616,7 @@ msgstr "保存地图"
 #. * TRANSLATORS: An entry in the editor's main menu
 #: ../../../../src/ui/editor/editorinteractive.cc:243
 msgid "Publish Map Online…"
-msgstr "发布在线地图..."
+msgstr "在线发布地图…"
 
 #. * TRANSLATORS: An entry in the editor's main menu
 #: ../../../../src/ui/editor/editorinteractive.cc:251
@@ -3647,12 +3647,12 @@ msgstr "改变地形高度"
 #: ../../../../src/ui/editor/editorinteractive.cc:310
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:87
 msgid "Random height"
-msgstr "随机海拔"
+msgstr "随机高度"
 
 #. * TRANSLATORS: Tooltip for the random height tool in the editor
 #: ../../../../src/ui/editor/editorinteractive.cc:313
 msgid "Set the terrain height to random values"
-msgstr " 把地形高度设定为随机值"
+msgstr "把地形高度设为随机值"
 
 #. * TRANSLATORS: An entry in the editor's tool menu
 #: ../../../../src/ui/editor/editorinteractive.cc:320
@@ -3670,7 +3670,7 @@ msgstr "改变地图的地形"
 #. * TRANSLATORS: Tooltip for the immovables tool in the editor
 #: ../../../../src/ui/editor/editorinteractive.cc:334
 msgid "Add or remove immovables"
-msgstr "添加或删除固定物"
+msgstr "添加或移除固定物"
 
 #. * TRANSLATORS: An entry in the editor's tool menu
 #: ../../../../src/ui/editor/editorinteractive.cc:341
@@ -3681,22 +3681,22 @@ msgstr "动物"
 #. * TRANSLATORS: Tooltip for the animals tool in the editor
 #: ../../../../src/ui/editor/editorinteractive.cc:344
 msgid "Add or remove animals"
-msgstr "添加或删除动物"
+msgstr "添加或移除动物"
 
 #. * TRANSLATORS: Tooltip for the resources tool in the editor
 #: ../../../../src/ui/editor/editorinteractive.cc:355
 msgid "Set or change resources"
-msgstr "设置或改变资源"
+msgstr "设置或修改资源"
 
 #. * TRANSLATORS: An entry in the editor's tool menu
 #: ../../../../src/ui/editor/editorinteractive.cc:359
 msgid "Port spaces"
-msgstr "港口空间"
+msgstr "港口位置"
 
 #. * TRANSLATORS: Tooltip for the port spaces tool in the editor
 #: ../../../../src/ui/editor/editorinteractive.cc:362
 msgid "Add or remove port spaces"
-msgstr "添加或删除港口空间"
+msgstr "添加或移除港口位置"
 
 #. * TRANSLATORS: An entry in the editor's tool menu
 #: ../../../../src/ui/editor/editorinteractive.cc:370
@@ -3708,7 +3708,7 @@ msgstr "玩家"
 #. * TRANSLATORS: Tooltip for the map size tool in the editor
 #: ../../../../src/ui/editor/editorinteractive.cc:373
 msgid "Set number of players and their names, tribes and starting positions"
-msgstr "设置玩家数量和他们的名字，部族和起始位置"
+msgstr "设置玩家数量及其名称、部族与起始位置"
 
 #. * TRANSLATORS: An entry in the editor's tool menu
 #: ../../../../src/ui/editor/editorinteractive.cc:377
@@ -3720,7 +3720,7 @@ msgstr "地图原点"
 msgid ""
 "Set the position that will have the coordinates (0, 0). This will be the "
 "top-left corner of a generated minimap."
-msgstr "设置坐标为(0,0)的位置。将以此生成迷你地图的左上角。"
+msgstr "设置坐标为 (0, 0) 的位置。它将成为生成的小地图的左上角。"
 
 #. * TRANSLATORS: An entry in the editor's tool menu
 #: ../../../../src/ui/editor/editorinteractive.cc:388
@@ -3740,7 +3740,7 @@ msgstr "信息"
 #. * TRANSLATORS: Tooltip for the map information tool in the editor
 #: ../../../../src/ui/editor/editorinteractive.cc:398
 msgid "Click on a field to show information about it"
-msgstr "点击区域以显示与其相关的信息"
+msgstr "单击某个地块以查看它的信息"
 
 #. * TRANSLATORS: An entry in the editor's tool menu
 #: ../../../../src/ui/editor/editorinteractive.cc:402
@@ -3781,23 +3781,23 @@ msgstr "隐藏最大建筑空间"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:485
 msgid "Show Maximum Building Spaces"
-msgstr ""
+msgstr "显示最大建筑空间"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:488
 msgid ""
 "Toggle whether to show maximum building spaces that will be available if all"
 " immovables (trees, rocks, etc.) are removed"
-msgstr ""
+msgstr "切换是否显示移除全部固定物（树木、岩石等）后可获得的最大建筑空间"
 
 #. * TRANSLATORS: An entry in the editor's show/hide menu to toggle whether
 #. the map height heat map is shown
 #: ../../../../src/ui/editor/editorinteractive.cc:495
 msgid "Disable height heat map"
-msgstr ""
+msgstr "关闭高度热力图"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:496
 msgid "Enable height heat map"
-msgstr ""
+msgstr "开启高度热力图"
 
 #. * TRANSLATORS: An entry in the editor's show/hide menu to toggle whether
 #. the map grid is shown
@@ -3813,17 +3813,17 @@ msgstr "显示网格"
 #. the oceans are shown
 #: ../../../../src/ui/editor/editorinteractive.cc:511
 msgid "Hide Oceans"
-msgstr ""
+msgstr "隐藏海域"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:511
 msgid "Show Oceans"
-msgstr ""
+msgstr "显示海域"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:514
 msgid ""
 "Display separate water bodies with differently coloured overlays to see "
 "which coasts can be connected by shipping routes"
-msgstr ""
+msgstr "用不同颜色的叠加层区分各片水域，以便查看哪些海岸之间可以通航"
 
 #. * TRANSLATORS: An entry in the editor's show/hide menu to toggle whether
 #. immovables
@@ -3893,7 +3893,7 @@ msgid ""
 "\n"
 "Please report this problem to help us improve Widelands. You will find related messages in the standard output (stdout.txt on Windows). You are using version %2$s.\n"
 "Please add this information to your report."
-msgstr ""
+msgstr "发生了一个错误，错误信息如下：\n\n%1$s\n\n请报告此问题以帮助我们改进 Widelands。相关信息在标准输出中（Windows 上为 stdout.txt）。你使用的版本是 %2$s。\n请将这些信息一并附在报告里。"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1317
 #, c-format
@@ -3902,12 +3902,12 @@ msgstr "载入地图 “%s”…"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1366
 msgid "Loading world…"
-msgstr "载入广袤大地…"
+msgstr "载入世界…"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1548
 #, c-format
 msgid "Tool gaps: %u%%"
-msgstr ""
+msgstr "工具间隔：%u%%"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1571
 #, c-format
@@ -3920,11 +3920,11 @@ msgid ""
 "Description: %4$s\n"
 "Hint: %5$s\n"
 "\n"
-msgstr ""
+msgstr "确定要把这张地图发布到网上吗？\n\n名称：%1$s\n内部名称：%2$s\n作者：%3$s\n描述：%4$s\n提示：%5$s\n\n"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1582
 msgid "Publish Map"
-msgstr ""
+msgstr "发布地图"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1587
 #, c-format
@@ -3933,54 +3933,54 @@ msgid ""
 "General Public License (GPL) version 2 or any later version (the same "
 "license under which Widelands itself is distributed). For more information, "
 "see %s."
-msgstr ""
+msgstr "上传即表示你同意依照 GNU 通用公共许可证（GPL）第 2 版或任何更新版本发布本地图，这也是 Widelands 自身采用的许可证。详情见 %s。"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1608
 msgid "Login Error"
-msgstr ""
+msgstr "登录错误"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1613
 msgid "Uploading Add-On…"
-msgstr ""
+msgstr "正在上传附加内容…"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1614
 msgid "Saving map…"
-msgstr ""
+msgstr "正在保存地图…"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1633
 #: ../../../../src/ui/editor/main_menu_save_map.cc:314
 #: ../../../../src/ui/editor/main_menu_save_map.cc:369
 msgid "Error Saving Map!"
-msgstr "保存地图错误！"
+msgstr "保存地图出错！"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1639
 msgid "Packaging add-on…"
-msgstr ""
+msgstr "正在打包附加内容…"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1690
 msgid "Add-On Generation Error"
-msgstr ""
+msgstr "附加内容生成错误"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1691
 msgid "The add-on could not be written to the disk."
-msgstr ""
+msgstr "附加内容无法写入磁盘。"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1698
 #: ../../../../src/ui/fsmenu/addons/screenshot_upload.cc:108
 msgid "Uploading…"
-msgstr ""
+msgstr "正在上传…"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1704
 msgid "Upload Error"
-msgstr ""
+msgstr "上传错误"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1726
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1727
 msgid "The add-on was uploaded successfully."
-msgstr ""
+msgstr "附加内容上传成功。"
 
 #: ../../../../src/ui/editor/field_info_window.cc:44
 msgid "Field Information"
@@ -6580,7 +6580,7 @@ msgstr "帮助： %s"
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:57
 #: ../../../../src/wlapplication_options.cc:321
 msgid "Metaserver Lobby"
-msgstr "元数据服务器大厅"
+msgstr "元服务器大厅"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:67
 msgid "Clients online:"

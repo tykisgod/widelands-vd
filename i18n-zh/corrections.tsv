@@ -108,3 +108,10 @@ Random	随机	climate
 Random	随机	terrain	
 Random	随机	tribe	
 Click	单击	hotkey	鼠标操作名，不与"点击"混用
+
+# metaserver 是联机大厅的主服务器，不提供任何元数据。原译"元数据服务器"
+# 是对 meta- 的误解。
+Metaserver	元服务器		原"元数据服务器"是误译，它不提供元数据
+Metaserver Lobby	元服务器大厅		
+Port Space	港口位置		可建港口的地块，"空间"不达意
+Port spaces	港口位置		

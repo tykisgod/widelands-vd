@@ -1,0 +1,997 @@
+[
+ {
+  "key": "f0c12b0c00",
+  "msgid": "Widelands could not establish a connection to the given address.\nEither there was no metaserver running at the supposed port or\nyour network setup is broken.",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "Widelands无法建立到指定地址的连接。\n 如果没有元数据服务器运行在指定的端口，\n 就是您的网络设置存在问题。",
+  "terms": [
+   "Server = 服务器",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "38d6ed9214",
+  "msgid": "Users marked with IRC will possibly not react to messages.",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "标识有IRC的用户可能不会对消息做出反应。",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "1d67b85197",
+  "msgid": "Successfully reconnected to the metaserver!",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "已成功重新连接到元数据服务器",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "7ccc2eb744",
+  "msgid": "Something went wrong: %s",
+  "zh": "",
+  "ui": "network/internet_gaming, network/network_gaming_messages",
+  "current": "出了点问题: %s"
+ },
+ {
+  "key": "62ebfa22fc",
+  "msgid": "Welcome to the Widelands Metaserver!",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "欢迎来到Widelands元数据服务器！",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "a4c61dd6d5",
+  "msgid": "You have been logged in as ‘%s’ since your requested name is already in use or reserved.",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "4a2b6369cc",
+  "msgid": "Our forums can be found at:",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "我们的论坛位于："
+ },
+ {
+  "key": "6a7e5940e1",
+  "msgid": "For reporting bugs, visit:",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "报告软件错误，请访问：",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "ecbadb889c",
+  "msgid": "Mixed up",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "混合"
+ },
+ {
+  "key": "e9902afe38",
+  "msgid": "The metaserver sent a strange ERROR during connection",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "元数据服务器在连接过程中发送了一个奇怪的错误",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "7b5e97c591",
+  "msgid": "Unexpected packet",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "意外的数据包"
+ },
+ {
+  "key": "5bf4b70990",
+  "msgid": "Received an unexpected network packet from the metaserver. The metaserver could be using a different protocol version. If the error persists, try updating your game.",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "从元数据服务器接收到意外的网络数据包。元数据服务器可能使用不同的协议版本。如果错误仍然存在，请尝试更新游戏。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "ff1e80fa8f",
+  "msgid": "WARNING: Received a %s command although we are not in CONNECTING state.",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "警告： 收到 %s 命令， 虽然我们并不处于连接状态。"
+ },
+ {
+  "key": "405a879498",
+  "msgid": "Server time offset is %d second.",
+  "zh": "",
+  "msgid_plural": "Server time offset is %d seconds.",
+  "ui": "network/internet_gaming",
+  "current": "服务器的时间偏移值为 %d 秒。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "0dc5d6f259",
+  "msgid": "Invalid chat message type \"%s\".",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "无效的聊天信息类型 \"%s\"。",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "d6d6beadbf",
+  "msgid": "Invalid message type",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "无效的信息类型",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "f618364861",
+  "msgid": "The game %s is now available",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "游戏 %s 现在有效"
+ },
+ {
+  "key": "ef009d6898",
+  "msgid": "The game %s has been closed",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "游戏 %s 已关闭"
+ },
+ {
+  "key": "a00ef8b031",
+  "msgid": "%s joined the lobby",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "%s 进入了大厅"
+ },
+ {
+  "key": "0e2d06bfb0",
+  "msgid": "%s left the lobby",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "%s 离开了大厅"
+ },
+ {
+  "key": "c9ab6710a5",
+  "msgid": "Chat message could not be sent.",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "不能发送聊天信息。",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "d5047199f9",
+  "msgid": "Command could not be executed.",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "命令不能被执行。"
+ },
+ {
+  "key": "d9a306e797",
+  "msgid": "ERROR: %s",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "错误： %s"
+ },
+ {
+  "key": "bd7fc0463a",
+  "msgid": "An unexpected error message has been received about command %1%: %2%",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "接收到关于命令的意外错误消息 %1%: %2%",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "b1766c8efe",
+  "msgid": "Received an unknown command from the metaserver: %s",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "从元数据服务器接收到未知的命令: %s",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "050a9271bb",
+  "msgid": "Message could not be sent: You are not connected to the metaserver!",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "信息不能被发送：你没有连接到元数据服务器！",
+  "terms": [
+   "Message = 消息",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "04b7dc9595",
+  "msgid": "Message could not be sent: Was this supposed to be a private message?",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "信息不能被发送：这是私有的信息吗？",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "7e65e63758",
+  "msgid": "Supported admin commands:",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "支持的管理命令",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "f284c4885e",
+  "msgid": "/motd <msg> - Set a permanent greeting message",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "/motd <msg> - 设置长期的问候语",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "51291dfa12",
+  "msgid": "/announce <msg> - Send a one time system message",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "/announce <msg> - 发送一次系统消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "27d7ba6b22",
+  "msgid": "/warn <user> <msg> - Send a private system message to the given user",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "/warn <user> <msg> - 给指定的用户发送私有的系统消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "073fcfcf2b",
+  "msgid": "/kick <user|game> - Remove the given user or game from the metaserver",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "/kick <user|game> - 从元数据服务器移除指定的用户或游戏",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "d180189a51",
+  "msgid": "/ban <user> - Ban a user for 24 hours from the metaserver",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "/ban <user> - 禁止用户在24小时内访问元数据服务器 ",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "7ccbf35569",
+  "msgid": "Conversion error",
+  "zh": "",
+  "ui": "network/internet_gaming",
+  "current": "转换错误"
+ },
+ {
+  "key": "c8a73b6881",
+  "msgid": "Unable to determine truth value for \"%s\"",
+  "zh": "",
+  "note": "* TRANSLATORS: Geeky message from the metaserver | * TRANSLATORS: This message is shown if %s isn't \"true\" or \"false\"",
+  "ui": "network/internet_gaming",
+  "current": "无法确定的 \"%s\" 真实值"
+ },
+ {
+  "key": "991fe6995e",
+  "msgid": "There is no user with this name logged in.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": " 没有使用此账号名的用户登录。 ",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "597840cfb3",
+  "msgid": "The game no longer exists, maybe it has just been closed.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": " 游戏已不存在，也许刚刚被关闭。"
+ },
+ {
+  "key": "2ce4b52ff3",
+  "msgid": "Wrong password, please try again.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": "错误的密码，请再试试。"
+ },
+ {
+  "key": "4832cbc541",
+  "msgid": "You have been temporarily banned from online gaming.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": " 你被暂时禁止在线游戏。"
+ },
+ {
+  "key": "34042fae07",
+  "msgid": "The protocol version you are using is not supported!",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": "你所使用的协议版本不再被支持！",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "326aedd408",
+  "msgid": "You are already logged in!",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": "你已经登录了！",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "7de4f7ada8",
+  "msgid": "You got disconnected, as you sent a superuser command without superuser permission. This incident will be logged and reported to the administrator.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": "你被中断了连接，因为你在没有超级用户权限的情况下发送了超级用户命令。此事件将被记录并报告给管理员。",
+  "terms": [
+   "Port = 港口",
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "78710a4a8f",
+  "msgid": "Connection was closed by the client normally.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": " 客户端正常关闭了连接。"
+ },
+ {
+  "key": "535f3bdadc",
+  "msgid": "The connection to the metaserver was lost.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": " 与元数据服务器的连接已丢失。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "8ef1cb5e6e",
+  "msgid": "Metaserver did not answer",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": "元数据服务器没有应答",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "803b08a814",
+  "msgid": "You got disconnected from the metaserver, as you did not answer a PING request in time.",
+  "zh": "",
+  "ui": "network/internet_gaming_messages",
+  "current": " 你已与元数据服务器断开连接，因为你没有及时响应PING请求。 ",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "8ed0fa97ab",
+  "msgid": "Sending metadata for %s",
+  "zh": "",
+  "ui": "network/net_addons"
+ },
+ {
+  "key": "a65a7879a8",
+  "msgid": "Uploading %s",
+  "zh": "",
+  "ui": "network/net_addons"
+ },
+ {
+  "key": "b3ea14d3cd",
+  "msgid": "Client has left the game.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端离开了游戏。 "
+ },
+ {
+  "key": "f22063d2b0",
+  "msgid": "Client crashed and performed an emergency save.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "因客户端发生严重故障，执行了一次应急存档。"
+ },
+ {
+  "key": "71d37d7753",
+  "msgid": "Connection was lost.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": " 连接丢失。"
+ },
+ {
+  "key": "a863d9bc5e",
+  "msgid": "Server has left the game.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "服务器已退出游戏。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "d0d99325f2",
+  "msgid": "The game has started just after you tried to connect.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "游戏在你尝试连接之后刚刚开始。"
+ },
+ {
+  "key": "0c734c3117",
+  "msgid": "Server has crashed and performed an emergency save.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "因服务器发生严重故障，执行了一次应急存档。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "651e22b558",
+  "msgid": "Client and host have become desynchronized.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端和主机已不再同步。",
+  "terms": [
+   "Desync = 不同步"
+  ]
+ },
+ {
+  "key": "59793011bd",
+  "msgid": "Kicked by the host: %s",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "被主机踢出： %s"
+ },
+ {
+  "key": "80f9065b0d",
+  "msgid": "Client sent malformed commands: %s",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端发送了格式错误的命令： %s"
+ },
+ {
+  "key": "2f28903cd7",
+  "msgid": "%1$s has left the game (%2$s)",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "%1$s 离开了游戏 (%2$s)"
+ },
+ {
+  "key": "cba7dd16e1",
+  "msgid": "%1$s has been replaced with %2$s",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "%1$s 已被替换为 %2$s"
+ },
+ {
+  "key": "df92ba382c",
+  "msgid": "Unknown user has left the game (%s)",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "未知用户已离开游戏 (%s)"
+ },
+ {
+  "key": "67bf0a8ee1",
+  "msgid": "Server sent a SYNCREQUEST even though no game is running.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "服务器发送了SYNCREQUEST，即使没有游戏正在运行。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "b33c65b896",
+  "msgid": "Received a PLAYERCOMMAND even though no game is running.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "收到一条 PLAYERCOMMAND，即使没有游戏正在运行。",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "c01e936df9",
+  "msgid": "Unexpectedly received LAUNCH command from server.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "从服务器意外地收到LAUNCH命令。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "07a3a09daa",
+  "msgid": "Server sent a player update for a player that does not exist.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "服务器为不存在的游戏玩家发送了玩家更新。",
+  "terms": [
+   "Player = 玩家",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "3266a2ed4c",
+  "msgid": "Server sent a user update for a user that does not exist.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "服务器为不存在的用户发送了用户更新。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "86914aca88",
+  "msgid": "Server uses a different protocol version",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "服务器使用了不同的协议版本",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "141978e475",
+  "msgid": "Received command number %s, which is not allowed in this state.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "收到在这种状态下不被允许的命令编号 %s 。"
+ },
+ {
+  "key": "066c4248b6",
+  "msgid": "Client reports time to host that is running backwards.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端向主机报告反向运行的时间。",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "146c8ef598",
+  "msgid": "Client simulates beyond the game time allowed by the host.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端模拟超出主机允许的游戏时间。"
+ },
+ {
+  "key": "aba9a2c11a",
+  "msgid": "Client did not submit sync report in time.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端没有及时提交sync报告。",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "4f11c44b88",
+  "msgid": "The game has already started.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "游戏已经开始了。"
+ },
+ {
+  "key": "a109fc8d48",
+  "msgid": "Client has no access to other player’s settings.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端无法访问其他游戏玩家的设置。",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "22fc09cf1a",
+  "msgid": "Client has no access to server settings.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端不能读取服务器的设置。",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "092f95fe2b",
+  "msgid": "Client sent TIME command even though game is not running.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端发送 TIME 命令，即使游戏没有运行。"
+ },
+ {
+  "key": "527e5e4eff",
+  "msgid": "Client sent a PLAYERCOMMAND for another player.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端发送一条 PLAYER COMMAND 给另外一个玩家。",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "d4c1cec279",
+  "msgid": "Client sent unexpected synchronization report.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端发送了意外的同步报告。",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "6b250b8fa8",
+  "msgid": "Client requests file although none is available to send.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "客户端请求文件，尽管没有文件是可以可发送的。 "
+ },
+ {
+  "key": "ab1849d7b9",
+  "msgid": "Host sent player %s to the lobby!",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "主机将玩家 %s 送到大厅！",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "114d1d2d51",
+  "msgid": "WARNING: %1$s uses version: %2$s, while Host uses version: %3$s",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "WARNING: %1$s 使用的版本: %2$s, 主机此时使用的版本: %3$s"
+ },
+ {
+  "key": "52d1a68d75",
+  "msgid": "%s has joined the game",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "%s 已加入游戏"
+ },
+ {
+  "key": "4bed449b39",
+  "msgid": "Started to send file %1$s to %2$s!",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "开始发送文件 %1$s 到 %2$s!"
+ },
+ {
+  "key": "4f7b5f5985",
+  "msgid": "Completed transfer of file %1$s to %2$s",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": " 已完成文件 %1$s 到 %2$s 的传输。"
+ },
+ {
+  "key": "9a4b428185",
+  "msgid": "The player ‘%s’ was defeated and became a spectator.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": "玩家 ‘%s’ 被打败了，成为了旁观者。",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "80dd0b5eed",
+  "msgid": "Client %1$s did not answer for more than %2$s.",
+  "zh": "",
+  "ui": "network/network_gaming_messages",
+  "current": " 客户端 %1$s 没有应答超过了 %2$s 的时间。"
+ },
+ {
+  "key": "19659e2a12",
+  "msgid": "Client %s has cheating features enabled!",
+  "zh": "",
+  "ui": "network/network_gaming_messages"
+ },
+ {
+  "key": "65921c194c",
+  "msgid": "Client %s is cheating!",
+  "zh": "",
+  "ui": "network/network_gaming_messages"
+ },
+ {
+  "key": "d4943bc731",
+  "msgid": "Cheating: Client %1$s now controls %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: %1 and %2 are user and player names",
+  "ui": "network/network_gaming_messages",
+  "terms": [
+   "Controls = 控制"
+  ]
+ },
+ {
+  "key": "3b528aa205",
+  "msgid": "Client %1$s is cheating, acting as %2$s!",
+  "zh": "",
+  "note": "* TRANSLATORS: %1 and %2 are user and player names",
+  "ui": "network/network_gaming_messages"
+ },
+ {
+  "key": "f2b78e2c76",
+  "msgid": "Failed to use the local network!",
+  "zh": "",
+  "ui": "network/network_lan_promotion",
+  "current": "本地网络不可用！"
+ },
+ {
+  "key": "530e0d7b92",
+  "msgid": "Widelands was unable to use the local network. Maybe some other process is already running a server on port %s or your network setup is broken.",
+  "zh": "",
+  "note": "* TRANSLATORS: %s is a list of alternative ports with \"or\"",
+  "ui": "network/network_lan_promotion",
+  "current": "Widelands无法使用本地网络。可能其他的进程正运行在服务器的 %s 端口上，或者您的网络设置已中断。",
+  "terms": [
+   "Server = 服务器",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "22bb52ec07",
+  "msgid": "%1% (%2%)",
+  "zh": "",
+  "note": "* TRANSLATORS: File name for saving objective achieved | * TRANSLATORS: %1% = map name. %2% = achievement name",
+  "ui": "scripting/lua_game",
+  "current": "%1% (%2%)"
+ },
+ {
+  "key": "27c4dfa2cb",
+  "msgid": "Plugin Error",
+  "zh": "",
+  "ui": "scripting/ui, ui/shared"
+ },
+ {
+  "key": "45142ca013",
+  "msgid": "Error when running plugin:\n%s",
+  "zh": "",
+  "ui": "scripting/ui, ui/shared"
+ },
+ {
+  "key": "1a611ccdfd",
+  "msgid": "Choose Color…",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "选择颜色…"
+ },
+ {
+  "key": "0ed30873ec",
+  "msgid": "OK",
+  "zh": "",
+  "ui": "ui/basic, ui/editor, ui/fsmenu",
+  "current": "确认"
+ },
+ {
+  "key": "89bce53af7",
+  "msgid": "Cancel",
+  "zh": "",
+  "ui": "ui/basic, ui/editor, ui/fsmenu",
+  "current": "取消"
+ },
+ {
+  "key": "d2818178dd",
+  "msgid": "Initial Color",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "初始颜色"
+ },
+ {
+  "key": "1fa6489e2f",
+  "msgid": "R",
+  "zh": "",
+  "msgctxt": "color",
+  "note": "* TRANSLATORS: First letter of the word \"Red\"",
+  "ui": "ui/basic",
+  "current": "R"
+ },
+ {
+  "key": "1cd1e1bf21",
+  "msgid": "G",
+  "zh": "",
+  "msgctxt": "color",
+  "note": "* TRANSLATORS: First letter of the word \"Green\"",
+  "ui": "ui/basic",
+  "current": "G"
+ },
+ {
+  "key": "cccb9d876d",
+  "msgid": "B",
+  "zh": "",
+  "msgctxt": "color",
+  "note": "* TRANSLATORS: First letter of the word \"Blue\"",
+  "ui": "ui/basic",
+  "current": "B"
+ },
+ {
+  "key": "a600d6eeb4",
+  "msgid": "Default Color",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "默认颜色"
+ },
+ {
+  "key": "d6ca847d05",
+  "msgid": "Red",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "红色"
+ },
+ {
+  "key": "74a38344c4",
+  "msgid": "Green",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "绿色"
+ },
+ {
+  "key": "96f14c33b5",
+  "msgid": "Blue",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "蓝色"
+ },
+ {
+  "key": "3e11d5b4b7",
+  "msgid": "Remove from favorites",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "1ffbd94a3e",
+  "msgid": "–",
+  "zh": "",
+  "ui": "ui/basic, ui/fsmenu, ui/game"
+ },
+ {
+  "key": "98737023b2",
+  "msgid": "+",
+  "zh": "",
+  "ui": "ui/basic, ui/editor, ui/fsmenu",
+  "current": "+"
+ },
+ {
+  "key": "dfea183330",
+  "msgid": "Add current color to favorites",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "1f17a2a147",
+  "msgid": "Select Item",
+  "zh": "",
+  "msgctxt": "dropdown",
+  "ui": "ui/basic",
+  "current": "选择项目"
+ },
+ {
+  "key": "05c3939fc1",
+  "msgid": "%1%: %2%",
+  "zh": "",
+  "note": "* TRANSLATORS: Label: Value. | * TRANSLATORS: %1% = terrain name, %2% = list of terrain types",
+  "ui": "ui/basic, ui/editor, ui/fsmenu",
+  "current": "%1%:%2%"
+ },
+ {
+  "key": "9a30b718eb",
+  "msgid": "Not Selected",
+  "zh": "",
+  "msgctxt": "dropdown",
+  "note": "* TRANSLATORS: Selection in Dropdown menus.",
+  "ui": "ui/basic",
+  "current": "未选定"
+ },
+ {
+  "key": "0db36021b9",
+  "msgid": "No matches",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "没有匹配到对手"
+ },
+ {
+  "key": "f2fb7f666b",
+  "msgid": "All",
+  "zh": "",
+  "msgctxt": "all_items",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "26a20bb064",
+  "msgid": "Go to page %d",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "3f97b74115",
+  "msgid": "Go to first page",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "a64b4717bc",
+  "msgid": "Go to last page",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "b2fec20c47",
+  "msgid": "Items per page",
+  "zh": "",
+  "ui": "ui/basic"
+ },
+ {
+  "key": "6392081085",
+  "msgid": "Please wait…",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "请稍候..."
+ },
+ {
+  "key": "6b7675c50e",
+  "msgid": "Game ending – please wait…",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "游戏结束 – 请稍候..."
+ },
+ {
+  "key": "2f13d90cf5",
+  "msgid": "Loading…",
+  "zh": "",
+  "ui": "ui/basic",
+  "current": "载入中…"
+ }
+]

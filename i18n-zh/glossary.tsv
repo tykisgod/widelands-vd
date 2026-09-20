@@ -747,6 +747,8 @@ Meal	膳食	ware	tribes
 Meat	肉	ware	tribes	
 Message	消息		corrections	
 Metal Workshop	五金车间	barbarians_building	tribes	
+Metaserver	元服务器		corrections	原"元数据服务器"是误译，它不提供元数据
+Metaserver Lobby	元服务器大厅		corrections	
 Micro Brewery	小型酿酒厂	barbarians_building	tribes	
 Milking Tongs	挤奶钳	ware	tribes	
 Mill	磨坊	atlanteans_building	tribes	
@@ -889,6 +891,8 @@ Port	港口	atlanteans_building	corrections	五个部族一致
 Port	港口	barbarians_building	corrections	五个部族一致
 Port	港口	empire_building	corrections	五个部族一致
 Port	港口	frisians_building	corrections	五个部族一致
+Port Space	港口位置		corrections	可建港口的地块，"空间"不达意
+Port spaces	港口位置		corrections	
 Portus Bellus	贝卢斯港	shipname	tribes	
 preparing a meal	做饭		tribes	
 preparing a ration	预备定额口粮		tribes	

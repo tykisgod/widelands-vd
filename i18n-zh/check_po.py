@@ -431,8 +431,10 @@ def check_untranslated(e, path, out):
             continue
         if CJK.search(got):
             continue
-        # 无 CJK 才继续判断：纯符号/纯占位符/纯数字的条目合法
-        stripped = mask_specs(got)
+        # 无 CJK 才继续判断：纯符号/纯占位符/纯标记的条目合法。
+        # 标记必须一并剥掉，否则 "%1$s<br>（%2$s）" 会因 "br" 被当成英文单词
+        # 而误判为漏译。
+        stripped = TAG_RE.sub('', mask_specs(got))
         if not ASCII_WORD.search(stripped):
             continue
         # 原文本身就没有英文单词（如 "%s"）则不算漏译
