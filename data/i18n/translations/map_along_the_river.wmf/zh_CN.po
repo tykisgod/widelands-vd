@@ -33,18 +33,18 @@ msgstr "运输"
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/init.lua:211
 msgid ""
 "Four shovels for removing the swamps have been collected at the warehouse."
-msgstr ""
+msgstr "仓库里已凑齐四把用于清除沼泽的铁锹。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/init.lua:211
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/init.lua:220
 msgid "Shovels"
-msgstr ""
+msgstr "铁锹"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/init.lua:220
 msgid ""
 "Four more shovels for removing the swamps have been collected at the "
 "warehouse."
-msgstr ""
+msgstr "仓库里又凑齐了四把用于清除沼泽的铁锹。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:7
 msgid "Defeat Törver"
@@ -57,7 +57,7 @@ msgstr "击败特尔弗军队"
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:10
 msgid ""
 "Törver is the enemy in the North, who is fighting under the red banner."
-msgstr ""
+msgstr "特尔弗是北面的敌人，打着红色旗号。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:16
 msgid "Build a port"
@@ -71,7 +71,7 @@ msgstr "在北方建造港口"
 msgid ""
 "We should build a port in Törver’s former land to be ready to send an "
 "expedition as soon as we found out how to build ships."
-msgstr ""
+msgstr "我们该在特尔弗原先的地盘上建一座港口，一旦摸清造船之法，就能立即派出远征队。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:25
 msgid "Conquer pirate sentry"
@@ -85,7 +85,7 @@ msgstr "征服海盗哨兵"
 msgid ""
 "Conquer the pirate sentry near the brook to the East. Hopefully we will find"
 " out what happened to the gold in this area."
-msgstr ""
+msgstr "攻占东面小溪边的海盗岗哨。但愿能弄清这一带的黄金究竟出了什么事。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:34
 msgid "Build warehouse"
@@ -93,88 +93,88 @@ msgstr "建设仓库"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:36
 msgid "Build a Warehouse near the Pirate Sentry"
-msgstr ""
+msgstr "在海盗岗哨附近建一座仓库"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:37
 msgid ""
 "Build a warehouse close to the conquered pirate sentry near the brook. We "
 "will need it as a basis for further exploration. Furthermore we could use it"
 " to store some gold that we will mine from the surrounding hills."
-msgstr ""
+msgstr "在攻占的小溪边海盗岗哨附近建一座仓库。它将作为我们进一步探索的据点，还能用来存放从周边丘陵开采出的黄金。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:43
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:52
 msgid "Bring shovels"
-msgstr ""
+msgstr "运来铁锹"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:45
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:54
 msgid "Bring Four Shovels to the new Warehouse"
-msgstr ""
+msgstr "把四把铁锹送到新仓库"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:46
 msgid "They will be handed out to some volunteers for drying up the swamps."
-msgstr ""
+msgstr "它们会发给一些志愿者，用来排干沼泽。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:55
 msgid ""
 "They will be handed out to additional volunteers for drying up the swamps."
-msgstr ""
+msgstr "它们会发给更多志愿者，用来排干沼泽。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:61
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:93
 msgid "Defeat the pirates"
-msgstr ""
+msgstr "击败海盗"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:63
 msgid "Defeat the Pirates"
-msgstr ""
+msgstr "击败海盗"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:64
 msgid ""
 "Free our neighbourhood from the pirate menace. The pirates are fighting "
 "under the grey banner."
-msgstr ""
+msgstr "把海盗之患从我们周边清除干净。海盗打着灰色旗号。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:70
 msgid "Free our scout from the pirates"
-msgstr ""
+msgstr "把我们的侦察兵从海盗手中救出"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:72
 msgid "Conquer the Stronghold on the Island"
-msgstr ""
+msgstr "攻占岛上的要塞"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:73
 msgid "This is where the scout is held captive."
-msgstr ""
+msgstr "侦察兵就被关在那里。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:79
 msgid "Defeat Hjalmar"
-msgstr ""
+msgstr "击败雅尔马"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:81
 msgid "Defeat the Armies of Hjalmar"
-msgstr ""
+msgstr "击败雅尔马的军队"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:82
 msgid ""
 "Hjalmar is the enemy north of the former pirates, who is fighting under the "
 "green banner."
-msgstr ""
+msgstr "雅尔马是原海盗地盘以北的敌人，打着绿色旗号。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:88
 msgid "Defeat Runar"
-msgstr ""
+msgstr "击败鲁纳尔"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:90
 msgid "Defeat the Armies of Runar"
-msgstr ""
+msgstr "击败鲁纳尔的军队"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/objectives.lua:91
 msgid ""
 "Runar is the enemy south-east of the former pirates, who is fighting under "
 "the yellow banner."
-msgstr ""
+msgstr "鲁纳尔是原海盗地盘东南方的敌人，打着黄色旗号。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:10
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:26
@@ -196,92 +196,92 @@ msgstr ""
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:147
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:156
 msgid "Your Advisor"
-msgstr ""
+msgstr "你的谋士"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:11
 msgid "Along the River"
-msgstr ""
+msgstr "沿河而行"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:12
 msgid "Sire, let me inform you about the surrounding tribes."
-msgstr ""
+msgstr "大人，容我向您禀报周边各部族的情形。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:14
 msgid ""
 "From the North we are endangered by a belligerent tribe, led by warlord "
 "Törver, that is rapidly building up its armies. They may soon have become "
 "too strong to be defeated."
-msgstr ""
+msgstr "北面有一个好战的部族威胁着我们，其首领是军阀特尔弗，正在迅速扩军。要不了多久，他们恐怕就强到无法战胜了。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:16
 msgid ""
 "A large area to the north-east is agonized by a wild horde of unfettered "
 "pirates, led by their insane Arvid. Their presence blocks our ways to other "
 "tribes."
-msgstr ""
+msgstr "东北方一大片地域正饱受一伙无法无天的海盗蹂躏，头目是疯子阿尔维德。他们的存在阻断了我们通往其他部族的道路。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:18
 msgid ""
 "Over the river lies the prosperous land of the mysterious king Runar. We "
 "have been in war with him before the pirates occupied the eastern area. His "
 "strength is based on his vast industry and large armies."
-msgstr ""
+msgstr "河对岸是神秘的国王鲁纳尔治下的富庶之地。在海盗占据东部之前，我们曾与他交战。他的实力源于庞大的工业与众多的军队。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:20
 msgid ""
 "The area beyond the pirates belongs to a developed tribe led by their mighty"
 " chieftain Hjalmar. They have had a long time of preparement to build up "
 "their deterring armies."
-msgstr ""
+msgstr "海盗地盘之外，是由强大首领雅尔马统领的一个发达部族。他们有充裕的时间备战，已建起足以令人却步的军队。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:22
 msgid ""
 "The situation looks quite perilous and my advice is that we direct our "
 "efforts towards building up a strong army."
-msgstr ""
+msgstr "局势颇为凶险。依我之见，我们应当集中力量建起一支强军。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:27
 msgid "Our northern enemy"
-msgstr ""
+msgstr "我们北面的敌人"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:28
 msgid ""
 "Sire, although our soldiers would face any enemy without the slightest fear,"
 " our rival in the North is still stronger than all our armies combined. We "
 "should avoid a conflict until we are able to defeat them."
-msgstr ""
+msgstr "大人，虽然我们的士兵面对任何敌人都毫无惧色，但北面的对手仍强过我们全部军队之和。在有能力击败他们之前，我们应当避免冲突。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:30
 msgid ""
 "Be patient and recognize that a strong army is indispensable in this "
 "situation. Törver has a very bad reputation."
-msgstr ""
+msgstr "请耐心些，并认清眼下的处境——一支强军不可或缺。特尔弗声名极恶。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:35
 msgid "Peril from the North"
-msgstr ""
+msgstr "北方之患"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:36
 msgid ""
 "Sire, we received an alarming message from one of our explorers. Törver is "
 "expanding his front line and approaching our territory."
-msgstr ""
+msgstr "大人，我们一名探子传回了令人不安的消息。特尔弗正在扩张战线，逼近我们的领地。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:38
 msgid ""
 "We cannot avoid attacking their armies forever. If we manage to conquer our "
 "northern enemy, we will enlarge our territory and find more resources to "
 "strengthen our armies."
-msgstr ""
+msgstr "我们不可能永远回避与他们交战。若能征服北面的敌人，我们就能扩大领土，找到更多资源来充实军备。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:40
 msgid ""
 "We can then also use their access to the lake in order to explore more land."
-msgstr ""
+msgstr "届时我们还能借他们通往湖泊的通道，去探索更多土地。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:46
 msgid "On the good way"
-msgstr ""
+msgstr "形势大好"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:47
 msgid ""
@@ -289,35 +289,35 @@ msgid ""
 "beaten the strongest part of his army. But this enemy will not be defeated "
 "easily. In a desperate move Törver has called in a group of hardened "
 "mercenaries."
-msgstr ""
+msgstr "大人，对特尔弗的战事进展顺利，我们已击溃他军中最强的一部。但这个敌人不会轻易倒下——情急之下，特尔弗召来了一伙久经沙场的雇佣兵。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:52
 msgid "The great lake"
-msgstr ""
+msgstr "大湖"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:53
 msgid ""
 "Sire, now that we have conquered the land of Törver, we can make use of "
 "their excellent access to the adjacent great lake. A port in the North will "
 "give us better opportunities to have contact with other tribes."
-msgstr ""
+msgstr "大人，既已攻占特尔弗的土地，我们便能利用他们通往毗邻大湖的极佳通道。在北面建一座港口，将为我们与其他部族往来创造更好的条件。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:55
 msgid ""
 "In Törver’s headquarters we found papers describing the construction of "
 "ships. Unfortunately, the texts are written in a language that is unknown to"
 " us. Our wise men will try to translate these descriptions."
-msgstr ""
+msgstr "在特尔弗的总部里，我们找到了记载造船之法的文书。可惜文字是我们不认识的语言。我们的智者会设法翻译这些图说。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:61
 msgid "Searching for gold"
-msgstr ""
+msgstr "寻找黄金"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:62
 msgid ""
 "Sire, our men have located an isolated enemy pirate sentry. The abandoned "
 "huts indicate that there is gold nearby."
-msgstr ""
+msgstr "大人，我们的人发现了一处孤立的敌方海盗岗哨。那些废弃的小屋说明附近有黄金。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:64
 msgid ""
@@ -325,18 +325,18 @@ msgid ""
 "more enemy buildings that are still out of sight, and the pirates are known "
 "to be very good fighters. It is best to establish a strong military presence"
 " here before we proceed."
-msgstr ""
+msgstr "不过若要攻占这处岗哨，还须谨慎。视野之外可能还有更多敌方建筑，而海盗素以善战著称。最好先在此建立起强大的军事存在，再行推进。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:70
 msgid "Found a treasure"
-msgstr ""
+msgstr "发现宝藏"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:71
 msgid ""
 "Sire, we have found 25 units of gold ore inside the pirate sentry. They may "
 "have been looted from the gold diggers’ huts nearby. This gold ore will be "
 "transported to our headquarters."
-msgstr ""
+msgstr "大人，我们在海盗岗哨内找到了 25 单位金矿石，多半是从附近的淘金者小屋劫来的。这批金矿石将运往我们的总部。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:73
 msgid ""
@@ -344,12 +344,12 @@ msgid ""
 "warehouse to the direct southwest of the sentry in order to further explore "
 "this area. There is a good building spot only three steps away from the "
 "sentry."
-msgstr ""
+msgstr "既已成功扩张到这一带，我们该考虑在岗哨正西南方建一座仓库，以便进一步探索此地。离岗哨仅三步之遥就有一处不错的建筑地点。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:79
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:86
 msgid "Removing the swamps"
-msgstr ""
+msgstr "清除沼泽"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:80
 msgid ""
@@ -357,35 +357,35 @@ msgid ""
 "are unable to pass through them. They have to be removed before we can "
 "continue. If you bring enough shovels to the new warehouse then volunteers "
 "will remove the swamps."
-msgstr ""
+msgstr "大人，雨季在东面的小溪沿岸形成了沼泽，我们无法通过。必须先清除才能继续前进。只要您把足够的铁锹送到新仓库，就会有志愿者去排干沼泽。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:87
 msgid ""
 "Sire, all shovels have been handed out, but if we continue at this pace we "
 "will not have removed the swamps before the next wet season. If you bring "
 "more shovels to the new warehouse then more volunteers will join in."
-msgstr ""
+msgstr "大人，所有铁锹都已发下，但照这个进度，赶不在下一个雨季之前把沼泽清完。若您再送些铁锹到新仓库，就会有更多志愿者加入。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:94
 msgid ""
 "Sire, now that we have access to the pirates’ hideout, we should conquer it "
 "and finish them off. Maybe there are even more treasures hidden in their "
 "territory."
-msgstr ""
+msgstr "大人，既已打通通往海盗巢穴的道路，我们该攻占它，把他们彻底了结。说不定他们的地盘里还藏着更多宝藏。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:100
 msgid "The pirates were defeated."
-msgstr ""
+msgstr "海盗已被击败。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:101
 msgid ""
 "Sire, we have defeated the pirates. They have hidden some gold in their last"
 " bastion which is now being transferred to our headquarters."
-msgstr ""
+msgstr "大人，我们击败了海盗。他们在最后的据点里藏了一批黄金，现已运往我们的总部。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:106
 msgid "Pirates are regrouping"
-msgstr ""
+msgstr "海盗正在重整"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:107
 msgid ""
@@ -393,106 +393,106 @@ msgid ""
 " with pirates from other tribes. They could regain much of their previously "
 "lost strength. Our dwindling resources can become a problem with such a "
 "mighty enemy in front of us."
-msgstr ""
+msgstr "大人，我们对海盗的攻势促使他们开始与其他部族的海盗合流，很可能重新聚起此前折损的大半实力。面对如此强敌，我们日渐吃紧的资源恐成隐患。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:112
 msgid "Pirates on the run"
-msgstr ""
+msgstr "海盗溃逃"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:113
 msgid ""
 "Sire, thanks to our successful efforts to drive out the pirates, lots of "
 "them have fled and moved away in small boats. It is unknown in which "
 "direction they have escaped."
-msgstr ""
+msgstr "大人，多亏我们成功驱逐海盗，其中不少人已乘小船逃散。逃往何方，尚不可知。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:118
 msgid "Ability to build shipyards"
-msgstr ""
+msgstr "掌握造船厂建造之法"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:119
 msgid ""
 "Sire, after long study and research our wise men have finally managed to "
 "decipher the strange language in Törver’s descriptions that we had found in "
 "his headquarters. From now on we are able to build shipyards."
-msgstr ""
+msgstr "大人，经过长久钻研，我们的智者终于破译了在特尔弗总部缴获的那些图说中的奇异文字。从今往后，我们能够建造造船厂了。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:124
 msgid "Our scout has been captured"
-msgstr ""
+msgstr "我们的侦察兵被俘"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:125
 msgid ""
 "Sire, one of our scouts has been captured by the pirates and brought to "
 "their island. He is the only person who knows the way through the swamps "
 "towards Hjalmar."
-msgstr ""
+msgstr "大人，我们有一名侦察兵被海盗掳去了他们的岛上。只有他知道穿越沼泽通往雅尔马的那条路。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:127
 msgid ""
 "According to our fishermen he is locked up in the stronghold on the island. "
 "We should use the knowledge about shipbuilding that we took from Törver to "
 "build ships and attack their positions."
-msgstr ""
+msgstr "据渔夫们说，他被关在岛上的要塞里。我们该用从特尔弗那里得来的造船知识造出船只，进攻他们的据点。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:133
 msgid "Island conquered"
-msgstr ""
+msgstr "岛屿已攻占"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:134
 msgid ""
 "Sire, our soldiers have conquered the island and managed to free the scout. "
 "It turns out that the pirates have left a large amount of gold, beer, and "
 "weapons on the island."
-msgstr ""
+msgstr "大人，我们的士兵攻下了岛屿，成功救出了侦察兵。结果发现海盗在岛上留下了大批黄金、啤酒和武器。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:139
 msgid "The scout returns"
-msgstr ""
+msgstr "侦察兵归来"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:140
 msgid ""
 "Sire, our scout has returned to our territory, and he has shown us the road "
 "through the swamps towards Hjalmar."
-msgstr ""
+msgstr "大人，我们的侦察兵已回到领地，并为我们指出了穿越沼泽通往雅尔马的道路。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:142
 msgid ""
 "He noticed that we can also move along the other side of the mountain, in "
 "case we might fail here, but it will be much more difficult to do."
-msgstr ""
+msgstr "他还注意到，万一此处受挫，我们也能从山的另一侧绕行，只是那条路要难走得多。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:148
 msgid "The last frontier"
-msgstr ""
+msgstr "最后的防线"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:149
 msgid ""
 "Sire, we have almost defeated all armies and we are now approaching our "
 "final enemy. They have been expecting us for a long time and will be "
 "prepared for the heaviest battle in their lifetime."
-msgstr ""
+msgstr "大人，我们几乎击溃了所有敌军，如今正逼近最后一个对手。他们等我们已久，必将以毕生最惨烈的一战相迎。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:151
 msgid ""
 "Make sure that our armies are at full strength and then act decisively."
-msgstr ""
+msgstr "务必让我们的军队保持满员，然后果断出击。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:157
 msgid "Victory!"
-msgstr ""
+msgstr "胜利！"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:158
 msgid "Sire, my congratulations!"
-msgstr ""
+msgstr "大人，恭喜您！"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:160
 msgid ""
 "You have completed all goals and defeated all our enemies. You have not only"
 " conquered our rivalling tribes, but you have also captured the hearts of "
 "your loving people."
-msgstr ""
+msgstr "您已达成全部目标，击败了所有敌人。您不仅征服了与我们争锋的各部族，也赢得了子民的拥戴。"
 
 #: ../../../../data/maps/SP_Scenarios/Along_The_River.wmf/scripting/texts.lua:162
 msgid "Your name will be remembered forever."
-msgstr ""
+msgstr "您的名字将被永远铭记。"

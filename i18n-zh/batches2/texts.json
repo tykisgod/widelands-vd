@@ -1,0 +1,524 @@
+[
+ {
+  "key": "a862b4be66",
+  "msgid": "This game is Free and Open Source (FOSS), licensed under the GNU General Public License (GPL) V2.0 (or, at your option, any later version).",
+  "zh": ""
+ },
+ {
+  "key": "f512a37140",
+  "msgid": "You can find the full text of the license there as well as further information about its philosophy and the legal implications.",
+  "zh": ""
+ },
+ {
+  "key": "2ad7e55f8b",
+  "msgid": "We are also shipping the GPL as a text document with Widelands itself.",
+  "zh": ""
+ },
+ {
+  "key": "2a7688d9a3",
+  "msgid": "On Linux, you can find the file called COPYING in the root of the source or standalone binary package, or in the installation directory (like ‘%1%’).",
+  "zh": "",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "bcab7e9b01",
+  "msgid": "On Windows, you can find the file called COPYING.txt in the installation folder, and the Widelands Start menu entry provides a link to this file.",
+  "zh": ""
+ },
+ {
+  "key": "813bf369de",
+  "msgid": "On MacOS, you can find the file called COPYING in the archive you downloaded from the website.",
+  "zh": ""
+ },
+ {
+  "key": "e4400cba47",
+  "msgid": "This game comes as-is and without any warranty.",
+  "zh": ""
+ },
+ {
+  "key": "8554ad9a9e",
+  "msgid": "For more information and support you can find us at %1% (Website, Wiki, Forum for questions or general support), %2% (Bugtracker), and %3% (Translations).",
+  "zh": ""
+ },
+ {
+  "key": "bd24a18e37",
+  "msgid": "Widelands is licensed under the GNU General Public License (GPL). For more information, see the file ‘COPYING’.",
+  "zh": ""
+ },
+ {
+  "key": "8cce2b8d4a",
+  "msgid": "Widelands is nearly feature complete and is much fun to play alone and even more in multiplayer with others. Still, there is always more work to be done in all areas. If you are interested in contributing – be it by making graphics, fixing bugs or adding new features, translating the game into your language or creating new maps – get in touch on our homepage.",
+  "zh": ""
+ },
+ {
+  "key": "a1906c9ed9",
+  "msgid": "Which version of Widelands you are running (i.e. either the build number or the revision number if you are running a development version or a daily build).",
+  "zh": ""
+ },
+ {
+  "key": "6e5b0cfe34",
+  "msgid": "Please also include which operating system you are running Widelands on as some bugs can be platform specific.",
+  "zh": ""
+ },
+ {
+  "key": "a546f6e4f5",
+  "msgid": "Which map you were playing when the bug occurred.",
+  "zh": ""
+ },
+ {
+  "key": "a5d8a43da9",
+  "msgid": "If the bug concerns something not being displayed correctly or if it helps demonstrate the issue, please include one or more screenshots.",
+  "zh": ""
+ },
+ {
+  "key": "ed1d2205d1",
+  "msgid": "If you have a save game or replay demonstrating the issue (for instance crashes where it can be hard to tell exactly what is triggering it), please include that too. For more information, see the section on Replays below.",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "efe8f357dd",
+  "msgid": "and many, many more (thank you for everything you’ve done)",
+  "zh": ""
+ },
+ {
+  "key": "ea2aeec050",
+  "msgid": "If you need more documentation or help for Widelands or the Widelands Editor, be sure to visit our homepage at %s. You can find online help in our wiki there.",
+  "zh": ""
+ },
+ {
+  "key": "c605675c26",
+  "msgid": "Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II but has significantly more variety and depth to it. Still, it is easy to get started through playable tutorials.",
+  "zh": ""
+ },
+ {
+  "key": "184ca0c3b1",
+  "msgid": "In this game, you start out on a small piece of land with just a few resources. Using these, you’ll create an empire with many thousands of inhabitants. On your way towards this goal, you will have to establish an economic infrastructure, explore the land around you and face rivaling tribes.",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "6dbb8abf93",
+  "msgid": "Widelands records every game you play in a replay file with .wry extension. This file contains an initial savegame and all commands that were issued by all players, such as building a road or attacking an enemy. The filename will tell you the time you started the game.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "e897276e4d",
+  "msgid": "Using the Watch Replay option in the main menu, a previously played game will be precisely reconstructed for you to watch. Note, however, that even small changes in the game data files or the Widelands executable can cause a replay to become incompatible and to ‘go out of sync’. This is similar to how network games will suffer from desynchronization problems if one of the players has a different version of the game.",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "c3eaebb5fd",
+  "msgid": "Replays are a very useful tool to find bugs in the game logic, so they can be useful as attachments to bug reports. The replay files are saved in the ‘replays’ subdirectory of the Widelands home directory. You may look in the last tab \"Technical Information\" of this window to see where this directory is located on your computer.",
+  "zh": "",
+  "terms": [
+   "Directory = 目录",
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "17ca44680e",
+  "msgid": "The latter three can only be set by the hosting client by left-clicking the ‘type’ button of a player. Hosting players can also set the initialization of each player (the set of buildings, wares and workers the player starts with) and the tribe and team for computer players.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Workers = 工人",
+   "Player = 玩家",
+   "Wares = 物品",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "a768ee28ae",
+  "msgid": "Every client connected to a player (who isn’t a spectator) can set the tribe and the team for that player.",
+  "zh": "",
+  "terms": [
+   "Player = 玩家",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "23420d3c35",
+  "msgid": "Rare trees are cut by experienced woodcutters in woodcutter’s huts enhanced to rare tree cutter’s huts. But they stop cutting normal trees. Plan their locations in advance.",
+  "zh": ""
+ },
+ {
+  "key": "a8c8e85c51",
+  "msgid": "Liana cutters harvest lianas from nearby trees, but trees are not harmed in this process.",
+  "zh": ""
+ },
+ {
+  "key": "403f42934b",
+  "msgid": "Water is life for the Amazons. Water gatherers perform an important service to their tribe.",
+  "zh": "",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "c0685d7cb9",
+  "msgid": "Panning for gold requires a steady stream of water, better sourced as close as possible for efficiency and freshness.",
+  "zh": "",
+  "terms": [
+   "Efficiency = 效率",
+   "Water = 水",
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "366ded76f2",
+  "msgid": "Wilderness keepers ensure fresh game for hunting and fish for fishing. Game is only released near trees uninhabited by sentries.",
+  "zh": "",
+  "terms": [
+   "fishing = 捕鱼",
+   "hunting = 狩猎",
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "b7f6687591",
+  "msgid": "Rare wood stock levels are monitored by rare tree plantations, and jungle masters will plant according to economic requirements.",
+  "zh": ""
+ },
+ {
+  "key": "4f6b8f0170",
+  "msgid": "Amazons love trees. Build enough jungle preserver’s huts to have enough of them.",
+  "zh": ""
+ },
+ {
+  "key": "b97e03d7c8",
+  "msgid": "Ropes are essential for ensuring sound buildings, sewing sturdy clothing, and lashing canoes together to form ships.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "cb2b84452e",
+  "msgid": "Jungle masters learn their skills by working as jungle preservers before working in gardening centres or rare tree plantations.",
+  "zh": "",
+  "terms": [
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "ae41d3e544",
+  "msgid": "Rare woods are the backbone of an Amazon economy. Build rare tree plantations to plant the special trees for these woods.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "eac4ff2aa9",
+  "msgid": "Keep an eye on your fishers and build a fish breeder’s house to regenerate fish resources.",
+  "zh": "",
+  "terms": [
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "6d2713e8c8",
+  "msgid": "Widelands is creating an emergency save, so you can continue playing exactly where the game closed.",
+  "zh": ""
+ },
+ {
+  "key": "5dc51f1d63",
+  "msgid": "Holding down Ctrl switches the second alternative tool on (if it exists).",
+  "zh": ""
+ },
+ {
+  "key": "aba9f8e89f",
+  "msgid": "The keys %1% allow you to directly set the size of the selected area around your mouse cursor.",
+  "zh": ""
+ },
+ {
+  "key": "1c56bc020c",
+  "msgid": "%1% behaves like in normal games: It switches if building spaces are shown on or off.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "fad737f943",
+  "msgid": "When placing trees, use the help button to see which trees are more likely to survive on which terrain.",
+  "zh": ""
+ },
+ {
+  "key": "eea77e9e8c",
+  "msgid": "If you do not set water and fish resources, a default amount will be used.",
+  "zh": "",
+  "terms": [
+   "Water = 水",
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "8cd838df38",
+  "msgid": "You can place a medium building on any node where there is a slope no greater than 1 in the south-east direction and its height difference to all nodes in a radius of 2 is no greater than 2.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "57cd0d126a",
+  "msgid": "You can place a big building on any node where you could place a medium building if there is no obstacle or non-arable terrain towards the west, northwest and northeast.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "e0cb7902fd",
+  "msgid": "Empire needs a lot of marble. Keep looking for marble resources.",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "59ceee18fd",
+  "msgid": "Always build a forester’s house so you will not run out of logs.",
+  "zh": ""
+ },
+ {
+  "key": "042c9c3c61",
+  "msgid": "To produce bricks, you need granite; to produce granite, you need a quarry or rock mine; to build those, you need bricks. Take care not to get deadlocked!",
+  "zh": ""
+ },
+ {
+  "key": "84a575e8a0",
+  "msgid": "Always build a forester’s house, so you will not run out of logs.",
+  "zh": ""
+ },
+ {
+  "key": "97af114863",
+  "msgid": "Arrow keys",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "7aa01e9a4b",
+  "msgid": "Ctrl + Arrow keys",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "a1028a45ab",
+  "msgid": "Move map view using %1%. %2% will move the view faster, %3% moves slowly.",
+  "zh": ""
+ },
+ {
+  "key": "55328722e8",
+  "msgid": "Shift + Arrow keys",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "37986cf06f",
+  "msgid": "If you play on a laptop with a touchpad, you can assign functionality to touchpad scrolling in the ‘Options’ → ‘Edit keyboard and mouse actions’ menu. For example, moving the map view can be much more comfortable by scrolling instead of dragging with the right mouse button.",
+  "zh": ""
+ },
+ {
+  "key": "6fd1d13b3f",
+  "msgid": "When a building is destroyed, its workers will start looking for a nearby flag from which they can move by road to a connected warehouse. If there are no such flags in the vicinity, they will keep wandering around and eventually die.",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库",
+   "Building = 建筑",
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "791e7fba97",
+  "msgid": "Be sure to send a geologist to survey sites before building a well or a mine.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "116c4b1352",
+  "msgid": "Trading can help your economy and strengthen relationships between players. Learn the basics in the tutorial ‘Economy and Trading’.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "ddb10f8f58",
+  "msgid": "Your territory can be expanded by building various military buildings – Sentry, Fortress, Blockhouse, etc.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "ab5470fff3",
+  "msgid": "Miners will work only if supplied with food.",
+  "zh": ""
+ },
+ {
+  "key": "d11bb0b5e8",
+  "msgid": "Split your roads into shorter sections by planting some flags. This will speed up transportation of your wares.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "9b15111192",
+  "msgid": "Any further questions? Our FAQ, the wiki and of course our community forums can be found online at %s.",
+  "zh": "",
+  "note": "TRANSLATORS: %s = URL to the Widelands website"
+ },
+ {
+  "key": "92e0fe57a4",
+  "msgid": "Use the priority sliders in building windows to adjust delivery of a specific ware. Holding down Shift while clicking will adjust all wares at once.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "d4b991311d",
+  "msgid": "Use the ‘configure economy’ menu to adjust the target quantity of wares. It can be accessed via the flag menu.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a54632d9dd",
+  "msgid": "Manage your messages more efficiently: press ‘%1%’ to access the messages window, then use ‘%2%’ for Go To, and the ‘%3%’ key to archive messages.",
+  "zh": ""
+ },
+ {
+  "key": "10ec368e96",
+  "msgid": "Press %1% to store important locations, then press %2% to recall them.",
+  "zh": ""
+ },
+ {
+  "key": "338b27a25e",
+  "msgid": "Removing a road while holding Ctrl lets you remove all flags up to the first junction.",
+  "zh": ""
+ },
+ {
+  "key": "8a2899ac9e",
+  "msgid": "New soldiers are recruited in a barracks. Their abilities can then be improved in training sites.",
+  "zh": ""
+ },
+ {
+  "key": "7671c2c690",
+  "msgid": "If you like to live dangerously, pressing Ctrl while clicking the enhance, dismantle or destroy building buttons will skip the confirmation.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "8e3f23b279",
+  "msgid": "Press ‘%s’ to quickly toggle the display of your stock inventory.",
+  "zh": ""
+ },
+ {
+  "key": "c17eb9eac8",
+  "msgid": "An economy consists of all buildings and flags connected by roads, ferries, or ships. The supplies and demands of buildings are handled in their economy. A player can have more than one economy.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Economy = 经济",
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "e27b66c3c7",
+  "msgid": "You can have more than one economy if their flags are not connected by any means of transportation. This is why the Configure Economy menu can only be accessed from flags and warehouses, not the player’s main menu.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济",
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "f6d7752cf8",
+  "msgid": "The building process will only start after a road is built to the construction site.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "534966e6e7",
+  "msgid": "Some buildings, such as the farm, have a very small work area. If the building is surrounded with trees or roads, production will stop.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "768c4ec37f",
+  "msgid": "Zoom in/out with the mouse wheel or %1%/%2%. Press %3%/%4% for maximum/minimum zoom level. Press %5% to reset the zoom.",
+  "zh": ""
+ },
+ {
+  "key": "fe30944de1",
+  "msgid": "Use the ‘%1$s’ and ‘%2$s’ keys to quickly jump between recently visited locations.",
+  "zh": ""
+ },
+ {
+  "key": "a146c0fd8a",
+  "msgid": "Speed up or slow down the game with %1%/%2%. Use %3%/%4% for rapid change; %5%/%6% will adjust speed smoothly.",
+  "zh": ""
+ },
+ {
+  "key": "d4555fedfd",
+  "msgid": "Use ‘@name’ at the beginning of a chat message to send it to only one player.",
+  "zh": "",
+  "terms": [
+   "Message = 消息",
+   "Player = 玩家",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "4b78189ab1",
+  "msgid": "If the game should crash, don’t worry! The game will be saved automatically so that you can reload it afterwards.",
+  "zh": ""
+ },
+ {
+  "key": "bab69233b8",
+  "msgid": "You can use the ’Page up’ and ‘Page down’ keys to adjust your desired speed – the real speed is then democratically set.",
+  "zh": ""
+ },
+ {
+  "key": "ff76db5890",
+  "msgid": "You can use ‘/me’ at the beginning of a chatmessage: ‘/me is tired’ will be printed as ‘-> Nickname is tired’.",
+  "zh": ""
+ },
+ {
+  "key": "344805ae03",
+  "msgid": "Are the computer players too boring? Visit our website at %s and meet other players to play online.",
+  "zh": "",
+  "note": "TRANSLATORS: %s = URL to the Widelands website"
+ }
+]
