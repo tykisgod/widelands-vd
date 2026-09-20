@@ -1,0 +1,971 @@
+[
+ {
+  "key": "9023f13271",
+  "msgid": "Decrease the number of wares you want to be stored here",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip in in a building's wares input queue",
+  "ui": "ui/game",
+  "current": "降低你想存放在这里的物品数量",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "48935e3728",
+  "msgid": "Hold down Shift to increase all ware types at the same time",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip in in a building's wares input queue - | option explanation",
+  "ui": "ui/game",
+  "current": "按住Shift键可同时增加所有物品类型"
+ },
+ {
+  "key": "eef47c6dd4",
+  "msgid": "Hold down Shift to decrease all ware types at the same time",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip in in a building's wares input queue - | option explanation",
+  "ui": "ui/game",
+  "current": "按住Shift键可同时减少所有物品类型"
+ },
+ {
+  "key": "40abd47e77",
+  "msgid": "Hold down Ctrl to allow all of this ware",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip in in a building's wares input queue - | option explanation",
+  "ui": "ui/game",
+  "current": "按住Ctrl键以允许所有的这些物品"
+ },
+ {
+  "key": "620ed597ec",
+  "msgid": "Hold down Ctrl to allow none of this ware",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip in in a building's wares input queue - | option explanation",
+  "ui": "ui/game",
+  "current": "按住Ctrl键以禁止所有的这些物品"
+ },
+ {
+  "key": "9a07cd5cad",
+  "msgid": "Remove ware",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "移除物品"
+ },
+ {
+  "key": "3e95609e8b",
+  "msgid": "Add ware",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "添加物品"
+ },
+ {
+  "key": "895093de1c",
+  "msgid": "Priority: Very Low",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "优先级：非常低"
+ },
+ {
+  "key": "63bdefbd3d",
+  "msgid": "Hide controls",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "隐藏控件",
+  "terms": [
+   "Controls = 控制"
+  ]
+ },
+ {
+  "key": "559302a0f8",
+  "msgid": "Show controls",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "显示控件",
+  "terms": [
+   "Controls = 控制"
+  ]
+ },
+ {
+  "key": "996cac5ac8",
+  "msgid": "Priority: Low",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "优先级：低"
+ },
+ {
+  "key": "f6101cc40c",
+  "msgid": "Priority: Normal",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "优先级：普通"
+ },
+ {
+  "key": "13d222577d",
+  "msgid": "Priority: High",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "优先级：高"
+ },
+ {
+  "key": "6e3683d434",
+  "msgid": "+%u",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "9f0b7f5bd4",
+  "msgid": "Priority: Very High",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "优先级：非常高"
+ },
+ {
+  "key": "1e2923ca42",
+  "msgid": "Error Saving Game!",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "游戏保存错误！"
+ },
+ {
+  "key": "250cdaa204",
+  "msgid": "Save Game",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's main menu | * TRANSLATORS: This is the helptext for an access key combination.",
+  "ui": "ui/game, ui/wui",
+  "current": "保存游戏"
+ },
+ {
+  "key": "5853172483",
+  "msgid": "You demand:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "b65252e31c",
+  "msgid": "Decrease amount by 10",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "189fff3ae2",
+  "msgid": "Decrease amount",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "2f1bbb8163",
+  "msgid": "Increase amount",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "0192a67259",
+  "msgid": "Increase amount by 10",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "100c377ff7",
+  "msgid": "Please select the player you want to trade with.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Player = 玩家",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "e0f9098fd6",
+  "msgid": "Please select the wares you want to send and receive.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "0a2a25ffe3",
+  "msgid": "It is not allowed to exchange more than %d ware per batch.",
+  "zh": "",
+  "msgid_plural": "It is not allowed to exchange more than %d wares per batch.",
+  "ui": "ui/game"
+ },
+ {
+  "key": "c417446d40",
+  "msgid": "You cannot both send and receive the same ware type (%s).",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "e6ea390d7c",
+  "msgid": "Propose the configured trade to the selected player",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Player = 玩家",
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "9144906468",
+  "msgid": "There are no pending trade proposals at the moment. You can propose a new trade from the first tab.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "9d359dd7a3",
+  "msgid": "There are no pending trade proposals at the moment.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "b501d14036",
+  "msgid": "Cancel this trade",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "14569875bb",
+  "msgid": "Propose",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "913042da21",
+  "msgid": "Resume this paused trade. This requires all queues to be at their maximum capacity.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "47cd299f0e",
+  "msgid": "Pause this trade",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "3418c0dffa",
+  "msgid": "You need to pause the trade before you can change the queue capacity.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "d7187ae571",
+  "msgid": "Pause Trade?",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "90cba4d0e8",
+  "msgid": "Changing the capacity of the input queues will cause the trade to be paused. Pause the trade now?",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "a9d969a6c7",
+  "msgid": "You offer:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "908f163723",
+  "msgid": "Propose Trade",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "f72209ef79",
+  "msgid": "Proposed Trades",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "b4a8b9b4b0",
+  "msgid": "Trade Offers",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "cc6a140271",
+  "msgid": "Active Trade",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "85c25c4760",
+  "msgid": "Show Archive",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "显示存档"
+ },
+ {
+  "key": "169204e0a9",
+  "msgid": "Center main mapview on location",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "在位置上居中显示主地图视图"
+ },
+ {
+  "key": "5a3dd625a6",
+  "msgid": "Messages: Inbox",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "消息：收件箱"
+ },
+ {
+  "key": "a0f0f9fb52",
+  "msgid": "Show all messages",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "显示所有的消息"
+ },
+ {
+  "key": "46eb917ae9",
+  "msgid": "Show geologists’ messages only",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game"
+ },
+ {
+  "key": "62435643c0",
+  "msgid": "Show economy messages only",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "仅显示经济信息",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "a8521fb1b0",
+  "msgid": "Show seafaring messages only",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "仅显示航海信息"
+ },
+ {
+  "key": "228b69ad0c",
+  "msgid": "Show warfare messages only",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "仅显示战争信息"
+ },
+ {
+  "key": "156bfa702d",
+  "msgid": "Show scenario messages only",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "仅显示场景信息"
+ },
+ {
+  "key": "18ec1c4988",
+  "msgid": "Show diplomacy messages only",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "689e2e7df3",
+  "msgid": "Messages: Archive",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "消息：存档"
+ },
+ {
+  "key": "a1dc7cc4ca",
+  "msgid": "Show Inbox",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "显示收件箱"
+ },
+ {
+  "key": "48354fb025",
+  "msgid": "Restore the selected %d message",
+  "zh": "",
+  "msgid_plural": "Restore the selected %d messages",
+  "note": "* TRANSLATORS: Tooltip in the messages window. There is a separate string | for 1 | * message. | * DO NOT omit the placeholder in your translation.",
+  "ui": "ui/game",
+  "current": "还原选中的%d消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "056855297a",
+  "msgid": "Restore selected message",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "还原所选消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "0e0a0f5666",
+  "msgid": "Title",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "标题"
+ },
+ {
+  "key": "8b9fcd8e47",
+  "msgid": "Archive the selected %d message",
+  "zh": "",
+  "msgid_plural": "Archive the selected %d messages",
+  "note": "* TRANSLATORS: Tooltip in the messages window. There is a separate string | for 1 | * message. | * DO NOT omit the placeholder in your translation.",
+  "ui": "ui/game",
+  "current": "存档选中的%d消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "47ebd853e6",
+  "msgid": "Type",
+  "zh": "",
+  "msgctxt": "message",
+  "ui": "ui/game",
+  "current": "类型"
+ },
+ {
+  "key": "5b34705986",
+  "msgid": "Archive selected message",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the messages window",
+  "ui": "ui/game",
+  "current": "存档所选消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "768d22ac5c",
+  "msgid": "Sent",
+  "zh": "",
+  "msgctxt": "message",
+  "note": "* TRANSLATORS: We have very little space here. You can also translate this | as \"Time\" or \"Time | * Sent\" | * TRANSLATORS: This is used in the game messages menu - please open an | issue if you need more | * space.",
+  "ui": "ui/game",
+  "current": "发送"
+ },
+ {
+  "key": "cd8f22d2f9",
+  "msgid": "Soldiers",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's statistics menu",
+  "ui": "ui/game, ui/wui",
+  "current": "士兵"
+ },
+ {
+  "key": "cbdb4cdd42",
+  "msgid": "Current Song:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "418e74f9f0",
+  "msgid": "Next",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "307a086c90",
+  "msgid": "Shuffle",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "711821fb04",
+  "msgid": "Sound Options",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's main menu",
+  "ui": "ui/game, ui/wui",
+  "current": "声音选项"
+ },
+ {
+  "key": "e75dab3d9b",
+  "msgid": "Pinned Note",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "ee2b7266a6",
+  "msgid": "Change color…",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "2a3e591387",
+  "msgid": "Additional item",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "附加项目"
+ },
+ {
+  "key": "0b18761ea3",
+  "msgid": "(Empty)",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "(空)"
+ },
+ {
+  "key": "14c312e694",
+  "msgid": "Present",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for a ware that is present in the building",
+  "ui": "ui/game",
+  "current": "现存的"
+ },
+ {
+  "key": "2b05a29079",
+  "msgid": "Missing",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for a ware that is neither present in the | building nor being transported there",
+  "ui": "ui/game",
+  "current": "缺少的"
+ },
+ {
+  "key": "5d853b5427",
+  "msgid": "Coming",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for a ware that is not present in the | building, but already being transported there",
+  "ui": "ui/game",
+  "current": "即将入库的"
+ },
+ {
+  "key": "5eec8e09a6",
+  "msgid": "Exp",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "经验"
+ },
+ {
+  "key": "5177b7d8c8",
+  "msgid": "Next Level",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "下一层级"
+ },
+ {
+  "key": "8364112e3d",
+  "msgid": "Decrease experience by 1",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "以1为单位减少经验"
+ },
+ {
+  "key": "568def20df",
+  "msgid": "Increase experience by 1",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "以1为单位增加经验"
+ },
+ {
+  "key": "16f4c293f9",
+  "msgid": "Terminate the employment of the selected worker",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "终止与选中工人的雇佣关系"
+ },
+ {
+  "key": "27897a4c8a",
+  "msgid": "coming",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "3b495867d2",
+  "msgid": "vacant",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "空闲的"
+ },
+ {
+  "key": "87b87db7b3",
+  "msgid": "(vacant)",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "(空闲)"
+ },
+ {
+  "key": "5b90e565c1",
+  "msgid": "Quick Navigation",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "daccb626d0",
+  "msgid": "Go to previous location",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "8adf766a11",
+  "msgid": "Go to next location",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "29f4e0c39b",
+  "msgid": "Add a new landmark",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "39e21df6ee",
+  "msgid": "Go to this landmark",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "2393ca270a",
+  "msgid": "View this landmark in a watch window",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "2c5a67d968",
+  "msgid": "Unset this landmark",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "51436eac06",
+  "msgid": "Set this landmark to the current map view location",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "7f8368dfd7",
+  "msgid": "Remove this landmark",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "6d69a4d77d",
+  "msgid": "Watch the selected ship",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the seafaring statistics window",
+  "ui": "ui/game",
+  "current": "观看选中的船只",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "4a07ae51a8",
+  "msgid": "Open the selected ship’s window",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the seafaring statistics window",
+  "ui": "ui/game",
+  "current": "打开选中船只的窗口",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "be985adb82",
+  "msgid": "(You can use %s to go to the selected ship and open its window.)",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the seafaring statistics window, placeholder is a | hotkey",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "c8183f3e9d",
+  "msgid": "Center the map on the selected ship",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the seafaring statistics window",
+  "ui": "ui/game",
+  "current": "把选中船只的位置作为为地图的中心",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "2b671d75a4",
+  "msgid": "Name",
+  "zh": "",
+  "msgctxt": "ship",
+  "ui": "ui/game",
+  "current": "船名",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "11bd2aa834",
+  "msgid": "Status",
+  "zh": "",
+  "msgctxt": "ship",
+  "ui": "ui/game",
+  "current": "状态",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "e4d66acc78",
+  "msgid": "Shipping",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "ui/game",
+  "current": "航运"
+ },
+ {
+  "key": "1cd568dca5",
+  "msgid": "Being Refitted",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "ui/game"
+ },
+ {
+  "key": "3c16af32b3",
+  "msgid": "Seafaring Statistics (%u Ship)",
+  "zh": "",
+  "msgid_plural": "Seafaring Statistics (%u Ships)",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "6ddc172134",
+  "msgid": "Show all ships",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game",
+  "current": "显示所有的船只"
+ },
+ {
+  "key": "982062ea13",
+  "msgid": "Show empty ships",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game",
+  "current": "显示空船只"
+ },
+ {
+  "key": "54a9a441e0",
+  "msgid": "Show ships shipping wares and workers",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game",
+  "current": "显示运送物品和工人的船只",
+  "terms": [
+   "Workers = 工人",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "d78ba494b0",
+  "msgid": "Show waiting expeditions",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game",
+  "current": "显示等待探险的"
+ },
+ {
+  "key": "9336e55153",
+  "msgid": "Show scouting expeditions",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game",
+  "current": "显示侦察探险的",
+  "terms": [
+   "scouting = 侦察"
+  ]
+ },
+ {
+  "key": "bbc2053555",
+  "msgid": "Show expeditions that have found a port space or are founding a colony",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game",
+  "current": "显示已经找到港口空间或是正在建立殖民地的探险队",
+  "terms": [
+   "Port Space = 港口位置",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "b7ee064ebd",
+  "msgid": "Show warships",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game"
+ },
+ {
+  "key": "52563a8809",
+  "msgid": "Show ships being refitted",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in the ship statistics window",
+  "ui": "ui/game"
+ },
+ {
+  "key": "7ce3211567",
+  "msgid": "Scout towards the north west",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "向西北侦察",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "cae83b8c1d",
+  "msgid": "Explore the island’s coast clockwise",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "顺时针沿岛探索海岸"
+ },
+ {
+  "key": "64c6790619",
+  "msgid": "Scout towards the north east",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "向北侦察",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "4a40aedea5",
+  "msgid": "Scout towards the west",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "向西侦察",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "e63c9bff6b",
+  "msgid": "Construct a port at the current location",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "在当前位置修建一个港口",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "640cb81d99",
+  "msgid": "Anchor at the current location",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "65feb84c3a",
+  "msgid": "Scout towards the east",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "向东侦察",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "89b28381f6",
+  "msgid": "Scout towards the south west",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "向西南侦察",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "14e9634009",
+  "msgid": "Explore the island’s coast counter clockwise",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "逆时针沿岛探索海岸"
+ },
+ {
+  "key": "8cc95acddd",
+  "msgid": "Scout towards the south east",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "向东南侦察",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "6a854673e6",
+  "msgid": "Destination",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "3a8e9380b4",
+  "msgid": "Sink the ship",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "沉掉这艘船",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "9a9b4d9c43",
+  "msgid": "Cancel the Expedition",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "取消探险"
+ },
+ {
+  "key": "ef7be5c713",
+  "msgid": "Go to ship",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "前往船只",
+  "terms": [
+   "Ship = 船"
+  ]
+ }
+]

@@ -1,0 +1,952 @@
+[
+ {
+  "key": "fd58750a80",
+  "msgid": "Trade Offers (%u)",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "83961ab827",
+  "msgid": "Nobody has offered you any trades at the moment.",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "339ccc2780",
+  "msgid": "Market to accept the trade at",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "8c555cbadf",
+  "msgid": "%s (closest)",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "44b317ae89",
+  "msgid": "%1$s (distance: %2$u field)",
+  "zh": "",
+  "msgid_plural": "%1$s (distance: %2$u fields)",
+  "ui": "ui/game"
+ },
+ {
+  "key": "c4b3e21018",
+  "msgid": "Accept this trade offer",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "8e1bd1a7d5",
+  "msgid": "Reject this trade offer",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "33f0d9811c",
+  "msgid": "Build a market to accept trade offers.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "10b51834d4",
+  "msgid": "Proposed Trades (%u)",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "95337d4046",
+  "msgid": "There are no pending trade proposals at the moment. You can propose a new trade from a market.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "17f8b1045d",
+  "msgid": "Center view on this market",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "3aab0d7715",
+  "msgid": "Retract this trade offer",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "946f80d81b",
+  "msgid": "Move this trade proposal…",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "71e61fbfba",
+  "msgid": "Move this trade proposal to %s",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "085fbd0b3d",
+  "msgid": "You have no markets you could move this trade to.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "095db60c08",
+  "msgid": "Active Trades (%u)",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "46364b6530",
+  "msgid": "There are no active trade agreements at the moment.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "b27f651eb0",
+  "msgid": "Propose extending this trade",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "1102f95c1a",
+  "msgid": "Hold down Ctrl to extend it by %d batch",
+  "zh": "",
+  "msgid_plural": "Hold down Ctrl to extend it by %d batches",
+  "ui": "ui/game"
+ },
+ {
+  "key": "9884a43132",
+  "msgid": "Hold down Shift to extend the trade indefinitely",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "e665bc40db",
+  "msgid": "Cancel this trade agreement",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "853c271b76",
+  "msgid": "Move this trade…",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "673ea1b940",
+  "msgid": "Move this trade to %s (closest)",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "757d1ce437",
+  "msgid": "Move this trade to %s",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "f024674f8d",
+  "msgid": "%1$s proposed to extend this trade indefinitely.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "d3aebe70bf",
+  "msgid": "%1$s proposed to extend this trade by %2$d batch.",
+  "zh": "",
+  "msgid_plural": "%1$s proposed to extend this trade by %2$d batches.",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "846d7a04a9",
+  "msgid": "Reject this trade extension proposal",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "a4bf42b286",
+  "msgid": "Accept this trade extension proposal",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "3cda93f145",
+  "msgid": "You proposed to extend this trade indefinitely.",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "245a2bdb18",
+  "msgid": "You proposed to extend this trade by %d batch.",
+  "zh": "",
+  "msgid_plural": "You proposed to extend this trade by %d batches.",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "8fb1d8df05",
+  "msgid": "Retract this trade extension proposal",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "902542c2d7",
+  "msgid": "Toggle infinite target",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "切换无限目标"
+ },
+ {
+  "key": "caf9c41ca7",
+  "msgid": "Increase target",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "增大目标"
+ },
+ {
+  "key": "58df94c0e5",
+  "msgid": "Increase target by 10",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "以10为单位增大目标"
+ },
+ {
+  "key": "d68cbec652",
+  "msgid": "Profile to apply to the selected items",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "在所选项目上应用概述文件"
+ },
+ {
+  "key": "3f40811a89",
+  "msgid": "Save target settings",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "保存目标设置"
+ },
+ {
+  "key": "fe0a1c1d9c",
+  "msgid": "∞",
+  "zh": "",
+  "note": "* TRANSLATORS: Infinite number of wares or workers",
+  "ui": "ui/game",
+  "current": "无尽"
+ },
+ {
+  "key": "d43fe3ca7f",
+  "msgid": "Economy options",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "经济选项",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "f86f61e1e8",
+  "msgid": "The profile name cannot be empty",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "概述文件名不能为空",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "0848024ff4",
+  "msgid": "The default profile cannot be overwritten",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "默认的概述文件不能被覆盖"
+ },
+ {
+  "key": "3dcc81e001",
+  "msgid": "Save the profile under this name",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "使用这个名字保存概述文件",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "de109f91be",
+  "msgid": "The predefined profiles cannot be deleted",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "预定义的概述文件不能被删除"
+ },
+ {
+  "key": "2e036ef8c3",
+  "msgid": "Delete the selected profile",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "7b4fa976de",
+  "msgid": "Overwrite?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "覆盖？"
+ },
+ {
+  "key": "d74f6ffe30",
+  "msgid": "A profile with this name already exists. Do you wish to replace it?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "同名的概述文件已存在。你想覆盖它吗？",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "f24f0b31d3",
+  "msgid": "Save Profile",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "保存概述文件"
+ },
+ {
+  "key": "f7f3d410fe",
+  "msgid": "Existing Profiles",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "现有的概述文件"
+ },
+ {
+  "key": "3a9573484b",
+  "msgid": "Decrease target by 10",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "以10为单位减少目标"
+ },
+ {
+  "key": "05939dbeb6",
+  "msgid": "Decrease target",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "减少目标"
+ },
+ {
+  "key": "3433065b49",
+  "msgid": "Exit Game Confirmation",
+  "zh": "",
+  "note": "* TRANSLATORS: Window label when \"Exit game\" has been pressed",
+  "ui": "ui/game",
+  "current": "确认退出游戏"
+ },
+ {
+  "key": "f5138e4d49",
+  "msgid": "Are you sure you wish to exit this game?",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "你真的想退出这局游戏吗？"
+ },
+ {
+  "key": "d8d17f222e",
+  "msgid": "Warship · HP %1$u%% · AT +%2$u%%",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: Placeholders are the hitpoints and the attack bonus of the | warship.",
+  "ui": "ui/game"
+ },
+ {
+  "key": "03abf49fa1",
+  "msgid": "Enemy Transport Ship",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "878ca0536f",
+  "msgid": "Expedition",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "ui/game"
+ },
+ {
+  "key": "b89c1a60ef",
+  "msgid": "Transport",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "ui/game"
+ },
+ {
+  "key": "76bd78bd40",
+  "msgid": "%1$s (%2$s)",
+  "zh": "",
+  "note": "* TRANSLATORS: actual_speed (desired_speed)",
+  "ui": "ui/game, ui/wui",
+  "current": "%1$s(%2$s)"
+ },
+ {
+  "key": "8c6a1c8df4",
+  "msgid": "Select Ship",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "4459a85c75",
+  "msgid": "Own Ships",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "3a4b8eebed",
+  "msgid": "Attackable Ships",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "b65716868d",
+  "msgid": "Build medium building",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建造中型建筑",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9039f146aa",
+  "msgid": "Build small building",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建造小型建筑",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "1ab988f712",
+  "msgid": "Build big building",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建造大型建筑",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "2e8d2015f4",
+  "msgid": "Build port building",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建造港口建筑",
+  "terms": [
+   "Building = 建筑",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "791e907e71",
+  "msgid": "Action",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "行动"
+ },
+ {
+  "key": "bef641938d",
+  "msgid": "Marked for removal by a worker – click to unmark",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "已标记为由工作人员移除 – 单击取消标记",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "05b9e30c35",
+  "msgid": "Immovable Actions",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "不可移动的操作"
+ },
+ {
+  "key": "cdb5f7a418",
+  "msgid": "Mark this immovable for timely removal by a suited worker",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "标记此固定物，以便由合适的工人及时移除"
+ },
+ {
+  "key": "8a14ad8642",
+  "msgid": "Build road",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "修路"
+ },
+ {
+  "key": "c36e6845b1",
+  "msgid": "Build waterway",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "修建水道"
+ },
+ {
+  "key": "9fc5666d67",
+  "msgid": "Destroy this flag",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "摧毁这面旗帜"
+ },
+ {
+  "key": "187109cb17",
+  "msgid": "Configure this flag’s economy",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "配置此旗帜的经济",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "846543bede",
+  "msgid": "Send geologist to explore site",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "派遣地质专家前去现场踏勘",
+  "terms": [
+   "Geologist = 地质专家"
+  ]
+ },
+ {
+  "key": "e51a6d2b1b",
+  "msgid": "Send scout to explore surroundings",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "派遣侦察兵前去探索周围的环境",
+  "terms": [
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "199873fdb1",
+  "msgid": "You need to connect this flag to a scouting building before you can send a scout here.",
+  "zh": "",
+  "note": "* TRANSLATORS: This string is used only when the name of the tribe’s scout | house/hut is unknown.",
+  "ui": "ui/game",
+  "terms": [
+   "Building = 建筑",
+   "scouting = 侦察",
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "8a77178e3d",
+  "msgid": "Place a flag",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "插一面旗帜"
+ },
+ {
+  "key": "02db8c0e0b",
+  "msgid": "Destroy a road",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "摧毁一条路"
+ },
+ {
+  "key": "e6d4638dea",
+  "msgid": "Destroy a waterway",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "摧毁一条水道"
+ },
+ {
+  "key": "6a944e99d3",
+  "msgid": "Configure this ocean’s ship fleet",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "e80965c236",
+  "msgid": "Configure this ocean’s ferry fleet",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "acb0d4dc95",
+  "msgid": "Watch field in a separate window",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "在单独的窗口中查看该区域"
+ },
+ {
+  "key": "2126a40db4",
+  "msgid": "Pinned note",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "ec825967d0",
+  "msgid": "Show debug window",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "1ef86123bd",
+  "msgid": "Watch",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "观察"
+ },
+ {
+  "key": "1b284f748f",
+  "msgid": "Build mines",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "修建矿井"
+ },
+ {
+  "key": "0afe608788",
+  "msgid": "Build flag",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "建造旗帜"
+ },
+ {
+  "key": "7dc140497b",
+  "msgid": "Cancel road",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "取消路段"
+ },
+ {
+  "key": "791d83b8dc",
+  "msgid": "Go to road",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "8680da17bb",
+  "msgid": "Cancel road and start building waterway",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "取消路段并开始修建水道",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "2f1adca3c0",
+  "msgid": "Build roads",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "修路"
+ },
+ {
+  "key": "758baf4106",
+  "msgid": "Cancel waterway",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "取消水道"
+ },
+ {
+  "key": "aa087f8586",
+  "msgid": "Go to waterway",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "e34a3f6931",
+  "msgid": "Cancel waterway and start building road",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "取消水道并开始修路",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "4c5aaccb95",
+  "msgid": "Build waterways",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "修建水道"
+ },
+ {
+  "key": "73da39d2eb",
+  "msgid": "Ferry Fleet Options",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "616f66f966",
+  "msgid": "Ship Fleet Options",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "a216a325ce",
+  "msgid": "Toggle infinite production",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "ca3bc2da88",
+  "msgid": "Fleet Statistics",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "d009f0cbbb",
+  "msgid": "Ports:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "3b497dbedc",
+  "msgid": "Ships:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "507d802659",
+  "msgid": "Total waterways:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "fcb96d4a34",
+  "msgid": "Unserviced waterways:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "eab2094486",
+  "msgid": "Total ferries:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "c988a20f62",
+  "msgid": "Unemployed ferries:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "61613339b9",
+  "msgid": "Desired number of transport ships:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "bb2480c504",
+  "msgid": "Desired number of unemployed ferries:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "468f539476",
+  "msgid": "Land",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "土地"
+ },
+ {
+  "key": "b83abe1225",
+  "msgid": "Productivity",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "生产率"
+ },
+ {
+  "key": "879fc3349a",
+  "msgid": "Warships lost",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "7f2384cae4",
+  "msgid": "Warships defeated",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "93cc3b8b9d",
+  "msgid": "Casualties",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "人员伤亡"
+ },
+ {
+  "key": "7fa11731c7",
+  "msgid": "Kills",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "杀敌"
+ },
+ {
+  "key": "74a099b685",
+  "msgid": "Military buildings lost",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "军事建筑丢失",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "4c7aba0096",
+  "msgid": "Military buildings defeated",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "军事建筑战败",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "36f8a56b8e",
+  "msgid": "Civilian buildings lost",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "民用建筑损失",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "496ed536b0",
+  "msgid": "Civilian buildings destroyed",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "efb4bb01be",
+  "msgid": "Military",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "军事"
+ },
+ {
+  "key": "4971346bcf",
+  "msgid": "General Statistics",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "常规统计"
+ },
+ {
+  "key": "9012917b82",
+  "msgid": "Broken Link",
+  "zh": "",
+  "ui": "ui/game, ui/wui"
+ },
+ {
+  "key": "138a7702d0",
+  "msgid": "This hyperlink seems to be broken.",
+  "zh": "",
+  "ui": "ui/game, ui/wui"
+ },
+ {
+  "key": "069058a5e6",
+  "msgid": "Increase the number of wares you want to be stored here",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip in in a building's wares input queue",
+  "ui": "ui/game",
+  "current": "增加你想存放在这里的物品数量",
+  "terms": [
+   "Wares = 物品"
+  ]
+ }
+]
