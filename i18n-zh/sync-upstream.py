@@ -190,12 +190,22 @@ def drop_obsolete(po):
     return len(blocks) - len(kept)
 
 
-def key_merge(pot2po):
-    """用新 pot 的键集重建每个域的 zh_CN.po，保留本方译文。"""
+def key_merge(pot2po, only=None):
+    """用新 pot 的键集重建 zh_CN.po，保留本方译文。
+
+    only 限定要处理的域（None = 全部）。pot 没变的域碰都不该碰——pot2po
+    会顺手改写表头（去尾空格、重新折行、加 X-Generator），32 个域全跑
+    就是 32 个文件的无关 diff。
+    """
     print('\nkey 级合并（新 pot 键集 + 本方译文）：')
+    if only is not None and not only:
+        print('  没有 pot 发生变化，跳过。')
+        return []
     changed = []
     with tempfile.TemporaryDirectory() as tmp:
         for name, pot, po in domains():
+            if only is not None and name not in only:
+                continue
             if not os.path.exists(pot):
                 print(f'  跳过  {name}（上游已删除该域的 pot）')
                 continue
