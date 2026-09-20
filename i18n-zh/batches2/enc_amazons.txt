@@ -1,0 +1,394 @@
+08cdbd4cc7	ware	Logs are an important basic building material. They are produced by felling trees.
+1e2daa66a3	amazons_ware	Amazon woodcutters fell trees and jungle preservers will plant them. The resulting logs are used by the stone carver. The charcoal kiln also needs logs to produce charcoal.
+8e7679582e	ware	Granite is a basic building material.
+d4896cfc30	amazons_ware	The Amazons use granite for making some tools as well. It is produced by the stonecutters and in stone mines.
+5d86f526b0	ware	Amazons use quartz for sharp tools and weapons.
+5708592e12	amazons_ware	It is also a building material for some advanced buildings. It is produced in stone mines.
+90e1fea838	amazons_ware	Balsa wood is an important building material. It is also used to make light armor. Balsa trees are cut by an experienced woodcutter.
+71124ca6d6	amazons_ware	This very hard wood is as hard as iron and it is used for several buildings, tools and weapons. It is cut by a very experienced woodcutter.
+b781407686	amazons_ware	Rubber is important for making warriors’ armor and shoes. Rubber trees are collected by experienced woodcutters.
+0babfe778c	amazons_ware	Lianas grow on trees. Very durable ropes are made out of them.
+edc77ffbef	amazons_ware	This rope is made out of lianas. It is used for armor dresses and to construct buildings and ships.
+8dff5b32fe	ware	Water is the essence of life!
+fc5975a520	amazons_ware	Water is used by the cassava root cooker, the chocolate brewery, the gold digger and the tapir farm.
+262965942b	amazons_ware	Cassava roots are a special kind of root produced at cassava plantations. The Amazons like their strong taste for making bread and they also feed their tapirs with them.
+d682a1bfa2	amazons_ware	Cocoa beans are gathered from cocoa trees by a cocoa farmer. They are used for producing chocolate.
+a169146f8c	amazons_ware	This tasty bread is made in cassava root cookeries out of cassava root and water. It is the basic ingredient of a ration that is made by a food preserver. Soldiers like it too.
+2cee2cde81	amazons_ware	Chocolate is produced by chocolate breweries and used to train soldiers.
+bf04393e6d	amazons_ware	Fish is one of the two major food resources of the Amazons. It is used by the food preserver to prepare rations for the workers digging for gold dust and granite. It is also consumed at the training sites (training glade and warriors’ gathering) and for recruiting new soldiers.
+86fc701636	ware	Meat contains a lot of energy, and it is obtained from wild game taken by hunter-gatherers.
+c73d5c77cb	amazons_ware	Meat is used by the food preserver to prepare rations for the workers digging for gold dust and granite. It is also consumed at the training sites (training glade and warriors’ gathering) and for recruiting new soldiers.
+7b04a8ae90	amazons_ware	A small bite to keep the workers digging for gold dust and granite strong and working. The scout also consumes rations on her scouting trips.
+cd6659f684	amazons_ware	Rations are produced by the food preserver out of fish or meat and bread. They are dried using a charcoal fire.
+82b92749af	amazons_ware	Gold dust is washed in a gold digger dwelling.
+257cee88a4	amazons_ware	Smelted in a furnace, it turns into gold which is used as a precious building material and to produce armor.
+9bab7b9132	amazons_ware	Gold is the most valuable of all metals.
+fb163c37bd	amazons_ware	It is smelted out of gold dust by the furnace and used by the dressmaker and for special buildings.
+6e07942275	amazons_ware	Charcoal is produced out of logs by a charcoal burner. The Amazons use charcoal for drying their food and for smelting gold.
+e352ac4bfc	amazons_ware	Picks are used by stonecutters to cut granite from rocks or mine granite and quartz in stone mines.
+3fd4c66f42	ware	The felling ax is the tool to chop down trees.
+0212924e39	amazons_ware	It is used by a woodcutter and produced by the stone carver.
+9ba8042a26	ware	Shovels are needed for the proper handling of plants.
+eefefa93fd	amazons_ware	Therefore the jungle preservers, the cassava farmers and the cocoa farmers use them. They are produced by the stone carver.
+70ef6ec496	ware	The hammer is an essential tool.
+51fe606956	amazons_ware	Geologists, builders, shipwrights and stone carvers all need a hammer. Make sure you’ve always got some in reserve! They are produced by the stone carver.
+7ff3b067f9	amazons_ware	The machete is the tool of the liana cutters.
+c55c9ce198	ware	The chisel is an essential tool.
+ce7b06a21e	amazons_ware	Stone carvers need a chisel. Make sure you’ve always got some in reserve! They are produced by the stone carvers themselves.
+1d378630fc	amazons_ware	Kitchen tools are needed for preparing rations, baking cassava bread and brewing chocolate. Be sure to have a stone carver to produce this basic tool.
+101aebc4aa	amazons_ware	Needles are used by dressmakers to make dresses, boots and armor for the soldiers.
+9e1c081324	amazons_ware	Stone bowls are used to wash gold and to smelt gold dust.
+3dc8244256	amazons_ware	Firestones are used to light the fires of charcoal kilns and furnaces.
+9a077e036c	amazons_ware	This spear is the basic weapon in the Amazon military system. It is produced by the stone carver. In combination with a tunic, it is the equipment to fit out young soldiers.
+6ff6bd9e14	amazons_ware	It is used by the Amazon hunter-gatherers as well.
+77f23e5430	amazons_ware	This spear has a stone spike. It is produced in a stone workshop and used in a warriors’ gathering – together with food – to train soldiers from attack level 0 to attack level 1.
+f8fe54d0a1	amazons_ware	This is a hardened spear with a stone tip. It is produced in a stone workshop and used in a warriors’ gathering – together with food – to train soldiers from attack level 1 to level 2.
+53b640c403	amazons_ware	Rubber can be bound into a tunic, which is used as basic armor. All new soldiers are clothed in a tunic.
+c607f51a3d	amazons_ware	Padded vests are light but durable armor. They are produced by the dressmaker and used to train soldiers’ defence from level 0 to level 1.
+00ebdf6df5	amazons_ware	Padded protectors are strong and durable armor. They are produced by the dressmaker and used to train soldiers’ defence from level 1 to level 2.
+78a0d49275	amazons_ware	This light wooden armor is a basic piece of armor for the Amazons’ soldiers. It is produced by a dressmaker and used in a training glade – together with food – to train soldiers from health level 0 to level 1.
+d17e35d53c	amazons_ware	A wooden helmet is a basic piece of equipment for protecting soldiers. It is produced by the dressmaker and used to train soldiers from health level 1 to level 2.
+280431921b	amazons_ware	Ordinary tunics can be decorated and reinforced with gold and wood chunks. Such tunics are the best armor.
+9dcf374810	amazons_ware	Sturdy boots are excellent footwear for soldiers to be quicker on their feet. They are produced by the dressmaker and used to train soldiers’ evade from level 0 to level 1.
+0ef2eb0987	amazons_ware	Swift boots are light and durable footwear for soldiers to be quicker on their feet. They are produced by the dressmaker and used to train soldiers’ evade from level 1 to level 2.
+dc9b92fa09	amazons_ware	Hero boots! The only suitable footwear for a real hero. They are produced by the dressmaker and used to train soldiers’ evade from level 2 to level 3.
+bf62ea1085	amazons_worker	Carries items along your roads.
+7a61889b18	amazons_worker	Ships wares across narrow rivers.
+13dfd8d70a	amazons_worker	Tapirs help to carry items along busy roads. They are reared in a tapir farm.
+5a38d235f7	amazons_worker	Breeds tapirs for adding them to the transportation system.
+4a1d06f3b8	amazons_worker	Cuts blocks of granite out of rocks in the vicinity or mines granite and quartz in stone mines.
+1e2253bf32	amazons_worker	Fells trees.
+0608cafa2f	amazons_worker	Harvests special trees: ironwood, rubber and balsa.
+c5c4d0d3e7	amazons_worker	Plants trees.
+168d19ac84	amazons_worker	Plants special trees: ironwood, rubber and balsa.
+e3ec53ae5e	amazons_worker	Cuts lianas from trees.
+89f6d4a0f8	amazons_worker	Works at construction sites to raise new buildings.
+0588021865	amazons_worker	Works at the shipyard and constructs new ships.
+7bdfdac3e2	amazons_worker	The hunter-gatherer gets fresh fish and raw meat for the tribe.
+43e3c6bd50	amazons_worker	Grows cassava.
+c08799a6d6	amazons_worker	Grows cocoa.
+2aa6208e9f	amazons_worker	Prepares rations, bakes cassava bread and brews chocolate.
+7d602431c7	amazons_worker	Breeds game or fish.
+e1e5d63097	amazons_worker	Discovers resources for mining.
+0d37b82992	amazons_worker	Works hard in the gold dwellings in mountains to obtain gold by washing it from gravel.
+a8f2e5f1f3	amazons_worker	Burns logs to produce charcoal.
+7fc7eacbb6	amazons_worker	Smelts gold at furnaces.
+f037c63d84	amazons_worker	Produces spears for soldiers and tools for workers.
+970694b79c	amazons_worker	Defend and Conquer!
+41ef0dacbc	amazons_worker	Trains the soldiers.
+ee17f8ccc5	amazons_worker	Produces all kinds of dresses, boots and armor.
+68c29cfda9	amazons_worker	Explores unknown territory.
+41289e47e7		The remains of a destroyed building.
+213a197d29		The remains of an old tree.
+dc48f4892d		This balsa tree has just been planted.
+659bc88fbd		This balsa tree is growing.
+3f747c0fe0		This balsa tree is fully grown. Lianas can be gathered from it.
+99fbefd7af		This balsa tree is ready for harvesting balsa wood by a master woodcutter. Other tribes can harvest it for normal logs.
+4f3431e489		This ironwood tree has just been planted.
+eac3cdcea7		This ironwood tree is growing.
+97d0e7363c		This ironwood tree is fully grown. Lianas can be gathered from it.
+69aa9fa8d4		This ironwood tree is ready for harvesting ironwood by a master woodcutter. Other tribes can harvest it for normal logs.
+aee7d82136		This rubber tree has just been planted.
+15582cdce2		This rubber tree is growing.
+0f3a8c691c		This rubber tree is fully grown. Lianas can be gathered from it.
+d35cb1f810		This rubber tree is ready for harvesting rubber by a master woodcutter. Other tribes can harvest it for normal logs.
+9aa717b9f5		This field has just been planted.
+2338fd9eb7		This field is growing.
+7cd65c1827		This field is ready for harvesting.
+fd98116018		This field has been harvested.
+9b5e57fa58		This cocoa tree has just been planted.
+8d34a62217		This cocoa tree is growing.
+21c8afba10		This cocoa tree is fully grown.
+bce0eafed9		The beans on this cocoa tree are ready for harvesting.
+31ab1a6369		There are no resources in the ground here.
+faa043b236		Gold veins contain gold ore that can be washed from the gravel at gold digger dwellings.
+682f20c8b5		There is only a little bit of gold here.
+48f2e8f73d		Granite is a basic building material and can be dug up by a stone mine.
+607f1efbe8		There is only a little bit of quartz here.
+fedf8bf324		There is a lot of gold here.
+9a5377bc59		There is a lot of quartz here.
+3c0dccf302		A ship is being constructed at this site.
+1de12ff980	amazons_building	Accommodation for your people. Also stores your wares and tools.
+9e25478c12	amazons_building	The headquarters is your main building.
+33dc29144e	amazons_building	Your workers and soldiers will find shelter here. Also stores your wares and tools.
+1a4c6a18a5	amazons_building	Serves as a base for overseas colonization and trade. Also stores your soldiers, wares and tools.
+a6f0063eb6	amazons_building	Similar to the Headquarters a Port can be attacked and destroyed by an enemy. It is recommendable to send soldiers to defend it.
+1089dff41f	amazons_building	A market enables trading with other tribes.
+a0315a9889	amazons_building	Cuts raw pieces of granite out of rocks in the vicinity.
+9577b25fe3	amazons_building	The stonecutter’s hut needs rocks to cut within the work area.
+3996272746	amazons_building	This building can produce one granite between %1$s and %2$s, depending on how far the stonecutter has to walk.
+428da70da6	amazons_building	In case of slopes or obstacles in the way, the time is increased.
+27ca71790e	amazons_building	Fells trees in the surrounding area and processes them into logs.
+e158218461	amazons_building	The woodcutter’s hut needs trees to fell within the work area.
+6be88e1bae	amazons_building	This building can produce one log between %1$s and %2$s (with master woodcutter between %3$s and %4$s), depending on how far the woodcutter has to walk.
+e9a29198df	amazons_building	Plants trees in the surrounding area.
+dc12c1ca36	amazons_building	The jungle preserver’s hut needs free space within the work area to plant the trees.
+491626ff75	amazons_building	The jungle preserver or jungle master plants one tree between %1$s and %2$s, depending on how far she has to walk.
+a2d1f4cef1	amazons_building	Hunts animals to produce meat. Catches fish in the waters.
+e2699e873c	amazons_building	The hunter-gatherer’s hut needs animals or fish to hunt or catch within the work area.
+c991516d9b	amazons_building	Roads and trees along the shoreline block fishing.
+4dd5736c69	amazons_building	This building can produce one meat or one fish between %1$s and %2$s, depending on how far the hunter-gatherer has to walk. If both kinds of food are available, then one of each kind is produced between %3$s and %4$s.
+ba17964d7a	amazons_building	‘Sunlight smiled upon us and our Ancestors while we worked to clear liana from the trees. I was not as efficient as my aunt and sisters, and so I learned to ply rope.’
+331cf89d8c	amazons_building	Mistress WeaverSong, recollecting her early years as a liana cutter.
+4e8ce243b6	amazons_building	Home of the liana cutter who cuts lianas for making ropes.
+aff7829385	amazons_building	The liana cutter harvests liana from fully matured trees within the work area which are not being used as lookouts.
+2323a31f53	amazons_building	This building can produce one liana between %1$s and %2$s, depending on how far the liana cutter has to walk.
+a62cd7212b	amazons_building	Draws water out of the rivers and lakes.
+3e40e358ef	amazons_building	The water gatherer’s hut needs open water within the work area. Your workers cannot dig up water from the ground!
+82084d1fc8	amazons_building	Roads and trees along the shoreline block drawing water.
+c7be851f3c	amazons_building	This building can produce one bucket of water between %1$s and %2$s on average, depending on how far the carrier has to walk.
+4427fd0a3e	amazons_building	Harvests rare trees in the surrounding area. Delivers ironwood, balsa and rubber.
+cdd628ab09	amazons_building	This building can produce one rare wood between %1$s and %2$s, depending on how far the master woodcutter has to walk. If all kinds of rare tree are available within her work area, then one of each kind is produced between %3$s and %4$s.
+6ca94a38ae	amazons_building	Breeds fish and game to renew food resources.
+5909e89a2e	amazons_building	The wilderness keeper will only release new game at a nearby tree which is not being used as a lookout.
+cb9ab7e22c	amazons_building	The wilderness keeper can breed one fish and release one animal between %1$s and %2$s, depending on how far she has to walk.
+cf4459e1cd	amazons_building	You need to connect this flag to a scout’s hut before you can send a scout here.
+b040c925a7	amazons_building	Explores unknown territory.
+22bc9e3651	amazons_building	One exploration trip of the scout takes between %1$s and %2$s.
+930328cbd8	amazons_building	‘My mother taught me to ply the ropes from Liana, how to choose the strongest cuttings and parts of the harvest, how to trim away flaws. I bless her wisdom in every length I use.’
+b0866b0889	amazons_building	Mistress WeaverSong, reflecting on training.
+208c3ca11a	amazons_building	Makes ropes from lianas.
+c29113dae7	amazons_building	The rope weaver booth needs %s on average to produce one rope.
+ea5c78f8dc	amazons_building	Smelts gold dust into gold ingots using charcoal.
+d72b0f829f	amazons_building	The furnace can produce one gold ingot in %s on average if the supply is steady.
+ca5ded6f50	amazons_building	‘If properly harvested, cured and stored, ironwood becomes almost indestructible, and will not rust in damp conditions.’
+d5b1298a7a	amazons_building	Jungle Master Abacaxis
+b4f00be66c	amazons_building	Plants rare trees which are needed by the Amazons, like balsa, rubber and ironwood.
+df6f724e15	amazons_building	Rare trees are planted according to the economy requirements. Keep roads connected to rare tree plantations so they adhere to economy targets.
+562859dd1d	amazons_building	The jungle master plants one tree between %1$s and %2$s, depending on how far she has to walk.
+63059ca1cd	amazons_building	Makes tools and spears for our soldiers.
+48d2eb4fef	amazons_building	If this building is fully supplied and all tools and spears are needed by the economy, production of one of each tool takes %1$s and one of each spear takes %2$s on average. If only one kind of tool or spear is needed by the economy, its production takes %3$s on average.
+a9b7812994	amazons_building	‘A skilled maker crafts garments of unsurpassed defence,<br> with each stitch imbued with conscious intent.’
+9272e0e802	amazons_building	Dressmakers’ ethos, adapted from the traditional verse ‘Mother Jungle’s wisdom: Song of the Conscientious.’
+20edc29270	amazons_building	Sews all dresses, boots and armor for our soldiers.
+4681f9a450	amazons_building	If this building is fully supplied and all dresses, boots and armors are needed by the economy, production of one of each of them takes %1$s on average. If only one kind of them is needed by the economy, its production takes %2$s on average.
+543529f884	amazons_building	Burns logs into charcoal.
+a752dcd455	amazons_building	The charcoal kiln needs %s on average to produce one lump of coal.
+12cdfc33fa	amazons_building	Bakes bread from cassava root.
+2caca204e5	amazons_building	If all needed wares are delivered in time, this building can produce one bread in %s on average.
+8cd30e9529	amazons_building	Brews chocolate for soldier training.
+5bb260622d	amazons_building	The chocolate brewery needs %s on average to brew one mug of chocolate.
+33cb8bfd1d	amazons_building	Prepares rations to feed the scouts and the workers digging for gold dust and granite.
+8b189f0453	amazons_building	The food preserver can produce one ration in %s on average if the supply is steady.
+d21c5c9aa9	amazons_building	Equips recruits and trains them as soldiers.
+90063470d7	amazons_building	The initiation site needs %s on average to recruit one soldier.
+fee029897d	amazons_building	Enhances the fertility of the landscape for trees.
+8b3be4a1d2	amazons_building	Only a Jungle Master has the necessary experience to coax more growth from land.
+c49411296f	amazons_building	The jungle master can perform one terraform between %1$s and %2$s, depending on how far she has to walk.
+d3fb921ffe	amazons_building	Breeds tapirs for adding them to the transportation system.
+6da86c0230	amazons_building	Tapirs help to prevent traffic jams on highly used roads.
+e776eb6848	amazons_building	If all needed wares are delivered in time, this building can produce a tapir in %s on average.
+ba6acb2607	amazons_building	Sows and harvests cassava.
+d874f0606c	amazons_building	The cassava plantation needs free space within the work area to plant seeds.
+34b6e131d7	amazons_building	The cassava farmer sows and harvests one bundle of cassava between %1$s and %2$s, depending on how far she has to walk.
+44856f2d03		%d growing field
+4f2473b7ee	amazons_building	The cassava plantation needs at least %s to work at full productivity most of the time.
+66100a87e6	amazons_building	Cultivates cocoa that is needed to brew chocolate drinks.
+6c72145ba9	amazons_building	Chocolate is essential for training Amazon soldiers.
+357d3d9b35	amazons_building	The cocoa farmer sows and harvests one basket of cocoa beans between %1$s and %2$s, depending on how far she has to walk.
+3207e3e517	amazons_building	The cocoa farm needs at least %s to work at full productivity most of the time.
+f116456561	amazons_building	Digs granite and quartz out of the ground in mountain terrain.
+5ecc84d455	amazons_building	The stone mine can produce one slab of each kind of stone in %s on average if the supply with rations is steady and the mine is not worn out.
+1c1c8efc25	amazons_building	Washes gold dust out of the ground in mountain terrain.
+9298801589	amazons_building	If the supply is steady, this mine can produce gold dust in %s on average.
+15b8df4a12	amazons_building	Trains soldiers in Attack up to level 2. Equips the soldiers with all necessary weapons.
+b3a270168d	amazons_building	Amazon soldiers need chocolate to train properly.
+d3a5f8e009	amazons_building	If all needed wares are delivered in time, a warriors’ gathering can train one soldier one level in attack in %s on average.
+85d0de4805	amazons_building	Complete training of one soldier takes %s on average.
+0f9a67f695	amazons_building	Trains soldiers in Evade, Defense and Health. Equips the soldiers with all necessary equipment and armor parts.
+ecb4fcf741	amazons_building	If all needed wares are delivered in time, a training glade can train one soldier to the first level in evade or health, or both defense levels in %1$s on average. The rest of evade and health levels are trained in %2$s each.
+5435947f47	amazons_building	Garrisons soldiers to expand your territory.
+b78fd8b3d2	amazons_building	If you’re low on soldiers to occupy new military sites, use the downward arrow button to decrease the capacity. You can also click on a soldier to send her away.
+62734c5d31	amazons_building	You can only build this building on top of a tree.
+bcf5ce1c21	amazons_building	Builds ferries.
+894f0e583c	amazons_building	Needs water nearby. Be aware ferries carry wares only, no workers.
+27a35e3d58	building	Roads and trees along the shoreline block access to water.
+c7c1ad0695	amazons_building	This building can produce one ferry between %1$s and %2$s, depending on how far the shipwright has to walk.
+c7534831ab	amazons_building	Constructs ships that are used for overseas colonization and for trading between ports.
+7983dd6dcf	building	Needs wide open water nearby.
+bc4b84d4f2	amazons_building	This building can produce one ship between %1$s and %2$s, depending on how far the shipwright has to walk.
+aa02fa05d2	building	‘Don’t swear at the builder who is short of building materials.’
+f2668fe3f1	building	Proverb widely used for impossible tasks of any kind
+c8db414930	building	A new building is being built at this construction site.
+6ace436310	building	‘New paths will appear when you are willing to tear down the old.’
+6d40b3a9ec	building	Proverb
+eaff5c27d6	building	A building is being dismantled at this dismantle site, returning some of the resources that were used during this building’s construction to your tribe’s stores.
+5275d02800	warehousename	Alter
+751b4378ba	warehousename	Anumā
+c6dedb4637	warehousename	Aquiqui
+141652fe26	warehousename	Arapixuna
+d6ecb3d556	warehousename	Aritapera
+6f34055a9a	warehousename	Atamanai
+1b1242648d	warehousename	Amorim
+1ec441356e	warehousename	Canindé
+bc5c0838a6	warehousename	Cuia
+fdb52bbc79	warehousename	Cacoal
+6ca6f70834	warehousename	Capichauā
+070dd6ccc1	warehousename	Cipoal
+865380c8d0	warehousename	Cupiranga
+da8b2cf98a	warehousename	Curariaca
+3fe3d8d406	warehousename	Curupari
+3e932f08d7	warehousename	Curuá
+4b12aeb7c9	warehousename	Diogo
+fa7768bfd1	warehousename	Guajará
+cd5816bbc8	warehousename	Guarana
+a27df14279	warehousename	Gurupá
+4ccefea39a	warehousename	Ipanema
+603a893ae3	warehousename	Ipaupixuna
+d85538835d	warehousename	Irateua
+9c8ee9b6e6	warehousename	Itacoatiara
+fa48f97838	warehousename	Itanduba
+bfc1e4e47c	warehousename	Itapari
+e35bbe2654	warehousename	Jaburu
+60b4a9c400	warehousename	Jacarecapá
+a29b137949	warehousename	Jaguara
+e0c63e8a08	warehousename	Janauacá
+b9a6bfe38b	warehousename	Macapá
+a304198178	warehousename	Maguari
+707272962b	warehousename	Mambeca
+ae9fa85de6	warehousename	Manacapuru
+affc820698	warehousename	Mararu
+11fcb4b6f3	warehousename	Maripi
+f93cf2344d	warehousename	Maruá
+2878c69923	warehousename	Mataraí
+082ad91484	warehousename	Miri
+4d74c9a85d	warehousename	Moju
+f85767b653	warehousename	Mojui
+f867968e49	warehousename	Morimutuba
+2dda59b84b	warehousename	Oriximiná
+805c8c1573	warehousename	Pacoval
+5a321359c3	warehousename	Paranquara
+adb60d7994	warehousename	Paricó
+5a2e35c4d3	warehousename	Pedreira
+3b7844b129	warehousename	Povoado
+10a3e0cec1	warehousename	Prainha
+e11e6ed8d4	warehousename	Preta
+426041eea0	warehousename	Santarém
+a8d1752994	warehousename	Socorro
+923082d0b6	warehousename	Solimōes
+4d1bda7e30	warehousename	Surucá
+2f5972d14f	warehousename	Tambaqui
+066d797ea6	warehousename	Tapará
+6abcdab5ef	warehousename	Taperinha
+04d211298e	warehousename	Tiningu
+aa1d2998bf	warehousename	Tomé
+a465665d26	warehousename	Una
+93afd793f7	warehousename	Bonampak
+a654880667	warehousename	Calakmul
+fbd2fe0edb	warehousename	Chichén Itzá
+3b268fb684	warehousename	Copán
+2462707878	warehousename	Kaminaljuyú
+a0811ab0d2	warehousename	Lamanai
+ae63890d33	warehousename	Mayapán
+21e82a1ff3	warehousename	Pomoná
+c05785e3ae	warehousename	Quiriguá
+c7df9d18b1	warehousename	Tikal
+7cf34a0819	warehousename	Tononá
+ad2e40e453	warehousename	Uxmal
+541eecde9d	warehousename	Arequipa
+78cc7b94d2	warehousename	Aypate
+6b61830ca9	warehousename	Cahuachi
+35c2f8764c	warehousename	Choquequirao
+4823abdff2	warehousename	Kashamarka
+0df8b321ea	warehousename	Kuelap
+986b3ed3b8	warehousename	Machu Picchu
+50a2a5f527	warehousename	Nazca
+2f5802a14e	warehousename	Ollantaytambo
+8c30280b32	warehousename	Pachacamac
+2fb39e8951	warehousename	Paititi
+e498a68519	warehousename	Paqari-tampu
+b78c23cfbd	warehousename	Cuzco
+cae5d7cf6b	warehousename	Teyuna
+b28a43a48e	warehousename	Tiahuanaco
+99f55367cf	warehousename	Vilcabamba
+17ed2b9654	warehousename	Vitcos
+9036a6f7b1	warehousename	Antisuyu
+09a0c1e96a	warehousename	Chinchasuyu
+da0d184e71	warehousename	Kuntisuyu
+d77e6f8bf1	warehousename	Qullasuyu
+12d07cf824	warehousename	Achuar
+de7aadb75e	warehousename	Aguaruna
+a77b9f5b9b	warehousename	Aikanã
+b40856a6f8	warehousename	Aimoré
+9a2f2662ac	warehousename	Amahuaca
+886765d8bd	warehousename	Amuesha
+d5aeff3aaf	warehousename	Apiacá
+11d92101dd	warehousename	Arapaco
+1b3c76722e	warehousename	Arara
+06b356abbf	warehousename	Ararandeura
+33380e20f6	warehousename	Arasairi
+4b8532651d	warehousename	Araueté
+9e8e75308a	warehousename	Awá
+4a88ef2d28	warehousename	Aweti
+c65a9783fb	warehousename	Banawá
+86fba838ff	warehousename	Baniwa
+c90840367e	warehousename	Barasana
+57950a2f4c	warehousename	Caeté
+d24df3e1f8	warehousename	Chaywita
+840b5489a1	warehousename	Cocama
+5501befb94	warehousename	Enawene Nawe
+5ee4ebf793	warehousename	Goitacaz
+be051b0937	warehousename	Himarimã
+afa0adad64	warehousename	Huambisa
+cb78b33bb7	warehousename	Irántxe
+ca2d37a0e9	warehousename	Kachá
+466036e43a	warehousename	Kagwahiva
+d0dfc7f7fe	warehousename	Kamayurá
+b8af319d5e	warehousename	Kanamarí
+42c859022e	warehousename	Kapixaná
+989714ee8f	warehousename	Kareneri
+19aa765e29	warehousename	Karitiâna
+d6c8ce8eb1	warehousename	Kaxinawá
+ea596694a4	warehousename	Kayapo
+7af549872e	warehousename	Kobeua
+ee0170fd8b	warehousename	Korubu
+35d9490287	warehousename	Kuikoro
+99e32aff83	warehousename	Machiguenga
+bc46090fa1	warehousename	Majaguaje
+068749d52e	warehousename	Makuna
+72420dd19a	warehousename	Marajoara
+4a75f540cc	warehousename	Marubo
+fbb344eb6a	warehousename	Mayoruna
+e32cb9b65a	warehousename	Miriti
+d867aa657b	warehousename	Nahukuá
+d6897c692a	warehousename	Nambikwara
+7c6572113d	warehousename	Ocaina
+98be297914	warehousename	Omagua
+5ff66b066f	warehousename	Pacanawa
+7af4b8ddce	warehousename	Pacawara
+b184f89854	warehousename	Pirahã
+9cbfaa8597	warehousename	Potiguara
+784808c318	warehousename	Saraguro
+cd7ed36b65	warehousename	Sateré-Mawé
+d14313948f	warehousename	Suruwaha
+e90b8f2792	warehousename	Suyá
+e200fd617e	warehousename	Tabajara
+574b4ca5b1	warehousename	Tacana
+2db44751b8	warehousename	Tamoio
+7da036901a	warehousename	Tapirapé
+330a933495	warehousename	Tariana
+8b9a3d0480	warehousename	Temiminó
+72d569d646	warehousename	Terena
+37439d901e	warehousename	Toromona
+bcd7db5007	warehousename	Tremembé
+3a63ba373e	warehousename	Tsimané
+c618f745ac	warehousename	Tupinambá
+6f887a493a	warehousename	Tupiniquim
+cec8de44d2	warehousename	Uru-Eu-Wau-Wau
+ff20ee3c5d	warehousename	Waorani
+24253c1552	warehousename	Waurá
+df6d7d30b6	warehousename	Yaminawá
+dd56e6d455	warehousename	Yaruna
+b7b3551dfb	warehousename	Yawalipiti
+c7a6ef9d42	warehousename	Yawanawa
+bd38e940e2	warehousename	Yora
+51441219a2	amazons	Worker missing
+df29f540dd	amazons	Worker is coming
+93c91ddd5f	amazons	Workers missing
+9fb7210393	amazons	Workers are coming
+eeb39d5ea8	amazons	Expert missing
+c3c6df322c	amazons	Experts missing
+fc7802f350	amazons_soldier	%1% soldier (+%2%)
+812ae29e54	amazons_soldier	%1% soldier
+97024988a8	amazons_soldier	%1%(+%2%) soldier (+%3%)
+580b7b3584	amazons_soldier	%1%(+%2%) soldier

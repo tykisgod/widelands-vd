@@ -1,0 +1,502 @@
+b445241830	empire_lore	‘%1%’<br>(%2%)
+dc7e373246	empire_ware	The Empire produces granite blocks in quarries and marble mines.
+77972a88a4	empire_ware	Imperial lumberjacks fell the trees; foresters take care of the supply of trees. Logs are also used by the charcoal kiln, the toolsmithy and the sawmill.
+fb26945bdb	empire_ware	They are produced out of logs by the sawmill.
+95c420f80e	empire_ware	They are also used by the weapon smithy.
+af1f754b39	empire_ware	Wool is the hair of sheep. Weaving mills use it to make cloth.
+cc9ef848b2	empire_ware	Cloth is needed to build several buildings. It is also consumed in the armor smithy.
+cf4880e12f	empire_ware	Besides bread and meat, fish is also a foodstuff for the Empire. Fish are used in taverns, inns and training sites (arena, colosseum, training camp).
+df3c48a62b	empire_ware	Meat can also be obtained as pork from piggeries. It is used in the inns and taverns to prepare lunch for the miners and is consumed at the training sites (arena, colosseum, training camp).
+361136e848	empire_ware	Water is used in the bakery and the brewery. The donkey farm, the sheep farm and the piggery also need to be supplied with water.
+7fa9f73b1a	empire_ware	Wheat is produced by farms and used by mills and breweries. Donkey farms, sheep farms and piggeries also need to be supplied with wheat.
+990f5d79dd	empire_ware	Flour is produced by the mill out of wheat and is needed in the bakery to produce the tasty Empire bread.
+2b848de073	empire_ware	The bakers of the Empire make really tasty bread out of flour and water. It is used in taverns and inns to prepare rations and meals. Bread is also consumed at the training sites (arena, colosseum, training camp).
+b9f30f1c8f	empire_ware	This beer is produced in a brewery out of wheat and water. It is consumed by miners in coal and iron mines.
+b4dae39226	empire_ware	These grapes are the base for a tasty wine. They are harvested in a vineyard and processed in a winery.
+48f4c93c98	empire_ware	This tasty wine is drunk by the miners working the marble and gold mines. It is produced in a winery.
+1782caea92	empire_ware	Rations are produced in a tavern out of fish or meat or bread.
+bdfa710ab7	empire_ware	A real meal is made in inns out of bread and fish/meat. It satisfies the needs of miners in deep mines.
+59c77b13e1	empire_ware	Marble is the beautiful stone which is cut out of the mountains or produced in a quarry. Marble is used as a building material and gets chiseled into marble columns in the stonemason’s house.
+f71936903b	empire_ware	Marble columns represent the high culture of the Empire, so they are needed for nearly every larger building. They are produced out of marble at a stonemason’s house.
+06bde0040e	empire_ware	The fires of the Empire smelting works, armor smithies and weapon smithies are usually fed with coal.
+01573d21aa	empire_ware	It is smelted in a smelting works to retrieve the iron.
+5a6d60a1e3	empire_ware	It is produced by the smelting works. Weapons, armor and tools are made of iron.
+3eb435e359	empire_ware	Smelted in a smelting works, it turns into gold which is used as a precious building material and to produce weapons and armor.
+a55f317998	empire_ware	It is produced by the smelting works. Armor and weapons are embellished with gold in the armor smithy and the weapon smithy.
+cdbe6d3711	empire_ware	Picks are used by stonemasons and miners. They are produced by the toolsmith.
+595a481f77	empire_ware	Felling axes are used by lumberjacks and produced by the toolsmithy.
+31ff1b97df	empire_ware	This saw is needed by the carpenter. It is produced by the toolsmith.
+a5ea3d7618	empire_ware	Therefore the forester and the vine farmer use them. They are produced by the toolsmith.
+ed5161d75f	empire_ware	Geologists, builders, weaponsmiths, armorsmiths and shipwrights all need a hammer. Make sure you’ve always got some in reserve! They are produced by the toolsmith.
+73c958bc5c	empire_ware	They are produced by the toolsmith.
+2c883c4c25	empire_ware	Scythes are produced by the toolsmith.
+bc1ef7c067	empire_ware	Bread paddles are produced by the toolsmith.
+33d5a41467	empire_ware	This basket is needed by the vine farmer for harvesting the grapes. It is produced by the toolsmith.
+967795d39b	empire_ware	Kitchen tools are needed for preparing rations and meals. They are produced in a toolsmithy and used in taverns and inns.
+ebee0c249f	empire_ware	They are used in the smelting works and produced by the toolsmith.
+2eb88883ea	empire_ware	This wooden spear is the basic weapon in the Empire military system. It is produced in the weapon smithy. In combination with a helmet, it is the equipment to fit out young soldiers.
+79088f7805	empire_ware	This spear has an iron spike. It is produced in a weapon smithy and used in a training camp – together with food – to train soldiers from attack level 0 to attack level 1.
+49173baa35	empire_ware	This is an advanced spear with a steel tip. It is produced in a weapon smithy and used in a training camp – together with food – to train soldiers from attack level 1 to level 2.
+4ba824ae2e	empire_ware	This is a strong spear with a steel-tip and a little blade. It is produced in the weapon smithy and used in the training camp – together with food – train soldiers from attack level 2 to level 3.
+ae2dc141a1	empire_ware	This is the best and sharpest weapon the Empire weaponsmith creates for the soldiers. It is used in the training camp – together with food – to train soldiers from attack level 3 to level 4.
+3f93d423cf	empire_ware	The helmet is the basic defense of a soldier. It is produced in an armor smithy. In combination with a wooden spear, it is the equipment to fit out young soldiers. Helmets are also used in training camps – together with food – to train soldiers from health level 0 to level 1.
+d41b3b532b	empire_ware	Basic armor for Empire soldiers. It is produced in the armor smithy and used in the training camp – together with food – to train soldiers from health level 1 to level 2.
+6f9ec183a1	empire_ware	The chain armor is a medium armor for Empire soldiers. It is produced in an armor smithy and used in a training camp – together with food – to train soldiers from health level 2 to level 3.
+f66a41a772	empire_ware	The gilded armor is the strongest armor an Empire soldier can have. It is produced in the armor smithy and used in the training camp – together with food – to train soldiers from health level 3 to level 4.
+9157543d64	empire_worker	Carries items along your roads.
+5b9872b3bd	empire_worker	Ships wares across narrow rivers.
+ba06fb4a16	empire_worker	Donkeys help to carry items along busy roads. They are reared in a donkey farm.
+814aa42d4b	empire_worker	Breeds cute and helpful donkeys for adding them to the transportation system.
+28021db43d	empire_worker	Cuts blocks of granite and marble out of rocks in the vicinity.
+b72052c049	empire_worker	Works in the sawmill.
+6fc58f9907	empire_worker	Fells trees.
+7425602b6a	empire_worker	Plants trees.
+ebae14822a	empire_worker	Works at construction sites to raise new buildings.
+7320ddd1bc	empire_worker	Keeping sheep.
+0ab2dedabe	empire_worker	Produces cloth for ships and soldiers.
+5c5072282c	empire_worker	Works at the shipyard and constructs new ships.
+609a385516	empire_worker	Catches fish in the sea.
+8edd3653f3	empire_worker	The hunter brings fresh, raw meat to the colonists.
+8e72e17035	empire_worker	Plants fields.
+0734221bf0	empire_worker	Grinds wheat to produce flour.
+df6c2c3e78	empire_worker	Bakes bread for workers.
+a10e8777b8	empire_worker	Produces beer.
+43f9e85be8	empire_worker	Grows grapevines.
+559c9b7a67	empire_worker	Produces wine.
+0881734889	empire_worker	Breeds pigs.
+aa56a8976b	empire_worker	Produces food for miners.
+3f45514199	empire_worker	Discovers resources for mining.
+d1df78baad	empire_worker	Works deep in the mines to obtain coal, iron, gold or marble.
+18232a8608	empire_worker	Burns coal.
+f2f75c4751	empire_worker	Smelts ores into metal.
+361f018c1f	empire_worker	Produces tools for the workers.
+ae5a2dc6f2	empire_worker	Eager to become a soldier and defend his tribe!
+1d5d2166c4	empire_worker	Defend and Conquer!
+e1b115e1b6	empire_worker	Trains the soldiers.
+6036af67ba	empire_worker	Produces weapons for the soldiers.
+426f29feca	empire_worker	Produces armor for the soldiers.
+4491eedbbe	empire_worker	Scouts like Scotty the scout scouting unscouted areas in a scouty fashion.
+5942d6d9a9		This grapevine has just been planted.
+b5ef4fb494		This grapevine is growing.
+d1bfb94df2		This grapevine is ready for harvesting.
+5a618955c7		Marble is a basic building material and can be dug up by a marble mine. You will also get granite from the mine.
+0d64443325		There is only a little bit of marble here.
+ba47a189f8		There is a lot of marble here.
+5eb2331a14		Omnes viæ ducunt Fremilem.
+f6665344d3		All roads lead to Fremil.
+abfe2bceb1	empire_building	Proverb signifying the glory of the Empire and its capital
+b6e6d3d539	empire_building	Accommodation for your people. Also stores your wares and tools.
+385716d5da	empire_building	The headquarters is your main building.
+0624d1bc8d		Commune naufragium omnibus est consolatio.
+b5f480525c		A shipwreck that is common to all is a consolation.
+d312581b64	empire_building	Lutius after stranding on an uncharted island
+5b357d7ab5	empire_building	Although this ship ran aground, it still serves as accommodation for your people. It also stores your wares and tools.
+ad939c5859	empire_building	The headquarters shipwreck is your main building.
+7eaefbb384		Bis dat, qui cito dat, nil dat, qui munera tardat.
+0b6cc858d1		Who gives promptly, gives twice, who gives late, gives nothing.
+7d96fb3fcf	empire_building	Proverb written over the doors of a warehouse
+2b3ac9b640	empire_building	Your workers and soldiers will find shelter here. Also stores your wares and tools.
+4c50b7b6e1		Navigare necesse est.
+ba87795efc		To sail is necessary.
+3bbe3f9b74	empire_building	Admiral Litus Marius Exsiccatus, sending out the fleet to break the naval blockade during the First Atlantean War
+084ef04469	empire_building	Serves as a base for overseas colonization and trade. Also stores your soldiers, wares and tools.
+e2d29ba344	empire_building	Similar to the Headquarters a Port can be attacked and destroyed by an enemy. It is recommendable to send soldiers to defend it.
+d35c776caa		Clara pacta, boni amici.
+0e95e4dc58		Good contracts make good friends.
+d5c6c7044c	empire_building	A market enables trading with other tribes.
+87bf0d8e11		Non relinquetur hic lapis super lapidem qui non destruatur.
+d746f0c03b		There shall not be left here a stone upon a stone that shall not be destroyed.
+d43d24ecc5	empire_building	An enthusiastic stonemason arriving to a new quarry
+664cbd9418	empire_building	Cuts blocks of granite and marble out of rocks in the vicinity.
+5d90da3ba5	empire_building	The quarry needs rocks to cut within the work area.
+e980561627	empire_building	The stonemason finds 5 blocks of granite and 2 blocks of marble out of 7 rocks.
+a654589900	empire_building	This building can produce one granite between %1$s and %2$s and one marble between %3$s and %4$s, depending on how far the stonemason has to walk.
+7e1c267461	empire_building	In case of slopes or obstacles in the way, the time is increased.
+1258df3a6b		In silvam non ligna feras.
+de8dbe8624		Don’t carry logs to the forest.
+99607dfe43	empire_building	A carrier to a lumberjack who lost his way home
+00e8f8f17d	empire_building	The lumberjack’s house needs trees to fell within the work area.
+0700289649	empire_building	This building can produce one log between %1$s and %2$s, depending on how far the lumberjack has to walk.
+4a4f610c9c		Vivat, crescat, floreat!
+0e700fd6b9		Live, grow, and bloom!
+c0672ffab8	empire_building	Blessing from the god Silvanus
+0062b5f5e3	empire_building	The forester’s house needs free space within the work area to plant the trees.
+d9c69ca9d7	empire_building	The forester plants one tree between %1$s and %2$s, depending on how far he has to walk.
+0fe2661519		Piscis primum a capite foetet.
+4513fb2298		The fish stinks first at the head.
+a30774f6ff	empire_building	A fisherman criticising the Grand Master of the Fishermans’ Guild
+1cf6ba6308	empire_building	Fishes on the coast near the fisher’s house.
+9b75d187d2	empire_building	The fisher’s house needs water full of fish within the work area.
+38d4aaa610	empire_building	Roads and trees along the shoreline block fishing.
+be790bffb4	empire_building	This building can produce one fish between %1$s and %2$s, depending on how far the fisher has to walk.
+3517f77c44		Venator venatus insidiatur.
+e3ad5ae6b1		The hunter lies in ambush for the game.
+4861b00b9c	empire_building	Caption on an imperial relief showing a hunter
+22632842cb	empire_building	The hunter’s house needs animals to hunt within the work area.
+57f89e3bf7	empire_building	This building can produce one meat between %1$s and %2$s, depending on how far the hunter has to walk.
+35ff4180da		Gratius ex ipso fonte bibuntur aquæ.
+07c7390cc9		It is more pleasing to drink water from the spring itself.
+e2f98383d4	empire_building	Imperial proverb
+ec0b5dfdbf	empire_building	The carrier needs %s to get one bucket full of water.
+371315086e	empire_building	If the water resource is depleted, the carrier needs %s on average.
+77c23e01d3		Ciatkaruthus ante portas!
+512fe7987e		Chat’Karuth at the gates!
+023fc6855b	empire_building	A belated scout’s report
+e0c4a29de4	empire_building	You need to connect this flag to a scout’s house before you can send a scout here.
+7d950065d2	empire_building	One exploration trip of the scout takes between %1$s and %2$s.
+e48033be82		Mens agitat molem.
+d12f994423		The mind moves boulders.
+b721bfa9f4	empire_building	Motto of the Stonemasons’ Guild
+af1a765a04	empire_building	Carves marble columns out of marble.
+0ced820730	empire_building	The stonemason’s house needs %s on average to produce one marble column.
+58cb59e795		Nihil agit serra nisi mota ab arte.
+dfa921a073		The saw does nothing except when moved by art.
+09d9b4e512	empire_building	Motto of the Carpenters’ Guild
+bdf5b0064d	empire_building	The sawmill needs %s on average to produce one plank.
+ac38189ce9		Sero molunt deorum molæ.
+2cf24b55b0		The mills of the gods grind slowly.
+a049ae464a	empire_building	Proverb often cited by millers to impatient customers
+8c1a2b2e6f	building	Grinds wheat to produce flour.
+98d1ff6c40	empire_building	The miller needs %1% on average to grind wheat into a sack of flour.
+2823138f8f		Non est de sacco tanta farina tuo.
+5ac0c4ee19		There’s not this much flour in your sack.
+570b864a85	empire_building	A baker accusing another of theft
+481a9dc8a3	empire_building	Bakes bread for soldiers and miners alike.
+86ddd3affd	empire_building	The baker needs %1% on average to bake a loaf of bread.
+394c099752		Nunc est bibendum, nunc pede libero pulsanda tellus!
+89102fea9e		Now it’s time to drink! Now it’s time to dance freely!
+f919f73b74	empire_building	Imperial drinking song
+f22c3ca485	empire_building	The brewer needs %1% on average to brew a vat of beer.
+e19eb9eb7a		Vino vendibili hedera non opus est.
+f085412022		Good wine needs no bush.
+4a6b67e86b	empire_building	A proud vine farmer boasting
+7ac0599a25	empire_building	Plants grapevines and harvests grapes.
+d5d4f20ad8	empire_building	The vine farmer sows and harvests one basket of grapes between %1$s and %2$s, depending on how far he has to walk.
+7e8d71a8a4	empire_building	The vineyard needs at least %s to work at full productivity most of the time.
+8f2d5dfd8e		In vino veritas.
+668f55105f		In wine there is truth.
+8cdef422ec	empire_building	Excerpt from the Encyclopædia Imperica
+10aa92ccd2	empire_building	Produces wine.
+095b428f7b	empire_building	The winery needs %s on average to produce one wine.
+12458b1a00		Esse oportet ut vivas, non vivere ut edas.
+da79bc3c38		We eat to live, not live to eat.
+9d55d5e3ea	empire_building	Warning to a gluttonous miner
+ed30f843f1	empire_building	The innkeeper needs %1% on average to prepare a ration.
+4408a1ad27		In cena dapibus plena te mente refrena.
+ac9cb3aae8		A meal full of dishes restrains your mind.
+47679f029f	empire_building	Warning from a master miner to an apprentice
+ed10e84cfd	empire_building	Prepares rations for scouts and rations and meals to feed the miners in all mines.
+62057080d9	empire_building	If this building is fully supplied and all kinds of food are needed by the economy, production of one of each food takes %1$s on average. If only one kind of food is needed by the economy, production of one ration takes %2$s and one meal takes %3$s on average.
+d31443ef87		Creta an carbone notandi?
+c5935cdeb4		Are they to be marked with chalk or charcoal?
+7f53c1a03b	empire_building	Imperial proverb meaning to judge whether they are good or bad
+9797e18c08	empire_building	The charcoal kiln needs %s on average to produce one coal.
+768370133d		Video ferrum ex isdem tenebris esse prolatum, quibus aurum.
+2f5a18c9a2		I see that iron was produced from the same darkness as gold.
+be9585a427	empire_building	Amalea after inspecting a smelting works
+bc0ee9dee9	empire_building	If this building is fully supplied and all metals are needed by the economy, production of one iron takes %1$s and one gold takes %2$s on average. If only one kind of metal is needed by the economy, production of one iron takes %3$s and one gold takes %4$s on average.
+b73e5156a5		Faber est suæ quisque fortunæ.
+43548a7dd4		Each man is the maker of his own fortune.
+b0357eef40	empire_building	Imperial proverb quoted in a toolsmith's advertising
+5465380e6c	empire_building	If this building is fully supplied and all tools are needed by the economy, production of one of each tool takes %1$s on average. If only one kind of tool is needed by the economy, its production takes %2$s on average.
+3c1132eaed		Hi loricarum vasto sub tegmine gaudent, intexit creber sibimet quas circulus hærens, atque catenosi crepitant per corpora panni.
+1dd45c5203		They enjoy their great armors under their capes, tightly woven from rings, rattling through the cloth.
+33eaf87d60	empire_building	An armorsmith teaching an apprentice
+f45685b025	empire_building	Forges armor and helmets that are used for training soldiers’ health in the training camp.
+4860f0395f	empire_building	If this building is fully supplied and all kinds of armor and helmets are needed by the economy, production of one helmet takes %1$s and one of each kind of armor takes %2$s on average. If only one kind of armor or helmets is needed by the economy, production of one helmet takes %3$s, while one kind of armor takes %4$s on average.
+03c30678f4		Non muri, sed viri sunt præsidium oppidorum.
+7ea4dd6add		Not walls but men protect the towns.
+66bf702b51	empire_building	Argument in the Senate for increasing recruitment
+e50e37b973	empire_building	Equips recruits and trains them as soldiers.
+fcc19a4d92	empire_building	The barracks need %s on average to recruit one soldier.
+23b401a675		Asinus stramen mavult quam aurum.
+1704861858		A donkey prefers straw to gold.
+1185298318	empire_building	A donkey breeder during a shortage of wheat
+949716136b	empire_building	Breeds cute and helpful donkeys for adding them to the transportation system.
+67e24ce0fa	empire_building	If all needed wares are delivered in time, this building can produce a donkey in %s on average.
+7228d2bbbc		Lutius iam a publicis negotiis se removerat, ruri vivebat et senatus legati eum invenerunt dum agellum suum arat.
+c5b3857c73		Lutius had already removed himself from public affairs, he was living in the countryside, and the ambassadors of the senate found him while he was plowing his land.
+ad1bc9cd1f	empire_building	History of the Empire, Part VII
+f54f8ba8bc	empire_building	The farmer sows and harvests one sheaf of wheat between %1$s and %2$s, depending on how far he has to walk.
+bbc3a6248b	empire_building	The farm needs at least %s to work at full productivity most of the time.
+e1c899e749		Sus vero quid habet præter escam?
+ad5aae60df		What does the pig really have other than meat?
+87ebd8341b	empire_building	Breeds pigs for their meat.
+445d989684	empire_building	The pig breeder needs %1% on average to raise and slaughter a pig.
+a1ba624471		Conari agnum eripere lupo.
+b7b6a3772a		Try to rescue a lamb from a wolf.
+6d3db9b4cf	empire_building	Imperial proverb for trying the impossible
+c46b894ddd	empire_building	Keeps sheep for their wool.
+f374e156ef	empire_building	The sheep farm needs %s on average to produce one wool.
+dda294d41c		Vestis virum reddit.
+e0433e11eb		Clothes make a man.
+9b8388195f	empire_building	Motto of the Weavers’ Guild
+0b3fcfcdf6	empire_building	Weaves cloth out of wool.
+18340ce060	empire_building	The weaving mill needs %s on average to produce one cloth.
+a7ba3dbf7f		Ignis calorem suum etiam in ferro tenet.
+5c802543e7		The fire keeps its heat even in the iron.
+be8f8cf1aa	empire_building	Motto of the Weaponsmiths’ Guild
+6d3307797a	empire_building	Forges spears to equip the soldiers and to train their attack in the training camp.
+45eafb4124	empire_building	If this building is fully supplied and all spears are needed by the economy, production of one of each spear takes %1$s on average. If only one kind of spear is needed by the economy, production of one wooden spear takes %2$s, one spear, one advanced spear, one heavy spear or one war spear takes %3$s on average.
+d2f305eafa		In vento scribit lædens, in marmore læsus.
+679671940a		He who hurts writes in the wind, he who is hurt in marble.
+c89dcb0a7a	empire_building	Carves marble and granite out of the rock in mountain terrain.
+53d1e1dfb9	empire_building	If the food supply is steady, this mine can produce marble in %1$s and granite in %2$s on average.
+43e039898d		Urbem lateritiam invenit, marmoream reliquit.
+9bb24f85ec		He found a city of brick, and left it one of marble.
+94b438804c	empire_building	History of the Empire, Part VI on the return of Lutius to Fremil
+c29ac05d0e		Carbo de mortuo reviviscit, de nigro in ruborem vertitur, favillas generat, et dum resolvitur, cinerea.
+7c5f5c6a89		Coal is revived from the dead, it turns from black to red, creates embers, and as it falls apart, it becomes ashes.
+67955bad17	empire_building	If the food supply is steady, this mine can produce coal in %s on average.
+422b9ed60d		Non enim est una species ignis: nam diversum est carbo et flamma, et lux specie, cum unumquodque horum sit ignis.
+1b2c18960a		For there are more types of fire: for coal and flame are different, and the type that gives light, all of them are fire.
+f340d61705		Ferrum ferro acuitur.
+cafdece8d8		Iron is sharpened by iron.
+0c5989939f	empire_building	A proverb that is vehemently disputed by iron miners
+abb930b77b	empire_building	If the food supply is steady, this mine can produce iron ore in %s on average.
+24da8381c2		Ferreus assiduo consumitur annulus usu.
+0a1a5a58f6		By constant use an iron ring is worn away.
+0bb62977de	empire_building	Amalea on the importance of always looking for more resources
+5c5fe44de3		Aurum irrepertum et sic melius situm.
+6921ea0f4a		Gold discovered and all the better for being so.
+325e0e2909	empire_building	Amalea receiving the first geologist report of gold on the small island
+cf9cce92bd	empire_building	If the food supply is steady, this mine can produce gold ore in %s on average.
+c965b7df30		Formidinem mortis vicit aurum.
+db1acb05cc		Gold has conquered the fear of death.
+ebef7c3658	empire_building	General Trepidus Egenus Attenuatus on motivating soldiers
+e1e93109bf		Qui dabat olim […] omnia, nunc se continet atque duas tantum res anxius optat, panem et circenses.
+cf971701cf		[The People of the Empire] who once handed out all [power], now restrains itself and anxiously hopes for just two things: bread and games.
+daf2c257a7	empire_building	History of the Empire, Part X – the decline
+d1d9b5b9bb	empire_building	Trains soldiers in ‘Evade’.
+5acbfea915	empire_building	‘Evade’ increases the soldier’s chance not to be hit by the enemy and so to remain totally unaffected.
+a183ba7b22	empire_building	Imperial soldiers cannot be trained in ‘Defense’ and will remain at the level with which they came.
+cb1b1bb212	empire_building	If all needed wares are delivered in time, an arena can train one soldier to the first level in evade in %s on average.
+fa94cb8415		Ave Cæsar! Morituri te salutant!
+e9e3760728		Hail Cæsar! Those who are about to die greet you!
+39f7160383	empire_building	Greeting from the gladiators to the emperor
+883bcc807c	empire_building	If all needed wares are delivered in time, a colosseum can train one soldier one level in evade in %s on average.
+335a92c83e	empire_building	Complete training of one soldier takes %s on average.
+053cff4687		Fortes fortuna adiuvat.
+e9ee0f4eb8		Fortune helps the strong.
+6ad8b16400	empire_building	Trainer to soldiers who questioned the need for higher level training
+843b3830ec	empire_building	Trains soldiers in ‘Attack’ and in ‘Health’.
+9f9d6e9323	empire_building	Equips the soldiers with all necessary weapons and armor parts.
+1cf1e58b10	empire_building	If all needed wares are delivered in time, a training camp can train one soldier one level in attack or health in %s on average.
+42b30b4bb6		Aquila non captat muscas.
+38c3917266		An eagle doesn’t catch flies.
+e6663fbfc9	empire_building	General Passerus Claudius Pedestrus on why he didn’t order the destruction of a rebel Blockhouse
+bf4ae954ee	empire_building	Garrisons soldiers to expand your territory.
+f081336828	empire_building	If you’re low on soldiers to occupy new military sites, use the downward arrow button to decrease the capacity. You can also click on a soldier to send him away.
+fe2f246fc8		Quis custodiet ipsos custodes?
+7ed27d4485		Who watches the watchmen?
+6f670c2bb4	empire_building	Saledus warning Lutius that sentries are not adequate protection for the Limes
+fbbed3bf2d		Binæ contra urbem a castris station erant, una ultra flumen, altera eis flumen supra castra.
+79d30a9b58		Two were stationed on the other side of the city than the camp: one over the river, the other by the river above the camp.
+c23c12a7dd	empire_building	History of the Empire, Part III, preparation for the battle of Uliginosium
+7611c64ef8		Alea iacta est!
+3c0b01440f		The die is cast!
+92c1bc2fef	empire_building	Rebel general Certus Ignavus Fidelius upon entering the limits of Fremil to overthrow the government
+1ae7b44599		Veni, Vidi, Vici!
+8ed60d9746		I came, I saw, I conquered!
+ada40b8d36	empire_building	General Claudius Cæcus Cessus reporting a quick victory over the Barbarians thanks to the superior vision of a tower
+3c2b8bf463		Si vis pacem, para bellum.
+9b79469693		If you want peace, prepare for war.
+4a8f2b4a46	empire_building	Saledus arguing with Amalea
+37a3834feb		Ceterum autem censeo Althunranam esse delendam!
+7c385b2112		Furthermore, I think that Al’thunran must be destroyed!
+6fdbc02c4b	empire_building	Saledus in the Senate, urging final victory over the Barbarians
+fce40123fb		Non terretur fluminibus, qui maria transiit.
+a2e6f9686b		Who crossed seas does not fear rivers.
+575843e66e	empire_building	Amalea on the need for ferries after the reconstruction of Fremil
+12ab5358c4	empire_building	This building can produce one ferry between %1$s and %2$s, depending on how far the shipwright has to walk.
+77b6ae9f9f		Uni navi ne committas omnia.
+2727b1b877		Don’t put everything on the same ship.
+b0a37bd14f	empire_building	A shipwright lamenting when he was instructed to stop working
+eb562963c2	empire_building	This building can produce one ship between %1$s and %2$s, depending on how far the shipwright has to walk.
+038eafda1d	warehousename	Abila
+e9f8a7a87c	warehousename	Ad Flexum
+fde3dd0f99	warehousename	Aelia Capitolina
+56a152ffec	warehousename	Aeminium
+56061f9580	warehousename	Aequum
+49dd7f6ba7	warehousename	Ala
+ec7caccedb	warehousename	Albanianis
+79c385cfb5	warehousename	Ambianum
+1a44c78eaf	warehousename	Andautonia
+c11485b391	warehousename	Apulum
+04e0335ad5	warehousename	Aquæ Granni
+228245746b	warehousename	Aquæ Helveticæ
+fa1f4cbe81	warehousename	Aquæ Mattiacorum
+29afba1f61	warehousename	Aquæ Sulis
+a184814f1d	warehousename	Aquileia
+45861d2aa5	warehousename	Aquincum
+310447f2e3	warehousename	Aræ Flaviæ
+962ce13f6a	warehousename	Argentoratum
+bdb7910dc4	warehousename	Ariminum
+d0558ddee2	warehousename	Ascrivium
+990ef26df4	warehousename	Asturica Augusta
+65ad054294	warehousename	Atuatuca Tungrorum
+b8dbe0a3c3	warehousename	Augusta Raurica
+145c263bb2	warehousename	Augusta Taurinorum
+667a44b44a	warehousename	Augusta Treverorum
+a5b5303abe	warehousename	Augusta Vindelicorum
+1360c5b070	warehousename	Aurelia Aquensis
+70f89ad21f	warehousename	Aventicum
+f2d7609fbd	warehousename	Belum
+5ed46a3369	warehousename	Biriciana
+78a9c18bdd	warehousename	Blestium
+9e320a2a14	warehousename	Bonames
+b06ce3d3c8	warehousename	Bonna
+894eeb7b07	warehousename	Bononia
+94a45940e3	warehousename	Borbetomagus
+1b12a2f5cd	warehousename	Bovium
+e5cb9015d0	warehousename	Bracara Augusta
+036d5f190e	warehousename	Brigantium
+8b98bb4ad0	warehousename	Burgodunum
+69ef290c45	warehousename	Cæsaraugusta
+052590c20e	warehousename	Cæsarea
+c3d6afa101	warehousename	Cæsaromagus
+f78ca98b9d	warehousename	Calisia
+c2542891ff	warehousename	Calleva Atrebatum
+0fb53ffedf	warehousename	Camulodunum
+bf3fa7a2df	warehousename	Carnuntum
+b8dd4b34ee	warehousename	Castra Batavar
+d2b4e0e3e0	warehousename	Castra Legionis
+162961c1eb	warehousename	Castra Regina
+f0cfc5b5c2	warehousename	Castra Vetera
+bd02e64f5d	warehousename	Cibalæ
+a1bbaf4f8d	warehousename	Clausentum
+27dd867174	warehousename	Colonia Agrippina
+b00e5f5571	warehousename	Colonia Narbo Martius
+2907375542	warehousename	Colonia Ulpia Traiana
+03a6b53046	warehousename	Comagenis
+cf18646313	warehousename	Complutum
+bc9e7fc6cb	warehousename	Concangis
+5125813ab0	warehousename	Condate
+b7b1fac984	warehousename	Confloenta
+c4ba47fb1e	warehousename	Constantinopolis
+ac0613f794	warehousename	Coria
+0ab1f83fb1	warehousename	Corinium Dobunnorum
+8095eff4c3	warehousename	Coriovallum
+31f657b7b4	warehousename	Cosa
+4803bb81e0	warehousename	Curia Rætorum
+581d20957b	warehousename	Danum
+539b3011fd	warehousename	Deva Victrix
+e53556f660	warehousename	Divodurum
+b84aca1f20	warehousename	Dubris
+f269effe99	warehousename	Durnovaria
+c60475950e	warehousename	Durocobrivis
+13c08424c2	warehousename	Durocornovium
+75705f7cac	warehousename	Duroliponte
+81b02f6b76	warehousename	Durovigutum
+26a67e3139	warehousename	Eboracum
+5a0868e52b	warehousename	Emerita Augusta
+6b54d8e981	warehousename	Florentia
+51b7fd38c7	warehousename	Forum Hadriani
+64699a66c6	warehousename	Forum Livii
+125c617bbe	warehousename	Gerulata
+e06c5d43ab	warehousename	Gerunda
+4774d7e080	warehousename	Gesoriacum
+0406a206cd	warehousename	Gorsium
+2dd9c2fabb	warehousename	Hadrianopolis
+0bbb16febf	warehousename	Isca Augusta
+004c09395f	warehousename	Isca Dumnoniorum
+df8329077c	warehousename	Italica
+92967ec04f	warehousename	Iulia Aemona
+ea995495e5	warehousename	Iulia Romula Hispalis
+f89641fa96	warehousename	Iuvavum
+394fd143ff	warehousename	Lactodurum
+bb616e6d42	warehousename	Lagentium
+6d9efb1881	warehousename	Lauri
+4f6bfb29de	warehousename	Lentia
+72df71b46b	warehousename	Letocetum
+77c4b47f62	warehousename	Lindinis
+c8bad920ea	warehousename	Lindum Colonia
+4797ceab31	warehousename	Londinium
+8521fae871	warehousename	Lopodunum
+eb7a7b4947	warehousename	Lousonna
+d8b1bda949	warehousename	Lucus Augusta
+ba62ececf6	warehousename	Lugdunum
+bb517fe8ca	warehousename	Lugdunum Batavorum
+760cf39509	warehousename	Luguvalium
+061d90e311	warehousename	Lutetia Parisiorum
+907ddd07fc	warehousename	Mamucium
+43626ab97c	warehousename	Marsonia
+b022678015	warehousename	Massa
+74a115f621	warehousename	Matilo
+673806585e	warehousename	Mediolanum
+e7b392db27	warehousename	Modoetia
+ef97145f77	warehousename	Mogontiacum
+d7ac2578ed	warehousename	Moridunum
+c25991f5e9	warehousename	Mursa
+eb4504949a	warehousename	Naissus
+bc77e507a1	warehousename	Nemausus
+b3cd25ea76	warehousename	Nicopolis ad Istrum
+d7cd2b469f	warehousename	Nicopolis ad Nestum
+68ac8565dc	warehousename	Nida
+68b8c91b86	warehousename	Nigrum Pullum
+0fe54c5aee	warehousename	Norba Cæsarina
+28833c1f41	warehousename	Novæ
+92fe663b3e	warehousename	Novæsium
+ea5d746a7c	warehousename	Noviodunum
+51fe71cbf8	warehousename	Noviomagus
+f360ff258f	warehousename	Olicana
+91e2c22b15	warehousename	Ovilava
+40c75be23e	warehousename	Palma
+014e930a4f	warehousename	Partiscum
+23cce3c981	warehousename	Pistoria
+9db86ef382	warehousename	Placentia
+e68d29b65f	warehousename	Poetovium
+c59e8d652b	warehousename	Pomaria
+d7d0ad6a9c	warehousename	Pompælo
+14d7d1fb88	warehousename	Pompeii
+b8bdd737be	warehousename	Pons Aelius
+13b02b28eb	warehousename	Pons Drusi
+1f8974c2a5	warehousename	Portus Lemanis
+c4d1b65c7c	warehousename	Prætorium Agrippinæ
+d0c98b4ae2	warehousename	Ragusium
+94ee9b117a	warehousename	Ratæ Corieltauvorum
+1417a541f7	warehousename	Regium Lepidi
+0d3017dfc0	warehousename	Regulbium
+dc8d0381ff	warehousename	Rigomagus
+c866210a04	warehousename	Roma
+bced1f9df2	warehousename	Rutupiæ
+6376f4cb2a	warehousename	Salernum
+f61094bf07	warehousename	Salona
+adaf210500	warehousename	Savaria
+5216ef1dcb	warehousename	Scalabis
+88b70d5472	warehousename	Singidunum
+47bd17f543	warehousename	Sirmium
+903661736d	warehousename	Siscia
+b45092eb75	warehousename	Sopiane
+01fd50bf7c	warehousename	Sorviodurum
+9e2106d81d	warehousename	Sostra
+90dd893e2e	warehousename	Storgosia
+7240629c22	warehousename	Sumelocenna
+efc9c4a686	warehousename	Tarraco
+769a26b695	warehousename	Theranda
+c54c577129	warehousename	Tibiscum
+c17ab2c57d	warehousename	Traiectum
+db2ffcd0f6	warehousename	Traiectum ad Mosam
+5020a9a2c1	warehousename	Traiectum ad Nicrem
+f042452051	warehousename	Turicum
+6ca7a3a991	warehousename	Urbs Aurelianorum
+f4af1a5256	warehousename	Valentia Edetanorum
+0617f0f764	warehousename	Venetiæ
+e20aa1d2fc	warehousename	Venta Belgarum
+191b9c3709	warehousename	Venta Silurum
+145c8aab2c	warehousename	Verulamium
+241afed424	warehousename	Vesontio
+ac93975ed0	warehousename	Viminacium
+87815ecc56	warehousename	Vindobona
+c000e92267	warehousename	Vindonissa
+626283927a	warehousename	Vinovia
+3950d19f99	empire	Worker missing
+b4e8dfa730	empire	Worker is coming
+08545b5bb8	empire	Workers missing
+e00eb244e6	empire	Workers are coming
+c185634d79	empire	Expert missing
+d12c1f49c3	empire	Experts missing
+2054c023f7	empire_soldier	%1% soldier (+%2%)
+bb6ccd28b0	empire_soldier	%1% soldier
+0f8bbb694d	empire_soldier	%1%(+%2%) soldier (+%3%)
+42d4516f3e	empire_soldier	%1%(+%2%) soldier

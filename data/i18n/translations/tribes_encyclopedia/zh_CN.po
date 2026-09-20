@@ -16710,29 +16710,29 @@ msgstr[0] ""
 #: ../../../../data/tribes/scripting/help/building_help.lua:250
 #: ../../../../data/tribes/scripting/help/building_help.lua:328
 msgid "Text needed"
-msgstr ""
+msgstr "缺少文本"
 
 #. TRANSLATORS: Heading for a flavour text in the building help.
 #: ../../../../data/tribes/scripting/help/building_help.lua:255
 msgid "Lore"
-msgstr ""
+msgstr "传说"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:264
 #: ../../../../data/tribes/scripting/help/init.lua:90
 #: ../../../../data/tribes/scripting/help/tips.lua:29
 msgid "General"
-msgstr "常规的"
+msgstr "常规"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:265
 msgid "Purpose:"
-msgstr ""
+msgstr "用途："
 
 #. TRANSLATORS: Note helptext for a mine.
 #: ../../../../data/tribes/scripting/help/building_help.lua:348
 msgid ""
 "This mine will exploit %1%%% of its resources. From there on out, it will "
 "only have a %2%%% chance of finding any more of them."
-msgstr ""
+msgstr "这座矿场能采出其中 %1%%% 的资源。此后，它每次再找到资源的机会只有 %2%%%。"
 
 #. TRANSLATORS: Note helptext for a mine.
 #: ../../../../data/tribes/scripting/help/building_help.lua:351
@@ -16740,69 +16740,69 @@ msgid ""
 "This mine will exploit all of its resources down to the deepest level. But "
 "even after having done so, it will still have a %1%%% chance of finding some"
 " more of them."
-msgstr ""
+msgstr "这座矿场能把资源一直采到最深一层。即便如此，之后它仍有 %1%%% 的机会再找到一些。"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:359
 #: ../../../../data/tribes/scripting/help/building_help.lua:506
 msgid "Note:"
-msgstr ""
+msgstr "注意："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:364
 msgid "Work area radius:"
-msgstr ""
+msgstr "工作范围半径："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:368
 #: ../../../../data/tribes/scripting/help/building_help.lua:373
 msgid "Healing:"
-msgstr ""
+msgstr "治疗："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:369
 #: ../../../../data/tribes/scripting/help/building_help.lua:374
 #, lua-format
 msgid "Garrisoned soldiers heal %d health point per second."
 msgid_plural "Garrisoned soldiers heal %d health points per second."
-msgstr[0] ""
+msgstr[0] "驻防的士兵每秒恢复 %d 点生命。"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:370
 #: ../../../../data/tribes/scripting/help/building_help.lua:376
 msgid "Conquer range:"
-msgstr ""
+msgstr "占领范围："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:375
 #: ../../../../data/tribes/scripting/help/building_help.lua:380
 msgid "Capacity:"
-msgstr ""
+msgstr "容量："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:377
 msgid "Vision range:"
-msgstr ""
+msgstr "视野范围："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:407
 msgid "%1$s from: %2$s"
-msgstr ""
+msgstr "%1$s 来自：%2$s"
 
 #. TRANSLATORS: Heading in the building help for wares that a building accepts
 #. (e.g. wheat for a mill).
 #: ../../../../data/tribes/scripting/help/building_help.lua:413
 msgid "Incoming:"
-msgstr ""
+msgstr "输入："
 
 #. TRANSLATORS: This is a verb (The miner mines)
 #: ../../../../data/tribes/scripting/help/building_help.lua:422
 msgid "Mines:"
-msgstr ""
+msgstr "开采："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:424
 msgid "Collects:"
-msgstr ""
+msgstr "采集："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:433
 msgid "Creates:"
-msgstr ""
+msgstr "产生："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:474
 msgid "Outgoing:"
-msgstr ""
+msgstr "输出："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:475
 msgid "None"
@@ -16810,40 +16810,40 @@ msgstr "没有"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:476
 msgid "Dependencies"
-msgstr ""
+msgstr "依赖关系"
 
 #. TRANSLATORS: This is the header for the "Building" section in the building
 #. help, containing size info, buildcost etc.
 #: ../../../../data/tribes/scripting/help/building_help.lua:491
 msgid "Building requirements"
-msgstr ""
+msgstr "建造条件"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:507
 msgid ""
 "This building can either be built directly or obtained by enhancing another "
 "building."
-msgstr ""
+msgstr "这座建筑既可以直接建造，也可以由另一座建筑升级而来。"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:513
 msgid "Direct build cost:"
-msgstr ""
+msgstr "直接建造成本："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:515
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:59
 msgid "Build cost:"
-msgstr ""
+msgstr "建造成本："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:526
 msgid "Or enhanced from:"
-msgstr ""
+msgstr "或由以下建筑升级："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:528
 msgid "Enhanced from:"
-msgstr ""
+msgstr "由以下建筑升级："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:537
 msgid "Cumulative cost:"
-msgstr ""
+msgstr "累计成本："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:582
 #: ../../../../data/tribes/scripting/help/building_help.lua:631
@@ -16852,26 +16852,26 @@ msgstr "未知"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:587
 msgid "If built directly, dismantle yields:"
-msgstr ""
+msgstr "若为直接建造，拆除可回收："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:592
 msgid "If enhanced, dismantle yields:"
-msgstr ""
+msgstr "若为升级而来，拆除可回收："
 
 #. TRANSLATORS: This is a heading for the resources that you will get back
 #. when you dismantle a building of this type. What dismantling will give you.
 #: ../../../../data/tribes/scripting/help/building_help.lua:595
 #: ../../../../data/tribes/scripting/help/building_help.lua:636
 msgid "Dismantle yields:"
-msgstr ""
+msgstr "拆除可回收："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:645
 msgid "Can be enhanced to:"
-msgstr ""
+msgstr "可升级为："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:675
 msgid "Crew required:"
-msgstr ""
+msgstr "所需人手："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:675
 #: ../../../../data/tribes/scripting/help/init.lua:123
@@ -16882,23 +16882,23 @@ msgstr "工人"
 #: ../../../../data/tribes/scripting/help/building_help.lua:697
 #, lua-format
 msgid "%s or better"
-msgstr ""
+msgstr "%s 或更高"
 
 #. TRANSLATORS: Tribal Encyclopedia: Heading for which tool 1 worker uses
 #: ../../../../data/tribes/scripting/help/building_help.lua:709
 msgid "Worker uses:"
-msgstr ""
+msgstr "工人使用："
 
 #. TRANSLATORS: Tribal Encyclopedia: Heading for which tool more than 1 worker
 #. uses
 #: ../../../../data/tribes/scripting/help/building_help.lua:712
 msgid "Workers use:"
-msgstr ""
+msgstr "工人使用："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:722
 #: ../../../../data/tribes/scripting/help/worker_help.lua:179
 msgid "Experience levels"
-msgstr ""
+msgstr "经验等级"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:744
 msgid "Production"
@@ -16907,29 +16907,29 @@ msgstr "生产"
 #. TRANSLATORS: Building Encyclopedia Skill trained by a trainingsite
 #: ../../../../data/tribes/scripting/help/building_help.lua:754
 msgid "Health improvement:"
-msgstr ""
+msgstr "生命提升："
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:755
 #: ../../../../data/tribes/scripting/help/building_help.lua:763
 #: ../../../../data/tribes/scripting/help/building_help.lua:771
 #: ../../../../data/tribes/scripting/help/building_help.lua:779
 msgid "From %1% to %2%"
-msgstr ""
+msgstr "从 %1% 到 %2%"
 
 #. TRANSLATORS: Building Encyclopedia Skill trained by a trainingsite
 #: ../../../../data/tribes/scripting/help/building_help.lua:762
 msgid "Attack training:"
-msgstr ""
+msgstr "攻击训练："
 
 #. TRANSLATORS: Building Encyclopedia Skill trained by a trainingsite
 #: ../../../../data/tribes/scripting/help/building_help.lua:770
 msgid "Defense training:"
-msgstr ""
+msgstr "防御训练："
 
 #. TRANSLATORS: Building Encyclopedia Skill trained by a trainingsite
 #: ../../../../data/tribes/scripting/help/building_help.lua:778
 msgid "Evade training:"
-msgstr ""
+msgstr "闪避训练："
 
 #. TRANSLATORS: Ware Encyclopedia: 1 ware produced by a productionsite
 #: ../../../../data/tribes/scripting/help/building_help.lua:788
@@ -16937,7 +16937,7 @@ msgstr ""
 #: ../../../../data/tribes/scripting/help/building_help.lua:813
 #: ../../../../data/tribes/scripting/help/ware_help.lua:60
 msgid "Ware produced:"
-msgstr ""
+msgstr "产出物品："
 
 #. TRANSLATORS: Ware Encyclopedia: More than 1 ware produced by a
 #. productionsite
@@ -16945,7 +16945,7 @@ msgstr ""
 #: ../../../../data/tribes/scripting/help/building_help.lua:816
 #: ../../../../data/tribes/scripting/help/ware_help.lua:63
 msgid "Wares produced:"
-msgstr ""
+msgstr "产出物品："
 
 #. TRANSLATORS: Ware Encyclopedia: 1 special worker or soldier recruited by a
 #. productionsite
@@ -16954,17 +16954,17 @@ msgstr ""
 #: ../../../../data/tribes/scripting/help/building_help.lua:829
 #: ../../../../data/tribes/scripting/help/worker_help.lua:56
 msgid "Workers recruited:"
-msgstr ""
+msgstr "招募的工人："
 
 #. TRANSLATORS: Performance helptext for a building - it hasn't been written
 #. yet.
 #: ../../../../data/tribes/scripting/help/building_help.lua:840
 msgid "Calculation needed"
-msgstr ""
+msgstr "需要计算"
 
 #: ../../../../data/tribes/scripting/help/building_help.lua:844
 msgid "Performance:"
-msgstr ""
+msgstr "效能："
 
 #: ../../../../data/tribes/scripting/help/controls.lua:7
 #: ../../../../data/tribes/scripting/help/init.lua:101
@@ -16973,13 +16973,13 @@ msgstr "控制"
 
 #: ../../../../data/tribes/scripting/help/controls.lua:9
 msgid "Window Control"
-msgstr ""
+msgstr "窗口操作"
 
 #. TRANSLATORS: This is an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:12
 msgctxt "hotkey"
 msgid "Right-click"
-msgstr ""
+msgstr "右键点击"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:14
@@ -16990,84 +16990,84 @@ msgstr "关闭窗口"
 #: ../../../../data/tribes/scripting/help/controls.lua:16
 msgctxt "hotkey"
 msgid "Middle-click or Ctrl + Left-click"
-msgstr ""
+msgstr "中键点击或 Ctrl + 左键点击"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:18
 msgid "Minimize/Maximize window"
-msgstr ""
+msgstr "最小化／最大化窗口"
 
 #. TRANSLATORS: This is an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:20
 msgctxt "hotkey"
 msgid "Ctrl + Left-click on Button"
-msgstr ""
+msgstr "在按钮上 Ctrl + 左键点击"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:22
 msgid "Skip confirmation dialog"
-msgstr ""
+msgstr "跳过确认对话框"
 
 #: ../../../../data/tribes/scripting/help/controls.lua:24
 msgid "Table Control"
-msgstr ""
+msgstr "表格操作"
 
 #: ../../../../data/tribes/scripting/help/controls.lua:25
 msgid ""
 "In tables that allow the selection of multiple entries, the following key "
 "combinations are available:"
-msgstr ""
+msgstr "在允许多选的表格里，可以使用以下组合键："
 
 #. TRANSLATORS: This is an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:28
 msgctxt "hotkey"
 msgid "Ctrl + Click"
-msgstr ""
+msgstr "Ctrl + 点击"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:30
 msgctxt "table_control"
 msgid "Select multiple entries"
-msgstr ""
+msgstr "选中多个条目"
 
 #. TRANSLATORS: This is an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:32
 msgctxt "hotkey"
 msgid "Shift + Click"
-msgstr ""
+msgstr "Shift + 点击"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:34
 msgctxt "table_control"
 msgid "Select a range of entries"
-msgstr ""
+msgstr "选中一段连续的条目"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:36
 msgctxt "table_control"
 msgid "Select all entries"
-msgstr ""
+msgstr "选中全部条目"
 
 #: ../../../../data/tribes/scripting/help/controls.lua:38
 msgid "Road Control"
-msgstr ""
+msgstr "道路操作"
 
 #. TRANSLATORS: This is an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:41
 #: ../../../../data/tribes/scripting/help/controls.lua:45
 msgctxt "hotkey"
 msgid "Ctrl + Left-click"
-msgstr ""
+msgstr "Ctrl + 左键点击"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:43
 msgid "While connecting two flags: Place flags automatically"
-msgstr ""
+msgstr "连接两面旗帜时：自动放置旗帜"
 
 #. TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../data/tribes/scripting/help/controls.lua:47
 msgid "While removing a flag: Remove all flags up to the first junction"
-msgstr ""
+msgstr "拆除旗帜时：拆掉直到第一个岔口为止的所有旗帜"
 
 #. TRANSLATORS: Size of a map immovablee
 #: ../../../../data/tribes/scripting/help/format_help.lua:68
@@ -17088,32 +17088,32 @@ msgstr "大"
 #. TRANSLATORS: Space on the map required for building a building there
 #: ../../../../data/tribes/scripting/help/format_help.lua:84
 msgid "Mine plot"
-msgstr ""
+msgstr "矿场地块"
 
 #. TRANSLATORS: Space on the map required for building a building there
 #: ../../../../data/tribes/scripting/help/format_help.lua:88
 msgid "Port plot"
-msgstr ""
+msgstr "港口地块"
 
 #. TRANSLATORS: Space on the map required for building a building there
 #: ../../../../data/tribes/scripting/help/format_help.lua:92
 msgid "Small plot"
-msgstr ""
+msgstr "小型地块"
 
 #. TRANSLATORS: Space on the map required for building a building there
 #: ../../../../data/tribes/scripting/help/format_help.lua:96
 msgid "Medium plot"
-msgstr ""
+msgstr "中型地块"
 
 #. TRANSLATORS: Space on the map required for building a building there
 #: ../../../../data/tribes/scripting/help/format_help.lua:100
 msgid "Big plot"
-msgstr ""
+msgstr "大型地块"
 
 #. TRANSLATORS: Space on the map required for building a building there
 #: ../../../../data/tribes/scripting/help/format_help.lua:106
 msgid "Space required:"
-msgstr ""
+msgstr "所需空间："
 
 #. TRANSLATORS: %1$d is a number, %2$s the name of a ware, e.g. 12x Stone
 #: ../../../../data/tribes/scripting/help/format_help.lua:204
@@ -17126,36 +17126,36 @@ msgstr "%1$dx %2$s"
 #: ../../../../data/tribes/scripting/help/format_help.lua:230
 #, lua-format
 msgid "%s to %s (%s EP)"
-msgstr ""
+msgstr "%s 到 %s（%s 经验）"
 
 #: ../../../../data/tribes/scripting/help/format_help.lua:306
 #, lua-format
 msgid "%s and"
-msgstr ""
+msgstr "%s 和"
 
 #. TRANSLATORS: Tribal Encyclopedia: Heading for wares and workers consumed by
 #. a productionsite
 #: ../../../../data/tribes/scripting/help/format_help.lua:328
 msgid "Wares and workers consumed:"
-msgstr ""
+msgstr "消耗的物品与工人："
 
 #. TRANSLATORS: Tribal Encyclopedia: Heading for workers consumed by a
 #. productionsite
 #: ../../../../data/tribes/scripting/help/format_help.lua:331
 msgid "Workers consumed:"
-msgstr ""
+msgstr "消耗的工人："
 
 #. TRANSLATORS: Tribal Encyclopedia: Heading for wares consumed by a
 #. productionsite
 #: ../../../../data/tribes/scripting/help/format_help.lua:335
 msgid "Wares consumed:"
-msgstr ""
+msgstr "消耗的物品："
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:35
 #: ../../../../data/tribes/scripting/help/ware_help.lua:30
 #: ../../../../data/tribes/scripting/help/worker_help.lua:137
 msgid "Purpose"
-msgstr ""
+msgstr "用途"
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:43
 #: ../../../../data/tribes/scripting/help/worker_help.lua:143
@@ -17164,31 +17164,31 @@ msgstr "注意"
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:58
 msgid "Requirements"
-msgstr ""
+msgstr "条件"
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:62
 msgid "Size"
-msgstr "尺寸"
+msgstr "大小"
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:66
 msgid "Workers and animals can walk across fields with this immovable."
-msgstr ""
+msgstr "工人和动物可以走过有这种固定物的地块。"
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:68
 msgid "Workers and animals can’t walk across fields with this immovable."
-msgstr ""
+msgstr "工人和动物无法走过有这种固定物的地块。"
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:74
 msgid "Becomes"
-msgstr ""
+msgstr "变为"
 
 #: ../../../../data/tribes/scripting/help/immovable_help.lua:100
 msgid "Preferred Terrains"
-msgstr ""
+msgstr "偏好地形"
 
 #: ../../../../data/tribes/scripting/help/init.lua:85
 msgid "Tribal Encyclopedia"
-msgstr "部落大百科"
+msgstr "部族百科全书"
 
 #: ../../../../data/tribes/scripting/help/init.lua:95
 msgid "Introduction"
@@ -17209,15 +17209,15 @@ msgstr "建筑"
 
 #: ../../../../data/tribes/scripting/help/init.lua:137
 msgid "Tribes Immovables"
-msgstr ""
+msgstr "部族固定物"
 
 #: ../../../../data/tribes/scripting/help/init.lua:144
 msgid "World Immovables"
-msgstr ""
+msgstr "世界固定物"
 
 #: ../../../../data/tribes/scripting/help/introduction.lua:7
 msgid "About Widelands"
-msgstr "关于Widelands"
+msgstr "关于 Widelands"
 
 #: ../../../../data/tribes/scripting/help/time_strings.lua:26
 #: ../../../../data/tribes/scripting/help/time_strings.lua:62
@@ -17250,24 +17250,24 @@ msgstr "多人游戏"
 #: ../../../../data/tribes/scripting/help/ware_help.lua:51
 #: ../../../../data/tribes/scripting/help/worker_help.lua:40
 msgid "Producer"
-msgstr ""
+msgstr "生产者"
 
 #. TRANSLATORS: Ware Encyclopedia: Heading for 1 building and / or worker that
 #. consumes a ware
 #: ../../../../data/tribes/scripting/help/ware_help.lua:125
 msgid "Consumer"
-msgstr ""
+msgstr "消耗者"
 
 #. TRANSLATORS: Ware Encyclopedia: A list of buildings and / or workers that
 #. consume a ware
 #: ../../../../data/tribes/scripting/help/ware_help.lua:128
 msgid "Consumers"
-msgstr ""
+msgstr "消耗者"
 
 #. TRANSLATORS: Worker Encyclopedia: 1 worker recruited by a productionsite
 #: ../../../../data/tribes/scripting/help/worker_help.lua:53
 msgid "Worker recruited:"
-msgstr ""
+msgstr "招募的工人："
 
 #. TRANSLATORS: Worker Encyclopedia: Heading for 1 building where a worker can
 #. work
@@ -17275,7 +17275,7 @@ msgstr ""
 #: ../../../../data/tribes/scripting/help/worker_help.lua:86
 msgctxt "workerhelp_one_building"
 msgid "Works at"
-msgstr ""
+msgstr "工作于"
 
 #. TRANSLATORS: Worker Encyclopedia: A list of more than 1 building where a
 #. worker can work
@@ -17283,45 +17283,45 @@ msgstr ""
 #: ../../../../data/tribes/scripting/help/worker_help.lua:90
 msgctxt "workerhelp_multiple_buildings"
 msgid "Works at"
-msgstr ""
+msgstr "工作于"
 
 #. TRANSLATORS: You can also translate this as 'additional workplace'
 #: ../../../../data/tribes/scripting/help/worker_help.lua:106
 msgctxt "workerhelp_one_building"
 msgid "Can also work at"
-msgstr ""
+msgstr "也可工作于"
 
 #. TRANSLATORS: You can also translate this as 'additional workplaces'
 #: ../../../../data/tribes/scripting/help/worker_help.lua:110
 msgctxt "workerhelp_multiple_buildings"
 msgid "Can also work at"
-msgstr ""
+msgstr "也可工作于"
 
 #. TRANSLATORS: Tribal Encyclopedia: Heading for which tool a worker uses
 #: ../../../../data/tribes/scripting/help/worker_help.lua:158
 msgid "Worker uses"
-msgstr ""
+msgstr "工人使用"
 
 #. TRANSLATORS: Soldier levels
 #: ../../../../data/tribes/scripting/help/worker_help.lua:185
 msgid "Levels"
-msgstr ""
+msgstr "等级"
 
 #: ../../../../data/tribes/scripting/help/worker_help.lua:187
 msgid "Health"
-msgstr ""
+msgstr "生命"
 
 #. TRANSLATORS: Soldier health / defense / evade points. A 5 digit number.
 #: ../../../../data/tribes/scripting/help/worker_help.lua:191
 msgid "Starts at %1% points."
-msgstr ""
+msgstr "初始为 %1% 点。"
 
 #. TRANSLATORS: Soldier health / attack defense / evade points
 #: ../../../../data/tribes/scripting/help/worker_help.lua:194
 #: ../../../../data/tribes/scripting/help/worker_help.lua:205
 msgid "Increased by %1% point for each level."
 msgid_plural "Increased by %1% points for each level."
-msgstr[0] ""
+msgstr[0] "每提升一级增加 %1% 点。"
 
 #. TRANSLATORS: Soldier health / attack defense / evade level
 #: ../../../../data/tribes/scripting/help/worker_help.lua:197
@@ -17330,7 +17330,7 @@ msgstr[0] ""
 #: ../../../../data/tribes/scripting/help/worker_help.lua:232
 msgid "The maximum level is %1%."
 msgid_plural "The maximum level is %1%."
-msgstr[0] ""
+msgstr[0] "最高等级为 %1%。"
 
 #: ../../../../data/tribes/scripting/help/worker_help.lua:199
 msgid "Attack"
@@ -17339,29 +17339,29 @@ msgstr "攻击"
 #. TRANSLATORS: Points are 4 digit numbers.
 #: ../../../../data/tribes/scripting/help/worker_help.lua:202
 msgid "A random value between %1% and %2% points is added to each attack."
-msgstr ""
+msgstr "每次攻击会加上 %1% 到 %2% 点之间的随机值。"
 
 #: ../../../../data/tribes/scripting/help/worker_help.lua:209
 msgid "Defense"
-msgstr ""
+msgstr "防御"
 
 #: ../../../../data/tribes/scripting/help/worker_help.lua:213
 #: ../../../../data/tribes/scripting/help/worker_help.lua:221
 #: ../../../../data/tribes/scripting/help/worker_help.lua:228
 #, lua-format
 msgid "Starts at %d%%."
-msgstr ""
+msgstr "初始为 %d%%。"
 
 #: ../../../../data/tribes/scripting/help/worker_help.lua:215
 #: ../../../../data/tribes/scripting/help/worker_help.lua:230
 #, lua-format
 msgid "Increased by %d%% for each level."
-msgstr ""
+msgstr "每提升一级增加 %d%%。"
 
 #: ../../../../data/tribes/scripting/help/worker_help.lua:222
 msgid "This soldier cannot be trained in defense."
-msgstr ""
+msgstr "这种士兵无法接受防御训练。"
 
 #: ../../../../data/tribes/scripting/help/worker_help.lua:225
 msgid "Evade"
-msgstr ""
+msgstr "闪避"

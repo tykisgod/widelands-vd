@@ -1,0 +1,353 @@
+9c1f074f4e	frisians_ware	Woodcutters fell the trees; foresters take care of the supply of trees. Logs are also used in the blacksmithy to build basic tools, and in the charcoal kiln for the production of coal. Smokeries use logs as fuel for smoking meat and fish.
+02aafd6eb2	frisians_ware	The Frisians produce granite blocks in quarries and rock mines. They can be refined in a brick kiln.
+f6c483984d	frisians_ware	Clay is made out of water and mud to be turned into bricks, used in ship construction and to improve the charcoal kiln.
+5d041b96e1	frisians_ware	Bricks are the best and most important building material. They are made out of a mix of clay and granite dried in a coal fire.
+b0b43c4929	frisians_ware	Reed is grown in a reed farm. Nothing is better suited to make roofs waterproof. It is also used to make baskets and fishing nets as well as cloth.
+e0a05f7bd3	frisians_ware	Fur is won from reindeer in a reindeer farm. It is woven into cloth or turned into fur garments for soldiers.
+bd08d3c8d8	frisians_ware	Cloth is needed for ships. It is produced out of reindeer fur and reed.
+7c81b93e63	frisians_ware	Fruit are berries gathered from berry bushes by a fruit collector. They are used for rations and for feeding the fish at the aqua farms.
+c92751de97	frisians_ware	Water is used to bake bread and brew beer. Reindeer farms and aqua farms also consume it.
+08ee0a9726	frisians_ware	Barley is a slow-growing grain that is used for baking bread and brewing beer. It is also eaten by reindeer.
+5c7ed465d9	frisians_ware	Honey is produced by bees belonging to a beekeeper. It is used to bake honey bread and brew mead.
+46e37ce60c	frisians_ware	Bread is made out of barley and water and is used in the taverns to prepare rations. It is also consumed by training soldiers.
+0c7748100e	frisians_ware	This bread is sweetened with honey. It is consumed by the most experienced miners and in advanced soldier training.
+8f553fc808	frisians_ware	Beer is produced in breweries and used in drinking halls to produce meals. Soldiers drink beer while receiving basic training.
+797b8dc6f7	frisians_ware	Mead is produced by mead breweries. Soldiers drink mead during advanced training.
+c02c74d0b8	frisians_ware	Fish is a very important food resource for the Frisians. It is fished from the shore or reared in aqua farms.
+8607138f5f	frisians_ware	Meat has to be smoked in a smokery before being delivered to taverns, drinking halls and training sites.
+1b9a285bcc	frisians_ware	Fish is smoked in a smokery. Smoked fish is then consumed by soldiers in training or turned into rations and meals for miners and scouts.
+f1b50dc9cf	frisians_ware	Meat is smoked in a smokery. Smoked meat is then consumed by soldiers in training or turned into rations and meals for miners and scouts.
+530f9aa47d	frisians_ware	Rations are produced in taverns and drinking halls out of something to eat: Fruit, bread or smoked meat or fish.
+6500cdfdbf	frisians_ware	A meal is made out of honey bread and beer and either smoked fish or meat. It is consumed by miners in deep mines.
+0937e18f57	ware	Coal is mined in coal mines or produced out of logs by a charcoal burner in a charcoal kiln or charcoal burner’s house.
+c246d7943d	frisians_ware	The fires of the brick kilns, furnaces, armor smithies and recycling centers are fed with coal.
+df8231cd99	frisians_ware	It is smelted in a furnace to retrieve the iron.
+9278754311	frisians_ware	It is produced by the furnace. Tools and weapons are made of iron. It is also used as jewellery for fur garment armor to give it a silver shine.
+851714f1ca	frisians_ware	Smelted in a furnace, it turns into gold which is used as a precious building material and to produce weapons and armor.
+ce0e130ed2	frisians_ware	Only very important things are embellished with gold. It is produced by the furnace and is used to produce better swords and the best helmets. The best armor is also decorated with gold.
+a0bf3f00e1	frisians_ware	Discarded weapons and armor can be recycled in a recycling center to produce new tools, weapon and armor.
+63a66176c1	frisians_ware	Old garments can be turned into fur in a recycling center.
+08e55e656c	frisians_ware	Picks are used by stonemasons and miners.
+2beabbf36f	frisians_ware	Felling axes are used by woodcutters and produced by the blacksmithy.
+9152d965e0	frisians_ware	They are used by berry and reed farmers as well as foresters. Clay diggers also need them to dig mud out of hard soil.
+a9fe05f830	frisians_ware	Geologists, builders, blacksmiths and shipwrights all need a hammer. Make sure you’ve always got some in reserve! They are produced by the blacksmithy.
+f3cdff4d02	frisians_ware	Fishing nets are the tool used by fishers.
+d079e18a0c	frisians_ware	Hunting spears are produced by the blacksmithy
+d4d1a8d88a	frisians_ware	Scythes are produced by the blacksmithy.
+cd6b7af350	frisians_ware	Bread paddles are produced by the blacksmithy.
+156529dc02	frisians_ware	Kitchen tools are needed for preparing rations and meals. The smoker also needs them.
+d6cce78940	frisians_ware	They are used in the furnace and the brick kiln and produced by the blacksmithy.
+11fb82ec1e	frisians_ware	Baskets are needed by the fruit collector to gather berries. They are woven from reed and wood by the blacksmith.
+37a136a58f	frisians_ware	Needles are used by seamstresses to sew cloth and fur garments.
+de27e00cf9	frisians_ware	This is the basic weapon of the Frisian soldiers. Together with a fur garment, it makes up the equipment of young soldiers. Short swords are produced by the small armor smithy.
+2dc1c63b68	frisians_ware	The long sword is the weapon used by level 1 soldiers. Level 4 soldiers are equipped with a long and a double-edged sword.
+5d721c77ad	frisians_ware	The broadsword is the weapon used by level 2 soldiers. Level 5 soldiers are equipped with a broadsword and a double-edged sword.
+a1cff8b415	frisians_ware	The double-edged sword is the weapon used by level 3 soldiers. Level 6 soldiers are equipped with two of these ferocious swords.
+b9f968cdda	frisians_ware	Fur can be sewn into garments. They are used as basic armor. All new soldiers are clothed in a fur garment.
+7d0a555045	frisians_ware	Ordinary fur garments can be decorated with iron to give them a silvery shine. These clothes make good armor.
+12d2701763	frisians_ware	Ordinary fur garments can be decorated with iron and gold. Such clothes are the best armor.
+d5d91e9d66	frisians_ware	A helmet is a basic tool to protect soldiers. It is produced in the small armor smithy and used to train soldiers from health level 0 to level 1.
+228736df60	frisians_ware	A golden helmet protects soldiers. It is produced in the large armor smithy and used to train soldiers from health level 1 to level 2.
+a11c281703	frisians_worker	Carries items along your roads.
+17ffe8cb08	frisians_worker	Ships wares across narrow rivers.
+5b025e7b76	frisians_worker	Reindeer help to carry items along busy roads. They are reared in a reindeer farm.
+20c76ad498	frisians_worker	Breeds reindeer as carriers and for their fur.
+b0ed805748	frisians_worker	Cuts raw pieces of granite out of rocks in the vicinity.
+2228236bde	frisians_worker	Fells trees.
+0166e3901f	frisians_worker	Plants trees.
+69cec95f3f	frisians_worker	Makes clay out of mud and water.
+72385602b6	frisians_worker	Burns bricks out of clay and granite.
+c93f89736d	frisians_worker	Works at construction sites to raise new buildings.
+8ac4b28c5d	frisians_worker	Plants and harvests reed fields.
+137af59c96	frisians_worker	Produces cloth and sews fur garments.
+aa78855a63	frisians_worker	Sews armor out of fur garments and metal.
+84dee86177	frisians_worker	Works at the shipyard and constructs new ships.
+1eaf470f0f	frisians_worker	Constructs breakwaters to gain new land from the sea.
+d94b85fbc5	frisians_worker	Catches fish in the sea.
+0d0bc75dc0	frisians_worker	The hunter brings fresh, raw meat to the colonists.
+e18529891a	frisians_worker	Plants fields.
+f50f323db4	frisians_worker	Plants berry bushes.
+641de22340	frisians_worker	Gathers berries.
+00679169f1	frisians_worker	Refines meat and fish by smoking them.
+1afb0fdf3d	frisians_worker	Lets bees swarm over flowers, then gathers the honey.
+f8fdf72b3c	frisians_worker	Bakes bread for miners and soldiers.
+3469b6eeda	frisians_worker	This baker is skilled enough to bake bread sweetened with honey.
+dc64d2024a	frisians_worker	Brews beer.
+9d65c3d5c1	frisians_worker	Brews beer and mead.
+54e6b3eee1	frisians_worker	Prepares rations and meals for miners and scouts.
+d07fd6de4a	frisians_worker	Discovers resources for mining.
+cd50a33aeb	frisians_worker	Works deep in the mines to obtain coal, iron, gold or granite.
+01438b481e	frisians_worker	Burns logs and clay to produce coal.
+4ffd5c558a	frisians_worker	Smelts iron and gold at furnaces or recycling centers.
+67a0a2fe9b	frisians_worker	Produces weapons and armor for soldiers and tools for workers.
+aa759d6710	frisians_worker	Produces the best weapons and armor for soldiers and tools for workers.
+1e09398d3f	frisians_worker	Defend and Conquer!
+76d9ac0663	frisians_worker	Trains the soldiers.
+9608924ee7	frisians_worker	Explores unknown territory.
+8d34445c08		This berry bush has just been planted.
+7685a4092b		This berry bush is growing.
+8c3e4278d7		This berry bush is flowering. Honey can be produced from it by a beekeeper.
+3279718abb		This berry bush is ready for harvesting.
+8bf51c8f5a		This field is flowering. Honey can be produced from it by a beekeeper.
+77a95d3192		When claydiggers dig up earth, they leave holes in the ground. These holes vanish after a while. Aqua farms can use them as ponds to grow fish in them, whereas charcoal burners erect their charcoal stacks in them.
+01c4b98ae1		Fish are maturing in this pond. A fisher working from an aqua farm will be able to catch them when they are bigger.
+1a07991a30		Fish are living in this pond. A fisher working from an aqua farm can catch them as food.
+85c01adc97		A charcoal stack is burning in this earthen hole. When it has burnt down, a charcoal burner will be able to gather coal from it.
+be1d5610dc		A charcoal stack, which had been erected in this earthen hole, is ready for a charcoal burner to gather coal from it.
+6dbfb82ebe		A breakwater erected by a diker to gain new land from the sea.
+812f5609af		You can manually remove the dike when the land is sufficiently secured to prevent wasting resources. To do so, build a flag, road, or building in its place.
+e19153e183		This reed field is flowering. Honey can be produced from it by a beekeeper.
+ea34d28362		Granite is a basic building material and can be dug up by a rock mine.
+713cd5ec0a		This grapevine is flowering. Honey can be produced from it by a beekeeper.
+a978bb8f3c	frisians_building	Accommodation for your people. Also stores your wares and tools.
+d6e1a6bf63	frisians_building	The headquarters is your main building.
+8a3deba22d	frisians_building	Your workers and soldiers will find shelter here. Also stores your wares and tools.
+a3b2959662	frisians_building	Serves as a base for overseas colonization and trade. Also stores your soldiers, wares and tools.
+6d7e72b904	frisians_building	Similar to the Headquarters a Port can be attacked and destroyed by an enemy. It is recommendable to send soldiers to defend it.
+1823dce632	frisians_building	Tradecraft is the fine art of getting others to give you the wares that you want in exchange for wares you don’t want; excuse me, I mean, for wares you convince them to think that they need.
+6edb98d870	frisians_building	A trader explaining his diplomacy
+4a9b9a968c	frisians_building	A market enables trading with other tribes.
+ac62964ee9	frisians_building	When I swing my pick, whole mountains fall before me!
+a9aba84c5d	frisians_building	A stonemason
+eb40c40dce	frisians_building	Cuts raw pieces of granite out of rocks in the vicinity.
+7474446b76	frisians_building	The quarry needs rocks to cut within the work area.
+f708c70de1	frisians_building	This building can produce one granite between %1$s and %2$s, depending on how far the stonemason has to walk.
+51581bbaf6	frisians_building	In case of slopes or obstacles in the way, the time is increased.
+7755b0bd9a	frisians_building	I cannot see a tree without imagining what it would look like in terms of furniture.
+f2f72e6d48	frisians_building	An over-enthusiastic woodcutter
+1160a274f5	frisians_building	The woodcutter’s house needs trees to fell within the work area.
+4af9aafc69	frisians_building	This building can produce one log between %1$s and %2$s, depending on how far the woodcutter has to walk.
+d4b8d4f2cd	frisians_building	What can ever be more beautiful than the brilliant sun’s beams shining through the glistering canopy of leaves?
+69ba4dbc6f	frisians_building	A forester explaining his choice of profession
+0003b2d28a	frisians_building	The forester’s house needs free space within the work area to plant the trees.
+05f82f75c9	frisians_building	The forester plants one tree between %1$s and %2$s, depending on how far he has to walk.
+3c4800e4a8	frisians_building	The hunter’s house needs animals to hunt within the work area.
+fa44fdd48c	frisians_building	This building can produce one meat between %1$s and %2$s, depending on how far the hunter has to walk.
+6ca806a7a3	frisians_building	The hunter produces one fur after he has produced five pieces of meat.
+296bad3903	frisians_building	Hunters can’t sell anything on a Friday, but fishers don’t have such problems.
+6ccd866f96	frisians_building	A hunter admiring a fisher
+4147dd8255	frisians_building	Fishes on the coast near the fisher’s house.
+0c5ac8662d	frisians_building	The fisher’s house needs water full of fish within the work area.
+b8797f7b97	frisians_building	Roads and trees along the shoreline block fishing.
+ab4b60892b	frisians_building	This building can produce one fish between %1$s and %2$s, depending on how far the fisher has to walk.
+7a5b4ec452	frisians_building	No worse fortune can befall a reed farmer than to see his roof leaking.
+b0b67658a4	frisians_building	Anonymous reed farmer
+027abad964	frisians_building	Cultivates reed that serves three different purposes for the Frisians.
+468549b7c1	frisians_building	Reed is the traditional material for roofing. It is also needed to produce baskets and fishing nets, and it is woven – together with reindeer fur – into the cloth used for ships’ sails.
+37c7364ea0	frisians_building	The reed farmer sows and harvests one sheaf of reed between %1$s and %2$s, depending on how far he has to walk.
+b1793f45ad	frisians_building	The reed farm needs at least %s to work at full productivity most of the time.
+3e3c7673f2	frisians_building	We love the sea so much that we don’t want to drink it empty!
+0d992fea0e	frisians_building	Chieftain Arldor’s retort when he was asked why his tribe can’t drink salt water
+d57715a2d3	frisians_building	The carrier needs %s to get one bucket full of water.
+67a7408f99	frisians_building	If the water resource is depleted, the carrier needs %s on average.
+bdecb36f8d	frisians_building	You think you can build a house without my help?
+8b468784ba	frisians_building	A clay digger arguing with a builder
+04d3f6271a	building	Digs up mud from the ground and uses water to turn it into clay. Clay is used to make bricks, reinforce the charcoal kiln and to build ships.
+b785a2a7ba	frisians_building	This building can produce one clay between %1$s and %2$s, depending on how far the clay digger has to walk.
+89296b5fce	frisians_building	No other tribe has ever mastered the art of charcoal burning as we have!
+e1a371344c	frisians_building	The inventor of the Frisian charcoal kiln
+48d3b66232	building	The charcoal burner’s house needs holes in the ground that were dug by a clay pit’s worker nearby to erect charcoal stacks in them.
+49eca76ca9	frisians_building	This building can produce one coal between %1$s and %2$s, depending on how far the charcoal burner has to walk.
+53d7a95f4a	frisians_building	My bushes may not be as tall as your trees, but I don’t know anybody who likes to eat bark!
+0d460ade2d	frisians_building	A berry farmer to a forester
+4ab312f210	building	Plants berry bushes in the surrounding area.
+3f108f7ed4	frisians_building	The berry farm needs free space within the work area to plant the bushes.
+a923335418	frisians_building	The berry farmer plants one bush between %1$s and %2$s, depending on how far he has to walk.
+98dd607aa1	frisians_building	Meat doesn’t grow on bushes. Fruit does.
+f67a71bad6	frisians_building	A fruit collector advertising his harvest to a landlady
+e00150c3be	building	Collects berries from nearby bushes.
+db50adcc40	frisians_building	The fruit collector needs bushes full of berries within the work area.
+7a538c7b2d	frisians_building	The fruit collector harvests one bush between %1$s and %2$s, depending on how far he has to walk.
+850af67c2b	frisians_building	If my honey tastes bitter, I must have left some bee stings in it. There are never any bee stings in my honey, therefore, it is not bitter.
+35c25571db	frisians_building	A beekeeper ignoring a customer’s complaint
+44637084ef	frisians_building	Keeps bees and lets them swarm over flowering fields to produce honey.
+4add23ce5b	frisians_building	Needs medium-sized fields (barley, wheat, reed, corn or blackroot) or bushes (berry bushes or grapevines) nearby.
+7d6005759e	frisians_building	The beekeeper collects one honey between %1$s and %2$s, depending on how far he has to walk.
+df347a0e28	frisians_building	Why on earth shouldn’t we be able to catch fish even in the desert?
+3f8d9c0439	frisians_building	The fisherman who invented aqua farming
+3d35484a8c	frisians_building	Breeds fish as food for soldiers and miners.
+fe39dc7744	building	The aqua farm needs holes in the ground that were dug by a clay pit’s worker nearby to use as fishing ponds.
+3ead97d8a6	frisians_building	Everyone has their own ideas on how exactly we should explore the enemy’s territory… One more ‘improvement’ suggestion and we’ll demand meals instead of rations!
+41a442717a	frisians_building	The spokesman of the scouts’ labor union
+72a278c914	frisians_building	You need to connect this flag to a scout’s house before you can send a scout here.
+4c62978663	frisians_building	One exploration trip of the scout takes between %1$s and %2$s.
+cbf8e6e504	frisians_building	If there is not enough coal, only the most foolish of leaders would deprive his brick kilns of it first.
+2b3a6764e7	frisians_building	A brickmaker arguing with his chieftain who was doing just that
+9e4e0982e1	building	Burns bricks using granite and clay, and coal as fuel. Bricks are the most important building material.
+0b409f5bb7	frisians_building	The brick kiln needs %s on average to produce one brick.
+5ba53f6ca4	frisians_building	Miners get ores from the depths of the hills; but without our work, their labour is in vain.
+3483ce0698	frisians_building	Slogan of the Smelters’ Guild
+b639d25677	building	Smelts iron ore and gold ore into iron and gold ingots using coal.
+2ac0de6de1	frisians_building	If this building is fully supplied and all metals are needed by the economy, production of one iron takes %1$s and one gold takes %2$s on average. If only one kind of metal is needed by the economy, production of one iron takes %3$s and one gold takes %4$s on average.
+800fe50d7a	frisians_building	Of course these weapons could be used by other soldiers again without being smelted down first! The only drawback is that they’d break in two at the first blow.
+2148751015	frisians_building	A smelter explaining the need for recycling to his impatient chieftain
+96cad3d74e	frisians_building	Recycles old armor and weapon parts that have been discarded by training sites into fur, iron and gold.
+84c0798692	frisians_building	If this building is fully supplied and all materials are needed by the economy, production of one fur takes %1$s, one iron takes %2$s and one gold takes %3$s on average. If only one kind of material is needed by the economy, production of one fur takes %4$s, one iron takes %5$s and one gold takes %6$s on average.
+ac4c4d4024	frisians_building	If you don’t have iron, change your name from blacksmith to lacksmith!
+583707de90	frisians_building	Irritated chieftain during a metal shortage
+577c7b2cb9	building	Forges tools to equip new workers.
+ac1bd195df	frisians_building	If this building is fully supplied and all tools are needed by the economy, production of one of each tool takes %1$s on average. If only one kind of tool is needed by the economy, its production takes %2$s on average. Needles are an exception – in the time to produce one tool two needles are produced.
+26c2e01a59	frisians_building	I don’t forge swords because soldiers need ’em, but soldiers get ’em because I forge ’em.
+5a4a91ebe4	frisians_building	A blacksmith pointing out his influence on soldier training
+0118771652	frisians_building	Produces basic weapons and helmets for the soldiers.
+58c7de3e46	frisians_building	If this building is fully supplied and all swords and helmets are needed by the economy, production of one short sword takes %1$s, one long sword takes %2$s and one helmet takes %3$s on average. If only one kind of sword or helmet is needed by the economy, production of one short sword takes %4$s, one long sword takes %5$s and one helmet takes %6$s on average.
+17dbc59dbc	frisians_building	Of course I could still forge short and long swords, but it is beneath my honor to bother with such basic equipment now.
+1903eaab39	frisians_building	A master blacksmith refusing to forge anything but the most sophisticated helmets and weapons
+68327b40c3	frisians_building	Produces advanced weapons and golden helmets for the soldiers.
+1eddf58d0c	frisians_building	If this building is fully supplied and all swords and helmets are needed by the economy, production of one broadsword takes %1$s, one double-edged sword takes %2$s and one golden helmet takes %3$s on average. If only one kind of sword or helmet is needed by the economy, production of one broadsword takes %4$s, one double-edged sword takes %5$s and one golden helmet takes %6$s on average.
+06dc341cfd	frisians_building	You soldiers think a good sword is everything, but where would you be if you had no garments?
+c06ac01d54	frisians_building	A seamstress scolding a soldier for disrespecting her profession
+40e7747c87	building	Sews fur garments out of reindeer fur.
+00ba9f14a6	frisians_building	The sewing room needs %s on average to produce one fur garment.
+65b295835c	frisians_building	Don’t complain if these garments are too heavy – they’re not supposed to be light but to keep you alive a bit longer!
+3313d7eb00	frisians_building	A trainer scolding a soldier
+5331f3a5bb	building	Equips fur garments with iron or gold to produce good armor.
+af258a863a	frisians_building	If this building is fully supplied and all garments are needed by the economy, production of one of each garment takes %1$s on average. If only one kind of garment is needed by the economy, its production takes %2$s on average.
+dc81a29e0d	frisians_building	The charcoal kiln needs %s on average to produce one coal.
+eedf3a61ec	frisians_building	Miners and soldiers are so picky… But who am I to complain, as I make my living from it?
+616b92c0fd	frisians_building	A smoker explaining his profession
+aaefb6903f	frisians_building	Smokes fish and meat using logs. Only smoked meat and fish are good enough to be eaten by miners and soldiers.
+97abe2dc01	frisians_building	If this building is fully supplied, production of one of each smoked food takes %s on average.
+c1d75ba168	frisians_building	Why shouldn’t my bread taste good? It’s only barley and water!
+309f2df677	frisians_building	A baker
+74d7a9ca3c	frisians_building	Bakes bread out of barley and water to feed miners and soldiers.
+4e92eddc3d	frisians_building	The bakery needs %s on average to produce one loaf of bread.
+8b078e395a	frisians_building	Rookies will say that vengeance is sweet. Heroes will say that honey bread is sweeter.
+c7cd7eae81	frisians_building	A trainer in conversation with a baker
+67286592d5	frisians_building	Bakes honey bread out of barley, water and honey to feed miners in deep mines and soldiers in advanced training.
+2de784a4fc	frisians_building	If this building is fully supplied and all breads are needed by the economy, production of one bread takes %1$s and one honey bread takes %2$s on average. If only one kind of bread is needed by the economy, production of one bread or one honey bread takes %3$s on average.
+a5293cf89f	frisians_building	I know no single master miner who’ll ever work without a nice pint of beer!
+7b66877880	frisians_building	A brewer boasting about the importance of his profession
+63c91dd42e	frisians_building	Brews beer for miners and soldier training.
+ba8f0c31d0	frisians_building	The brewery needs %s on average to brew one mug of beer.
+79626495a5	frisians_building	If you like beer, you’ve never tasted mead.
+2029acad88	frisians_building	Slogan over a mead brewery
+508d6f5f7e	frisians_building	Brews beer out of barley and water. It also brews mead, which is beer refined with honey. Mead is consumed by experienced soldiers.
+8784d3b7fa	frisians_building	If this building is fully supplied and all drinks are needed by the economy, production of one beer takes %1$s and one mead takes %2$s on average. If only one kind of drink is needed by the economy, production of one beer or one mead takes %3$s on average.
+93ece787be	frisians_building	Nothing but fruit all day… Couldn’t you hurry up a bit?
+b8321c7ee2	frisians_building	Hungry customers in times of a shortage of smoked fish and meat
+3cc7c04187	frisians_building	If the tavern is fully supplied, it can produce one ration in %1$s on average, using two kinds of ingredients. If it can only use one kind of ingredient, it can produce one ration in %2$s on average.
+ce72429143	frisians_building	All I need to be happy is a slice of honey bread with some smoked meat and a beer.
+962b3b669b	frisians_building	A master miner to the landlady
+cc6df37e63	frisians_building	Prepares rations for scouts and rations and meals to feed the miners in all mines.
+fb30a24a87	frisians_building	If this building is fully supplied and all kinds of food are needed by the economy, production of one of each food takes %1$s on average. If only one kind of food is needed by the economy, production of one ration takes %2$s and one meal takes %3$s on average.
+46ae858f04	frisians_building	You have thirty seconds to learn the basics of swordfighting and how to stay alive in battle. A third of that time has gone by for the introduction alone! You’d better pay close attention to me in order to make the most of it. Now here is your new short sword, forged just for you by our best blacksmiths. Time’s up everyone, now go occupy your sentinels!
+d315608e6c	frisians_building	A trainer greeting the new recruits
+e516d127a2	frisians_building	Equips recruits and trains them as soldiers.
+cc6764c96b	frisians_building	The barracks need %s on average to recruit one soldier.
+21897f40aa	frisians_building	Who says a beast of burden cannot be useful for other things than transport?
+09e10d9917	frisians_building	The reindeer breeder who first proposed using reindeer fur for clothing
+6a0f4e774b	frisians_building	Breeds strong reindeer for adding them to the transportation system. Also keeps them for their fur, which is turned into armor and cloth.
+d7a773251d	frisians_building	If the supply is steady and there is continuous demand for fur, then the reindeer farm produces one meat after producing three pieces of fur.
+a7ab9a0554	frisians_building	If this building is fully supplied and both reindeers and furs are needed by the economy, production of one reindeer takes %1$s and one fur takes %2$s on average. If only reindeers are needed by the economy, their production takes %3$s on average. If only fur is needed by the economy, its production takes %4$s on average.
+bb045eb406	frisians_building	No frost, no heat; no rain, no drought; no rats, no locusts; naught can destroy my harvest.
+d470c05fbc	frisians_building	A farmer’s reply when asked by his chieftain why he was planting such a slow-growing grain.
+17bbf2cc8b	building	Sows and harvests barley.
+423345de11	frisians_building	The farm needs free space within the work area to plant seeds.
+afbcd21029	frisians_building	The farmer sows and harvests one sheaf of barley between %1$s and %2$s, depending on how far he has to walk.
+f009ea6672	frisians_building	The farm needs at least %s to work at full productivity most of the time.
+a186fd15ff	frisians_building	Constructs breakwaters nearby to gain new land from the sea.
+1ef070dd73	frisians_building	The diker will terraform the land around each breakwater he builds several times. You can manually remove breakwaters when the land is sufficiently secured to prevent wasting resources; to do so, build a flag, road, or building in the dike’s place.
+0762b3b5ed	frisians_building	If this building is fully supplied, the diker can perform one terraform between %1$s and %2$s, depending on how far he has to walk.
+e56dba8b9c	building	Digs granite out of the ground in mountain terrain.
+872900655c	frisians_building	If the food supply is steady, the rock mine can produce granite in %s on average.
+3f47f42339	frisians_building	If the food supply is steady, the deep rock mine can produce granite in %s on average.
+fa9cfca045	frisians_building	If the food supply is steady, the coal mine can produce coal in %s on average.
+03d8236473	frisians_building	If the food supply is steady, the deep coal mine can produce coal in %s on average.
+eccbaacbfe	frisians_building	If the food supply is steady, the iron mine can produce one piece of iron ore in %s on average.
+e8b7c61be4	frisians_building	If the food supply is steady, the deep iron mine can produce iron ore in %s on average.
+ead3f0e22c	frisians_building	If the food supply is steady, the gold mine can produce one piece of gold ore in %s on average.
+f7514134b9	frisians_building	If the food supply is steady, the deep gold mine can produce gold ore in %s on average.
+f920d020ed	frisians_building	Just be quiet, listen carefully, and do try not to stab yourself until I’ve explained to you how to hold a broadsword.
+a2bef11a9e	frisians_building	A trainer training a soldier
+8e5c9f1033	frisians_building	Trains soldiers in Attack up to level 3 as well as in Defense and Health to level 1. Equips the soldiers with all necessary weapons and armor parts.
+e77135744a	frisians_building	Frisian soldiers cannot train in Evade and will remain at their initial level.
+c7e725b92d	frisians_building	If all needed wares are delivered in time, a training camp can train one soldier one level in attack, defense or health in %s on average.
+696ab6aa9c	frisians_building	Complete training of one soldier takes %s on average.
+244ffcc668	frisians_building	Now that you have two swords, there’s more of a risk you’ll accidentally stab yourself, but if you got this far, you’ll likely master this challenge as well.
+d9e5a17c0e	frisians_building	Trains soldiers in Attack, Defense and Health to the final level. Equips the soldiers with all necessary weapons and armor parts.
+cc178e15bb	frisians_building	Trains only soldiers who have been trained to the maximum level by the Training Camp.
+6997c3b494	frisians_building	If all needed wares are delivered in time, a training arena can train one soldier one level in attack in %1$s, one level in defense in %2$s and one level in health in %3$s on average.
+c153f275ef	frisians_building	Garrisons soldiers to expand your territory.
+4f4b0c7fa0	frisians_building	If you’re low on soldiers to occupy new military sites, use the downward arrow button to decrease the capacity. You can also click on a soldier to send him away.
+a5f457ac8a	frisians_building	This building can produce one ferry between %1$s and %2$s, depending on how far the shipwright has to walk.
+838e043475	frisians_building	This house may be called a shipyard, but my ships are rather longer than one yard!
+379ed7863f	frisians_building	A shipwright who only constructed toy ships after being chid that his ships were too small
+7fbe7a4eaa	frisians_building	This building can produce one ship between %1$s and %2$s, depending on how far the shipwright has to walk.
+af5c084c48	frisians_building	Reindeer’s fur and roofing reed<br>These items two make up the seed<br>For ships of wood to chain the gales<br>In sturdy, beautious, blowing sails!
+31391307de	frisians_building	A seamstress’ work song
+4e34e6ea0c	building	Sews cloth for ship sails out of reed and reindeer fur.
+e3683c220c	frisians_building	The weaving mill needs %s on average to produce one piece of cloth.
+fff29d5df1	warehousename	Aalkersem
+46464f346b	warehousename	Äfkebel
+0239557570	warehousename	Ämelsbel
+7c9b69b4ce	warehousename	A Nääs
+35e8426531	warehousename	Ārichsem
+011a003062	warehousename	Baamst
+42cafb8103	warehousename	Beergem
+3b752551a1	warehousename	Borigsem
+4ee6bc746b	warehousename	Bousbel
+0ca8737aa6	warehousename	Bräist
+410961ba55	warehousename	Bualigsem
+7981d96898	warehousename	Deesbel
+c1ed6f7b39	warehousename	Doogebel
+20d12172c4	warehousename	Dunsem
+796e80237d	warehousename	E Hoorne
+6d5426fca3	warehousename	Emst
+09c6892d7f	warehousename	Fåålst
+d80cbc6f81	warehousename	Friedrichstääd
+290c3fe068	warehousename	Gaarding
+5f8659b663	warehousename	Haatst
+a1809a9fda	warehousename	Hoorbel
+6df8d0bd15	warehousename	Hoorst
+fc376ad2ef	warehousename	Hörnem
+8d47a202de	warehousename	Hüsem
+c1031f40e7	warehousename	Iibel
+d406df7fa3	warehousename	Imensteed
+6c254a5095	warehousename	Kååting
+dbeb8da36f	warehousename	Kairem
+535f996257	warehousename	Klangsbel
+2e586e36aa	warehousename	Kläntem
+3c8ffa2082	warehousename	Klasbel
+5efdf1f703	warehousename	Kuurlem
+4c68e4921d	warehousename	Läitjholem
+36620184c1	warehousename	Madlem
+565a7fc540	warehousename	Mälst
+04c1d70adb	warehousename	Mönkebel
+1da539880f	warehousename	Moosbel
+13ae03f3a2	warehousename	Muasem
+9acccfa6d3	warehousename	Naibel
+d7a2a9bed7	warehousename	Neebel
+c470cde962	warehousename	Njiblem
+24fc1b61f3	warehousename	Noorst
+2dbb1a4d1f	warehousename	Olersem
+a7f8a54125	warehousename	Odenbel
+d79cc8ae55	warehousename	Ödersem
+e259f1c32b	warehousename	Popenbel
+da7a5f6132	warehousename	Raantem
+ee33054224	warehousename	Reinsbel
+d2a5b67426	warehousename	Rikesbel
+70b5aced11	warehousename	Risem
+67822e8205	warehousename	Seebel
+f10d215c05	warehousename	Snootebel
+113336d3eb	warehousename	Söleraanj
+86d9d3e512	warehousename	Strükem
+0117976260	warehousename	Tååting
+8a24129d31	warehousename	Taning
+c6f14a829d	warehousename	Teedenbel
+c685f5ead3	warehousename	Tinem
+f2df8ad76f	warehousename	Toorpem
+91ad8b1420	warehousename	Ülwelsbel
+ade0cab413	warehousename	Wiisem
+cc686c45cf	warehousename	A Wik
+1c0e42b51b	warehousename	Witjdün
+a22d2138a9	frisians	Worker missing
+ce973f742c	frisians	Worker is coming
+51f39d096b	frisians	Workers missing
+09f628bed7	frisians	Workers are coming
+b91caea4d7	frisians	Expert missing
+cd239a8e55	frisians	Experts missing
+12dff147c8	frisians_soldier	%1% soldier (+%2%)
+16a2837f7e	frisians_soldier	%1% soldier
+15301e942e	frisians_soldier	%1%(+%2%) soldier (+%3%)
+fc333ccc78	frisians_soldier	%1%(+%2%) soldier

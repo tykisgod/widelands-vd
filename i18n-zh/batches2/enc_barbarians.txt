@@ -1,0 +1,607 @@
+63f7ab725f	barbarians_ware	The Barbarians produce granite blocks in quarries and granite mines.
+7b24f7acfe	barbarians_ware	Barbarian lumberjacks fell the trees; rangers take care of the supply of trees. Logs are also used in the metal workshop to build basic tools, and in the charcoal kiln for the production of coal. The wood hardener refines logs into blackwood by hardening them with fire.
+f3fde49b51	barbarians_ware	This fire-hardened wood is as hard as iron and it is used for several buildings. It is produced out of logs in the wood hardener.
+1b56c4c104	barbarians_ware	Granite can be processed into grout which provides a solid, non burning building material. Grout is produced in a lime kiln.
+c90bfe50f4	barbarians_ware	Reed is produced in a reed yard and used to make the roofs of buildings waterproof.
+6d27390747	barbarians_ware	Cloth is needed for Barbarian ships. It is produced out of reed.
+adbe50d3eb	barbarians_ware	Besides pitta bread and meat, fish is also a foodstuff for the Barbarians. It is used in the taverns, inns and big inns and at the training sites (training camp and battle arena).
+5845b0c2b5	barbarians_ware	Meat is used in the taverns, inns and big inns to prepare rations, snacks and meals for the miners. It is also consumed at the training sites (training camp and battle arena).
+359a8654b6	barbarians_ware	Water is used in the bakery, the micro brewery and the brewery. The lime kiln and the cattle farm also need to be supplied with water.
+8ad7c037be	ware	Wheat is essential for survival.
+cf1285fb3d	barbarians_ware	Wheat is produced by farms and consumed by bakeries, micro breweries and breweries. Cattle farms also need to be supplied with wheat.
+55db718e02	barbarians_ware	The Barbarian bakers are best in making this flat and tasty pitta bread. It is made out of wheat and water following a secret recipe. Pitta bread is used in the taverns, inns and big inns to prepare rations, snacks and meals. It is also consumed at training sites (training camp and battle arena).
+67a8433ad6	barbarians_ware	Beer is produced in micro breweries and used in inns and big inns to produce snacks.
+35809f3dc4	barbarians_ware	Only this beer is acceptable for the soldiers in a battle arena. Some say that the whole power of the Barbarians lies in this ale. It helps to train the soldiers’ evade level from 0 to 1 to 2. Strong beer is also used in big inns to prepare meals.
+c0797e01a7	ware	A small bite to keep miners strong and working. The scout also consumes rations on his scouting trips.
+dbe9c96ba2	barbarians_ware	Rations are produced in a tavern, an inn or a big inn out of fish or meat or pitta bread.
+1b1ed90040	barbarians_ware	A bigger morsel than the ration to provide miners in deep mines. It is produced in an inn or a big inn out of fish/meat, pitta bread and beer.
+091e7f73f7	barbarians_ware	A meal is made out of pitta bread, strong beer and fish/meat in a big inn. This substantial food is exactly what workers in a deeper mine need.
+446e2525d5	barbarians_ware	The fires of the Barbarians are usually fed with coal. Consumers are several buildings: lime kiln, smelting works, ax workshop, war mill, and helm smithy.
+6d0bbd09a7	barbarians_ware	It is smelted in a smelting works to retrieve the iron.
+f6eb3cc6e7	barbarians_ware	It is produced by the smelting works and used to produce weapons and tools in the metal workshop, ax workshop, war mill and helm smithy.
+a5b0abf30a	barbarians_ware	Smelted in a smelting works, it turns into gold which is used as a precious building material and to produce weapons and armor.
+8aadaaf9c1	barbarians_ware	Only very important things are embellished with gold. It is produced by the smelting works and used as a precious building material and to produce different axes (in the war mill) and different parts of armor (in the helm smithy).
+1a3615c192	barbarians_ware	Picks are used by stonemasons and miners. They are produced in the metal workshop (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+2ea7f93336	barbarians_ware	Felling axes are used by lumberjacks and produced in the metal workshop (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+a51001b797	barbarians_ware	Therefore the gardener and the ranger use them. Produced at the metal workshop (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+acbfe9893b	barbarians_ware	Geologists, builders, blacksmiths, helmsmiths and shipwrights all need a hammer. Make sure you’ve always got some in reserve! They are one of the basic tools produced at the metal workshop (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+6f2315fab5	ware	Fishing rods are needed by fishers to catch fish.
+efb821fbe5	barbarians_ware	They are one of the basic tools produced in a metal workshop (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+77275b9c19	ware	This spear is light enough to be thrown, but heavy enough to kill any animal in one blow. It is only used by hunters.
+7235c8370f	barbarians_ware	Hunting spears are produced in the metal workshop (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+623b3f9d38	barbarians_ware	Scythes are produced by the metal workshop (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+5138912c34	barbarians_ware	Bread paddles are produced in the metal workshop like all other tools (but cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+62bcf2d723	barbarians_ware	Kitchen tools are needed for preparing rations, snacks and meals. Be sure to have a metal workshop to produce this basic tool (but it ceases to be produced by the building if it is enhanced to an ax workshop and war mill).
+bc17c4ae9d	barbarians_ware	They are used in the smelting works and produced by the metal workshop (but they cease to be produced by the building if it is enhanced to an ax workshop and war mill).
+381b37c10c	barbarians_ware	The ax is the basic weapon of the Barbarians. All young soldiers are equipped with it.
+a738ed68a4	barbarians_ware	Young soldiers are proud to learn to fight with this powerful weapon. It is heavier and sharper than the ordinary ax. It is produced in ax workshops and war mills. In training camps, it is used – together with food – to train soldiers from attack level 0 to level 1.
+c17662c325	barbarians_ware	The broad ax is produced by the ax workshop and the war mill. It is used in the training camp – together with food – to train soldiers with a fundamental fighting knowledge from attack level 1 to attack level 2.
+70c7ed150f	barbarians_ware	The bronze ax is considered a weapon that is hard to handle. Only skilled soldiers can use it. It is produced at the war mill and used in the training camp – together with food – to train soldiers from attack level 2 to level 3.
+7e0cbc1236	barbarians_ware	This is a dangerous weapon the Barbarians are able to produce. It is produced in the war mill. Only trained soldiers are able to wield such a weapon. It is used – together with food – in the training camp to train soldiers from attack level 3 to 4.
+728e550e07	barbarians_ware	The warrior’s ax is the most dangerous of all Barbarian weapons. Only a few soldiers ever were able to handle this huge and powerful ax. It is produced in a war mill and used – together with food – in a training camp to train soldiers from attack level 4 to level 5.
+dd6d01f36a	barbarians_ware	A helmet is a basic tool to protect soldiers. It is produced in the helm smithy and used in the training camp – together with food – to train soldiers from health level 0 to level 1.
+f5c08afa88	barbarians_ware	A mask is an enhanced armor for Barbarian soldiers. It is produced in the helm smithy and used in the training camp – together with food – to train soldiers from health level 1 to level 2.
+2ddc95a6cc	barbarians_ware	This is the most enhanced Barbarian armor. It is produced in a helm smithy and used in a training camp – together with food – to train soldiers from health level 2 to level 3.
+20ef788ca1	barbarians_worker	Carries items along your roads.
+4c0fd06afc	barbarians_worker	Ships wares across narrow rivers.
+121203770b	barbarians_worker	Oxen help to carry items along busy roads. They are reared in a cattle farm.
+a1469fb123	barbarians_worker	Breeds strong oxen for adding them to the transportation system.
+dbaef2ab63	barbarians_worker	Cuts raw pieces of granite out of rocks in the vicinity.
+9c01c94182	barbarians_worker	Fells trees.
+8e2a4acf08	barbarians_worker	Plants trees.
+2b7a480bab	barbarians_worker	Works at construction sites to raise new buildings.
+06baf92c29	barbarians_worker	Mixes grout out of granite, water and coal in the lime kiln.
+74bf8267de	barbarians_worker	Plants and harvests reed fields.
+76619a659e	barbarians_worker	Produces cloth for ships’ sails.
+f2c7cc2a15	barbarians_worker	Works at the shipyard and constructs new ships.
+53d8539130	barbarians_worker	Catches fish in the sea.
+70530da2cb	barbarians_worker	The hunter brings fresh, raw meat to the colonists.
+1e7acb5fbb	barbarians_worker	The gamekeeper makes sure that the natural population of animals never drops too low.
+4bddf46bfd	barbarians_worker	Plants fields.
+edf4b7a0ec	barbarians_worker	Bakes pitta bread for the miners, soldiers and scouts.
+f1eb8ac32d	barbarians_worker	Produces beer to keep the miners strong and happy.
+9c91d83441	barbarians_worker	Produces the finest ales to keep soldiers strong and happy in training.
+5525d7fc2d	barbarians_worker	Produces food for miners.
+0fc47e81fe	barbarians_worker	Discovers resources for mining.
+aa1a930984	barbarians_worker	Works deep in the mines to obtain coal, iron, gold or granite.
+58582f1079	barbarians_worker	Burns coal.
+182cac64a0	barbarians_worker	Smelts ores into metal.
+b670ebbc11	barbarians_worker	Produces weapons for soldiers and tools for workers.
+eb02ef3ef1	barbarians_worker	Eager to become a soldier and defend his tribe!
+acee18eed6	barbarians_worker	Defend and Conquer!
+e7a50c7f75	barbarians_worker	Trains the soldiers.
+f98b8f0ae7	barbarians_worker	Forges helmets for soldiers.
+ebbfdbb9eb	barbarians_worker	Scouts like Scotty the scout scouting unscouted areas in a scouty fashion.
+f1991ce167		This reed field has just been planted.
+8bd4de0b74		This reed field is growing.
+1bbd187b33		This reed field is ready for harvesting.
+5c9d0c8b86		Granite is a basic building material and can be dug up by a granite mine.
+81198874c2		There is only a little bit of granite here.
+9ff268d8c4		There is a lot of granite here.
+ae3ba3812b	barbarians_building	‘Steep like the slopes of Kal’mavrath, shiny like the most delicate armor and strong like our ancestors, that’s how the headquarters of Chat’Karuth presented itself to us.’
+070d6febee	barbarians_building	Ballad ‘The Battle of Kal’mavrath’ by Hakhor the Bard
+cde4dc6676	barbarians_building	Accommodation for your people. Also stores your wares and tools.
+70999f20d1	barbarians_building	The headquarters is your main building.
+c5e2593a9f	barbarians_building	‘Who still owns a warehouse is not yet defeated!’
+75b6d1242e	barbarians_building	Berthron, chief military adviser of Chat’Karuth,<br>when they lost the headquarters in the battle around the heights of Kal’Megarath
+c513dd20a4	barbarians_building	Your workers and soldiers will find shelter here. Also stores your wares and tools.
+79ba3d3e0c	barbarians_building	‘I prefer the planks of a ship to any fortress, no matter how strong it is.’
+26a2ac878a	barbarians_building	Captain Thanlas the Elder,<br>Explorer
+432e9ce885	barbarians_building	Serves as a base for overseas colonization and trade. Also stores your soldiers, wares and tools.
+98283a0a38	barbarians_building	Similar to the Headquarters a Port can be attacked and destroyed by an enemy. It is recommendable to send soldiers to defend it.
+35186ab097	barbarians_building	A market enables trading with other tribes.
+149f3eda3c	barbarians_building	‘We open up roads and make houses from mountains.’
+d38680ec07	barbarians_building	Slogan of the stonemasons’ guild
+ce3f436ebe	barbarians_building	Cuts raw pieces of granite out of rocks in the vicinity.
+2032853889	barbarians_building	The quarry needs rocks to cut within the work area.
+875121801e	barbarians_building	This building can produce one granite between %1$s and %2$s, depending on how far the stonemason has to walk.
+711c362c0e	barbarians_building	In case of slopes or obstacles in the way, the time is increased.
+c0500ad340	barbarians_building	‘Take 200 hits to fell a tree and you’re a baby. Take 100 and you’re a soldier. Take 50 and you’re a hero. Take 20 and soon you will be a honorable lumberjack.’
+f2a473d4d5	barbarians_building	Krumta, carpenter of Chat’Karuth
+bdc7bf6620	barbarians_building	The lumberjack’s hut needs trees to fell within the work area.
+3d72772883	barbarians_building	This building can produce one log between %1$s and %2$s, depending on how far the lumberjack has to walk.
+a8eb2fda90	barbarians_building	‘He who can grow two trees where normally only one will grow exceeds the most important general!’
+6d6d006a58	barbarians_building	Chat’Karuth in a conversation with a Ranger
+86f8838dd6	barbarians_building	The ranger’s hut needs free space within the work area to plant the trees.
+1e9c907abd	barbarians_building	The ranger plants one tree between %1$s and %2$s, depending on how far he has to walk.
+a7f3589e75	barbarians_building	‘What do you mean, my fish ain’t fresh?!’
+9e3dc60bd4	barbarians_building	Frequent response of a Barbarian fisherman,<br>often followed by an enjoyable brawl
+2342713d03	barbarians_building	Fishes on the coast near the fisher’s hut.
+6ea27ef7c6	barbarians_building	The fisher’s hut needs water full of fish within the work area.
+13db8cca7d	building	Roads and trees along the shoreline block fishing.
+5198a45eda	barbarians_building	This building can produce one fish between %1$s and %2$s, depending on how far the fisher has to walk.
+a241c9da7f	barbarians_building	‘As silent as a panther,<br> as deft as a weasel,<br> as swift as an arrow,<br> as deadly as a viper.’
+a7eefb1ad1	barbarians_building	‘The Art of Hunting’
+b20b534d5d	barbarians_building	The hunter’s hut needs animals to hunt within the work area.
+7736e59944	barbarians_building	This building can produce one meat between %1$s and %2$s, depending on how far the hunter has to walk.
+52b5a0c574	barbarians_building	‘He loves the animals and to breed them<br>as we love to cook and eat them.’
+5995901639	barbarians_building	Barbarian nursery rhyme
+558354c534	barbarians_building	Releases animals into the wild to steady the meat production.
+80142944bb	barbarians_building	The gamekeeper can release one animal between %1$s and %2$s, depending on how far he has to walk.
+0ee4c0e767	barbarians_building	‘Oh how sweet is the source of life,<br> that comes down from the sky <br> and lets the earth drink.’
+4cb69fe665	barbarians_building	Song written by Sigurd the Bard when the first rain fell after the Great Drought in the 21ˢᵗ year of Chat’Karuth’s reign.
+5d5fad33bd	barbarians_building	The carrier needs %s to get one bucket full of water.
+be9d287504	barbarians_building	If the water resource is depleted, the carrier needs %s on average.
+2edf318a51	barbarians_building	You need to connect this flag to a scout’s hut before you can send a scout here.
+073b49039a	barbarians_building	‘Behind the next hill there might be wealth and happiness but also hostility and doom.<br>He who will not explore it commits the crime of stupidity.’
+0ac608900d	barbarians_building	Chat’Karuth<br>at the oath taking ceremony of the first scout troupe
+32cd9cbcf1	barbarians_building	One exploration trip of the scout takes between %1$s and %2$s.
+0b9db3e20d	barbarians_building	‘Then he hit the door with his ax and, behold,<br>the door only trembled, but the shaft of the ax burst into a thousand pieces.’
+e24e9fd9b9	barbarians_building	Legend about a quarrel between the brothers Harthor and Manthor,<br>Manthor is said to be the inventor of blackwood
+25e93a22f2	barbarians_building	Hardens logs by fire into blackwood, which is used to construct robust buildings.
+3308da6b3f	barbarians_building	The wood hardener needs %s on average to produce one blackwood.
+b72cd1a027	barbarians_building	‘We grow roofs’
+3565906fcc	barbarians_building	Slogan of the Guild of Gardeners
+fe26c1478d	barbarians_building	Cultivates reed that serves two different purposes for the Barbarian tribe.
+c18013db39	barbarians_building	Reed is the traditional material for roofing, and it is woven into the extremely durable cloth that they use for their ships’ sails.
+47a35ce84c	barbarians_building	The gardener sows and harvests one sheaf of reed between %1$s and %2$s, depending on how far he has to walk.
+928efb6aab	barbarians_building	The reed yard needs at least %s to work at full productivity most of the time.
+42cef7fab9	barbarians_building	‘Forming new stone from old with fire and water.’
+2958c36df8	barbarians_building	Ragnald the Child’s answer to the question, what he’s doing in the dirt. His ‘new stone’ now is an important building material.
+3a46d4163f	barbarians_building	Processes granite to make ‘grout’, a substance that solidifies and so reinforces masonry.
+85ccd5cd12	barbarians_building	The lime kiln’s output will only go to construction sites that need it. Those are predominantly houses that work with fire, and some military sites.
+200e744a06	barbarians_building	If all needed wares are delivered in time, this building can produce grout in about %s on average.
+60e3f034ef	barbarians_building	‘He who has enough bread will never be too tired to dig the ore and wield the ax.’
+073ee24b03	barbarians_building	Khantarakh, ‘The Modern Barbarian Economy’,<br>3ʳᵈ cowhide ‘Craftsmanship and Trade’
+63b1473956	barbarians_building	Bakes pitta bread for soldiers and miners alike.
+d64da95dbb	barbarians_building	If all needed wares are delivered in time, this building can produce a pitta bread in %s on average.
+3b05c4cfc6	barbarians_building	‘Let the first one drive away the hunger, the second one put you at ease; when you have swallowed up your third one, it’s time for the next shift!’
+5abbd9be8a	barbarians_building	Widespread toast among miners
+cb526368c3	barbarians_building	Produces beer of the lower grade. This beer is a vital component of the snacks that inns and big inns prepare for miners in deep mines.
+8b46f73fd7	barbarians_building	If all needed wares are delivered in time, this building can produce beer in about %s on average.
+d22583ba93	barbarians_building	‘When the Barbarian was created,<br>this was the first thing that he stated:<br>“You want me fighting without fear?<br>Then you should create some beer!”’
+367a6c6977	barbarians_building	First verse of the drinking song ‘Way of the Barbarian’
+4688b3cc83	building	Produces beer to keep the miners strong and happy.
+5c6e3a6ceb	barbarians_building	If all needed wares are delivered in time, this building can produce strong beer in about %s on average.
+3f54493e7d	barbarians_building	‘Fresh from the countryside: Bread, fish or game to go.’
+5e597124b0	barbarians_building	Menu of the tavern ‘Ye Ol’ Bronze Axe’
+da327590c9	building	Prepares rations to feed the scouts and miners.
+7ffb907596	barbarians_building	The tavern can produce one ration in %s on average, if the supply is steady.
+655323ab80	barbarians_building	‘Miner’s Delight: Pitta bread with fish or meat, comes with one beer.’
+6bc2819a27	barbarians_building	Chef’s recommendation in ‘The Singing Master Miner’
+05bcfa978f	building	Prepares rations for scouts and rations and snacks to feed the miners in the basic and deep mines.
+9495a64e37	barbarians_building	If this building is fully supplied and all kinds of food are needed by the economy, production of one of each food takes %1$s on average. If only one kind of food is needed by the economy, production of one ration takes %2$s and one snack takes %3$s on average.
+7fa4a6110a	barbarians_building	‘Seasonal fish and game specialties served with pitta bread.<br>Choose from a prime selection of regional craft beer brands.’
+040f84d1e7	barbarians_building	Menu of ‘The Laughing Barbarian’
+d09aa2555f	barbarians_building	Prepares rations for scouts and rations, snacks and meals to feed all miners.
+47d4f77c4b	barbarians_building	If this building is fully supplied and all kinds of food are needed by the economy, production of one of each food takes %1$s on average. If only one kind of food is needed by the economy, production of one ration takes %2$s, one snack takes %3$s and one meal takes %4$s on average.
+13361926d3	barbarians_building	‘What’s the work of a charcoal burner?<br>He’s the tribe’s most plodding earner!<br>Logs on logs he piles up high,<br>Until the kiln will reach the sky.<br>He sets the fire, sees it smolder<br>The logs he carried on his shoulder.<br>Burnt down to just one single coal<br>This troubles much a burner’s soul.’
+4cb0287f46	barbarians_building	Song of the charcoal burners
+ff101f2947	barbarians_building	The charcoal kiln needs %s on average to produce one coal.
+5733197514	barbarians_building	‘From inferior looking rubble they form shiny gold and gleaming iron.<br>The smelters are real magicians among our craftsmen.’
+6363ad5dc9	barbarians_building	Chat’Karuth<br>at the 5ᵗʰ conference of master craftsmen
+047b13fce3	barbarians_building	If this building is fully supplied and all metals are needed by the economy, production of one iron takes %1$s and one gold takes %2$s on average. If only one kind of metal is needed by the economy, production of one iron takes %3$s and one gold takes %4$s on average.
+4ca9ea5f0b	barbarians_building	‘We make it work!’
+4321908a54	barbarians_building	Inscription on the threshold of the now ruined Olde Forge at Harradsheim, the eldest known smithy.
+2584903b9f	barbarians_building	The Barbarian metal workshop is the basic production site in a series of three buildings and creates all the tools that Barbarians need. The others are for weapons.
+52321f3bd8	barbarians_building	If this building is fully supplied and all tools are needed by the economy, production of one of each tool takes %1$s on average. If only one kind of tool is needed by the economy, its production takes %2$s on average.
+3a934d23d2	barbarians_building	‘A new warrior’s ax brings forth the best in its wielder – or the worst in its maker.’
+79176fcf79	barbarians_building	An old Barbarian proverb<br> meaning that you need to take some risks sometimes.
+97b58a58af	barbarians_building	Produces all the axes that the Barbarians use for warfare.
+3c1f39e151	barbarians_building	The Barbarian war mill is their most advanced production site for weapons. As such you will need to enhance an ax workshop in order to get one.
+79744c0108	barbarians_building	If this building is fully supplied and all axes are needed by the economy, production of one of each ax takes %1$s on average. If only one kind of ax is needed by the economy, its production takes %2$s on average.
+7e325b20e5	barbarians_building	All weapons require the same time for making, but the consumption of the same raw materials increases from step to step. The last two need gold.
+d0aa6b4dfa	barbarians_building	Produces axes, sharp axes and broad axes.
+7e6cf950a2	barbarians_building	The Barbarian ax workshop is the intermediate production site in a series of three buildings. It is enhanced from the metal workshop but doesn’t require additional qualification for the worker.
+8668c0e51f	barbarians_building	All three weapons take the same time for making, but the required raw materials vary.
+be918fdb1a	barbarians_building	‘Don’t ask what your tribe can do for you, ask what you can do for your tribe!’
+0fabd7cf86	barbarians_building	Famous Barbarian recruitment poster
+9a3f79be74	barbarians_building	Equips recruits and trains them as soldiers.
+cee0fd2915	barbarians_building	The barracks need %s on average to recruit one soldier.
+9cdb07212b	barbarians_building	‘The smart leader builds roads, while the really wise leader breeds cattle.’
+a5b970395e	barbarians_building	Khantarakh, ‘The Modern Barbarian Economy’,<br> 5ᵗʰ cowhide ‘Traffic and Logistics’
+6f233f667c	barbarians_building	Breeds strong oxen for adding them to the transportation system.
+abc80c20b8	barbarians_building	If all needed wares are delivered in time, this building can produce an ox in %s on average.
+c38a592bf4	barbarians_building	‘See the crop fields from here to the horizons. They are a huge, heaving, golden sea.<br>Oh wheat, source of wealth, soul of beer, strength of our warriors!’
+cfef18eab9	barbarians_building	Line from the harvesting song ‘The Wealth of the Fields’
+8dda7cb916	building	Sows and harvests wheat.
+5d0eb2ca97	barbarians_building	The farmer sows and harvests one sheaf of wheat between %1$s and %2$s, depending on how far he has to walk.
+d0927e6313	barbarians_building	The farm needs at least %s to work at full productivity most of the time.
+1a62fe99be	barbarians_building	‘The helmets forgéd by this smithy<br>Are widely known for looking pithy.’
+d42f8e8ce0	barbarians_building	Slogan of ‘Harrath’s Handsome Helmets’ in Al’thunran
+b65b291956	barbarians_building	Forges helmets that are used for training soldiers’ health in the training camp.
+b28d4a229a	barbarians_building	If this building is fully supplied and all helmets are needed by the economy, production of one of each helmet takes %1$s on average. If only one kind of helmet is needed by the economy, production of one helmet takes %2$s, one mask takes %3$s and one warhelm takes %4$s on average.
+f267b9c581	barbarians_building	‘I can handle tons of granite, man, but no more of your vain prattle.’
+a9bda0e2fe	barbarians_building	This phrase was the reply Rimbert the miner – later known as Rimbert the loner – gave, when he was asked to remain seated on an emergency meeting at Stonford in the year of the great flood.
+aab558eab6	barbarians_building	The same man had all the 244 granite blocks ready only a week later, and they still fortify the city’s levee.
+6cfa1f1fb1	barbarians_building	Carves granite out of the rock in mountain terrain.
+41c45ffe67	barbarians_building	It cannot be enhanced.
+ad77aefed2	barbarians_building	If the food supply is steady, this mine can produce granite in %s on average.
+0a30c14706	barbarians_building	Ages ago, the Barbarians learned to delve into mountainsides for that black material that feeds their furnaces.
+e91e7a1058	barbarians_building	Wood may serve for a household fire and to keep you warm, but when it comes to working with iron or gold, there is no way around coal.
+7706266a65	barbarians_building	If the food supply is steady, this mine can produce coal in %s on average.
+5abd6120e2	barbarians_building	‘I look at my own pick wearing away day by day and I realize why my work is important.’
+bdb007a78e	barbarians_building	Quote from an anonymous miner.
+c3e4e5da72	barbarians_building	If the food supply is steady, this mine can produce iron ore in %s on average.
+258f3fcf88	barbarians_building	‘Soft and supple.<br> And yet untouched by time and weather.<br> Rays of sun, wrought into eternity…’
+2aab94d5f1	barbarians_building	Excerpt from ‘Our Treasures Underground’,<br> a traditional Barbarian song.
+27079efbe6	barbarians_building	If the food supply is steady, this mine can produce gold ore in %s on average.
+18b5376e88	barbarians_building	‘No better friend you have in battle than the enemy’s blow that misses.’
+316296d8ca	barbarians_building	Said to originate from Neidhardt, the famous trainer.
+47468b99ad	barbarians_building	Trains soldiers in ‘Evade’.
+fbe6a2548d	barbarians_building	‘Evade’ increases the soldier’s chance not to be hit by the enemy and so to remain totally unaffected.
+3b266b038e	barbarians_building	Barbarian soldiers cannot be trained in ‘Defense’ and will remain at their initial level.
+132802aa50	barbarians_building	If all needed wares are delivered in time, a battle arena can train one soldier one level in evade in %s on average.
+d94c9500f8	barbarians_building	Complete training of one soldier takes %s on average.
+2a86e74e9d	barbarians_building	‘He who is strong shall neither forgive nor forget, but revenge injustice suffered – in the past and for all future.’
+dced84ddc0	barbarians_building	Chief Chat’Karuth in a speech to his army.
+dd7f3412b2	barbarians_building	Trains soldiers in ‘Attack’ and in ‘Health’.
+76955a697b	barbarians_building	Equips the soldiers with all necessary weapons and armor parts.
+1e5dccb00f	barbarians_building	If all needed wares are delivered in time, a training camp can train one soldier one level in attack or health in %s on average.
+5a85e733ef	barbarians_building	‘The log cabin was so small that two men could hardly live there. But we were young and carefree. We just relished our freedom and the responsibility as an outpost.’
+1d3f617758	barbarians_building	Boldreth,<br>about his time as young soldier
+934b08c892	barbarians_building	Garrisons soldiers to expand your territory.
+ca83415fc3	barbarians_building	If you’re low on soldiers to occupy new military sites, use the downward arrow button to decrease the capacity. You can also click on a soldier to send him away.
+45d012a885	barbarians_building	‘When we looked down to the valley from our newly established barrier, we felt that the spirit of our fathers was with us.’
+1da594b412	barbarians_building	‘From the height of our tower we could see far into enemy territory. The enemy was well prepared, but we also noticed some weak points in their defense.’
+f34bcf27f5	barbarians_building	‘This stronghold made from blackwood and stones will be a hard nut to crack for them.’
+c264fc6d85	barbarians_building	Berthron,<br>chief military adviser of Chat’Karuth
+cce143d15f	barbarians_building	‘The Citadel of Adlen surely is the finest masterpiece of Barbarian craftsmanship. Nothing as strong and big and beautiful has ever been built in such a short time.’
+aee64dafe2	barbarians_building	Colintan, chief planner of the Citadel of Adlen,<br>at its opening ceremony
+ce8a8a4371	barbarians_building	This building can produce one ferry between %1$s and %2$s, depending on how far the shipwright has to walk.
+1358b5df8a	barbarians_building	‘When I saw the Saxnot for the first time, her majestic dragon head already looked up to the skies and the master was about to install the square sail.<br>It was the most noble ship I ever saw.’
+609e0ee591	barbarians_building	This building can produce one ship between %1$s and %2$s, depending on how far the shipwright has to walk.
+2e3ae49a5d	barbarians_building	‘Fine cloth and jewelry mean nothing to a true Barbarian.<br>But a noble sail in the wind will please his eyes.’
+bec620e52d	barbarians_building	Khantarakh, ‘The Modern Barbarian Economy’,<br>9ᵗʰ cowhide ‘Seafaring and Conquest’
+caafd07e4b	barbarians_building	Weaves cloth out of reed.
+22400b355e	barbarians_building	The weaving mill needs %s on average to produce one cloth.
+49abd8df01	warehousename	Al’Fjord
+f84bf9f929	warehousename	Al’Sund
+0e7e9641b2	warehousename	Al’Thaug
+c447cb5c69	warehousename	Al’ta
+8354a9e5f1	warehousename	Al’dal
+b009a824b6	warehousename	Al’ver
+f74415d6b4	warehousename	An’dey
+59dd3aa7f0	warehousename	Ar’mark
+63530c9e8c	warehousename	Ar’dal
+5df7726a9f	warehousename	Asker
+b6707129f3	warehousename	As’ral
+da5986a702	warehousename	As’Kvoll
+b69709f491	warehousename	As’key
+aee8b8887d	warehousename	As’nes
+c33f24e6d0	warehousename	Au’kra
+726ebbad52	warehousename	Au’re
+6bab921ac5	warehousename	Au’land
+574bf453ae	warehousename	Au’skog
+fa7436f1d1	warehousename	Au’tevoll
+76ccc122c3	warehousename	Au’trheim
+a8b884b211	warehousename	Av’rey
+6c7315e20b	warehousename	Bærum
+ff142256ab	warehousename	Bal’fjord
+030a78d036	warehousename	Ba’ble
+2e3939bb40	warehousename	Ba’rdu
+f38174488f	warehousename	Bat’fjord
+baa7b583a0	warehousename	B’iarn
+e8ce807277	warehousename	Berl’vog
+03876a0ef8	warehousename	Bindal
+d8252819ba	warehousename	Birk’nes
+7b293fb716	warehousename	Bjer’Kreim
+cfbef70589	warehousename	Bjer’Fjord’n
+5af53684b3	warehousename	Bo’do
+fa85f2f0a6	warehousename	Bok’n
+d56af7e6ba	warehousename	Bom’lo
+961df99852	warehousename	Bremanger
+1b3514b086	warehousename	Bren’ey
+05fa23b564	warehousename	B’gland
+d80d1664c0	warehousename	B’kle
+3401b650df	warehousename	Damack
+01c83e48dc	warehousename	Danna
+f7f7d78cba	warehousename	Do’vre
+34cb739bf7	warehousename	D’rammen
+7e1980be5f	warehousename	D’rangedal
+8bf3ca45ff	warehousename	D’rey
+ad66a520ee	warehousename	Ei’dfjord
+fa3a6e28cf	warehousename	Ei’dskog
+dbc92f6e2d	warehousename	Ei’dsvoll
+598af6bbfe	warehousename	Ei’g’rsund
+a0947b20de	warehousename	Elv’rum
+e7051cea0f	warehousename	En’Bakk
+5558fae8bd	warehousename	Eng’rdal
+671ae84317	warehousename	Et’ne
+fbe077507c	warehousename	Et’Nedal
+ff6cccf477	warehousename	Ev’nes
+53b6bd75ee	warehousename	Ev’je
+6640f20b12	warehousename	Eyer
+41d051877f	warehousename	Eygard’n
+52dca4abc2	warehousename	Eystre
+2b518f8242	warehousename	Færdr
+ea41e2fa9d	warehousename	Farsund
+0240bf2ad9	warehousename	Foske
+0301c9a427	warehousename	F’dje
+a494ecfe6d	warehousename	F’tjar
+2cbdabaac9	warehousename	F’jaler
+a52b841622	warehousename	Fjord
+4948bc628c	warehousename	Flo
+bf828f472b	warehousename	Flakstad
+2813c1d810	warehousename	Flatang’r
+653dcf4626	warehousename	Flek’fjord
+ca0af431ee	warehousename	Fl’sberg
+ddcd86859d	warehousename	Folldal
+4a5f761598	warehousename	Frogn
+69ad913aea	warehousename	Fr’land
+cd90ac2571	warehousename	Frosta
+a48250bee5	warehousename	Freya
+4b6020bf09	warehousename	Fyr’sdal
+e5253839ae	warehousename	Gamvik
+7c1ed5982f	warehousename	Gausdal
+6ab3207734	warehousename	Gild’skol
+3b589faaee	warehousename	Gi’ske
+5397d605ba	warehousename	G’jemnes
+4529413bfb	warehousename	Gjerdrum
+4aaa4cf4d1	warehousename	Gjerst’d
+879e0845d1	warehousename	G’jesdal
+8144e9c3ef	warehousename	Gjovik
+9d35790468	warehousename	Glopp’n
+e5ebe104a1	warehousename	Gol
+1f5b8bfe26	warehousename	Gran
+ed1283a0d9	warehousename	Gra’ne
+f34efc30eb	warehousename	Gr’tangen
+263397680b	warehousename	Grimst’d
+7db34c6950	warehousename	Grong
+5b13befd51	warehousename	Grue
+ff80397c6e	warehousename	G’len
+81b77ec36e	warehousename	Ho
+e860f72e1d	warehousename	H’dsel
+bbb14e0ae5	warehousename	Hæg’bost’d
+42adace06a	warehousename	H’lden
+9a08af9ff2	warehousename	H’mar
+3a8237aa4d	warehousename	H’marey
+28b26dd310	warehousename	H’merfest
+974afb4dec	warehousename	H’reid
+92b54cd170	warehousename	H’rstad
+45396fc389	warehousename	Hasvik
+f37805fcca	warehousename	Hattfjelldal
+558d97d4ed	warehousename	Haug’sund
+a6ad4b3ada	warehousename	Heim
+c25c8283c1	warehousename	H’mnes
+23861890b0	warehousename	Hems’dal
+d5b98d1d2e	warehousename	H’rey
+6f97890a6d	warehousename	H’roy
+6907b66688	warehousename	Hitra
+de511941b2	warehousename	Hjartdal
+a05f60ec4b	warehousename	Hjelm’land
+df3e331d17	warehousename	Hol
+ac1aa91e0e	warehousename	Hole
+53fd31c9f1	warehousename	Holm’strand
+47ac303367	warehousename	Hol’Talen
+119eadadbe	warehousename	Horten
+54955d97c1	warehousename	H’yanger
+828cf88f7d	warehousename	H’ylandet
+e2b089e68e	warehousename	H’rdal
+7f71bbaf04	warehousename	Hustadvik
+c64150625b	warehousename	H’valer
+57ee0436fd	warehousename	Hyll’stad
+2c8915b497	warehousename	Ib’stad
+c376f8b49c	warehousename	Ind’rey
+cafc2cfb7a	warehousename	Ind’re
+be1c61573c	warehousename	Ir Kal’Tur
+64ddf4306c	warehousename	Iv’land
+a7de15ed24	warehousename	J’vnaker
+103f43a372	warehousename	K’fjord
+f2b98af339	warehousename	Kar’sjok
+be55ab0699	warehousename	Karls’y
+6296a089c7	warehousename	Karm’y
+d3ee526497	warehousename	Kot’keino
+e79fe12369	warehousename	K’nn
+dacba4d8ad	warehousename	Kl’pp
+2caa3d9ddf	warehousename	K’ngsberg
+937ff5081b	warehousename	K’ngsvinger
+35295fa9b9	warehousename	Krag’re
+07fb0dab95	warehousename	Kr’dsherad
+e0d9ebe7c8	warehousename	Kvæfjord
+6645c899be	warehousename	Kvæn’ngen
+bc3b9864dc	warehousename	Kvam
+61d41f94d8	warehousename	Kvin’sdal
+e93a44e2ec	warehousename	Kvin’Herad
+d1ece3ec95	warehousename	Kvit’seid
+fd5db2c0bb	warehousename	Kvit’Sey
+d1e3917f56	warehousename	Lærdal
+cbb90745e1	warehousename	Larvik
+807fc341a1	warehousename	Lav’ngen
+59b55d6056	warehousename	L’besby
+d9e5b8d8b9	warehousename	L’rfjord
+c575defb8e	warehousename	L’ka
+8c58d4e302	warehousename	L’sja
+ee4a541b42	warehousename	L’vanger
+c459573c1e	warehousename	Lier
+72634f60fe	warehousename	L’rne
+a9799b7372	warehousename	Lil’hammer
+e31611b7cf	warehousename	Lil’sand
+0dc0496781	warehousename	Lil’strom
+ae251754d0	warehousename	Lind’snes
+b899a7e456	warehousename	L’dingen
+2cf56d5cdd	warehousename	Lom
+bf69def58a	warehousename	Loppa
+3a91347f80	warehousename	Lar’nskog
+282b628f15	warehousename	L’ten
+796cff3f93	warehousename	Lund
+688a738525	warehousename	Lunner
+f571d0941d	warehousename	L’rey
+f3a6b79574	warehousename	L’ster
+190e9479b0	warehousename	L’ngdal
+963f566598	warehousename	L’ngen
+b36c9da691	warehousename	Mal’Selv
+bdd630a136	warehousename	Mal’vik
+e1ad9746a3	warehousename	Mar’ker
+575c66a8c5	warehousename	Mas’fjordn
+189df4d506	warehousename	Mos’y
+c50406152c	warehousename	M’lhus
+0eebc9fd1a	warehousename	M’ley
+76464c13eb	warehousename	Mer’ker
+23a8a23d73	warehousename	Midt’re
+47001bf78c	warehousename	Midt’lemark
+34cf484ce9	warehousename	Mod’al’en
+07ffa3cdd6	warehousename	Modum
+985bc400e8	warehousename	M’lde
+1df4381716	warehousename	Mos’kenes
+98305ca03c	warehousename	Mos’s
+88cd6c668a	warehousename	Næreysund
+2d3accf88e	warehousename	Namsos
+16efca01d8	warehousename	Nams’skogan
+ebd101e8ed	warehousename	Nan’stad
+ed410d617c	warehousename	Nar’vik
+7eeeac8dc9	warehousename	Nes
+b12322d66d	warehousename	N’sbyen
+71c0b9d1fc	warehousename	Nesna
+f06d25f4b7	warehousename	Nesod’n
+ce4c23d384	warehousename	Nes’by
+f9f81fea72	warehousename	Nis’dal
+4a3f1e4e88	warehousename	Nit’dal
+201103c035	warehousename	Nome
+780b458551	warehousename	Nord’Aurdal
+570dc0a5be	warehousename	Nord’fron
+518c7964ca	warehousename	Nord’kapp
+8a4ee3ed62	warehousename	Nord’odal
+60402d8d25	warehousename	Nord’Reisa
+5664b66419	warehousename	Nord’re
+7e2cf28866	warehousename	No’re
+3b5a4be58f	warehousename	Notod’n
+b8e44bdd8a	warehousename	Ok’snes
+4c6f30a6cd	warehousename	Omli
+0e84c4ae36	warehousename	Omot
+7e90061993	warehousename	Op’dal
+e819c44b83	warehousename	Or’kland
+0df64d1fcd	warehousename	Or’land
+83ffed08b7	warehousename	Or’sta
+8976935f72	warehousename	Osen
+c49d549254	warehousename	Os
+3870a2813b	warehousename	Os’lo
+26123312d2	warehousename	Ost’rey
+904332e1dd	warehousename	Ost’re
+a7c067d5e4	warehousename	Ov’rhala
+26a447dbfb	warehousename	Ov’re
+e02efab851	warehousename	Pors’nger
+05eb59e824	warehousename	Pors’grun
+fae8708e85	warehousename	Rode
+92a5db2846	warehousename	Ræl’ngen
+9b4a284c3f	warehousename	Rænt
+d2b0399f42	warehousename	Rak’stad
+16c84f962e	warehousename	Rana
+73dfcb4934	warehousename	Rand’berg
+ed12e40018	warehousename	Rauma
+4c651c6477	warehousename	Ren’dlen
+d39b2e96fe	warehousename	Ren’bu
+684ed7b737	warehousename	Rin’dal
+c7c032610d	warehousename	Rin’gbu
+1bbff0d294	warehousename	Rin’grike
+3457215e8b	warehousename	Rin’gsker
+dc03d7e311	warehousename	Ris’r
+232dd5744f	warehousename	R’dey
+11fe09036d	warehousename	Rol’Lag
+605452981c	warehousename	R’ros
+3993d53175	warehousename	Rest
+efe38f6377	warehousename	Reyr’Vik
+347af91a0f	warehousename	Sal’ngen
+57c4553c71	warehousename	Sal’tdal
+3f694b45a9	warehousename	Samn’nger
+96c4ab22fb	warehousename	Sand’fjord
+d8a342378c	warehousename	Sand’e
+fd7a5cae3a	warehousename	Sand’nes
+8216526e24	warehousename	Sarpsb’rg
+e6afd4dde0	warehousename	Sars’tun
+70be840512	warehousename	Sauda
+f2ed174679	warehousename	Sel’bu
+450f83585b	warehousename	Sel’jord
+26539007ea	warehousename	Sel
+699f9fddb2	warehousename	Sen’ja
+60fffdbcc0	warehousename	Sig’dal
+2787896ee4	warehousename	Sil’jan
+128f2abe86	warehousename	Sir’dal
+5ff0041029	warehousename	Skaun
+f06788a76a	warehousename	Skien
+a28027d241	warehousename	Skipt’vet
+2915c19518	warehousename	Skjok
+82fa6ff04f	warehousename	Skjer’vey
+8c4e99a53d	warehousename	Smola
+a34d1f3a77	warehousename	Snosa
+567a36cad8	warehousename	Sog’ndal
+30f5a27fd1	warehousename	Sok’ndal
+b9c48119ff	warehousename	Sola
+717c947e62	warehousename	Sol’nd
+f10191bcc4	warehousename	Som’na
+63bf722376	warehousename	Son’dre
+976b6979ac	warehousename	Sor’aur’dal
+8477f1f843	warehousename	Sor’fold
+9fceed8340	warehousename	Sor’fron
+d9410306b3	warehousename	Sor’dal
+ece1bb2909	warehousename	Sor’reisa
+f5dbe75efc	warehousename	Sor’tland
+c8b461e5eb	warehousename	Sor’var’nger
+ad765b6388	warehousename	Stad
+3a1a6330f6	warehousename	Stange
+5e3d5399bf	warehousename	Stav’nger
+3e95926ddd	warehousename	St’gen
+447e5f9878	warehousename	St’nkjer
+340a8ba0b3	warehousename	Stjor’dal
+f254c33e91	warehousename	Stord
+67a1dc51b7	warehousename	Stor’Elvdal
+2a7b0d4314	warehousename	Stor’Fjord
+fb1a2712ab	warehousename	Stranda
+8b8114d45d	warehousename	Strand
+983d29406d	warehousename	Stryn
+23b9f01a4f	warehousename	Sula
+19a46365cd	warehousename	Suldal
+b744ce4d29	warehousename	Sun’dal
+7694f619b7	warehousename	Sun’fjord
+827011ff6e	warehousename	Surn’dal
+07ebd35b71	warehousename	Sveio
+19ead1dd8f	warehousename	Syk’lven
+81bdba8f68	warehousename	Tana
+4a54403e91	warehousename	Thronsand
+157f6a5cb7	warehousename	Thronsund
+4c813696a0	warehousename	Time
+b1032a2644	warehousename	T’ngvol
+a7bfda4eaf	warehousename	Ti’n
+107656e76b	warehousename	Tjeld’sund
+7ee91d19ee	warehousename	Toke
+95ce091a00	warehousename	Tolga
+d050428afc	warehousename	Tonsberg
+47f7d2e10d	warehousename	Træna
+2d52b1cbb4	warehousename	Tromso
+5d4652a128	warehousename	Tr’ndheim
+9e3313c704	warehousename	Tr’sil
+254f0b1795	warehousename	Tved’strand
+41dff34f08	warehousename	T’dal
+fa41ac9e90	warehousename	Tynset
+b7c59a0f8e	warehousename	Tys’nes
+fdff65dd2d	warehousename	Tys’vær
+dbf0681796	warehousename	Ul’nsaker
+0768ab312b	warehousename	Ul’nsvang
+e29276a677	warehousename	Ul’stein
+aab82dc5db	warehousename	Ul’vik
+f4c4c641a6	warehousename	Uts’ra
+cbdd1ff247	warehousename	Vadso
+300ef84a30	warehousename	Værey
+98a55b245b	warehousename	Vogo
+cb42691298	warehousename	V’gan
+d6f646df66	warehousename	V’ksdal
+e51c4168f4	warehousename	V’ler
+10ce9e6094	warehousename	Vale
+267e2d7b6d	warehousename	Vang
+5d748acaad	warehousename	Van’lven
+a18fee381d	warehousename	Vardo
+22efccac98	warehousename	Vef’sn
+dea469e132	warehousename	Vega
+1e5bfb7efd	warehousename	Veg’rshei
+797807aac9	warehousename	Ven’Sla
+feba87e42e	warehousename	Ver’dal
+1498a5d257	warehousename	V’stby
+503bd28489	warehousename	V’stnes
+3e3fcbb3ae	warehousename	V’stre
+ba1f3a3efc	warehousename	V’stvogey
+2df727b6f5	warehousename	Vev’lstad
+9460046bc5	warehousename	Vik
+17edf6443f	warehousename	Vind’fjord
+d67d596694	warehousename	Vin’je
+7732f18da2	warehousename	V’lda
+e38ac11789	warehousename	Vos
+e9d358824e	barbarians	Worker missing
+2063315d6a	barbarians	Worker is coming
+0d66a6fa6a	barbarians	Workers missing
+f197d7b101	barbarians	Workers are coming
+b142dc3aa6	barbarians	Expert missing
+d9c26d4612	barbarians	Experts missing
+ae2416ab22	barbarians_soldier	%1% soldier (+%2%)
+283ae4ee2f	barbarians_soldier	%1% soldier
+73f197dde7	barbarians_soldier	%1%(+%2%) soldier (+%3%)
+d3eb8c47c6	barbarians_soldier	%1%(+%2%) soldier

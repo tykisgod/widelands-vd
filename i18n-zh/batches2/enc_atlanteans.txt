@@ -1,0 +1,357 @@
+cfca5d775d	atlanteans_ware	The Atlanteans produce granite blocks in quarries and crystal mines.
+303d1c2c75	atlanteans_ware	Atlanteans use logs also as the base for planks, which are used in nearly every building. Besides the sawmill, the charcoal kiln, the toolsmithy and the smokery also need logs for their work.
+38e60f9b51	ware	Planks are an important building material.
+ff44dc3477	atlanteans_ware	They are produced out of logs by the sawmill.
+af30811174	atlanteans_ware	The weapon smithy and the shipyard also use planks to produce the different tridents and mighty ships.
+e40b76a2fe	atlanteans_ware	Spider silk is produced by spiders, which are bred by spider farms. It can be processed into spidercloth or tabards in a weaving mill, or used to make tools in the toolsmithy.
+91a1be8563	atlanteans_ware	Spidercloth is made out of spider silk in a weaving mill. It is used in the shipyard. Also some higher developed buildings need spidercloth for their construction.
+71924946ce	atlanteans_ware	Fish is one of the biggest food resources of the Atlanteans. It has to be smoked in a smokery before being delivered to mines, training sites and scouts.
+0acc40b8b9	atlanteans_ware	As no Atlantean likes raw fish, smoking it in a smokery is the most common way to make it edible.
+59773b8589	ware	Meat contains a lot of energy, and it is obtained from wild game taken by hunters.
+2564f655ad	atlanteans_ware	Meat has to be smoked in a smokery before being delivered to mines and training sites (dungeon and labyrinth).
+83cea923c1	atlanteans_ware	Smoked meat is made out of meat in a smokery. It is delivered to the mines and training sites (labyrinth and dungeon) where the miners and soldiers prepare a nutritious lunch for themselves.
+d2e9e4fa74	atlanteans_ware	Water is used in the bakery and the horse and spider farms.
+e4223f2325	atlanteans_ware	This corn is processed in the mill into fine cornmeal that every Atlantean baker needs for a good bread. Also horse and spider farms need to be provided with corn.
+c1f9d22f40	atlanteans_ware	Cornmeal is produced in a mill out of corn and is one of three parts of the Atlantean bread produced in bakeries.
+6897162c95	atlanteans_ware	Blackroots are a special kind of root produced at blackroot farms and processed in mills. The Atlanteans like their strong taste and use their flour for making bread.
+540e32f9ba	atlanteans_ware	Blackroot Flour is produced in mills out of blackroots. It is used in bakeries to make a tasty bread.
+ef46ec7ff3	atlanteans_ware	This tasty bread is made in bakeries out of cornmeal, blackroot flour and water. It is appreciated as basic food by miners, scouts and soldiers in training sites (labyrinth and dungeon).
+83d4802217	atlanteans_ware	These transparent quartz gems are used to build some exclusive buildings. They are produced in a crystal mine.
+a43c0413d4	atlanteans_ware	These wonderful diamonds are used to build some exclusive buildings. They are mined in a crystal mine.
+157801ad5a	ware	Coal is mined in coal mines or produced out of logs by a charcoal kiln.
+330b7c0f75	atlanteans_ware	The Atlantean fires in smelting works, armor smithies and weapon smithies are fed with coal.
+d42e747e8a	default_ware	Iron ore is mined in iron mines.
+9047394914	atlanteans_ware	It is smelted in a smelting works to retrieve the iron.
+efcc8e6b92	ware	Iron is smelted out of iron ores.
+a52980d544	atlanteans_ware	It is produced by the smelting works and used in the toolsmithy, armor smithy and weapon smithy.
+b52d6225f5	ware	Gold ore is mined in a gold mine.
+05c618a1f0	atlanteans_ware	Smelted in a smelting works, it turns into gold which is used as a precious building material and to produce weapons and armor.
+24b9b56ec8	ware	Gold is the most valuable of all metals, and it is smelted out of gold ore.
+3b296fea29	atlanteans_ware	It is produced by the smelting works and used by the armor smithy, the weapon smithy and the gold spinning mill.
+9516a814d7	ware	Picks are used by stonecutters and miners. They are produced by the toolsmith.
+a595ae9915	atlanteans_ware	The saw is needed by the sawyer, the woodcutter and the toolsmith. It is produced by the toolsmith.
+44f4100aaa	atlanteans_ware	Therefore the forester and the blackroot farmer use them. They are produced by the toolsmith.
+53d29c3cb6	atlanteans_ware	Geologists, builders, weaponsmiths, armorsmiths and shipwrights all need a hammer. Make sure you’ve always got some in reserve! They are produced by the toolsmith.
+7edf0b2359	atlanteans_ware	Milking tongs are used by the spider breeder to milk the spiders. They are produced by the toolsmith.
+a60ee0280f	atlanteans_ware	The fishing net is used by the fisher and produced by the toolsmith.
+2bb121001b	atlanteans_ware	Big buckets for the fish breeder – produced by the toolsmith.
+43af411c71	atlanteans_ware	This bow is used by the Atlantean hunter. It is produced by the toolsmith.
+ebf154c12f	atlanteans_ware	This hook pole is used by the smoker to suspend all the meat and fish from the top of the smokery. It is created by the toolsmith.
+d93b165ffd	ware	The scythe is the tool of the farmers.
+f4d8483f70	atlanteans_ware	Scythes are produced by the toolsmith.
+33b736075a	ware	The bread paddle is the tool of the baker, each baker needs one.
+e88cea75fe	atlanteans_ware	Bread paddles are produced by the toolsmith.
+5f1eeb0f47	ware	Fire tongs are the tools for smelting ores.
+7403465255	atlanteans_ware_fire_tongs	They are used in the smelting works and produced by the toolsmith.
+6b23807c42	atlanteans_ware	This is the basic weapon of the Atlantean soldiers. Together with a tabard, it makes up the equipment of young soldiers. Light tridents are produced in the weapon smithy as are all other tridents.
+585aa68651	atlanteans_ware	The long trident is the first trident in the training of soldiers. It is produced in the weapon smithy and used in the dungeon – together with food – to train soldiers from attack level 0 to level 1.
+d0b10aaf38	atlanteans_ware	This is the medium trident. It is produced in the weapon smithy and used by advanced soldiers in the dungeon – together with food – to train from attack level 1 to level 2.
+0886d60f0e	atlanteans_ware	The double trident is one of the best tridents produced by the Atlantean weapon smithy. It is used in a dungeon – together with food – to train soldiers from attack level 2 to level 3.
+eeff56e19f	atlanteans_ware	This is the most dangerous weapon of the Atlantean military. Only the best of the best soldiers may use it. It is produced in the weapon smithy and used in the dungeon – together with food – to train soldiers from attack level 3 to level 4.
+574da94edd	atlanteans_ware	This steel shield is produced in the armor smithy and used in the labyrinth – together with food – to train soldiers from defense level 0 to level 1.
+aa24f5449c	atlanteans_ware	These advanced shields are used by the best soldiers of the Atlanteans. They are produced in the armor smithy and used in the labyrinth – together with food – to train soldiers from defense level 1 to level 2.
+324b91b196	atlanteans_ware	A tabard and a light trident are the basic equipment for young soldiers. Tabards are produced in the weaving mill.
+5e8f34457b	atlanteans_ware	This thread, made of gold by the gold spinning mill, is used for weaving the exclusive golden tabard in the weaving mill.
+23a2142d70	atlanteans_ware	Golden tabards are produced in Atlantean weaving mills out of gold thread. They are used in the labyrinth – together with food – to train soldiers from health level 0 to level 1.
+af9e65bd99	atlanteans_worker	Carries items along your roads.
+fb015d300e	atlanteans_worker	Ships wares across narrow rivers.
+40cc058062	atlanteans_worker	Horses help to carry items along busy roads. They are reared in a horse farm.
+ef079ae0cb	atlanteans_worker	Breeds the strong Atlantean horses for adding them to the transportation system.
+3b7b2394f9	atlanteans_worker	Cuts blocks of granite out of rocks in the vicinity.
+eac51b7edb	atlanteans_worker	Fells trees.
+039a135234	atlanteans_worker	Saws logs to produce planks.
+274c5d649e	atlanteans_worker	Plants trees.
+47fdf7e3fc	atlanteans_worker	Works at construction sites to raise new buildings.
+aae2e64d77	atlanteans_worker	Breeds spiders for silk.
+7ab49be7ea	atlanteans_worker	Produces spidercloth for buildings, ships and soldiers.
+c458a4d13e	atlanteans_worker	Works at the shipyard and constructs new ships.
+4e38acfe38	atlanteans_worker	The fisher fishes delicious fish.
+0c2d3e0734	atlanteans_worker	Breeds fish.
+ba3abdc4f5	atlanteans_worker	The hunter brings fresh, raw meat to the colonists.
+1aa0cc9956	atlanteans_worker	Smokes meat and fish.
+ab9ffc5408	atlanteans_worker	Plants and harvests cornfields.
+540c7e8d27	atlanteans_worker	Plants and harvests blackroot.
+432e0889e5	atlanteans_worker	Grinds blackroots and corn to produce blackroot flour and cornmeal, respectively.
+ee52864c45	atlanteans_worker	Bakes bread for workers.
+bc158e22a2	atlanteans_worker	Discovers resources for mining.
+10f70687ea	atlanteans_worker	Works deep in the mines to obtain coal, iron, gold or precious stones.
+00f1e2ef39	atlanteans_worker	Burns coal.
+82ef3d0f6e	atlanteans_worker	Smelts ores into metal.
+cedf2320bb	atlanteans_worker	Produces tools for the workers.
+cd2ef06dae	atlanteans_worker	Eager to become a soldier and defend his tribe!
+03e77d30d2	atlanteans_worker	Defend and Conquer!
+a553dd1621	atlanteans_worker	Trains the soldiers.
+2e444dee0f	atlanteans_worker	Produces weapons for the soldiers.
+85ca1621d3	atlanteans_worker	Produces armor for the soldiers.
+5e61b5705b	atlanteans_worker	Scouts like Scotty the scout scouting unscouted areas in a scouty fashion.
+72e2c9506d		There is water in the ground here that can be pulled up by a well.
+5fefc527e2		Coal veins contain coal that can be dug up by coal mines.
+3117498f81		There is only a little bit of coal here.
+c41130254d		Iron veins contain iron ore that can be dug up by iron mines.
+b5edadda95		There is only a little bit of iron here.
+548eb8fd9d		Gold veins contain gold ore that can be dug up by gold mines.
+23254ae696		Precious stones are used in the construction of big buildings. They can be dug up by a crystal mine. You will also get granite from the mine.
+e354f35a3b		There are only a few precious stones here.
+ef4e977baf		There is a lot of coal here.
+1cc05ec5c6		There is a lot of iron here.
+5455fcc045		There are many precious stones here.
+91a84bc731		This tree is only planted by the Amazon tribe but can be harvested for logs.
+09e5f51832	atlanteans_building	Accommodation for your people. Also stores your wares and tools.
+ec4bdbd8bb	atlanteans_building	The headquarters is your main building.
+7fe7e721a9	atlanteans_building	We founded this new colony, now go with Satul and do the best you can do for your tribe.
+43e3a4aa6e	atlanteans_building	Priest of Satul inaugurating you as leader of the Atleantean tribe
+a6f51e075f	atlanteans_building	Your workers and soldiers will find shelter here. Also stores your wares and tools. It will help you to stabilize your economy.
+3065d28892	atlanteans_building	Maybe you think it’s a boring task to store, count and retrieve all this stuff, but do you really want your carriers to walk all the way to your Headquarters?
+eecf7f7050	atlanteans_building	Head of the warehouse
+8748700a41	atlanteans_building	Serves as a base for overseas colonization and trade. Also stores your soldiers, wares and tools.
+1743953f39	atlanteans_building	Similar to the Headquarters a Port can be attacked and destroyed by an enemy. It is recommendable to send soldiers to defend it.
+67cb4eddef	atlanteans_building	This is the building where expeditions will be equipped to boldly go and find new shores.
+cad954e8f4	atlanteans_building	Ostur, the designer of the new Expedition ship class, during the opening of a new Port
+0e08240705	atlanteans_building	A market enables trading with other tribes.
+22b4234dac	atlanteans_building	Cuts blocks of granite out of rocks in the vicinity.
+35a6b2c62e	atlanteans_building	The quarry needs rocks to cut within the work area.
+d880ea7e63	atlanteans_building	You must not assume Atlanteans will play everything soft, there are hard times we cannot avoid.
+985fcc9e34	atlanteans_building	Priest of Satul asked why stones are needed for buildings
+0ace18d51f	atlanteans_building	This building can produce one granite between %1$s and %2$s, depending on how far the stonecutter has to walk.
+af5732104f	atlanteans_building	In case of slopes or obstacles in the way, the time is increased.
+38d89ffa86	building	Fells trees in the surrounding area and processes them into logs.
+9493c399c3	atlanteans_building	The woodcutter’s house needs trees to fell within the work area.
+1e2815f700	atlanteans_building	We want to fell trees in a clean and dignified way, therefore we use saws. An ax is a tool used by other tribes only.
+dfb6b79f3e	atlanteans_building	Atlantean woodcutter asked why saws are used to cut trees
+cca415ce47	atlanteans_building	This building can produce one log between %1$s and %2$s, depending on how far the woodcutter has to walk.
+f984275fc1	building	Plants trees in the surrounding area.
+f1b11524c4	atlanteans_building	The forester’s house needs free space within the work area to plant the trees.
+7e0883a4e8	atlanteans_building	‘Only after the last tree has been cut<br>Only after the last forest was devastated<br>Only after the last piece of green has become bare soil<br>Then will you find that nature needs to be cared for.’
+a72a570686	atlanteans_building	Prophecy of the foresters’ guild
+df86d5aee3	atlanteans_building	The forester plants one tree between %1$s and %2$s, depending on how far he has to walk.
+7c357aa76d	atlanteans_building	Fishes on the coast near the fisher’s house.
+daceb57740	atlanteans_building	The fisher’s house needs water full of fish within the work area.
+8358b1e77c	atlanteans_building	Build a fish breeder’s house close to the fisher’s house to make sure that you don’t run out of fish.
+e11bd52b2d	atlanteans_building	Roads and trees along the shoreline block fishing.
+437240b869	atlanteans_building	‘Take your net and come to the sea<br>In the early morning the moon ya still see<br>Collect ya catch by net or by spear,<br>and don’t forget to give Satul his share.’
+f92fa6fa11	atlanteans_building	A song from the fishers’ guild
+c3369b24c0	atlanteans_building	This building can produce one fish between %1$s and %2$s, depending on how far the fisher has to walk.
+f3a9b44992	building	Breeds fish.
+d3bf868406	atlanteans_building	The fish breeder needs open access to the coast.
+2ccbe720c9	atlanteans_building	‘Only after the last duck has been shot down<br>Only after the last deer has been put to death<br>Only after the last fish has been caught<br>Then will you find that spiders are not to be eaten.’
+d144362a8c	atlanteans_building	Prophecy of the fish breeders
+497c6e7953	atlanteans_building	The fish breeder can breed one fish between %1$s and %2$s, depending on how far he has to walk.
+e021bbfa91	building	Hunts animals to produce meat.
+6a709c2de8	atlanteans_building	The hunter’s house needs animals to hunt within the work area.
+06442634ca	atlanteans_building	Sometimes we end up in a region with no fish, so we must hunt. Game will reproduce by itself, if not hunted too much. But yes, fish is our main meal.
+5da1542f87	atlanteans_building	Hunter answering a fisher
+1adffd5689	atlanteans_building	This building can produce one meat between %1$s and %2$s, depending on how far the hunter has to walk.
+323814b09c	building	Draws water out of the deep.
+7e79027dfb	atlanteans_building	I hope you have checked this spot with a geologist.
+e5abfc5bfd	atlanteans_building	Well, there is no wellbeing without a well.
+2591ca8fad	atlanteans_building	Water carrier muttering to himself
+53b1c66548	atlanteans_building	The carrier needs %s to get one bucket full of water.
+02e6ba8016	atlanteans_building	If the water resource is depleted, the carrier needs %s on average.
+9420270c89	atlanteans_building	Spins gold thread out of gold.
+e628a31d4a	atlanteans_building	Do not build until you have a steady gold supply.
+4adc9d7811	atlanteans_building	No, we can’t spin gold thread from straw. We need real gold. What kind of fairy tale did you get that idea from?
+c118d7898b	atlanteans_building	Painted on a gold spinning mill without supplies
+e24c7ae4d7	atlanteans_building	The gold spinning mill needs %s on average to produce one gold thread.
+2cc660e8aa	atlanteans_building	You need to connect this flag to a scout’s house before you can send a scout here.
+6db826913f	building	Explores unknown territory.
+840d101be0	atlanteans_building	Will need fish and bread to have his meal the Atlantean way.
+d14f254f11	atlanteans_building	You do not see everything from your high towers. Sometimes you need someone to find out in person, that’s me!
+6681548f79	atlanteans_building	A scout answering a soldier
+9cc75fbc9a	atlanteans_building	One exploration trip of the scout takes between %1$s and %2$s.
+eaa7c16c1c	building	Saws logs to produce planks.
+ad1a0dffd6	atlanteans_building	Will need at least four woodcutters for a constant supply of planks.
+a6e8b1e437	atlanteans_building	The design of our sawmills makes operation simple, yet powerful. Patent pending.
+6107852735	atlanteans_building	Askadus, Inventor of the vertical axis windmill
+e29a835cf3	atlanteans_building	The sawmill needs %s on average to produce one plank.
+255d4de639	atlanteans_building	Smokes meat and fish to feed the scouts and miners and to train soldiers in the dungeon and labyrinth.
+cd20e81688	atlanteans_building	We are using pure logs, no other ingredients! Which drunken foreigner hath told you that myth?
+b6c3d373bf	atlanteans_building	A Smoker answering a passer-by
+117f1cad0f	atlanteans_building	If this building is fully supplied and all kinds of smoked food are needed by the economy, production of one smoked fish takes %1$s and one smoked meat takes %2$s on average. If only one kind of food is needed by the economy, production of one smoked fish takes %3$s and one smoked meat takes %4$s on average.
+dd551be9fb	atlanteans_building	Grinds blackroots and corn to produce blackroot flour and cornmeal, respectively.
+097be5b08b	atlanteans_building	When no cornmeal is required, the mill will try to produce blackroot flour even when there is no demand for it.
+ff2372979a	atlanteans_building	We invented this vertical axis design first, the sawmill just copied our ideas but never acknowledged our claim.
+67c48037ef	atlanteans_building	Miller arguing with a sawyer
+8535c2e883	atlanteans_building	If this building is fully supplied and both kinds of flour are needed by the economy, production of one sack of each kind of flour takes %1$s on average. If only one kind of flour is needed by the economy, its production takes %2$s on average.
+ac6b4014dc	atlanteans_building	Bakes bread to feed the scouts and miners and to train soldiers.
+48a2601897	atlanteans_building	Will need cornmeal and blackroot flour.
+388f6f7a16	atlanteans_building	You cannot compare our bread to anything from those other tribes. This recipe was inherited for generations. It is more nutritious than that paper-like bread you find elsewhere. And it is needed for the personal rite of preparing one’s meal. May Satul bless you.
+d0657c0bd7	atlanteans_building	Head of the bakers’ guild
+522d15769c	atlanteans_building	If all needed wares are delivered in time, this building can produce one bread in %s on average.
+692149088f	building	Burns logs into charcoal.
+381c521563	atlanteans_building	Build only if you absolutely must produce some coal, or when you have a very large amount of logs.
+73308fa4bb	atlanteans_building	We must admit that this business is not really the Atlantean way, but in times of need we do what’s necessary.
+e8edb8c0c1	atlanteans_building	A black voice from inside the charcoal kiln
+8bac7b80d8	atlanteans_building	The charcoal kiln needs %s on average to produce one coal.
+20ad3da15a	building	Smelts iron ore into iron and gold ore into gold.
+042e6751ae	atlanteans_building	We learned the smelting from our forefathers, a basic craftsmanship taming the fire and the ore into pure metals.
+9eea6cfb10	atlanteans_building	A member of the smelters’ guild
+f69bac4250	atlanteans_building	If this building is fully supplied and all metals are needed by the economy, production of one iron takes %1$s and one gold takes %2$s on average. If only one kind of metal is needed by the economy, production of one iron takes %3$s and one gold takes %4$s on average.
+0239408294	building	Forges all the tools that your workers need.
+0aab6fb1dc	atlanteans_building	People’s power working for the benefit of all
+040f48e5b5	atlanteans_building	Faded sign found on top of this building
+74db030eb1	atlanteans_building	If this building is fully supplied and all tools are needed by the economy, production of one of each tool takes %1$s on average. If only one kind of tool is needed by the economy, its production takes %2$s on average.
+143b3bc9d0	atlanteans_building	Forges tridents to equip the soldiers and to train their attack in the dungeon.
+457094a95b	atlanteans_building	You hear that sound of metal strident? The weapon smith just forged a trident!
+31fa396e05	atlanteans_building	Atlantean nursery rhyme
+e9b61e0f37	atlanteans_building	If this building is fully supplied and all tridents are needed by the economy, production of one of each trident takes %1$s on average. If only one kind of trident is needed by the economy, production of one light trident takes %2$s and one long trident, one steel trident, one double trident or one heavy double trident takes %3$s on average.
+bf956b86e9	atlanteans_building	Forges shields that are used for training soldiers’ defense in the labyrinth.
+5eca1ceac5	atlanteans_building	‘She twists and tweaks the steel with might<br>that soldiers may therewith once fight<br>most skillful foes, whose lethal lance<br>from this their armour off will glance!’
+33adb825bb	atlanteans_building	If this building is fully supplied and both kinds of shields are needed by the economy, production of one of each kind takes %1$s on average. If only one kind of shield is needed by the economy, production of one steel shield takes %2$s and one advanced shield takes %3$s on average.
+abd59d0b01	atlanteans_building	Equips recruits and trains them as soldiers.
+d9cf6c1c0f	atlanteans_building	See these fine silk tabards and those sharp tridents? This is your way to defend your tribe!
+9becb976cd	atlanteans_building	Recruiting poster
+f85dd484e3	atlanteans_building	The barracks need %s on average to recruit one soldier.
+adf28fb127	atlanteans_building	Breeds the strong Atlantean horses for adding them to the transportation system.
+38ef5fddde	atlanteans_building	I walk all day just back and forth. I need? I need … I need a horse!
+ddfdf60507	atlanteans_building	Busy carrier murmuring to himself
+d30a74a3a3	atlanteans_building	If all needed wares are delivered in time, this building can produce a horse in %s on average.
+383f272fba	atlanteans_building	Sows and harvests corn.
+45f454ddcc	atlanteans_building	I use my feet, I use my arm, I’m caring for this farm!
+a603eba4d8	atlanteans_building	Atlantean harvesting song
+5e3ef3ec5d	atlanteans_building	The farmer sows and harvests one sheaf of corn between %1$s and %2$s, depending on how far he has to walk.
+251a544d27	atlanteans_building	The farm needs at least %s to work at full productivity most of the time.
+1ef5565fa5	atlanteans_building	Sows and harvests blackroot.
+eab0937245	atlanteans_building	The secret of Atlantean health and strength is hidden in these roots. It’s not spinach, it’s not a carrot, it’s … a secret.
+26ec0c7e23	atlanteans_building	Blackroot farmer asked by a foreigner
+aee9d54501	atlanteans_building	The blackroot farmer sows and harvests one bundle of blackroot between %1$s and %2$s, depending on how far he has to walk.
+4e29e498c4	atlanteans_building	The blackroot farm needs at least %s to work at full productivity most of the time.
+97f91b6875	building	Breeds spiders for silk.
+33318ed6f9	atlanteans_building	No, the spiders are not fed with corn. We feed it to fat grasshoppers, which in turn are digested by our spiders. We put them on a special device to gain the spider silk once a day. There is no need to spin this again. The thread can directly be used by the weaving mill. Oh hello, here is one of our nice spiders … Hey! Why are you running away?
+1dd30d3a97	atlanteans_building	A spider breeder showing her farm
+aaeeeddcaf	atlanteans_building	The spider farm needs %s on average to produce one spider silk.
+e9346afb9b	atlanteans_building	Weaves spidercloth for buildings and ships’ sails, and tabards to equip and train the soldiers.
+be072cc6a1	atlanteans_building	Here are the Wide Lands where people may dwell, walking around caring everything’s well.
+db63be7a1b	atlanteans_building	Part of the silkweavers’ song
+a5139fec70	atlanteans_building	If this building is fully supplied and all kinds of cloth and tabards are needed by the economy, production of one of each cloth and tabard takes %1$s on average. If only one kind of cloth or tabard is needed by the economy, its production takes %2$s on average.
+31ff7172f3	atlanteans_building	Carves precious (and normal) stones out of the rock in mountain terrain.
+b56a53434b	atlanteans_building	Only the pure, white stones Diamond and Quartz will enlighten our people. Thus, every major building will need them so the inhabitants may worship Satul to warm them.
+a3d6f6c04b	atlanteans_building	First part of the Atlantean almanach on architecture
+6f7d5c8c7e	atlanteans_building	If this building is fully supplied and all minerals are needed by the economy, production of one granite takes %1$s, one quartz takes %2$s and one diamond takes %3$s on average. If only one kind of mineral is needed by the economy, production of one granite takes %4$s, one quartz takes %5$s and one diamond takes %6$s on average.
+dc9e09ab10	building	Digs coal out of the ground in mountain terrain.
+308c72d0f0	atlanteans_building	‘Way down here in this deep mine<br>where the sun it dare not shine,<br>I sweat and toil till day is done,<br>but I’ll be back with morning come.’
+109e512960	atlanteans_building	Song from the miners’ guild
+8151f0e9d7	atlanteans_building	If the food supply is steady, this mine can produce coal in %s on average.
+b9ed6a6548	building	Digs iron ore out of the ground in mountain terrain.
+35f969f6ce	atlanteans_building	If the food supply is steady, this mine can produce iron ore in %s on average.
+bd8119c665	building	Digs gold ore out of the ground in mountain terrain.
+049484f40b	atlanteans_building	‘Way down here in these golden grounds<br>with stones above us the thousand pounds<br>I dig in the dust until I see the spark;<br>The golden ore I find in the dark.’
+8b8460f322	atlanteans_building	Miner’s prayer
+91840c24af	atlanteans_building	If the food supply is steady, this mine can produce gold ore in %s on average.
+9a36569642	atlanteans_building	Trains soldiers in ‘Attack’.
+2662429d82	atlanteans_building	Equips the soldiers with all necessary weapons and armor parts.
+f08e5f2e3d	atlanteans_building	Make our enemies feel the pain, so enter here to gain your train!
+f2da872917	atlanteans_building	Engraving on the entrance to the dungeon
+ed39178e11	atlanteans_building	If all needed wares are delivered in time, a dungeon can train one soldier one level in attack in %s on average.
+2b1272c77c	atlanteans_building	Complete training of one soldier takes %s on average.
+a4f2b27695	atlanteans_building	Trains soldiers in ‘Defense’, ‘Evade’, and ‘Health’.
+28843bcd79	atlanteans_building	Our enemies claim: we have a ruddy twisted way to fight. Check the way we train, in this labyrinth they may be right.
+a6e3de2282	atlanteans_building	Atlantean hero after first contact with a real enemy
+9939f5f375	atlanteans_building	If all needed wares are delivered in time, a labyrinth can train one soldier one level in defense, evade or health in %s on average.
+cc6acc2583	atlanteans_building	Garrisons soldiers to expand your territory.
+0534124d7b	atlanteans_building	If you’re low on soldiers to occupy new military sites, use the downward arrow button to decrease the capacity. You can also click on a soldier to send him away.
+94f68f88ee	atlanteans_building	Hey soldier, even if this is the smallest of our military buildings you still must not sleep all day!
+f1be8387b8	atlanteans_building	Officer visiting a remote guardhouse
+e774acf0a2	atlanteans_building	In this hall we praise the fight, Satul will warm us day and night.
+7d32499981	atlanteans_building	Scribbling on the wall of a guardhall
+251645f606	atlanteans_building	With three soldiers we can achieve an optimal balance between military power and building cost.
+3751b30eac	atlanteans_building	Notes on the building instructions
+4b9d8f60d0	atlanteans_building	All the other tribes envy us for our towers, elegant outside, comfortable inside, still perfect for defense.
+e4c52570c7	atlanteans_building	Soldier handing over his duties to a younger one
+8859477afd	atlanteans_building	Beware our mighty high towers! From the topmost spot we can see wide into the lands and spot the enemy far away.
+929fdcfe0c	atlanteans_building	Soldier showing off a High Tower
+623e7d9194	atlanteans_building	Sometimes even we Atlanteans need to use brute force, but we always play it wisely.
+28b8c7e254	atlanteans_building	‘Wisdom of the Fight’ by the warriors’ guild
+4067a2691f	building	Builds ferries.
+ac8ddeae30	building	Needs water nearby. Be aware ferries carry wares only, no workers.
+6b744728a9	atlanteans_building	‘Row, row, row your boat<br>gently ’long the shore.<br>Steadily steadily steadily steadily<br>bring the wares ashore.’
+4c50673923	atlanteans_building	Traditional song of the ferrymen
+7a5cf4922b	atlanteans_building	This building can produce one ferry between %1$s and %2$s, depending on how far the shipwright has to walk.
+b772db2bd2	building	Constructs ships that are used for overseas colonization and for trading between ports.
+a36ccbb225	atlanteans_building	‘Soon may the wellerman come,<br>to bring us bread and smoked fish.<br>We set sail for a faraway shore<br>we praise Satul the best we wish.’
+a6d6e1f0df	atlanteans_building	Transcript from oral tradition
+1d841dadb2	atlanteans_building	This building can produce one ship between %1$s and %2$s, depending on how far the shipwright has to walk.
+ff95937b75	warehousename	Aegina
+418b5d58e9	warehousename	Constantinos
+3c098f64a2	warehousename	Kirikos
+5804ec2311	warehousename	Aggistri
+f010bdf03b	warehousename	Alonissos
+a2fa51d64a	warehousename	Anafi
+64c8725c95	warehousename	Andros
+b84053836b	warehousename	Antikythira
+c79be16985	warehousename	Arkyi
+488fd51bce	warehousename	Astypalea
+ee3d044ca4	warehousename	Chalki
+f47e95cb56	warehousename	Chania
+593debebe7	warehousename	Chios
+fdc8c42e88	warehousename	Diafani
+31f0f68e78	warehousename	Donoussa
+799f0a8599	warehousename	Euboea
+2fe0bd0433	warehousename	Folegandros
+7655146818	warehousename	Fourni
+5af0a5c2b8	warehousename	Gytheio
+4e83ffa24f	warehousename	Heraklion
+864656acf4	warehousename	Hydra
+866267a46f	warehousename	Igoumenitsa
+a8a6e196ef	warehousename	Ios
+1cbaf45a8f	warehousename	Iraklia
+0e196090e5	warehousename	Ithaki
+725c309f23	warehousename	Kalamata
+0c7ba1a1f7	warehousename	Kalymnos
+2ee1d93a0b	warehousename	Karlovassi
+0936ff40a0	warehousename	Karpathos
+54d7ae8cde	warehousename	Kasos
+a6e453b892	warehousename	Kastelorizo
+1b6ffb3a44	warehousename	Katapola
+f2b9ea22f5	warehousename	Kavala
+633157e3fe	warehousename	Kefalonia
+b3f06be31b	warehousename	Kilini
+f7c6031c71	warehousename	Kimolos
+7830fe3905	warehousename	Kissamos
+7514330539	warehousename	Korfu
+800d0ed8f9	warehousename	Kos
+a6ed64bb05	warehousename	Koufonissi
+a8ea820ea4	warehousename	Kythira
+2123f77215	warehousename	Kythnos
+80e144db5f	warehousename	Lavrio
+492db5f593	warehousename	Leros
+9df2c03dd9	warehousename	Lesvos
+75a6e8207b	warehousename	Limnos
+77b1c2fac3	warehousename	Lipsi
+5c086f6cde	warehousename	Milos
+36bb85aeda	warehousename	Mykonos
+49a77a1001	warehousename	Naxos
+f58dc72e61	warehousename	Nisyros
+24eb54aaac	warehousename	Paros
+88109f224a	warehousename	Patmos
+424ffcd23e	warehousename	Patras
+4473402134	warehousename	Paxoi
+64a4e34002	warehousename	Piraeus
+75b8db8d80	warehousename	Poros
+a0671327f4	warehousename	Rafina
+364eadc0b3	warehousename	Rhodos
+3fb85c6008	warehousename	Samos
+dd83e347ef	warehousename	Santorini
+a53932059b	warehousename	Schinoussa
+411807b79b	warehousename	Serifos
+a671c4ec4f	warehousename	Sifnos
+57dbcaf33a	warehousename	Sikinos
+db5f217557	warehousename	Sitia
+0853e74aaf	warehousename	Skiathos
+3b7768939b	warehousename	Skopelos
+0861a29a47	warehousename	Symi
+11e99f538d	warehousename	Syros
+7ef4706b33	warehousename	Thessaloniki
+dde5ce3040	warehousename	Tilos
+4b990a195b	warehousename	Tinos
+13907adc6a	warehousename	Volos
+a0df07ebd1	warehousename	Zakynthos
+d7e23663f8	atlanteans	Worker missing
+48059342e6	atlanteans	Worker is coming
+53c4e8d10b	atlanteans	Workers missing
+370a79d8d2	atlanteans	Workers are coming
+bb9699a5db	atlanteans	Expert missing
+9304dcad01	atlanteans	Experts missing
+e046fde685	atlanteans_soldier	%1% soldier (+%2%)
+95f63694c4	atlanteans_soldier	%1% soldier
+ba30dbb01b	atlanteans_soldier	%1%(+%2%) soldier (+%3%)
+4834ec7184	atlanteans_soldier	%1%(+%2%) soldier

@@ -1,0 +1,101 @@
+6df1566a10		Text needed
+f8aeecdd68		Lore
+667696c97f		Purpose:
+3db91652bc		This mine will exploit %1%%% of its resources. From there on out, it will only have a %2%%% chance of finding any more of them.
+73629fe7e2		This mine will exploit all of its resources down to the deepest level. But even after having done so, it will still have a %1%%% chance of finding some more of them.
+9b55767dab		Note:
+49965995fe		Work area radius:
+c0786001db		Healing:
+87b48f034b		Garrisoned soldiers heal %d health point per second.
+c1acc0b9a1		Conquer range:
+3b5c35a0be		Capacity:
+4f58324233		Vision range:
+9cc96746e3		%1$s from: %2$s
+04c9fc5804		Incoming:
+08874add19		Mines:
+7e9414cbf1		Collects:
+f08a75ad4f		Creates:
+eae98bee9f		Outgoing:
+9d1a028c7d		Dependencies
+c842fc662c		Building requirements
+6bfd71679b		This building can either be built directly or obtained by enhancing another building.
+be3abd5e9b		Direct build cost:
+a482052eca		Build cost:
+3808059211		Or enhanced from:
+414ad51a74		Enhanced from:
+2877122cb2		Cumulative cost:
+42c6bb4a1a		If built directly, dismantle yields:
+0fb4c0417f		If enhanced, dismantle yields:
+8388fde42f		Dismantle yields:
+8e95321c2a		Can be enhanced to:
+dd7e86361a		Crew required:
+4f66be77be		%s or better
+5bff1fb1a1		Worker uses:
+13e992396d		Workers use:
+8fabc42326		Experience levels
+f1292cb875		Health improvement:
+608cc75f96		From %1% to %2%
+cdf3ac5963		Attack training:
+2ac88b623f		Defense training:
+0dd468d17e		Evade training:
+1e1e37180a		Ware produced:
+3c95510e78		Wares produced:
+2ef5d1b727		Workers recruited:
+6422d1c3de		Calculation needed
+bde2169219		Performance:
+d1bff25b58		Window Control
+7820178db2	hotkey	Right-click
+d89d9448fc	hotkey	Middle-click or Ctrl + Left-click
+a55fa3ca49		Minimize/Maximize window
+b15f0dc901	hotkey	Ctrl + Left-click on Button
+eb9d4de4db		Skip confirmation dialog
+e78a404a4a		Table Control
+8064d6bcda		In tables that allow the selection of multiple entries, the following key combinations are available:
+27b35b8bc1	hotkey	Ctrl + Click
+5ecbc34f72	table_control	Select multiple entries
+05032109ac	hotkey	Shift + Click
+b59d344c85	table_control	Select a range of entries
+1ee9c4000e	table_control	Select all entries
+2735a5856e		Road Control
+68bc8c0f7f	hotkey	Ctrl + Left-click
+a4c7d99fb3		While connecting two flags: Place flags automatically
+bfcee893bc		While removing a flag: Remove all flags up to the first junction
+741714ed29		Mine plot
+ebfc9186ca		Port plot
+7efda061bc		Small plot
+e84afcc88b		Medium plot
+80267f6bfd		Big plot
+84580b7f03		Space required:
+ceff42c7b7		%s to %s (%s EP)
+ce0b86c7b8		%s and
+7e4a228b72		Wares and workers consumed:
+7dcf65ad4e		Workers consumed:
+0d90a51e72		Wares consumed:
+fd234b1cee		Purpose
+705d963d08		Requirements
+6ecbec67fa		Workers and animals can walk across fields with this immovable.
+9b3f218925		Workers and animals can’t walk across fields with this immovable.
+9200608b92		Becomes
+8761447215		Preferred Terrains
+98bcb13fb2		Tribes Immovables
+339b484edb		World Immovables
+331bee73f5		Producer
+1e54842acb		Consumer
+2c88b0bdb5		Consumers
+c0bbce093a		Worker recruited:
+6735015c75	workerhelp_one_building	Works at
+27ddbd4359	workerhelp_multiple_buildings	Works at
+2083bca6a5	workerhelp_one_building	Can also work at
+033e6e5471	workerhelp_multiple_buildings	Can also work at
+97e9fa91ee		Worker uses
+e551cb870f		Levels
+0d86ce8111		Health
+f205078041		Starts at %1% points.
+2717dbbdca		Increased by %1% point for each level.
+c4547969ed		The maximum level is %1%.
+4cbc69a948		A random value between %1% and %2% points is added to each attack.
+c686d28435		Defense
+9c9c639f64		Starts at %d%%.
+767cd6b74c		Increased by %d%% for each level.
+f553b10c37		This soldier cannot be trained in defense.
+ed7100b3bb		Evade

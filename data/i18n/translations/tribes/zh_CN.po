@@ -5756,7 +5756,7 @@ msgstr "粗枝大叶的北海海岸居民。"
 
 #: ../../../../data/tribes/scripting/help/init.lua:85
 msgid "Tribal Encyclopedia"
-msgstr "部落大百科"
+msgstr "部族百科全书"
 
 #: ../../../../data/tribes/scripting/help/init.lua:90
 msgid "General"
