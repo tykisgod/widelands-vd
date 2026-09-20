@@ -33,14 +33,23 @@
 | 范围 | 条目 | 已译 |
 |---|---:|---:|
 | `widelands` 主 UI 域 | 2,378 | **2,378（100%）** |
-| 全部 32 个域 | 9,772 | 4,466（45.7%） |
+| 17 个战役与教程剧本 | 2,795 | **2,795（100%）** |
+| `tribes_encyclopedia` 百科全书 | 2,339 | **2,339（100%）** |
+| 全部 32 个域 | 9,772 | **9,772（100%）** |
+
+`check_po.py` 全域 **0 error / 0 warning**。
 
 主 UI 域为**全面重译**，而非只补空缺——现有译文存在术语不一致
 （`add-on` 同时译作"附件"与"插件"）与错译（`Fortress` 译作"哨所"，而
-"哨所"的语义正是驻军 2 人的 `Sentry`），只补空缺无法消除。
+"哨所"的语义正是驻军 2 人的 `Sentry`），只补空缺无法消除。同样的整理
+也做到了其余各域：`Out of Fields` 被误读成"场地之外"、`Ferry`（船）
+被译成"艄公"（划船的人）、`Food Preserver`（做口粮的作坊）被译成
+"食品仓库"等，均已订正并记入 `corrections.tsv`。
 
-尚未完成：17 个战役与教程剧本（约 2,200 条）、`tribes_encyclopedia`
-百科全书（2,314 条）、以及其余零散补漏。
+刻意保留原文的两处：帝国百科里 52 条拉丁语引文（原文注释明写
+`DO NOT TRANSLATE`，游戏中紧随其后就是它的译文），以及弗里西亚战役二
+中帝国总督的拉丁语台词（下一句台词正是"有人听得懂他在说什么吗？"）。
+见 `keep-english.txt`。
 
 ## 快速上手
 
@@ -53,14 +62,18 @@
 ```
 
 ```bash
-# 静态校验
-python i18n-zh/check_po.py data/i18n/translations/widelands/zh_CN.po \
-       --pot data/i18n/translations/widelands/widelands.pot \
-       --glossary i18n-zh/glossary.tsv --require-complete
+# 全部 32 个域（--all 会自动带上 Widelands 文法、术语表与保持英文清单）
+python i18n-zh/check_po.py --all
 
-# 全部 32 个域
-python i18n-zh/check_po.py --all --glossary i18n-zh/glossary.tsv
+# 单个域，并与 pot 比对键集
+python i18n-zh/check_po.py data/i18n/translations/widelands/zh_CN.po \
+       --grammar widelands --glossary i18n-zh/glossary.tsv \
+       --keep-english i18n-zh/keep-english.txt \
+       --pot data/i18n/translations/widelands/widelands.pot --require-complete
 ```
+
+**`--grammar widelands` 不能省。** 默认的 `printf` 文法会把 `%1%` 当成
+字面百分号放过去，整类占位符从此不再被检查，而校验仍报 0 error。
 
 **不要直接双击 `widelands.exe`。** 官方 daily 构建的 zip 只含可执行文件，
 不含 `data/`；Widelands 找不到 datadir 时只记录错误却不退出

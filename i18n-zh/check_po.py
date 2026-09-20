@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
-"""Widelands 简体中文译文静态校验。
+"""gettext 译文静态校验器。只用标准库。
 
-用法:
-    python i18n-zh/check_po.py data/i18n/translations/widelands/zh_CN.po
-    python i18n-zh/check_po.py --all          # 校验全部 32 个域
-    python i18n-zh/check_po.py <po> --glossary i18n-zh/glossary.tsv
+    python check_po.py <file.po> --pot <file.pot> --glossary glossary.tsv
+    python check_po.py --root <translations-dir> --locale zh_CN
+    python check_po.py <file.po> --require-complete      # 验收闸口
 
-退出码 0 表示无 error 级问题。warning 不影响退出码。
+检查项：占位符完整性与类型、换行数、复数形式、漏译、全半角标点、首尾空白、
+fuzzy 标记、与 .pot 的键集比对、富文本标记计数、术语表符合性。
 
-设计要点：不依赖 polib 等第三方库，因为本仓库的 CI 与本地环境都只保证
-有标准库。po 解析器与 extract_glossary.py 共用同一份实现。
+不依赖 msgfmt / pocount —— 二者在 Windows 上常常没有，且 msgfmt --check-format
+无法校验引擎自有的占位符文法。
+
+**占位符文法可切换**：--grammar printf（默认）或 --grammar widelands。
+要支持别的引擎，照着 parse_format_string_widelands 再写一个，文法逻辑全部
+集中在这一个函数里，其余检查项不受影响。
 """
 from __future__ import annotations
 
@@ -175,8 +179,8 @@ class FormatSpec:
         self.kind = kind
 
 
-def parse_format_string(s):
-    """按 Widelands 自有文法解析，返回 (specs, errors)。
+def parse_format_string_widelands(s):
+    """Widelands 自有文法，作为非 printf 引擎的实作样例。返回 (specs, errors)。
 
     文法见 src/base/format/tree.h:40-75，约束实现在 tree.cc:155-245：
 
@@ -257,6 +261,9 @@ def parse_format_string(s):
 
         if '-' in flags and '0' in flags:
             errors.append(f"{raw!r}：'-' 与 '0' 不能并用")
+        for ch_f in set(flags):
+            if flags.count(ch_f) > 1:
+                errors.append(f"{raw!r}：flag {ch_f!r} 重复")
 
         if ell:
             if ch not in 'diu':
@@ -312,6 +319,94 @@ def parse_format_string(s):
     return specs, errors
 
 
+# printf 文法：% [N$] [flags] [width] [.precision] [length] conv
+# 宽度/精度可为 * （再吃一个 int 参数），亦可为 *N$ 。
+PRINTF_RE = re.compile(
+    r"%(?:(\d+)\$)?([-+ #0']*)"
+    r"(?:(\d+)|\*(?:(\d+)\$)?)?"
+    r"(?:\.(?:(\d+)|\*(?:(\d+)\$)?)?)?"
+    r"(hh|h|ll|l|L|q|j|z|t)?"
+    r"([diouxXeEfFgGaAcspn%])")
+
+# 各转换符归一后的类型；用于比对源文与译文是否改变了参数类型
+_PRINTF_KIND = {
+    'd': 'int', 'i': 'int',
+    'o': 'uint', 'u': 'uint', 'x': 'uint', 'X': 'uint',
+    'e': 'float', 'E': 'float', 'f': 'float', 'F': 'float',
+    'g': 'float', 'G': 'float', 'a': 'float', 'A': 'float',
+    'c': 'char', 's': 'str', 'p': 'ptr', 'n': 'outptr',
+}
+
+
+def parse_format_string_printf(s):
+    """标准 printf 文法（POSIX）。多数 gettext 项目用这一套。
+
+    对**无法识别的 `%`** 报错而不是跳过。宽松地吞掉不认识的形式是危险的：
+    引擎自有的 `%1%` 会被当成"宽度 1 的字面百分号"而静默略过，源文与译文
+    一视同仁，于是校验 0 error，实则整类占位符从未被检查。POSIX 规定字面
+    百分号只能写作 `%%`。
+    """
+    specs = []
+    errors = []
+    auto = 0            # 不编号参数的自动序号
+    pos = 0
+    n = len(s)
+    while True:
+        j = s.find('%', pos)
+        if j < 0:
+            break
+        m = PRINTF_RE.match(s, j)
+        if not m:
+            errors.append(f'{s[j:j + 8]!r}：无法识别的格式说明符'
+                          f'（字面百分号须写作 %%）')
+            pos = j + 1
+            continue
+        idx, flags, width, width_pos, prec, prec_pos, length, conv = m.groups()
+        pos = m.end()
+        if conv == '%':
+            if idx or flags or width or prec or length:
+                errors.append(f'{m.group(0)!r}：字面百分号不接受编号或修饰')
+            continue
+        if '-' in flags and '0' in flags:
+            errors.append(f"{m.group(0)!r}：'-' 与 '0' 同时出现，'0' 被忽略")
+
+        # * 宽度/精度各自额外吃一个 int 参数
+        for star_pos, present in ((width_pos, '*' in m.group(0)[:m.end() - j] and width is None),
+                                  (prec_pos, prec is None and '.*' in m.group(0))):
+            if not present:
+                continue
+            if star_pos:
+                specs.append(FormatSpec('*', int(star_pos), 'int'))
+            else:
+                auto += 1
+                specs.append(FormatSpec('*', None if not idx else auto, 'int'))
+
+        kind = _PRINTF_KIND[conv]
+        if idx:
+            specs.append(FormatSpec(m.group(0), int(idx), kind))
+        else:
+            auto += 1
+            specs.append(FormatSpec(m.group(0), None, kind))
+
+    numbered = [sp for sp in specs if sp.index is not None]
+    if numbered and len(numbered) != len(specs):
+        errors.append('编号与不编号的占位符不能混用')
+    if numbered:
+        idxs = sorted({sp.index for sp in numbered})
+        # POSIX 允许同一个编号被多次引用，故只查空缺与起点，不查重复
+        if idxs and idxs != list(range(1, len(idxs) + 1)):
+            errors.append(f'参数编号有空缺或不从 1 起：{idxs}')
+    return specs, errors
+
+
+GRAMMARS = {
+    'printf': parse_format_string_printf,
+    'widelands': parse_format_string_widelands,
+}
+# 由 --grammar 设定；默认 printf
+parse_format_string = parse_format_string_printf
+
+
 def mask_specs(s, fill=''):
     """把格式说明符替换掉，便于判断"剩下的文字"是否像英文、标点是否合规。
 
@@ -337,6 +432,19 @@ def arg_signature(specs):
     return sig
 
 
+# 裸百分号家族：原文写了 "50% done" 或 "‘0%’" 这类没有转义的百分号时，
+# 解析器只能把它当成残缺的占位符。出现这类错误就说明该条根本没走格式
+# 引擎——否则原文自己就会抛错——因此译文里紧跟百分号的字符换成什么都无所谓。
+_BARE_PERCENT = ("不支持的格式类型字符",
+                 "以孤立的 '%' 结尾",
+                 "无法识别的格式说明符",
+                 "格式说明符不完整")
+
+
+def _is_bare_percent(msg):
+    return any(k in msg for k in _BARE_PERCENT)
+
+
 def check_placeholders(e, path, out):
     """占位符必须与原文引用同一组参数，且自身合乎文法。
 
@@ -356,7 +464,15 @@ def check_placeholders(e, path, out):
         if not got_str.strip():
             continue
         got_specs, errors = parse_format_string(got_str)
+        # 原文本身就有的语法问题不算在译者头上。常见来源：原文里裸写的
+        # 百分号（"50% done"）、URL 中的百分号编码（"Ai%20Training"）。
+        # 译文逐字照抄反而会被判错，那是校验器的问题不是译文的问题。
+        src_bare = any(_is_bare_percent(m) for m in src_errors)
         for msg in errors:
+            if msg in src_errors:
+                continue
+            if src_bare and _is_bare_percent(msg):
+                continue
             out.append(Problem('error', path, e.line, 'placeholder-syntax',
                                f'msgstr[{i}] {msg}', e.msgid))
         got = arg_signature(got_specs)
@@ -417,6 +533,7 @@ def load_keep_english(path):
 
 
 KEEP_ENGLISH: set[str] = set()
+SKIP_LANG_CHECKS = False
 
 
 def check_untranslated(e, path, out):
@@ -482,7 +599,9 @@ def check_trailing_space(e, path, out):
 # 只有 4 处是真标记）。
 #   成对：rt_parse.cc:280-287,341-360,380-407,448-455,505-512,554-594
 #   注册：rt_render.cc:1869-1884
-RICHTEXT_TAGS = ('rt', 'div', 'p', 'font', 'link', 'br', 'space', 'vspace', 'img')
+# 默认白名单覆盖常见的富文本/HTML 子集。用 --tags 换成目标引擎实际认识的标签。
+RICHTEXT_TAGS = ('rt', 'div', 'p', 'font', 'link', 'b', 'i', 'u',
+                 'br', 'space', 'vspace', 'img', 'hr')
 TAG_RE = re.compile(r'</?([A-Za-z][A-Za-z0-9_-]*)\b[^>]*>')
 
 
@@ -569,9 +688,11 @@ def check_glossary(e, path, terms, out):
                            f'与术语表不符：应为 {want!r}，实际 {got!r}', e.msgid))
 
 
-CHECKS = [check_placeholders, check_escapes, check_plural,
-          check_untranslated, check_punctuation, check_trailing_space,
+# 语言无关的检查
+CHECKS = [check_placeholders, check_escapes, check_trailing_space,
           check_markup, check_fuzzy]
+# 针对简体中文的检查：全角标点、nplurals=1、"无 CJK 即疑似漏译"
+LANG_CHECKS = [check_plural, check_untranslated, check_punctuation]
 
 
 def count_obsolete(path):
@@ -641,34 +762,62 @@ def check_file(path, terms, require_complete, pot_path=''):
         if not e.translated and not require_complete:
             continue        # 未译条目在补全前不报，避免淹没真实问题
         checked += 1
-        for fn in CHECKS:
+        for fn in CHECKS + ([] if SKIP_LANG_CHECKS else LANG_CHECKS):
             fn(e, path, out)
         check_glossary(e, path, terms, out)
     return entries, checked, out
 
 
 def main():
-    ap = argparse.ArgumentParser(description='Widelands 简体中文译文校验')
+    ap = argparse.ArgumentParser(description='gettext 译文静态校验器')
     ap.add_argument('files', nargs='*', help='po 文件路径')
-    ap.add_argument('--all', action='store_true', help='校验全部 32 个域的 zh_CN.po')
+    ap.add_argument('--all', action='store_true',
+                    help='本仓库快捷方式：校验 data/i18n/translations 下全部域的 '
+                         'zh_CN.po，并自动带上 Widelands 文法、术语表与保持英文清单')
+    ap.add_argument('--root', default='',
+                    help='译文根目录；其下每个子目录一个域，含 <locale>.po')
+    ap.add_argument('--locale', default='zh_CN', help='语言代码，配合 --root')
+    ap.add_argument('--grammar', default='printf', choices=sorted(GRAMMARS),
+                    help='占位符文法（默认 printf）')
+    ap.add_argument('--tags', default='',
+                    help='逗号分隔的富文本标签白名单，覆盖默认值')
     ap.add_argument('--glossary', default='', help='术语表 TSV')
-    ap.add_argument('--keep-english', default=os.path.join(
-        os.path.dirname(os.path.abspath(__file__)), 'keep-english.txt'),
-        help='合法保持英文的 msgid 清单')
+    ap.add_argument('--keep-english', default='',
+                    help='清单文件：其中列出的 msgid 允许保持英文')
     ap.add_argument('--pot', default='',
                     help='对应的 .pot 文件；比对 (msgctxt, msgid, msgid_plural) '
                          '键集是否双向一致。--all 时自动按同目录推导')
     ap.add_argument('--require-complete', action='store_true',
                     help='把未译条目也算作 error（验收阶段用）')
+    ap.add_argument('--no-lang-checks', action='store_true',
+                    help='关闭针对简体中文的检查（全角标点、nplurals=1、'
+                         '无 CJK 即疑似漏译），用于其他语言')
     ap.add_argument('--quiet', action='store_true', help='只输出汇总')
     args = ap.parse_args()
 
-    files = list(args.files)
     if args.all:
-        root = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..')
-        files += sorted(glob.glob(os.path.join(root, 'data/i18n/translations/*/zh_CN.po')))
+        # 本仓库的默认配置。散装调用时这几个开关一个都不能漏——漏掉
+        # --grammar 会退回 printf 文法，把 %1% 当成字面百分号放过去。
+        here = os.path.dirname(os.path.abspath(__file__))
+        repo = os.path.dirname(here)
+        args.root = args.root or os.path.join(
+            repo, 'data', 'i18n', 'translations')
+        args.grammar = 'widelands'
+        args.glossary = args.glossary or os.path.join(here, 'glossary.tsv')
+        args.keep_english = args.keep_english or os.path.join(
+            here, 'keep-english.txt')
+
+    global parse_format_string, RICHTEXT_TAGS, SKIP_LANG_CHECKS
+    parse_format_string = GRAMMARS[args.grammar]
+    SKIP_LANG_CHECKS = args.no_lang_checks
+    if args.tags:
+        RICHTEXT_TAGS = tuple(t.strip().lower() for t in args.tags.split(',') if t.strip())
+
+    files = list(args.files)
+    if args.root:
+        files += sorted(glob.glob(os.path.join(args.root, '*', f'{args.locale}.po')))
     if not files:
-        ap.error('未指定文件；用 --all 校验全部域')
+        ap.error('未指定文件；用 --root <dir> --locale <code> 批量校验')
 
     global KEEP_ENGLISH
     KEEP_ENGLISH = load_keep_english(args.keep_english)
@@ -683,7 +832,7 @@ def main():
     total_err = total_warn = total_entries = total_checked = total_translated = 0
     for path in files:
         pot = args.pot
-        if not pot and args.all:
+        if not pot and args.root:
             # 同目录下的 <域名>.pot
             domain = os.path.basename(os.path.dirname(path))
             candidate = os.path.join(os.path.dirname(path), domain + '.pot')

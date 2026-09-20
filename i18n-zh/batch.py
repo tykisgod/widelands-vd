@@ -1,21 +1,20 @@
 #!/usr/bin/env python3
-"""翻译批次的导出与回写。
+"""翻译批次的导出与回写。只用标准库。
 
-导出时带齐译者需要的全部上下文：msgctxt 消歧、上游译者注释（#.）、源码位置
-（#: 用以判断该串出现在哪个界面）、术语表命中项、以及现有译文（供重译对照）。
+导出时带齐译者需要的上下文：msgctxt 消歧、译者注释（#.）、源码位置（#: 据以
+判断该串出现在哪个界面）、术语表命中项、现有译文（重译时对照）。按源码位置
+分组，使同一批落在同一个界面，语气才好统一。
+
+回写按条目起始行定位，不重排条目、不动注释，diff 只含改动的 msgstr 行。
+条目标识用 ctxt+msgid 的哈希而非行号——行号在回写后就失效了。
 
 用法:
-    # 导出第 1 批（按源码位置分组，同批同界面）
-    python i18n-zh/batch.py export --count 80 --out batch01.json
+    python batch.py --po <file.po> export --count 120 --out b01.json
+    python batch.py --po <file.po> export --untranslated-only --count 120 --out b.json
+    python batch.py --po <file.po> import b01.zh.json     # {"<key>": "译文", ...}
+    python batch.py --po <file.po> status
 
-    # 只导出尚未翻译的
-    python i18n-zh/batch.py export --untranslated-only --count 80 --out b.json
-
-    # 回写：译文文件形如 {"<key>": "译文", ...}，key 取导出时的 key
-    python i18n-zh/batch.py import batch01.zh.json
-
-    # 进度
-    python i18n-zh/batch.py status
+注意 --po 是全局参数，必须放在子命令之前。
 """
 from __future__ import annotations
 
@@ -29,11 +28,9 @@ from collections import Counter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from check_po import parse_po, load_glossary                    # noqa: E402
 
+STATE = ''       # 由 main() 按 --po 推导
+
 HERE = os.path.dirname(os.path.abspath(__file__))
-REPO = os.path.dirname(HERE)
-DEFAULT_PO = os.path.join(REPO, 'data/i18n/translations/widelands/zh_CN.po')
-DEFAULT_GLOSSARY = os.path.join(HERE, 'glossary.tsv')
-STATE = os.path.join(HERE, '.batch_state.json')
 
 
 def escape(s: str) -> str:
@@ -60,18 +57,23 @@ def ui_hint(refs):
     return ', '.join(seen[:3])
 
 
-def glossary_hits(text, terms_by_en):
+def glossary_hits(text, terms, ctxt=''):
     """原文中命中的术语，按长度降序，供翻译时直接采用。
 
     必须按词边界匹配。用子串匹配会把 Log→原木 命中 "logged"、Port→港口
     命中 "supported"/"reporting"，给出误导性的术语提示。
     """
+    seen = set()
     hits = []
-    for en, zh in terms_by_en:
-        if len(en) < 3:
+    for (en, term_ctxt), zh in sorted(terms.items(), key=lambda kv: -len(kv[0][0])):
+        if len(en) < 3 or en in seen:
+            continue
+        # 先精确匹配本条目的 msgctxt，无则回退到无上下文的通用词条
+        if term_ctxt and term_ctxt != ctxt:
             continue
         if re.search(r'(?<![A-Za-z])' + re.escape(en) + r'(?![A-Za-z])',
                      text, re.IGNORECASE):
+            seen.add(en)
             hits.append(f'{en} = {zh}')
         if len(hits) >= 8:
             break
@@ -80,9 +82,8 @@ def glossary_hits(text, terms_by_en):
 
 def cmd_export(args):
     entries = [e for e in parse_po(args.po) if not e.is_header and e.msgid]
+    # 保留 msgctxt：同一英文在不同上下文可有不同译法，压平会给出互相矛盾的提示
     terms = load_glossary(args.glossary)
-    terms_by_en = sorted({(en, zh) for (en, _c), zh in terms.items()},
-                         key=lambda kv: -len(kv[0]))
 
     done = set()
     if os.path.exists(STATE):
@@ -119,7 +120,7 @@ def cmd_export(args):
             item['ui'] = hint
         if e.translated:
             item['current'] = e.msgstrs[0]
-        hits = glossary_hits(e.msgid, terms_by_en)
+        hits = glossary_hits(e.msgid, terms, e.ctxt)
         if hits:
             item['terms'] = hits
         out.append(item)
@@ -205,7 +206,7 @@ def cmd_status(args):
     if os.path.exists(STATE):
         done = set(json.load(open(STATE, encoding='utf-8')).get('done', []))
     reviewed = sum(1 for e in entries if key_of(e) in done)
-    print(f'{os.path.relpath(args.po, REPO)}')
+    print(os.path.basename(args.po))
     print(f'  总条目   {total}')
     print(f'  有译文   {trans}  ({100*trans/total:.1f}%)')
     print(f'  本项目已过 {reviewed}  ({100*reviewed/total:.1f}%)')
@@ -213,9 +214,11 @@ def cmd_status(args):
 
 
 def main():
-    ap = argparse.ArgumentParser()
-    ap.add_argument('--po', default=DEFAULT_PO)
-    ap.add_argument('--glossary', default=DEFAULT_GLOSSARY)
+    ap = argparse.ArgumentParser(description='翻译批次的导出与回写')
+    ap.add_argument('--po', required=True, help='目标 .po 文件')
+    ap.add_argument('--glossary', default='', help='术语表 TSV，用于给批次附术语提示')
+    ap.add_argument('--state', default='',
+                    help='进度文件（默认与 --po 同目录的 .batch_state.json）')
     sub = ap.add_subparsers(dest='cmd', required=True)
 
     p = sub.add_parser('export')
@@ -232,6 +235,9 @@ def main():
     p.set_defaults(fn=cmd_status)
 
     args = ap.parse_args()
+    global STATE
+    STATE = args.state or os.path.join(
+        os.path.dirname(os.path.abspath(args.po)), '.batch_state.json')
     return args.fn(args)
 
 
