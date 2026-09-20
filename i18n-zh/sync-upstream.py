@@ -215,8 +215,8 @@ def key_merge(pot2po):
     print(f'  {len(changed)} 个域的 {LOCALE}.po 有变化'
           + ('：' + ', '.join(changed) if changed else ''))
 
-    dropped = sum(drop_obsolete(po) for _n, _p, po in domains()
-                  if os.path.exists(po))
+    dropped = sum(drop_obsolete(po) for n, _p, po in domains()
+                  if os.path.exists(po) and (only is None or n in only))
     if dropped:
         print(f'  清掉 {dropped} 条 "#~" 废弃条目（上游已删除的串）')
     return changed
@@ -229,12 +229,14 @@ def main():
                     help='真的执行合并（默认只勘察不改动）')
     ap.add_argument('--commit', action='store_true',
                     help='合并并校验通过后自动提交')
+    ap.add_argument('--all-domains', action='store_true',
+                    help='对全部 32 个域重跑 key 合并（默认只处理 pot 有变化的域）')
     ap.add_argument('--upstream', default=UPSTREAM,
                     help=f'要同步的上游 ref（默认 {UPSTREAM}）；自测时可指向本地分支')
     args = ap.parse_args()
     UPSTREAM = args.upstream
 
-    behind = survey()
+    behind, changed_domains = survey()
     if not behind:
         return 0
     if not args.apply:
@@ -258,7 +260,7 @@ def main():
     git('checkout', 'HEAD', '--', f'data/i18n/translations/*/{LOCALE}.po',
         check=False, quiet=True)
 
-    key_merge(pot2po)
+    key_merge(pot2po, None if args.all_domains else changed_domains)
 
     print('\n重算 translation_stats.conf …')
     subprocess.run([sys.executable, os.path.join(HERE, 'update_stats.py')],
