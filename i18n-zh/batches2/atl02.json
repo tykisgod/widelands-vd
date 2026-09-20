@@ -1,0 +1,1467 @@
+[
+ {
+  "key": "4142fc34a2",
+  "msgid": "Spidercloth Production",
+  "zh": ""
+ },
+ {
+  "key": "ccb5bff156",
+  "msgid": "We need some spidercloth urgently as we are running out of it. It is therefore essential to spare every piece we still have. Reduce the input of all buildings that consume spidercloth, not forgetting the construction sites.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "4027deef0c",
+  "msgid": "Afterwards we need to construct a farm under all circumstances, as it needs spidercloth to be built. Additionally, we need a spider farm and a weaving mill.",
+  "zh": "",
+  "terms": [
+   "weaving = 纺织"
+  ]
+ },
+ {
+  "key": "26d95aab8f",
+  "msgid": "Build a trading post",
+  "zh": ""
+ },
+ {
+  "key": "4834820e3b",
+  "msgid": "Upgrade Scout’s House To Trading Post",
+  "zh": ""
+ },
+ {
+  "key": "6a08bb32a0",
+  "msgid": "To be able to pay the tributes to Kalitath, and to maintain contact with Jundlina, we need to enhance our scout’s house to a trading post.",
+  "zh": ""
+ },
+ {
+  "key": "eafc14e948",
+  "msgid": "Pay all tributes to Kalitath",
+  "zh": ""
+ },
+ {
+  "key": "37d1cfc1af",
+  "msgid": "Send Trader To Kalitath",
+  "zh": ""
+ },
+ {
+  "key": "28936d9a7d",
+  "msgid": "We need to send the wares to Kalitath with our trader. He will pick them up as soon as a batch is ready in his trading post.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "fdf5a4fbe8",
+  "msgid": "The following batches need to be delivered:",
+  "zh": ""
+ },
+ {
+  "key": "ad929ddf7e",
+  "msgid": "Five batches of five logs each.",
+  "zh": ""
+ },
+ {
+  "key": "d5e0df4483",
+  "msgid": "Four batches of four lumps of coal each.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "11f91ea8ae",
+  "msgid": "Three batches of three iron bars each.",
+  "zh": "",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "faed724a3b",
+  "msgid": "Two batches of two gold bars each.",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "669f631646",
+  "msgid": "Ten batches of five logs each.",
+  "zh": ""
+ },
+ {
+  "key": "0b1debe02a",
+  "msgid": "Eight batches of four lumps of coal each.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "1f850e93af",
+  "msgid": "Six batches of three iron bars each.",
+  "zh": "",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "c0fb17b587",
+  "msgid": "Four batches of two gold bars each.",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "5add7e3c5c",
+  "msgid": "Defeat Maletus",
+  "zh": ""
+ },
+ {
+  "key": "30c983aa3f",
+  "msgid": "Defeat Imperial Leader Maletus",
+  "zh": ""
+ },
+ {
+  "key": "6575f82b33",
+  "msgid": "We need to finish the Empire off to have a chance to build a new home.",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "f836ffcc97",
+  "msgid": "Build a temple to worship Satul",
+  "zh": ""
+ },
+ {
+  "key": "8538820836",
+  "msgid": "Build Temple For Satul",
+  "zh": ""
+ },
+ {
+  "key": "5575721dc1",
+  "msgid": "We need to build a temple for Satul and we need to worship him well. By this he might show these Barbarians his might and our princess might come back to her senses.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "67e11f3ad3",
+  "msgid": "And we need to have a scout’s house to not lose track of what is going on at the Barbarians’ territory.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "8ff926fcee",
+  "msgid": "Worship Satul and consecrate priestesses",
+  "zh": ""
+ },
+ {
+  "key": "6d2e54aacf",
+  "msgid": "Worship Satul",
+  "zh": ""
+ },
+ {
+  "key": "0f9c743232",
+  "msgid": "Now we need to worship Satul and consecrate at least two priestesses.",
+  "zh": ""
+ },
+ {
+  "key": "5071ffe4a5",
+  "msgid": "Defeat Kalitath",
+  "zh": ""
+ },
+ {
+  "key": "d80db067c1",
+  "msgid": "Now it’s time to finish off this annoying Barbarian. He has molested us far too long now.",
+  "zh": ""
+ },
+ {
+  "key": "eb1b478df0",
+  "msgid": "Defeated!",
+  "zh": ""
+ },
+ {
+  "key": "e0b6cea97f",
+  "msgid": "Sidolus has bad news…",
+  "zh": ""
+ },
+ {
+  "key": "a29f07ac2e",
+  "msgid": "Aaaargh, Jundlina. I don’t know how this could have happened, but Satul couldn’t protect us from the enemy. They have destroyed our last warehouse. Thus we have lost this battle and our people is doomed!",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "583fd5bd0f",
+  "msgid": "You Have Lost",
+  "zh": ""
+ },
+ {
+  "key": "4e9d190ae6",
+  "msgid": "You have lost and may not continue playing. May you have better luck when you retry this scenario. Click OK to return to the main menu.",
+  "zh": ""
+ },
+ {
+  "key": "23b0f3d0a2",
+  "msgid": "The Princess’s Memoir",
+  "zh": ""
+ },
+ {
+  "key": "78815cd6b7",
+  "msgid": "Jundlina writes her diary",
+  "zh": ""
+ },
+ {
+  "key": "d8fdc4b37c",
+  "msgid": "Our escape from the cursed island was a close one: we managed to load three ships and make our escape, but the currents of the sinking island tested our new ships and their design.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary"
+ },
+ {
+  "key": "db12e8b44a",
+  "msgid": "And one failed the test: the last days of loading was done in chaos and without much planning and so one of our ships ended up carrying most of the heavy wares in our possession.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "55c8fabfaa",
+  "msgid": "The heavy weight plus the strong current was too much for the ship and it was pulled below the sea level by Lutas’s forces and we lost most men and all wares it carried.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary",
+  "terms": [
+   "Wares = 物品",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "4a57091937",
+  "msgid": "All of us were fiercely afraid. We expected the other ships to be sunken as well, but they persisted. We escaped the island and began our smooth sailing to other coasts.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary"
+ },
+ {
+  "key": "a95cbb6952",
+  "msgid": "New Hope",
+  "zh": ""
+ },
+ {
+  "key": "22f7e617d4",
+  "msgid": "Jundlina continues",
+  "zh": ""
+ },
+ {
+  "key": "5fc8e24d4c",
+  "msgid": "Many weeks have passed and we did only see small islands not suitable for habitation and without any sign of being blessed by Satul, the fire god.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary"
+ },
+ {
+  "key": "fd1d82bd16",
+  "msgid": "Last night however, we sighted a new island. We saw smoke hovering over it. The black comes from the fiery mountain in the north of the island, the grey however comes from settlers.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary"
+ },
+ {
+  "key": "456bb321e2",
+  "msgid": "Planning For The Future",
+  "zh": ""
+ },
+ {
+  "key": "7ada112352",
+  "msgid": "Jundlina concludes",
+  "zh": ""
+ },
+ {
+  "key": "0afee1301f",
+  "msgid": "At least the east side of the island is inhabited, that much is certain. We do not know if the people there are friends or foes. We do not even know what tribe they might be from.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary"
+ },
+ {
+  "key": "54b115bf8b",
+  "msgid": "The only thing we know for sure is that they cannot be Atlanteans, for no ship of ours has sailed as far as we did for centuries. I can only hope they are friendly.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary",
+  "terms": [
+   "Atlanteans = 亚特兰蒂斯人",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "2bc9f12f36",
+  "msgid": "We have not much water left; our food is running low; we lost all our tools and most of our building materials with the third ship. We can’t afford to sail any further, and we must attempt to settle on this island as close as possible to our current position.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina - Diary",
+  "terms": [
+   "Building = 建筑",
+   "Water = 水",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "8ebad64926",
+  "msgid": "Jundlina Gives Orders",
+  "zh": ""
+ },
+ {
+  "key": "72107d0aa9",
+  "msgid": "Jundlina decides",
+  "zh": ""
+ },
+ {
+  "key": "e7dddcb86f",
+  "msgid": "As we founded a port here, we can now plan our settlement. We still have plenty of iron ore, so a toolsmithy and a smelting works will quickly provide us with good tools.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Iron = 铁",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "9c11488c3c",
+  "msgid": "Jundlina demands",
+  "zh": ""
+ },
+ {
+  "key": "e21e9d129c",
+  "msgid": "However, we need to take care of our building materials: The island is full of trees, we might not even need foresters. But we need stone, that much is certain!",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "b7a6d85fdc",
+  "msgid": "Jundlina orders",
+  "zh": ""
+ },
+ {
+  "key": "8ce21cd862",
+  "msgid": "Let’s also explore this island and expand our territory. But we need to be careful. We should build at least one tower so that we can see potential enemies before they see us.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Be careful = 注意"
+  ]
+ },
+ {
+  "key": "9403c0b076",
+  "msgid": "But we need to be cautious using the stones and other precious material. When we no longer need a building, we will dismantle it instead of burning it down.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Building = 建筑",
+   "Stones = 石料"
+  ]
+ },
+ {
+  "key": "3459282e04",
+  "msgid": "This will take more time, but we can reuse some of its materials. Also, I want a scout deployed and exploring at all times.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "2e779dc0dc",
+  "msgid": "Opol Reports Serious Shortages",
+  "zh": "",
+  "note": "TRANSLATORS: placeholder is the name of the current leader (either Jundlina | or Sidolus)"
+ },
+ {
+  "key": "03ee1e0d84",
+  "msgid": "May Satul warm you, %s. As the highest weaver of the guild I have bad news for you. I just realized that we are running out of spidercloth. This is a most perilous case, for as you know, spidercloth is needed for many buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: Opol (placeholder is the name of the current leader)",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "3a8a18d38f",
+  "msgid": "We should build up a spidercloth production urgently.",
+  "zh": "",
+  "note": "TRANSLATORS: Opol"
+ },
+ {
+  "key": "f75489fc78",
+  "msgid": "%s Replies",
+  "zh": "",
+  "note": "TRANSLATORS: placeholder is the name of the current leader (either Jundlina | or Sidolus)"
+ },
+ {
+  "key": "a10b1a425a",
+  "msgid": "May Satul warm you too, Opol. I wanted to delay production of spidercloth, but I understand the urgency. We need to build a complete spidercloth production instantly.",
+  "zh": "",
+  "note": "TRANSLATORS: either Jundlina or Sidolus depending who is in charge"
+ },
+ {
+  "key": "31ba77a04f",
+  "msgid": "Opol Makes A Point",
+  "zh": ""
+ },
+ {
+  "key": "a6331c7d81",
+  "msgid": "%s! It seems there is another problem even more urgent. I fear we haven’t built a farm to feed our spiders yet. As this is one of the buildings needing spidercloth for completion, not completing one in time will result in a crisis that can never be resolved.",
+  "zh": "",
+  "note": "TRANSLATORS: Opol (placeholder is the name of the current leader)",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "d79d80addd",
+  "msgid": "%s Acknowledges",
+  "zh": "",
+  "note": "TRANSLATORS: placeholder is the name of the current leader (either Jundlina | or Sidolus)"
+ },
+ {
+  "key": "74b34bb3c8",
+  "msgid": "I see the risk, Opol. Thank you for reporting. We will build a farm immediately.",
+  "zh": "",
+  "note": "TRANSLATORS: either Jundlina or Sidolus depending who is in charge"
+ },
+ {
+  "key": "009bc033d1",
+  "msgid": "Opol Reports Success",
+  "zh": "",
+  "note": "TRANSLATORS: placeholder is the name of the current leader (either Jundlina | or Sidolus)"
+ },
+ {
+  "key": "eb61121bd2",
+  "msgid": "%s, may Satul warm you! The weaving mill and spider farm are complete and the weavers’ guild can start their work again. I promise we will deliver the finest cloth and some tabards soon. Maybe we can build a gold spinning mill later on to make better tabards as well.",
+  "zh": "",
+  "note": "TRANSLATORS: Opol (placeholder is the name of the current leader)",
+  "terms": [
+   "weaving = 纺织",
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "3ab7842bc3",
+  "msgid": "%s Cheers",
+  "zh": "",
+  "note": "TRANSLATORS: placeholder is the name of the current leader (either Jundlina | or Sidolus)"
+ },
+ {
+  "key": "fff75666cc",
+  "msgid": "This is good news indeed, Opol. You may go back to your work now, and may Satul warm you and the weavers’ guild!",
+  "zh": "",
+  "note": "TRANSLATORS: either Jundlina or Sidolus depending who is in charge"
+ },
+ {
+  "key": "467afee3e8",
+  "msgid": "Sidolus Reports Foreign Inhabitants",
+  "zh": ""
+ },
+ {
+  "key": "1eaf97539f",
+  "msgid": "May Satul warm you, Jundlina! I have some disturbing news. We have sighted land governed by foreigners, but we do not yet know what to expect from them.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "390a1602fb",
+  "msgid": "Jundlina Is Concerned",
+  "zh": ""
+ },
+ {
+  "key": "827125448c",
+  "msgid": "Sidolus, I agree this is very concerning. We need to find out more. Hopefully our scout will get us some information soon.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "bcd11ad7c8",
+  "msgid": "Sidolus, I agree this is very concerning. We need to find out more. We definitely need to send out a scout to gather some information.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "ac7e93fb24",
+  "msgid": "Allies?",
+  "zh": ""
+ },
+ {
+  "key": "021b4af276",
+  "msgid": "May Satul warm you, Jundlina! We have made contact with the foreigners. They are in big trouble as they are at war with a mighty tribe in the north. They ask us for support.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "3e3831eafd",
+  "msgid": "Jundlina Is Cautious",
+  "zh": ""
+ },
+ {
+  "key": "e54191fa67",
+  "msgid": "Sidolus, as we could need any ally we can get, we should help them. Let’s see what we can do for them. However we should improve our own military strength to become independent of others.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "e988e9d566",
+  "msgid": "Jundlina",
+  "zh": "",
+  "note": "TRANSLATORS: To be used in placeholders for switching texts according to | current leader"
+ },
+ {
+  "key": "c28c5c15b9",
+  "msgid": "Building Material Ensured",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "333f9beff9",
+  "msgid": "May Satul warm you, %s! We have finished our supply of building materials.",
+  "zh": "",
+  "note": "TRANSLATORS: Loftomor (placeholder is the name of the current leader)",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "1a22505749",
+  "msgid": "This is good news indeed, Loftomor. Now we can consider constructing more sophisticated buildings to enlarge our economy. Please advise whenever you feel we are missing necessary buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: either Jundlina or Sidolus depending who is in charge",
+  "terms": [
+   "Buildings = 建筑",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "bbe579c3b4",
+  "msgid": "Sidolus",
+  "zh": "",
+  "note": "TRANSLATORS: To be used in placeholders for switching texts according to | current leader"
+ },
+ {
+  "key": "1444e6fe10",
+  "msgid": "Tool Supply Ensured",
+  "zh": ""
+ },
+ {
+  "key": "0b9b1d7002",
+  "msgid": "%s, may Satul warm you! We have made some progress in building up our tool industry.",
+  "zh": "",
+  "note": "TRANSLATORS: Loftomor (placeholder is the name of the current leader)",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "37bdb9ce86",
+  "msgid": "%s Enchanted",
+  "zh": "",
+  "note": "TRANSLATORS: placeholder is the name of the current leader (either Jundlina | or Sidolus)"
+ },
+ {
+  "key": "a292191cf7",
+  "msgid": "This is good news indeed, Loftomor. This enables us to operate all the buildings we are going to build in our new home. But now we should really look to get some resources from the mountains.",
+  "zh": "",
+  "note": "TRANSLATORS: either Jundlina or Sidolus depending who is in charge",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "b19ce8f4a6",
+  "msgid": "Mining Established",
+  "zh": "",
+  "terms": [
+   "mining = 采矿"
+  ]
+ },
+ {
+  "key": "166dbcf025",
+  "msgid": "%s, may Satul warm you! Another issue solved. We have found some resources and built a mine of each type.",
+  "zh": "",
+  "note": "TRANSLATORS: Loftomor (placeholder is the name of the current leader)"
+ },
+ {
+  "key": "18b65afe82",
+  "msgid": "%s Is Excited",
+  "zh": "",
+  "note": "TRANSLATORS: placeholder is the name of the current leader (either Jundlina | or Sidolus)"
+ },
+ {
+  "key": "989aa1aa43",
+  "msgid": "Well done, Loftomor, well done. May Satul warm our strong and brave miners. But now we need to ensure we can feed them. We need to build up bakeries and smokeries and all buildings to supply them.",
+  "zh": "",
+  "note": "TRANSLATORS: either Jundlina or Sidolus depending who is in charge",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "10e79aa8c0",
+  "msgid": "Tribute Delivered",
+  "zh": ""
+ },
+ {
+  "key": "8cc88d5d4a",
+  "msgid": "May Satul warm you, Kalitath! We have delivered all the wares you demanded. Now we expect our princess to return home.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "0669c83e1c",
+  "msgid": "Kalitath Appreciates Efforts",
+  "zh": ""
+ },
+ {
+  "key": "d5be6ee0d8",
+  "msgid": "Sidolus, this is very good news. I appreciate what your people has done. However don’t forget to help us defeat the troops of Maletus. Afterwards we might talk about your princess.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "df1e09fd1f",
+  "msgid": "Empire Defeated",
+  "zh": "",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "9c9ae3f9d5",
+  "msgid": "May Satul warm you, Kalitath! We have defeated the troops of the Empire in the north. Now we expect our princess to return home.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "08f4ecde77",
+  "msgid": "Sidolus, this is very good news. I appreciate what your people has done. However don’t forget to fulfill your tribute within time. Afterwards we might talk about your princess.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "6c9f971e12",
+  "msgid": "Find a place to build a port",
+  "zh": "",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "1f81ee1061",
+  "msgid": "Kalitath Acknowledges",
+  "zh": ""
+ },
+ {
+  "key": "8ef9967d38",
+  "msgid": "Sidolus, we appreciate this. But your princess and I already made plans for our common future on this island. She will explain it to you.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "384d70cd7d",
+  "msgid": "Jundlina Explains",
+  "zh": ""
+ },
+ {
+  "key": "91792638ba",
+  "msgid": "Sidolus, during my stay with the Barbarians I learned a lot about their hospitality and bravery. They really impressed me and their warriors and gods seemed to be very strong in the battle against the Empire. Especially their leader Kalitath made a very good host and I started to think about uniting our tribes to make for a peaceful future on this island. So I want you to prepare our people for a marriage and peaceful coexistence with the Barbarians. This includes learning about their gods and preparing to worship them.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "f46c9ffbef",
+  "msgid": "Kalitath Demands",
+  "zh": ""
+ },
+ {
+  "key": "ddabe83fc3",
+  "msgid": "Sidolus, now follow the orders of your princess. Meanwhile we might decide that we will need some of the land conquered by you for our common future. So we will simply take your military buildings with our forces. Naturally you won’t have the right to do the same, for the sake of your princess.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Buildings = 建筑",
+   "You won = 你赢了"
+  ]
+ },
+ {
+  "key": "f3dee09244",
+  "msgid": "Find Portspace",
+  "zh": ""
+ },
+ {
+  "key": "17eaee36c9",
+  "msgid": "Heretics!",
+  "zh": ""
+ },
+ {
+  "key": "0e8e348248",
+  "msgid": "Sidolus is very sad",
+  "zh": ""
+ },
+ {
+  "key": "536ea0172c",
+  "msgid": "May Satul warm us all. Our princess has been confused in her imprisonment by this Barbarian. But I will never worship any Barbarian god. I can’t imagine how we could change her mind though.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "fd09387462",
+  "msgid": "To set foot on this island, we must first find a building space where a port can be built. Explore the nearby coast line to find such a building plot.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "3189a7e8e8",
+  "msgid": "Attracting Satul’s Help",
+  "zh": ""
+ },
+ {
+  "key": "26030cdeed",
+  "msgid": "Sidolus, I agree we should not bow in front of any other god than Satul. But we might need the god’s help in this case. So I suggest to build a temple and worship Satul with exquisite sacrifices. By this we could inaugurate some priestesses, who might beg Satul to show his powers to the Barbarians and our princess.",
+  "zh": "",
+  "note": "TRANSLATORS: Loftomor",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "50151e4c56",
+  "msgid": "Build Temple",
+  "zh": ""
+ },
+ {
+  "key": "ac52310679",
+  "msgid": "May Satul warm you, Loftomor. This is a very good idea indeed. So I task you to build a temple worth worshipping our god. Until we are ready to beg for Satul’s power we should keep an eye on our princess and this Barbarian. As we should stop our trader’s deliveries to not waste any wares to this Barbarian any more, I want you to ensure we have a scout out there to gather information.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a82c33d582",
+  "msgid": "After the port is built we should cancel the other ship’s expedition, to unload its wares as well.",
+  "zh": "",
+  "terms": [
+   "Wares = 物品",
+   "Port = 港口",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "310c1ff490",
+  "msgid": "Temple Completed",
+  "zh": ""
+ },
+ {
+  "key": "5ee2bf2df6",
+  "msgid": "May Satul warm you, Sidolus! My builders just completed the temple for Satul. Now we can start worshipping him and consecrating our priestesses.",
+  "zh": "",
+  "note": "TRANSLATORS: Loftomor"
+ },
+ {
+  "key": "85e797af2f",
+  "msgid": "May Satul warm you, Loftomor. Thank you for building such a great temple. Now we need to bring food and our most precious wares to the temple to make for satisfying sacrifices. And don’t forget that the initiates who will serve Satul to become his priestesses need golden tabards and diamonds.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus",
+  "terms": [
+   "Building = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "b1394fbbe9",
+  "msgid": "May Satul Warm Us",
+  "zh": ""
+ },
+ {
+  "key": "3facecd0fc",
+  "msgid": "Our priestesses have been consecrated, and we sacrificed our finest goods for Satul’s pleasure. May he warm us and show his might to our princess and this barbaric tribe.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "0846838268",
+  "msgid": "Jundlina Arrives",
+  "zh": ""
+ },
+ {
+  "key": "6b7e52b7a8",
+  "msgid": "May Satul warm you, Sidolus. And may he forgive me my heretic behaviour. The sign of his might and the fear in the Barbarians’ faces suddenly made me recognise the truth again. I was wrong about peace and coexistence, as it would have meant servitude forever. And this is not what Atlanteans are made for.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Atlanteans = 亚特兰蒂斯人",
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "f741f74ec2",
+  "msgid": "Sidolus Relieved",
+  "zh": ""
+ },
+ {
+  "key": "553decf724",
+  "msgid": "May Satul warm you, Jundlina. I am glad you are here again. I hope we may trust you, as much as you will trust and be faithful to Satul. How come the Barbarians let you go?",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "8d69652d0b",
+  "msgid": "Sidolus, they did not let me go. I met our scout and he managed to sneak me out, as I realized they still kept me hostage after I expressed some concerns about our previous agreement. So we need to settle the Barbarian issue now and forever on this island. There is no other way to live here in peace than to defeat them.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "9410cdcf02",
+  "msgid": "Ensure the supply of construction materials",
+  "zh": ""
+ },
+ {
+  "key": "d305d64dac",
+  "msgid": "Jundlina Is Relieved",
+  "zh": ""
+ },
+ {
+  "key": "2e70f574cf",
+  "msgid": "Praise Satul, we have founded a new home. I deeply regret I was weak in my belief. May Satul guide me better in the future.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "054a767027",
+  "msgid": "Now it is time to celebrate but I expect we can’t relax long. We need to build up our society and our capability to explore the seas again.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "15a3b068b8",
+  "msgid": "Congratulations",
+  "zh": ""
+ },
+ {
+  "key": "a167c9ebfe",
+  "msgid": "You have completed this mission. You may continue playing if you wish, otherwise move on to the next mission.",
+  "zh": ""
+ },
+ {
+  "key": "616ab9dd4a",
+  "msgid": "Tribute Demand",
+  "zh": ""
+ },
+ {
+  "key": "86dadc49a1",
+  "msgid": "Establish Basic Production Chain",
+  "zh": ""
+ },
+ {
+  "key": "205b3bfcd3",
+  "msgid": "Strangers, we need to receive some sign of your good intentions. If you are really on our side, you should send us some gold and a couple of other wares on a regular basis.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Wares = 物品",
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "4b8f6615e5",
+  "msgid": "We are only interested in wares that can be used to forge weapons. I mean real weapons like our axes, and not the sort of toothpicks you use. So feel free to send us 25 logs, 16 lumps of coal, 9 iron ingots and 4 gold bars.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Wares = 物品",
+   "Coal = 煤",
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "8d7dc0845a",
+  "msgid": "Oh, and I almost forgot this one. We demand to have your princess in our headquarters as well to coordinate our war plannings.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "90c715c61d",
+  "msgid": "We will need at least a quarry, a few woodcutters, and a sawmill. A forester might or might not be needed depending on how fast the trees are growing around us. Find the balance.",
+  "zh": ""
+ },
+ {
+  "key": "4b61e2e743",
+  "msgid": "Pitfall!",
+  "zh": ""
+ },
+ {
+  "key": "db89879c09",
+  "msgid": "Sidolus is upset",
+  "zh": ""
+ },
+ {
+  "key": "6a2b555667",
+  "msgid": "May Satul warm you, Jundlina! This behaviour is truly barbaric! I fear this is a trap to keep you as a hostage. And the demand itself is really an insult. I strongly recommend to decline this unsubstantiated claim.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "b048ea6eac",
+  "msgid": "Jundlina Concedes",
+  "zh": ""
+ },
+ {
+  "key": "34806fe2bd",
+  "msgid": "Sidolus, I agree with you. However I think we have no choice, so we need to obey this demand. It is your obligation now to run our small people until I come back.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "3ca549dc8f",
+  "msgid": "First you need to upgrade our scout’s house to a trading post. Then you need to send the demanded tributes of gold, iron, coal, and logs.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Coal = 煤",
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "3061aa63da",
+  "msgid": "Trading Post Built",
+  "zh": ""
+ },
+ {
+  "key": "77967d0582",
+  "msgid": "Sidolus, may Satul warm you! We have finished the new trading post. I hope this will allow Jundlina to return to us soon.",
+  "zh": "",
+  "note": "TRANSLATORS: Loftomor"
+ },
+ {
+  "key": "a0f8c2975c",
+  "msgid": "Sidolus Agrees",
+  "zh": ""
+ },
+ {
+  "key": "caf3c3bb20",
+  "msgid": "Well done, Loftomor, well done. May Satul warm our princess and our whole people. Now we need to begin sending goods to this Barbarian.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "5b1ff469a3",
+  "msgid": "I think we should start with the deliveries we could afford the easiest. But we need to find more metals for sure.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "12a1c9e1ba",
+  "msgid": "Urgent Tribute Demand",
+  "zh": ""
+ },
+ {
+  "key": "631c581b99",
+  "msgid": "Strangers, we haven’t received any help yet. If you are really on our side, you should start sending some wares urgently.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "cfb8089529",
+  "msgid": "As we are facing great losses due to your laziness, you shall now send us twice the previous amount of each ware.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "27a075c72e",
+  "msgid": "I am sure you do not want to break our alliance… do you?",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "3d0dfc53af",
+  "msgid": "Build tools quickly",
+  "zh": ""
+ },
+ {
+  "key": "d17edd951f",
+  "msgid": "Blackmail!",
+  "zh": ""
+ },
+ {
+  "key": "fffeb641dd",
+  "msgid": "Sidolus is concerned",
+  "zh": ""
+ },
+ {
+  "key": "4170dfda93",
+  "msgid": "May Satul warm us all. Our so-called ally is blackmailing us, and we can’t punish him for his insult as he has our princess at his hands.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "2fed91acc0",
+  "msgid": "Our only chance is to double our efforts and start delivering something soon.",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "32ce33d5cc",
+  "msgid": "Tribute Started",
+  "zh": ""
+ },
+ {
+  "key": "4902bcff5f",
+  "msgid": "Strangers, we have received the first batch of wares. So we may finally trust you.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "be5bb322fa",
+  "msgid": "However, our enemy in the North is very strong. I am afraid that without significant help from your side we might lose the war despite any help in terms of wares you might provide.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "edd7a2f8b1",
+  "msgid": "Make New Tools",
+  "zh": ""
+ },
+ {
+  "key": "88e6389991",
+  "msgid": "They name themselves an Empire, and their leader is called Maletus. I want you to train your soldiers and help us defeat his lousy Empire.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath",
+  "terms": [
+   "Empire = 帝国",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "c396d55e48",
+  "msgid": "Be Vigilant!",
+  "zh": ""
+ },
+ {
+  "key": "a5e21e54e5",
+  "msgid": "May Satul warm you, Sidolus. Our ally now trusts us to some extent, but we shouldn’t trust them too much.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "25364db5a6",
+  "msgid": "Most of our tools have been lost in the ship tragedy. Our people will not be able to fulfill their duties without proper tools. Luckily we still have some iron ore and plenty of coal. Build a toolsmithy, as it is a prerequisite for success on the island. Don’t forget to build a smelting works as well.",
+  "zh": "",
+  "terms": [
+   "Coal = 煤",
+   "Iron = 铁",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "dc8fba9dc8",
+  "msgid": "So I want you to defeat this Empire, but ensure that we will become and remain strong enough to enforce the respect we deserve.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "1c62c6844f",
+  "msgid": "Keep Delivering",
+  "zh": ""
+ },
+ {
+  "key": "0a1483b54e",
+  "msgid": "Strangers, I almost forgot to mention, but it should have been clear anyway.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "653b1ec109",
+  "msgid": "We are in urgent need of your supply, so hurry up with your deliveries.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "55b2ed2378",
+  "msgid": "If you fail to deliver everything within three and a half hours, we need to assume you are just playing along with us. So keep an eye on the time as we will not give any further warning.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "321aaf6e3d",
+  "msgid": "Traitors",
+  "zh": ""
+ },
+ {
+  "key": "d847089378",
+  "msgid": "Strangers, we still haven’t received any help. We are deeply insulted by your treachery.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "606f93de46",
+  "msgid": "At least your princess will make a reasonable slave, if we survive the battle with our enemy.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "894367b953",
+  "msgid": "Strangers, you did not deliver the help we needed in time. We are deeply insulted by your treachery.",
+  "zh": "",
+  "note": "TRANSLATORS: Kalitath"
+ },
+ {
+  "key": "32f3857c2c",
+  "msgid": "Jundlina’s Suicide",
+  "zh": ""
+ },
+ {
+  "key": "421f91c946",
+  "msgid": "Barbarian, I am an Atlantean princess and I will never go into slavery. I have prepared myself for this eventuality and will rather die from the poison I carry with me than be your slave. May Satul avenge my sacrifice.",
+  "zh": "",
+  "note": "TRANSLATORS: Jundlina"
+ },
+ {
+  "key": "63c79b69d8",
+  "msgid": "Search the mountains for resources",
+  "zh": ""
+ },
+ {
+  "key": "9aae97d2c0",
+  "msgid": "Aaaargh. I don’t know how this could have happened, but Satul couldn’t protect us from the enemy. We have lost our noble princess. Thus, we have lost this battle and our people is doomed!",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus"
+ },
+ {
+  "key": "659261853d",
+  "msgid": "Kalitath Defeated",
+  "zh": ""
+ },
+ {
+  "key": "12fbd9a07d",
+  "msgid": "Aaaargh. I don’t know how this could have happened, but Satul couldn’t protect our ally from the enemy. He lost his last warehouse and our noble princess perished with him. Thus, we have lost this battle and our people is doomed!",
+  "zh": "",
+  "note": "TRANSLATORS: Sidolus",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "eee92deaaa",
+  "msgid": "Build Mines",
+  "zh": ""
+ },
+ {
+  "key": "f086eaf5ec",
+  "msgid": "As we are able to make tools again, our supply of mining resources needs to be replenished soon. Explore the mountains and build at least one mine of each type to mine coal, iron and gold.",
+  "zh": "",
+  "terms": [
+   "mining = 采矿",
+   "Coal = 煤",
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "6abce6b2fe",
+  "msgid": "Explore the surroundings",
+  "zh": ""
+ },
+ {
+  "key": "03f6a07da6",
+  "msgid": "Explore Your Surroundings",
+  "zh": ""
+ },
+ {
+  "key": "99f6876d2f",
+  "msgid": "We are fairly sure that we are not alone on the island. We do not know if the others on this island are friends or foes, so we need to tread carefully. Explore the island by building at least one house for a scout.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "3cb79f05f0",
+  "msgid": "Expand your territory",
+  "zh": ""
+ },
+ {
+  "key": "567466e935",
+  "msgid": "Expand Territory",
+  "zh": ""
+ },
+ {
+  "key": "b89ec5f631",
+  "msgid": "As our settlement is growing, we will need more space for all buildings. Expand our territory by building military buildings. Build some guardhouses and at least one tower for its larger view range.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "2fe116079b",
+  "msgid": "Build a spider farm and a weaving mill",
+  "zh": "",
+  "terms": [
+   "weaving = 纺织"
+  ]
+ },
+ {
+  "key": "67e83abc3f",
+  "msgid": "Satul’s Initiate",
+  "zh": "",
+  "msgctxt": "atlanteans_worker",
+  "note": "TRANSLATORS: This is a worker name used in lists of workers"
+ },
+ {
+  "key": "6a2c474544",
+  "msgid": "Priestess",
+  "zh": "",
+  "msgctxt": "atlanteans_worker",
+  "note": "TRANSLATORS: This is a worker name used in lists of workers"
+ },
+ {
+  "key": "82c5160512",
+  "msgid": "scouting",
+  "zh": "",
+  "note": "TRANSLATORS: Completed/Skipped/Did not start scouting because ...",
+  "terms": [
+   "scouting = 侦察"
+  ]
+ },
+ {
+  "key": "26a37c1081",
+  "msgid": "consecrating priestess",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: Completed/Skipped/Did not start consecrating priestess because | ..."
+ },
+ {
+  "key": "efc0abea73",
+  "msgid": "Temple of Satul",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "ca48cd2782",
+  "msgid": "Trader",
+  "zh": "",
+  "msgctxt": "atlanteans_worker",
+  "note": "TRANSLATORS: This is a worker name used in lists of workers"
+ },
+ {
+  "key": "db52753f72",
+  "msgid": "trading",
+  "zh": "",
+  "note": "TRANSLATORS: Completed/Skipped/Did not start trading because ..."
+ },
+ {
+  "key": "43b0d2f94b",
+  "msgid": "Trading Post",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "d3005aa0e1",
+  "msgid": "Trade Pole",
+  "zh": "",
+  "msgctxt": "immovable",
+  "note": "TRANSLATORS: This is a resource name used in lists of resources",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "6d4292d92f",
+  "msgid": "Copper Coin",
+  "zh": "",
+  "msgctxt": "ware",
+  "note": "TRANSLATORS: This is a ware name used in lists of wares"
+ },
+ {
+  "key": "b233f99a40",
+  "msgid": "Gold Coin",
+  "zh": "",
+  "msgctxt": "ware",
+  "note": "TRANSLATORS: This is a ware name used in lists of wares",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "bf97aad277",
+  "msgid": "Silver Coin",
+  "zh": "",
+  "msgctxt": "ware",
+  "note": "TRANSLATORS: This is a ware name used in lists of wares"
+ },
+ {
+  "key": "ede0771567",
+  "msgid": "Wood Coin",
+  "zh": "",
+  "msgctxt": "ware",
+  "note": "TRANSLATORS: This is a ware name used in lists of wares"
+ },
+ {
+  "key": "fcdd477847",
+  "msgid": "Allows sharing goods with other players.",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean market site: Trading post"
+ },
+ {
+  "key": "2cc660e8aa",
+  "msgid": "You need to connect this flag to a scout’s house before you can send a scout here.",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "terms": [
+   "Scout’s House = 侦察兵之家"
+  ]
+ },
+ {
+  "key": "6db826913f",
+  "msgid": "Explores unknown territory.",
+  "zh": "",
+  "msgctxt": "building",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean production site: Scout's | House"
+ },
+ {
+  "key": "0032ac3976",
+  "msgid": "A big and expensive temple to worship Satul and consecrate priestesses.",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean production site: Temple of | Satul"
+ },
+ {
+  "key": "9f1aff3e8b",
+  "msgid": "Transports wares to share with other players.",
+  "zh": "",
+  "msgctxt": "atlanteans_worker",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean worker: Trader",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a549ff2e3a",
+  "msgid": "A trader is a scout who needs a horse to transport the wares.",
+  "zh": "",
+  "msgctxt": "atlanteans_worker",
+  "terms": [
+   "Horse = 马",
+   "Scout = 侦察兵",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "ccde21a6ae",
+  "msgid": "Takes care of the Temple of Satul.",
+  "zh": "",
+  "msgctxt": "atlanteans_worker",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean worker: Satul's Initiate"
+ },
+ {
+  "key": "f1dd2b5c33",
+  "msgid": "Initiates take care of the Temple of Satul while they are learning to become priestesses.",
+  "zh": "",
+  "msgctxt": "atlanteans_worker"
+ },
+ {
+  "key": "7e32c59769",
+  "msgid": "Worships Satul.",
+  "zh": "",
+  "msgctxt": "atlanteans_worker",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean worker: Priestess"
+ },
+ {
+  "key": "b364be9da8",
+  "msgid": "Priestesses are needed to make Satul show his might.",
+  "zh": "",
+  "msgctxt": "atlanteans_worker"
+ },
+ {
+  "key": "4901774998",
+  "msgid": "A wooden coin, received as reward for delivering five logs.",
+  "zh": "",
+  "msgctxt": "atlanteans_ware",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean ware: Wooden Coin"
+ },
+ {
+  "key": "1c030c8380",
+  "msgid": "A coin made of copper, received as reward for delivering four lumps of coal.",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean ware: Copper Coin",
+  "terms": [
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "87449fe7a0",
+  "msgid": "A silver coin, received as reward for delivering three iron ingots.",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean ware: Silver Coin",
+  "terms": [
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "43a32d00c9",
+  "msgid": "A golden coin, received as reward for delivering two bars of gold.",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: Purpose helptext for an Atlantean ware: Golden Coin",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ }
+]
