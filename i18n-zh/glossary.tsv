@@ -40,7 +40,7 @@ Antigua	安提瓜岛号	shipname	tribes
 Apollo	阿波罗	shipname	tribes	
 Aqua Farm	水产养殖场	frisians_building	tribes	
 Aquamarine	海蓝宝石号	shipname	tribes	
-Aquatic	水栖的		world	
+Aquatic	水生动物		corrections	编辑器动物类别名，原"水栖的"是形容词
 Arena	竞技场	empire_building	tribes	
 Armor	盔甲	ware	tribes	
 Armor Smithy	盔甲铺	atlanteans_building	tribes	
@@ -107,8 +107,8 @@ Barracks	步兵营	barbarians_building	tribes
 Barracks	步兵营	empire_building	tribes	
 Barracks	步兵营	frisians_building	tribes	
 Barren Steppe	荒原		world	
-Barrier	关卡	barbarians_building	tribes	
-Barrier	关卡	empire_building	tribes	
+Barrier	壁垒	barbarians_building	corrections	"关卡"在游戏语境里易被读作"第几关"
+Barrier	壁垒	empire_building	corrections	"关卡"在游戏语境里易被读作"第几关"
 Basket	篮子	ware	tribes	
 Battle Arena	搏击场	barbarians_building	tribes	
 Battle Ax	战斧	ware	tribes	
@@ -254,6 +254,7 @@ Claudius	克劳迪厄斯	shipname	tribes
 Clay	黏土	ware	tribes	
 Clay Digger	挖泥工	frisians_worker	tribes	
 Clay Pit	黏土井	frisians_building	tribes	
+Click	单击	hotkey	corrections	鼠标操作名，不与"点击"混用
 Cloth	布料	ware	tribes	
 Coal	煤		world	
 Coal	煤	ware	tribes	
@@ -336,6 +337,7 @@ Desync	不同步		corrections	网络对战中双方游戏状态不一致
 Diamond	钻石	ware	tribes	
 Diana	戴安娜	shipname	tribes	
 Diplomacy	外交		corrections	
+Directory	目录		corrections	统一"目录"，不与"文件夹"混用
 Discovery	发现		tribes	
 Dismantle Site	拆除工地	building	tribes	
 Dominica	多米尼加	shipname	tribes	
@@ -439,7 +441,7 @@ forging a wooden spear	打造木矛		tribes
 forging an advanced shield	锻造高级护盾		tribes	
 forging an advanced spear	锻造高级长矛		tribes	
 forging an ax	锻造斧头		tribes	
-Fortification	要塞	amazons_building	tribes	
+Fortification	防御工事	amazons_building	corrections	与 Fortress→要塞 撞名，且它是驻军 12 的更高一级建筑
 Fortified Village	设防村落		corrections	原译"要塞与村庄"误将一个整体拆为两样
 Fortress	要塞	amazons_building	corrections	big/驻军8，原译"哨所"与 Sentry 语义重叠
 Fortress	要塞	barbarians_building	corrections	big/驻军8，原译"哨所"与 Sentry 语义重叠
@@ -710,6 +712,7 @@ making swift boots	制造健步鞋		tribes
 making wine	制作葡萄酒		tribes	
 Malachite	孔雀石	shipname	tribes	
 Mani	曼尼	shipname	tribes	
+Map Set	地图集		corrections	附加内容类别，Set 在此非"设置"
 Maple	枫树		world	
 Maple (Mature)	枫树(成材的)		world	
 Maple (Old)	枫树(老树)		world	
@@ -762,7 +765,7 @@ mining granite	开采花岗石		tribes
 mining iron	开采铁		tribes	
 mining marble	开采大理石		tribes	
 mining quartz	开采石英		tribes	
-Miscellaneous	五花八门的		world	
+Miscellaneous	杂项		corrections	编辑器类别名，原"五花八门的"是形容词且口语化
 Mixed Scrap Metal	废旧合金	ware	tribes	
 mixing grout	搅拌泥浆		tribes	
 Montserrat	蒙特塞拉特岛	shipname	tribes	
@@ -775,13 +778,16 @@ Mountain 4	山峦 4		world
 Mountain Meadow	山地草原		world	
 Mushroom	蘑菇		world	
 Mystic Quartz	神秘石英	shipname	tribes	
+Name	名称		corrections	通用名称字段，不可译作"姓名"
+Name	玩家名称	player	corrections	玩家标识，非真实姓名
+Name	船名	ship	corrections	船只统计表的名称列
 Nassau	巴哈马群岛	shipname	tribes	
 Needles	针	ware	tribes	
 Neptune	海神尼普顿	shipname	tribes	
 Nero	尼禄	shipname	tribes	
 Nerva	涅尔瓦	shipname	tribes	
 Nevis	尼维斯岛	shipname	tribes	
-New World	新的世界		tribes	
+New World	新世界		corrections	开局条件名，原"新的世界"啰嗦
 No Artifacts	没有远古遗物		win_conditions	
 No Bushes	没有灌木		tribes	
 No Coal	没有煤		tribes	
@@ -789,7 +795,6 @@ No Crystals	没有晶体		tribes
 No Fields	没有场地		tribes	
 No Fish	没有鱼		tribes	
 No Flowers	没有花朵		tribes	
-No Game	没有猎物		tribes	
 No Game, No Fish	没有猎物，没有鱼		tribes	
 No Gold	没有黄金		tribes	
 No Granite	没有花岗石		tribes	
@@ -836,7 +841,6 @@ Out of Fields	场地之外		tribes
 Out of Fish	没有鱼类资源了		tribes	
 Out of Fish Ponds	鱼塘范围之外		tribes	
 Out of Flowers	没有花朵资源了		tribes	
-Out of Game	没有猎物资源了		tribes	
 Out of Game and Fish	没有猎物和鱼了		tribes	
 Out of Rocks	没有岩石资源了		tribes	
 Out of Trees	没有树木资源了		tribes	
@@ -871,6 +875,7 @@ planting rubber tree	种植橡胶树		tribes
 planting trees	植树		tribes	
 planting wheat	种植小麦		tribes	
 Plants	植物		world	
+Player	玩家		corrections	避免漂移为"游戏者""选手"
 Player overview:	游戏玩家概览：		win_conditions	
 Pluto	冥王	shipname	tribes	
 Points	得分		win_conditions	
@@ -878,6 +883,7 @@ Pond With Charcoal	木炭池	immovable	tribes
 Pond With Fish	有鱼的池塘	immovable	tribes	
 Pond With Fish Spawn	有鱼卵的池塘	immovable	tribes	
 Poor Hamlet	贫穷村寨		tribes	
+Port	港口		corrections	五个部族一致
 Port	港口	amazons_building	corrections	五个部族一致
 Port	港口	atlanteans_building	corrections	五个部族一致
 Port	港口	barbarians_building	corrections	五个部族一致
@@ -902,6 +908,9 @@ quarrying marble	采集大理石		tribes
 Quartz	石英	ware	tribes	
 Quirinus	基里努斯	shipname	tribes	
 raising pigs	养猪		tribes	
+Random	随机	climate	corrections	
+Random	随机	terrain	corrections	
+Random	随机	tribe	corrections	
 Ranger	护林员	barbarians_worker	tribes	
 Ranger’s Hut	护林员小屋	barbarians_building	tribes	
 Rare Tree Cutter’s Hut	珍稀树种加工车间	amazons_building	tribes	
@@ -955,7 +964,7 @@ Reindeer Breeder	驯鹿饲育员	frisians_worker	tribes
 Reindeer Farm	驯鹿场	frisians_building	tribes	
 releasing game	放生猎物		tribes	
 Remus	雷姆斯	shipname	tribes	
-Replay	录像		corrections	
+Replay	回放		corrections	主 UI 已有 13 处用"回放"，沿用；"录像"只是本项目一度引入
 Rock Mine	岩石矿	frisians_building	tribes	
 Rocks	岩石		world	
 Rocks 1	岩石 1		world	
@@ -988,6 +997,7 @@ Saledus	塞勒杜斯	shipname	tribes
 Sapphire	蓝宝石	shipname	tribes	
 Satul	萨图尔神	shipname	tribes	
 Saturn	农神	shipname	tribes	
+Saved Game	存档		corrections	游戏类型标签，不是"保存游戏"这个动作
 Saw	锯	ware	tribes	
 sawing logs	锯切原木		tribes	
 Sawmill	锯木厂	atlanteans_building	tribes	
@@ -1153,7 +1163,7 @@ Tapir Farm	貘貘饲养场	amazons_building	tribes
 Tavern	小酒馆	barbarians_building	tribes	
 Tavern	小酒馆	empire_building	tribes	
 Tavern	小酒馆	frisians_building	tribes	
-Team	小队		corrections	沿用主 UI 现有译法
+Team	团队		corrections	指玩家结盟，"小队"易与士兵编队混淆
 Territorial Lord	领土之主		win_conditions	
 Territorial Time	领土时间		win_conditions	
 Territory percentage	领土百分比		win_conditions	
@@ -1180,7 +1190,6 @@ Tower	塔楼	atlanteans_building	tribes
 Tower	塔楼	barbarians_building	tribes	
 Tower	塔楼	empire_building	tribes	
 Tower	塔楼	frisians_building	tribes	
-Track	足迹		world	
 Trade	贸易		corrections	
 Trading Outpost	贸易前哨		tribes	
 Traianus	特拉扬斯	shipname	tribes	
@@ -1221,6 +1230,7 @@ Vitellius	维特里乌斯	shipname	tribes
 Volf	伏尔夫	shipname	tribes	
 War Mill	战争磨坊	barbarians_building	tribes	
 War Spear	战矛	ware	tribes	
+Warehouse	仓库		corrections	五个部族一致
 Warehouse	仓库	amazons_building	corrections	五个部族一致
 Warehouse	仓库	atlanteans_building	corrections	五个部族一致
 Warehouse	仓库	barbarians_building	corrections	五个部族一致

@@ -59,9 +59,9 @@ Message	消息
 Economy	经济
 Diplomacy	外交
 Desync	不同步		网络对战中双方游戏状态不一致
-Replay	录像
+Replay	回放		主 UI 已有 13 处用"回放"，沿用；"录像"只是本项目一度引入
 Trade	贸易
-Team	小队		沿用主 UI 现有译法
+Team	团队		指玩家结盟，"小队"易与士兵编队混淆
 
 # ============================================================
 # 四、排除：一词多义，不能全局强加
@@ -71,3 +71,40 @@ Team	小队		沿用主 UI 现有译法
 # （widelands/zh_CN.po:6718 的译者注明写 "An entry in the game's
 # statistics menu"）。抽取时它没带 msgctxt，会被错误地全局强加。
 General	-		一词多义：部族军衔"将军" vs UI"综合"，不能全局约束
+
+# Fortification 与 Fortress 撞名——亚马逊同时拥有这两座建筑：
+#   fortress      big 驻军 8   （本表已改为"要塞"）
+#   fortification big 驻军 12
+# 若两者都叫"要塞"，玩家在建造菜单里会看到两个同名的不同建筑。
+Fortification	防御工事	amazons_building	与 Fortress→要塞 撞名，且它是驻军 12 的更高一级建筑
+
+# Track / Game 的狩猎义只在部族语境成立，Track 与 Game 又是极常见词，
+# 作为无 msgctxt 的全局规则会误伤（Game 也指"游戏"，Track 也指"轨道"）。
+Track	-		一词多义：雪地足迹 vs 轨道，不能全局约束
+No Game	-		Game 在此为"猎物"，与"游戏"义冲突
+Out of Game	-		同上
+
+# ============================================================
+# 五、Codex 评审采纳项（2026-09-20）
+# ============================================================
+# "关卡"在中文游戏语境里压倒性地指"游戏关卡/第几关"，用作军事建筑名有歧义。
+Barrier	壁垒	barbarians_building	"关卡"在游戏语境里易被读作"第几关"
+Barrier	壁垒	empire_building	"关卡"在游戏语境里易被读作"第几关"
+
+# 编辑器里的分类名被译成了悬空的形容词。
+Miscellaneous	杂项		编辑器类别名，原"五花八门的"是形容词且口语化
+Aquatic	水生动物		编辑器动物类别名，原"水栖的"是形容词
+New World	新世界		开局条件名，原"新的世界"啰嗦
+
+# 高频通用词，先锁定以免翻译过程中漂移。
+Player	玩家		避免漂移为"游戏者""选手"
+Name	名称		通用名称字段，不可译作"姓名"
+Name	玩家名称	player	玩家标识，非真实姓名
+Name	船名	ship	船只统计表的名称列
+Directory	目录		统一"目录"，不与"文件夹"混用
+Saved Game	存档		游戏类型标签，不是"保存游戏"这个动作
+Map Set	地图集		附加内容类别，Set 在此非"设置"
+Random	随机	climate	
+Random	随机	terrain	
+Random	随机	tribe	
+Click	单击	hotkey	鼠标操作名，不与"点击"混用

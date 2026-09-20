@@ -739,12 +739,12 @@ msgstr "食肉动物"
 #. TRANSLATORS: A category in the editor for placing animals on the map.
 #: ../../../../data/world/init.lua:154
 msgid "Aquatic"
-msgstr "水栖的"
+msgstr "水生动物"
 
 #. TRANSLATORS: A category in the editor for placing immovables on the map.
 #: ../../../../data/world/init.lua:168
 msgid "Miscellaneous"
-msgstr "五花八门的"
+msgstr "杂项"
 
 #. TRANSLATORS: A category in the editor for placing immovables on the map.
 #: ../../../../data/world/init.lua:207

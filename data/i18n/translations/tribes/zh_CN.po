@@ -52,7 +52,7 @@ msgstr ""
 #: ../../../../data/tribes/buildings/militarysites/amazons/fortification/init.lua:8
 msgctxt "amazons_building"
 msgid "Fortification"
-msgstr "要塞"
+msgstr "防御工事"
 
 #. TRANSLATORS: Message sent by an Amazon military site
 #: ../../../../data/tribes/buildings/militarysites/amazons/fortification/init.lua:32
@@ -520,7 +520,7 @@ msgstr "你的士兵们在小型塔楼战胜了敌人。"
 #: ../../../../data/tribes/buildings/militarysites/barbarians/barrier/init.lua:8
 msgctxt "barbarians_building"
 msgid "Barrier"
-msgstr "关卡"
+msgstr "壁垒"
 
 #. TRANSLATORS: Message sent by a Barbarian military site
 #: ../../../../data/tribes/buildings/militarysites/barbarians/barrier/init.lua:52
@@ -700,7 +700,7 @@ msgstr "你的士兵们在塔楼战胜了敌人。"
 #: ../../../../data/tribes/buildings/militarysites/empire/barrier/init.lua:8
 msgctxt "empire_building"
 msgid "Barrier"
-msgstr "关卡"
+msgstr "壁垒"
 
 #. TRANSLATORS: Message sent by an Empire military site
 #: ../../../../data/tribes/buildings/militarysites/empire/barrier/init.lua:45
@@ -5598,7 +5598,7 @@ msgstr "从只有总部建筑开始游戏"
 #: ../../../../data/tribes/initialization/empire/starting_conditions/new_world.lua:11
 #: ../../../../data/tribes/initialization/frisians/starting_conditions/new_world.lua:11
 msgid "New World"
-msgstr "新的世界"
+msgstr "新世界"
 
 #. TRANSLATORS: This is the tooltip for the "New World" starting condition
 #: ../../../../data/tribes/initialization/amazons/starting_conditions/new_world.lua:13

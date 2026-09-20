@@ -124,14 +124,27 @@ def main():
             note = ''
         rows.append((en, zh, ctxt, sources, note))
 
-    # 裁决表里可能有抽取结果中不存在的词条（主 UI 通用术语），一并收入
+    # 裁决表里可能有抽取结果中不存在的词条（主 UI 通用术语），一并收入。
+    #
+    # 只按精确的 (英文, msgctxt) 去重。早先还附加了 "该英文未在任何上下文
+    # 出现过" 的条件，那会让带 msgctxt 的裁决在同名英文已存在于其他上下文
+    # 时被静默吞掉——裁决写了却不生效，且没有任何提示。
     known = {(r[0], r[2]) for r in rows}
+    unused = []
     for (en, ctxt), (zh, note) in sorted(corrections.items()):
         if zh == EXCLUDE_MARKER:
             continue
-        if (en, ctxt) not in known and not any(r[0] == en for r in rows):
-            rows.append((en, zh, ctxt, 'corrections', note))
-            corrected += 1
+        if (en, ctxt) in known:
+            continue
+        # 空 ctxt 的裁决已在上面的覆盖循环里作用于该英文的所有上下文，
+        # 此处补一条无上下文的兜底规则，供 check_glossary 回退匹配。
+        rows.append((en, zh, ctxt, 'corrections', note))
+        corrected += 1
+        if not any(r[0] == en for r in rows[:-1]):
+            unused.append(f'{en}{" [" + ctxt + "]" if ctxt else ""}')
+    if unused:
+        print(f'  裁决表中 {len(unused)} 条未在源域出现，已作为新词条收入：'
+              f'{", ".join(unused[:8])}{" …" if len(unused) > 8 else ""}')
 
     print(f'抽取 {len(terms)} 条，人工裁决覆盖 {corrected} 条，排除 {excluded} 条，'
           f'源域内部冲突 {len(conflicts)} 条，输出 {len(rows)} 条')

@@ -1,0 +1,975 @@
+[
+ {
+  "key": "c72071534e",
+  "msgid": "%d batch delivered",
+  "zh": "",
+  "msgid_plural": "%d batches delivered",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "cd07aba246",
+  "msgid": "%d batch remaining",
+  "zh": "",
+  "msgid_plural": "%d batches remaining",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "a275e19f94",
+  "msgid": "Paused by both players",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "93279f7eb5",
+  "msgid": "Paused by you",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "42505ab714",
+  "msgid": "Paused by %s",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "8fd233e3cb",
+  "msgid": "Active",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "602b46b5cb",
+  "msgid": "Player sends:",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "ed9de2bfea",
+  "msgid": "You send:",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "896c94b81c",
+  "msgid": "%1$i× %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: This is an item in a list of wares, e.g. \"Produced 2x Coal\": | * TRANSLATORS:    %1$i = \"2\" | * TRANSLATORS:    %2$s = \"Coal\"",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "3eb89c5d89",
+  "msgid": "Player receives:",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "9acda0c0d7",
+  "msgid": "You receive:",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "db50f87d7d",
+  "msgid": "Lost!",
+  "zh": "",
+  "msgctxt": "building",
+  "note": "* TRANSLATORS: Militarysite lost (taken/destroyed by enemy)",
+  "ui": "logic/map_objects",
+  "current": "丢失！"
+ },
+ {
+  "key": "f7fad49254",
+  "msgid": "Militarysite lost!",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "军事用地丢失！"
+ },
+ {
+  "key": "84bc28797c",
+  "msgid": "Enemy Defeated!",
+  "zh": "",
+  "note": "* TRANSLATORS: Message title. | * TRANSLATORS: If you run out of space, you can also translate this as | \"Success!\"",
+  "ui": "logic/map_objects",
+  "current": "敌人被打败了！"
+ },
+ {
+  "key": "fb407ba273",
+  "msgid": "Enemy at site defeated!",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "战场上的敌人已被击溃！"
+ },
+ {
+  "key": "c930398401",
+  "msgid": "Attack!",
+  "zh": "",
+  "msgctxt": "building",
+  "note": "* TRANSLATORS: Militarysite is being attacked",
+  "ui": "logic/map_objects",
+  "current": "攻击！"
+ },
+ {
+  "key": "39fe02d437",
+  "msgid": "You are under attack",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "你受到了攻击"
+ },
+ {
+  "key": "f9efaaade8",
+  "msgid": "%s is missing",
+  "zh": "",
+  "msgid_plural": "%s are missing",
+  "note": "* TRANSLATORS: e.g. 'Did not start working because 3x water and 3x wheat | are missing' | * TRANSLATORS: e.g. 'Did not start working because fish, meat or pitta | bread is missing'",
+  "ui": "logic/map_objects",
+  "current": "%s 缺乏"
+ },
+ {
+  "key": "eb82d5791b",
+  "msgid": "Produced %s",
+  "zh": "",
+  "msgid_plural": "Produced %s",
+  "note": "* TRANSLATORS: %s is a list of wares. String is fetched according to total | amount of | wares.",
+  "ui": "logic/map_objects",
+  "current": "已生产 %s"
+ },
+ {
+  "key": "6fcb78bb28",
+  "msgid": "Recruited %s",
+  "zh": "",
+  "msgid_plural": "Recruited %s",
+  "note": "* TRANSLATORS: %s is a list of workers. String is fetched according to | total amount of | workers.",
+  "ui": "logic/map_objects",
+  "current": "已征募 %s",
+  "terms": [
+   "Recruit = 新兵"
+  ]
+ },
+ {
+  "key": "c8ce836cec",
+  "msgid": "No soldier found for this training level!",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "找不到符合此训练级别的士兵！",
+  "terms": [
+   "Soldier = 士兵"
+  ]
+ },
+ {
+  "key": "c9409cb8d2",
+  "msgid": "Completed %s",
+  "zh": "",
+  "note": "* TRANSLATORS: Success message of a trainingsite '%s' stands for the | description of the | * training program, e.g. Completed upgrading soldier evade from level 0 to | level 1",
+  "ui": "logic/map_objects",
+  "current": "已完成 %s"
+ },
+ {
+  "key": "19624d9a6c",
+  "msgid": "the economy needs the ware ‘%s’",
+  "zh": "",
+  "note": "* TRANSLATORS: e.g. Completed/Skipped/Did not start ... because the economy | needs the ware | * '%s'",
+  "ui": "logic/map_objects",
+  "current": "经济需要这些物品 ‘%s’",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "7213713e50",
+  "msgid": "the economy doesn’t need the ware ‘%s’",
+  "zh": "",
+  "note": "* TRANSLATORS: e.g. Completed/Skipped/Did not start ... because the economy | doesn't need the | * ware '%s'",
+  "ui": "logic/map_objects",
+  "current": "经济不再需要这些物品‘%s’",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "d1c77976a4",
+  "msgid": "the economy needs the worker ‘%s’",
+  "zh": "",
+  "note": "* TRANSLATORS: e.g. Completed/Skipped/Did not start ... because the economy | needs the worker | * '%s'",
+  "ui": "logic/map_objects",
+  "current": "经济需要这些劳动者 ‘%s’",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "276cedad22",
+  "msgid": "the economy doesn’t need the worker ‘%s’",
+  "zh": "",
+  "note": "* TRANSLATORS: e.g. Completed/Skipped/Did not start ... | * TRANSLATORS:      ... because the economy doesn’t need the worker '%s'",
+  "ui": "logic/map_objects",
+  "current": "经济不再需要这些劳动者 ‘%s’",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "e1f912b5dc",
+  "msgid": "%1$ix %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: This is an item in a list of wares, e.g. \"3x water\": | * TRANSLATORS:    %1$i = \"3\" | * TRANSLATORS:    %2$s = \"water\" | * TRANSLATORS: e.g. 'Did not start working because 3x water and 3x wheat | are | missing' | * TRANSLATORS: For this example, this is what's in the place holders: | * TRANSLATORS:    %1$i = \"3\" | * TRANSLATORS:    %2$s = \"water\" | * TRANSLATORS: This is an item in a list of workers, e.g. \"Recruited 2x | Ox\": | * TRANSLATORS:    %1$i = \"2\" | * TRANSLATORS:    %2$s = \"Ox\"",
+  "ui": "logic/map_objects",
+  "current": "%1$ix %2$s"
+ },
+ {
+  "key": "b70f297cd7",
+  "msgid": "the building has the following wares: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: %s is a list of wares",
+  "ui": "logic/map_objects",
+  "current": "这座建筑有以下物品： %s",
+  "terms": [
+   "Building = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "561cbb06cf",
+  "msgid": "the building doesn’t have the following wares: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: %s is a list of wares",
+  "ui": "logic/map_objects",
+  "current": "这栋楼没有下列物品： %s",
+  "terms": [
+   "Building = 建筑",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "aaf2b2131a",
+  "msgid": "a worker needs experience",
+  "zh": "",
+  "note": "* TRANSLATORS: 'Completed/Skipped/Did not start ... because a worker needs | experience'.",
+  "ui": "logic/map_objects",
+  "current": "工人需要经验"
+ },
+ {
+  "key": "352f8284aa",
+  "msgid": "the workers need no experience",
+  "zh": "",
+  "note": "* TRANSLATORS: 'Completed/Skipped/Did not start ... because the workers | need no experience'.",
+  "ui": "logic/map_objects",
+  "current": "工人们不需要经验",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "10a00d95be",
+  "msgid": "the fleet needs a ferry",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "c2d7a3b7c8",
+  "msgid": "the fleet needs a ship",
+  "zh": "",
+  "note": "* TRANSLATORS: 'Completed/Skipped/Did not start ... because the fleet needs | a ship/ferry'.",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "2ed62c703f",
+  "msgid": "the fleet needs no ferries",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "5788482492",
+  "msgid": "the fleet needs no ships",
+  "zh": "",
+  "note": "* TRANSLATORS: 'Completed/Skipped/Did not start ... because the fleet needs | no ships/ferries'.",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "7313a26ed0",
+  "msgid": "Did not start %1$s because %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Did not start working because the economy needs the ware | '%s'\" | * TRANSLATORS: e.g. 'Did not start working because 3x water and 3x wheat | are missing' | * TRANSLATORS: For this example, this is what's in the place holders: | * TRANSLATORS:    %1$s = \"working\" | * TRANSLATORS:    %2$s = \"3x water and 3x wheat are missing\" | * TRANSLATORS: This appears in the hover text on buildings. Please test | these in | context | * TRANSLATORS: on a development build if you can, and let us know if there | are any issues | * TRANSLATORS: we need to address for your language.",
+  "ui": "logic/map_objects",
+  "current": "没有开始 %1$s 因为 %2$s"
+ },
+ {
+  "key": "5e005120e3",
+  "msgid": "Completed %1$s because %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Completed working because the economy needs the ware '%s'\"",
+  "ui": "logic/map_objects",
+  "current": "完成了 %1$s 因为 %2$s"
+ },
+ {
+  "key": "0ec677909f",
+  "msgid": "Skipped %1$s because %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Skipped working because the economy needs the ware '%s'\"",
+  "ui": "logic/map_objects",
+  "current": "略过 %1$s 因为 %2$s"
+ },
+ {
+  "key": "73f4c187f2",
+  "msgid": "Can’t find any more resources!",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "找不到更多资源！"
+ },
+ {
+  "key": "c42ceec841",
+  "msgid": "No Shore",
+  "zh": "",
+  "msgctxt": "building",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "5e0587bbba",
+  "msgid": "Shipyard Without Shore",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Shipyard = 造船厂",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "86cb137b91",
+  "msgid": "Your shipyard has not been built close enough to a shore. It will not be able to build ships.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Shipyard = 造船厂",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "bcf75aa975",
+  "msgid": "Ferry Yard Without Shore",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ferry Yard = 摆渡码头",
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "d5136639b1",
+  "msgid": "Your ferry yard has not been built close enough to a shore. It will not be able to build ferries.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ferry Yard = 摆渡码头",
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "7d2f115db1",
+  "msgid": "(stopped)",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "(已停止)"
+ },
+ {
+  "key": "3e4d63b696",
+  "msgid": "%i%%",
+  "zh": "",
+  "note": "* TRANSLATORS: Percent in building statistics window, e.g. 85% | * TRANSLATORS: If you wish to add a space, translate as '%i %%'",
+  "ui": "logic/map_objects, ui/game",
+  "current": "%i%%"
+ },
+ {
+  "key": "84e4762187",
+  "msgid": "Ship Destroyed",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "7e7c580ff1",
+  "msgid": "Ship Sunk",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "4e78678eef",
+  "msgid": "An enemy ship has destroyed your warship.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "c112afb7d1",
+  "msgid": "Your coast is under attack from an enemy warship.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "3825263998",
+  "msgid": "Enemy Ship Attacking",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "ae24c0a3a5",
+  "msgid": "Naval Attack",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "a17992fe73",
+  "msgid": "Your ship ‘%s’ is under attack from an enemy warship.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "cc71a2a44f",
+  "msgid": "Waiting",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: This is a ship state. An expedition is waiting for your | commands.",
+  "ui": "logic/map_objects, ui/game",
+  "current": "等待"
+ },
+ {
+  "key": "ec5728287b",
+  "msgid": "Scouting",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: This is a ship state. An expedition is scouting for port | spaces.",
+  "ui": "logic/map_objects, ui/game",
+  "current": "侦察",
+  "terms": [
+   "scouting = 侦察",
+   "Scout = 侦察兵"
+  ]
+ },
+ {
+  "key": "893f8af181",
+  "msgid": "Port Space Found",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: This is a ship state. An expedition has found a port space.",
+  "ui": "logic/map_objects, ui/game",
+  "current": "找到港口空间",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "07bedde8b1",
+  "msgid": "Founding a Colony",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: This is a ship state. An expedition is unloading | wares/workers to | * build a port.",
+  "ui": "logic/map_objects",
+  "current": "建立殖民地"
+ },
+ {
+  "key": "765e89f90f",
+  "msgid": "Sinking",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "c5bd731c86",
+  "msgid": "Fighting",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "3e7a249c04",
+  "msgid": "Refitting to Transport Ship",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "383c6dbed7",
+  "msgid": "Refitting to Warship",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "32fbe3e402",
+  "msgid": "Warship",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "ui": "logic/map_objects, ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "2e8e88e718",
+  "msgid": "Sailing to %s",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: This is a ship state. The ship is | * currently sailing to a specific destination ship. | * TRANSLATORS: This is a ship state. The ship is | * currently sailing to a specific destination note. | * TRANSLATORS: This is a ship state. The ship is currently sailing | * to a specific destination port without transporting wares.",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "591e34af7a",
+  "msgid": "Empty",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: This is a ship state. The ship is ready | * to transport wares, but has nothing to do.",
+  "ui": "logic/map_objects, ui/game",
+  "current": "空的"
+ },
+ {
+  "key": "1861906535",
+  "msgid": "Shipping to %s",
+  "zh": "",
+  "msgctxt": "ship_state",
+  "note": "* TRANSLATORS: This is a ship state. The ship is currently | * transporting wares to a specific destination port.",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "57b7fdf37c",
+  "msgid": "A warship arrived at a known port build space.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "b895b23c6a",
+  "msgid": "An expedition ship arrived at a known port build space.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "190912c2b3",
+  "msgid": "Port Space",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "港口空间",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "86a96b4881",
+  "msgid": "Port Space Spotted",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "d0f8f21dd6",
+  "msgid": "A warship found a new port build space.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "1974052d7f",
+  "msgid": "An expedition ship found a new port build space.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "一艘探险船发现了一个新的港口建造空间。",
+  "terms": [
+   "Ship = 船",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "cb9040f857",
+  "msgid": "Port Space Found",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "找到港口空间",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "fff6d8f496",
+  "msgid": "No Port Can Be Built",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "a93fa372fa",
+  "msgid": "Port Space Lost!",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "688f798507",
+  "msgid": "A discovered port build space is not available for building a port anymore.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Building = 建筑",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "de433b6a47",
+  "msgid": "A new ship has been built.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "559d06cf67",
+  "msgid": "New Ship",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "0b038f034c",
+  "msgid": "Enemy Ship",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "048852817d",
+  "msgid": "Enemy Ship Spotted",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "ce459aa058",
+  "msgid": "A warship spotted an enemy ship.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "30735996ee",
+  "msgid": "Destination Unreachable",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "8073c0525a",
+  "msgid": "Ship Destination Unreachable",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "b4ce259a92",
+  "msgid": "Your ship could not find a path to its destination.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "918f95ad56",
+  "msgid": "Your ship could not find a path to its destination port ‘%s’.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "0237c0e430",
+  "msgid": "Warship",
+  "zh": "",
+  "msgctxt": "ship",
+  "note": "* TRANSLATORS: Warship ready",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "7ed458a9e2",
+  "msgid": "Warship Ready",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "414bfeb911",
+  "msgid": "A warship is waiting for your commands.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "c3383571e8",
+  "msgid": "Expedition",
+  "zh": "",
+  "msgctxt": "ship",
+  "note": "* TRANSLATORS: Ship expedition ready",
+  "ui": "logic/map_objects",
+  "current": "探险"
+ },
+ {
+  "key": "2f6dc89bd1",
+  "msgid": "Expedition Ready",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "探险远征准备就绪"
+ },
+ {
+  "key": "de5e504136",
+  "msgid": "An expedition ship is waiting for your commands.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "一艘探险船正等待着你的命令。",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "49e6421f2e",
+  "msgid": "Island Circumnavigated",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "环岛航行"
+ },
+ {
+  "key": "035f2a4f4a",
+  "msgid": "Waiting",
+  "zh": "",
+  "msgctxt": "ship",
+  "note": "* TRANSLATORS: A ship has circumnavigated an island and is waiting | for orders",
+  "ui": "logic/map_objects",
+  "current": "等待"
+ },
+ {
+  "key": "7b453ee04d",
+  "msgid": "An expedition ship sailed around its island without any events.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": " 一艘探险船绕岛航行，没有发生任何事件。 ",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "5aabed7c2d",
+  "msgid": "Coast Reached",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "到达海岸"
+ },
+ {
+  "key": "5edd3e57c0",
+  "msgid": "Land Ahoy!",
+  "zh": "",
+  "note": "* TRANSLATORS: A ship has discovered land",
+  "ui": "logic/map_objects",
+  "current": " 着陆啊！ "
+ },
+ {
+  "key": "85d86de4de",
+  "msgid": "An expedition ship reached a coast and is waiting for further commands.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "一艘探险船到达海岸正在等待下一步的命令。",
+  "terms": [
+   "Ship = 船",
+   "Fur = 毛皮"
+  ]
+ },
+ {
+  "key": "53bb57c2af",
+  "msgid": "New port construction site is gone",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "新港口建设工地即将完工",
+  "terms": [
+   "Construction Site = 建筑工地",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "cde90d0fcd",
+  "msgid": "Port Lost!",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "港口丢失",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "f6ffe780b5",
+  "msgid": "Unloading of wares failed, expedition is cancelled now.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "卸货失败，探险取消。",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "6c29e5a336",
+  "msgid": "Fleet split",
+  "zh": "",
+  "msgctxt": "ship",
+  "note": "* TRANSLATORS: Ship fleets had to be split",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "b48a8a874a",
+  "msgid": "Ship Fleet split",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "8ae212d86a",
+  "msgid": "A ship fleet had to be split, because a terrain change blocked a passage.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "8e7b39438b",
+  "msgid": "Ship Arrived",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "f301fe0626",
+  "msgid": "Ship Reached Destination",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "3f98d3ac11",
+  "msgid": "Your ship has arrived at its destination.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "fa54b2d46b",
+  "msgid": "Destination Gone",
+  "zh": "",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "f568508c9c",
+  "msgid": "Ship Destination Vanished",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "a1971404fc",
+  "msgid": "Your ship’s destination has disappeared.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "b4e7a391d3",
+  "msgid": "Loading %1%: %2% (%3%/%4%)",
+  "zh": "",
+  "note": "* TRANSLATORS: Example: Loading Barbarians: Buildings (2/6)",
+  "ui": "logic/map_objects",
+  "current": "加载 %1%: %2% (%3%/%4%)"
+ },
+ {
+  "key": "8f97e46fde",
+  "msgid": "Ships",
+  "zh": "",
+  "ui": "logic/map_objects, ui/game, ui/wui",
+  "current": "船舶",
+  "terms": [
+   "Ship = 船"
+  ]
+ }
+]

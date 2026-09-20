@@ -1,0 +1,939 @@
+[
+ {
+  "key": "3b174987d0",
+  "msgid": "Immovables",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "logic/map_objects, ui/editor",
+  "current": "固定物"
+ },
+ {
+  "key": "c545646699",
+  "msgid": "Wares",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's statistics menu",
+  "ui": "logic/map_objects, ui/game, ui/wui",
+  "current": "物品",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "cd289e5403",
+  "msgid": "Workers",
+  "zh": "",
+  "note": "* TRANSLATORS: Header in production site window if there is more than 1 | worker. If you | need plural forms here, please let us know.",
+  "ui": "logic/map_objects, ui/game",
+  "current": "工人",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "4ff6be4355",
+  "msgid": "Buildings",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's statistics menu",
+  "ui": "logic/map_objects, map_io/map_saver, map_io/widelands_map_loader",
+  "current": "建筑",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "bd93012669",
+  "msgid": "Worker missing",
+  "zh": "",
+  "note": "* TRANSLATORS: Productivity label on a building if there is 1 worker | missing",
+  "ui": "logic/map_objects",
+  "current": "缺少工人"
+ },
+ {
+  "key": "bfa0f21d13",
+  "msgid": "Workers missing",
+  "zh": "",
+  "note": "* TRANSLATORS: Productivity label on a building if there is more than 1 | worker missing. | If you need plural forms here, please let us know.",
+  "ui": "logic/map_objects",
+  "current": "缺少工人",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "4f075c5490",
+  "msgid": "Worker is coming",
+  "zh": "",
+  "note": "* TRANSLATORS: Productivity label on a building if there is 1 worker coming",
+  "ui": "logic/map_objects",
+  "current": "工人来了"
+ },
+ {
+  "key": "3218ef2f4b",
+  "msgid": "Workers are coming",
+  "zh": "",
+  "note": "* TRANSLATORS: Productivity label on a building if there is more than 1 | worker coming. If | you need plural forms here, please let us know.",
+  "ui": "logic/map_objects",
+  "current": "工人们来了",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "4a41e9f851",
+  "msgid": "Expert missing",
+  "zh": "",
+  "note": "* TRANSLATORS: Productivity label on a building if there is 1 | experienced worker missing.",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "5009c2c0ee",
+  "msgid": "Experts missing",
+  "zh": "",
+  "note": "* TRANSLATORS: Productivity label on a building if there is more than 1 | experienced | worker missing. If you need plural forms here, please let us know.",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "6b5a52054e",
+  "msgid": "A new port was added to your economy.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "一个新的港口已添加到你的经济系统。",
+  "terms": [
+   "Economy = 经济",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "a236b544f8",
+  "msgid": "A new headquarters was added to your economy.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "一个新的总部已添加到你的经济系统。",
+  "terms": [
+   "Headquarters = 总部",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "08ae076c77",
+  "msgid": "A new warehouse was added to your economy.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "一个新的仓库已添加到你的经济系统。",
+  "terms": [
+   "Warehouse = 仓库",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "46a220dffe",
+  "msgid": "Waterway",
+  "zh": "",
+  "note": "* TRANSLATORS: Message header, short for \"Waterway Destroyed\" (not much | space | * available)",
+  "ui": "logic/map_objects",
+  "current": "水路",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "c99e7dfa7a",
+  "msgid": "Waterway destroyed",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "水路被摧毁",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "30d1c7c86b",
+  "msgid": "A waterway had to be destroyed to make room for your new port dock.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": " 为了在给你们的新码头腾出空间修建船坞，一条水道不得不被摧毁。 ",
+  "terms": [
+   "Water = 水",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "6a7c5da552",
+  "msgid": "A geologist found resources.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": " 一位地质学家发现了资源。",
+  "terms": [
+   "Geologist = 地质专家",
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "4fb37a1fd5",
+  "msgid": "Your %s can’t find a way home and will likely die.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "你 %s 找不到回家的路，很可能会死。"
+ },
+ {
+  "key": "5de40c675d",
+  "msgid": "Worker",
+  "zh": "",
+  "note": "* TRANSLATORS: Header in production site window if there is 1 worker",
+  "ui": "logic/map_objects, ui/game",
+  "current": "劳动者"
+ },
+ {
+  "key": "bdb12f9296",
+  "msgid": "Worker got lost!",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "工人迷路了！"
+ },
+ {
+  "key": "4750041774",
+  "msgid": "Logic error",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "逻辑错误",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "4493f5b9b7",
+  "msgid": "arable",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a terrain type tooltip in the editor",
+  "ui": "logic/map_objects",
+  "current": "适于耕种的"
+ },
+ {
+  "key": "5ae6c463f8",
+  "msgid": "walkable",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a terrain type tooltip in the editor | * TRANSLATORS: Editor terrain property: units can walk on this terrain",
+  "ui": "logic/map_objects, ui/editor",
+  "current": "可行走的"
+ },
+ {
+  "key": "2d9195e02d",
+  "msgid": "navigable",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a terrain type tooltip in the editor",
+  "ui": "logic/map_objects",
+  "current": "适于通航的"
+ },
+ {
+  "key": "45e86c23dd",
+  "msgid": "unreachable",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a terrain type tooltip in the editor",
+  "ui": "logic/map_objects",
+  "current": "不能达到的"
+ },
+ {
+  "key": "b9d49ca347",
+  "msgid": "mineable",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a terrain type tooltip in the editor",
+  "ui": "logic/map_objects",
+  "current": "可开采的"
+ },
+ {
+  "key": "ec8f93c3fa",
+  "msgid": "unwalkable",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a terrain type tooltip in the editor",
+  "ui": "logic/map_objects",
+  "current": "不可行走的"
+ },
+ {
+  "key": "faf8250473",
+  "msgid": "A map file is invalid:\n%s",
+  "zh": "",
+  "ui": "logic/mutable_addon",
+  "current": "地图文件已经失效：\n%s"
+ },
+ {
+  "key": "f538b717fb",
+  "msgid": "This objective has no description.",
+  "zh": "",
+  "ui": "logic/objective",
+  "current": "此目标无描述。"
+ },
+ {
+  "key": "da367a3560",
+  "msgid": "Ship %d",
+  "zh": "",
+  "msgctxt": "shipname",
+  "ui": "logic/player",
+  "current": "船 %d",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "9f6bba3ceb",
+  "msgid": "Port %d",
+  "zh": "",
+  "msgctxt": "warehouse",
+  "ui": "logic/player",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "9e33b343e4",
+  "msgid": "Market %d",
+  "zh": "",
+  "msgctxt": "market",
+  "ui": "logic/player"
+ },
+ {
+  "key": "4b0d4b53ae",
+  "msgid": "Warehouse %d",
+  "zh": "",
+  "msgctxt": "warehouse",
+  "ui": "logic/player",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "01a0d0deb8",
+  "msgid": "Saving game…",
+  "zh": "",
+  "ui": "logic/save_handler",
+  "current": "保存游戏…"
+ },
+ {
+  "key": "0b516d0952",
+  "msgid": "Saving skipped",
+  "zh": "",
+  "ui": "logic/save_handler"
+ },
+ {
+  "key": "cf06ac31b6",
+  "msgid": "Saving failed!",
+  "zh": "",
+  "ui": "logic/save_handler, ui/game",
+  "current": "保存失败！"
+ },
+ {
+  "key": "ba6d8c1428",
+  "msgid": "Game saved",
+  "zh": "",
+  "ui": "logic/save_handler, ui/game",
+  "current": "游戏已经保存"
+ },
+ {
+  "key": "24aba479aa",
+  "msgid": "Player %u",
+  "zh": "",
+  "note": "* TRANSLATORS: Default player name, e.g. Player 1",
+  "ui": "logic/single_player_game_settings_provider, map_io/map_player_names_and_tribes_packet, ui/editor",
+  "current": "玩家 %u"
+ },
+ {
+  "key": "73474a553e",
+  "msgid": "The following wares have been deleted:",
+  "zh": "",
+  "ui": "map_io/map_buildingdata_packet",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "3ed25e27a3",
+  "msgid": "%1$u piece of %2$s",
+  "zh": "",
+  "msgid_plural": "%1$u pieces of %2$s",
+  "ui": "map_io/map_buildingdata_packet"
+ },
+ {
+  "key": "f1a3e5164e",
+  "msgid": "%1$u piece of an unknown ware",
+  "zh": "",
+  "msgid_plural": "%1$u pieces of unknown wares",
+  "ui": "map_io/map_buildingdata_packet"
+ },
+ {
+  "key": "9678c33917",
+  "msgid": "The game was probably saved with a different Widelands version or with different enabled add-ons.",
+  "zh": "",
+  "ui": "map_io/map_buildingdata_packet",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "a5cf7b6741",
+  "msgid": "Please review the current production programs and input settings.",
+  "zh": "",
+  "ui": "map_io/map_buildingdata_packet"
+ },
+ {
+  "key": "13cec90668",
+  "msgid": "Building’s inputs changed!",
+  "zh": "",
+  "ui": "map_io/map_buildingdata_packet",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "8e06b61099",
+  "msgid": "%s: the building’s inputs have changed.",
+  "zh": "",
+  "note": "* TRANSLATORS: The argument is the buiding name",
+  "ui": "map_io/map_buildingdata_packet",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "3204fa0551",
+  "msgid": "Heights",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "高度"
+ },
+ {
+  "key": "58d2ebe624",
+  "msgid": "Terrains",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "地形"
+ },
+ {
+  "key": "6eede32107",
+  "msgid": "Starting positions",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "起始位置"
+ },
+ {
+  "key": "2cbaed51bd",
+  "msgid": "Resources",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the editor's tool menu",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader, ui/editor",
+  "current": "资源"
+ },
+ {
+  "key": "6eb66a29f5",
+  "msgid": "Map version",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "地图版本"
+ },
+ {
+  "key": "70105e8875",
+  "msgid": "Building restrictions",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "建筑限制",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "e705498b72",
+  "msgid": "Flags",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader, ui/wui",
+  "current": "旗帜"
+ },
+ {
+  "key": "80d380f881",
+  "msgid": "Roads and waterways",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "道路与水路",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "d1a280e7a9",
+  "msgid": "Map objects",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "地图对象"
+ },
+ {
+  "key": "1ad43e0398",
+  "msgid": "Win condition",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "胜利条件"
+ },
+ {
+  "key": "3ba6f4bf25",
+  "msgid": "Flag details",
+  "zh": "",
+  "ui": "map_io/map_saver",
+  "current": "旗帜详细信息"
+ },
+ {
+  "key": "6db3f80f89",
+  "msgid": "Road and waterway details",
+  "zh": "",
+  "ui": "map_io/map_saver",
+  "current": "道路与水路详细信息",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "3206ee5efc",
+  "msgid": "Building details",
+  "zh": "",
+  "ui": "map_io/map_saver",
+  "current": "建筑详细信息",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "3b9602c76f",
+  "msgid": "Territory",
+  "zh": "",
+  "ui": "map_io/map_saver",
+  "current": "领土"
+ },
+ {
+  "key": "b4671749c9",
+  "msgid": "Vision",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "视野"
+ },
+ {
+  "key": "9337ef10b1",
+  "msgid": "Scripting",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "脚本"
+ },
+ {
+  "key": "5fcccda82e",
+  "msgid": "Objectives",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader, ui/game",
+  "current": "目标"
+ },
+ {
+  "key": "a4d57b3132",
+  "msgid": "Images",
+  "zh": "",
+  "ui": "map_io/map_saver, map_io/widelands_map_loader",
+  "current": "图像"
+ },
+ {
+  "key": "42d535f9ac",
+  "msgid": "Minimap",
+  "zh": "",
+  "ui": "map_io/map_saver",
+  "current": "迷你地图"
+ },
+ {
+  "key": "0f6cdbd709",
+  "msgid": "Saving map: %1$s (%2$d/%3$d)",
+  "zh": "",
+  "ui": "map_io/map_saver",
+  "current": "保存地图: %1$s (%2$d/%3$d)"
+ },
+ {
+  "key": "82557eb635",
+  "msgid": "Autosaving map…",
+  "zh": "",
+  "ui": "map_io/map_saver",
+  "current": "自动保存地图…"
+ },
+ {
+  "key": "f78d40b0b1",
+  "msgid": "The engine received a SIGABRT signal which was most likely triggered by a corrupted savegame. No solution for this bug has been implemented yet. We are sorry, but this savegame seems to be broken beyond repair.",
+  "zh": "",
+  "ui": "map_io/map_scripting_packet",
+  "current": "这个游戏存档似乎已损坏无法修复，我们对此感到抱歉，目前还没有解决此项错误的方案。"
+ },
+ {
+  "key": "4f5ab3c67d",
+  "msgid": "Loading map…",
+  "zh": "",
+  "ui": "map_io/s, map_io/widelands_map_loader",
+  "current": "载入地图..."
+ },
+ {
+  "key": "5e2d88c9ba",
+  "msgid": "Bluebyte Settlers II Map. No comment defined!",
+  "zh": "",
+  "ui": "map_io/s",
+  "current": "蓝色字节工人物语II地图。未定义注释！"
+ },
+ {
+  "key": "0b58a843f1",
+  "msgid": "Loading map: %1$s (%2$u/%3$d)",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader",
+  "current": "载入地图：%1$s(%2$u/%3$d)"
+ },
+ {
+  "key": "bc7b966b86",
+  "msgid": "Territories",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader",
+  "current": "领地"
+ },
+ {
+  "key": "4c131feefc",
+  "msgid": "Initializing flags",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader",
+  "current": "初始化旗帜"
+ },
+ {
+  "key": "6091655e74",
+  "msgid": "Initializing roads and waterways",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader",
+  "current": "初始化道路与水路",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "431b98c896",
+  "msgid": "Initializing buildings",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader",
+  "current": "初始化建筑物",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9fdebf18cb",
+  "msgid": "Initializing map objects",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader",
+  "current": "初始化地图对象"
+ },
+ {
+  "key": "594deb6275",
+  "msgid": "Checking map",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader",
+  "current": "检查地图"
+ },
+ {
+  "key": "7054f44d78",
+  "msgid": "Postloading map objects",
+  "zh": "",
+  "ui": "map_io/widelands_map_loader"
+ },
+ {
+  "key": "c9caebfa22",
+  "msgid": "/me ’s file failed md5 checksumming.",
+  "zh": "",
+  "ui": "network/gameclient"
+ },
+ {
+  "key": "014516b2bf",
+  "msgid": "/me checked the received file. Although md5 check summing succeeded, I can not handle the file.",
+  "zh": "",
+  "ui": "network/gameclient",
+  "current": "/me 已检查收到的文件。虽然md5值校验成功，但我无法处理该文件。"
+ },
+ {
+  "key": "36e6071772",
+  "msgid": "Disconnected",
+  "zh": "",
+  "ui": "network/gameclient",
+  "current": "未连接"
+ },
+ {
+  "key": "e53d76ae0d",
+  "msgid": "The connection with the host was lost for the following reason:\n%s",
+  "zh": "",
+  "ui": "network/gameclient"
+ },
+ {
+  "key": "db610dbc2c",
+  "msgid": "Preparing game…",
+  "zh": "",
+  "ui": "network/gameclient, network/gamehost, ui/fsmenu",
+  "current": "准备游戏…"
+ },
+ {
+  "key": "a9a6ecaeda",
+  "msgid": "Could not establish connection to host",
+  "zh": "",
+  "ui": "network/gameclient, network/internet_gaming",
+  "current": "不能建立与主机的连接"
+ },
+ {
+  "key": "632549db21",
+  "msgid": "Widelands could not establish a connection to the given address. Either no Widelands server was reachable at the TCP port %u or the server shut down as you tried to connect.",
+  "zh": "",
+  "ui": "network/gameclient",
+  "terms": [
+   "Server = 服务器",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "f0561492fe",
+  "msgid": "%u add-on mismatch detected:\n",
+  "zh": "",
+  "msgid_plural": "%u add-on mismatches detected:\n",
+  "ui": "network/gameclient",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "60c28d8343",
+  "msgid": "%1$s\n• ‘%2$s’ required by host not found",
+  "zh": "",
+  "ui": "network/gameclient"
+ },
+ {
+  "key": "c242033079",
+  "msgid": "%1$s\n• ‘%2$s’ installed at version %3$s but host uses version %4$s",
+  "zh": "",
+  "ui": "network/gameclient"
+ },
+ {
+  "key": "9497a9a2c5",
+  "msgid": "Available host commands are:",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "可用的主机命令包括："
+ },
+ {
+  "key": "3266a1cab9",
+  "msgid": "/help  -  Shows this help",
+  "zh": "",
+  "note": "* TRANSLATORS: Available host command",
+  "ui": "network/gamehost",
+  "current": "/help  -  显示此项帮助"
+ },
+ {
+  "key": "cecca7f342",
+  "msgid": "/announce <msg>  -  Send a chatmessage as announcement (system chat)",
+  "zh": "",
+  "note": "* TRANSLATORS: Available host command",
+  "ui": "network/gamehost",
+  "current": "/announce <msg>  -  以公告形式发送聊天信息（系统聊天）",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "e0f5042a51",
+  "msgid": "/warn <name> <reason>  -  Warn the user <name> because of <reason>",
+  "zh": "",
+  "note": "* TRANSLATORS: Available host command",
+  "ui": "network/gamehost",
+  "current": "/warn <name> <reason>  -  警告用户 <name> 因为 <reason>"
+ },
+ {
+  "key": "a9b9fe9c6a",
+  "msgid": "/kick <name> <reason>  -  Kick the user <name> because of <reason>",
+  "zh": "",
+  "note": "* TRANSLATORS: Available host command",
+  "ui": "network/gamehost",
+  "current": "/kick <name> <reason>  -  踢出用户 <name> 因为 <reason>"
+ },
+ {
+  "key": "ebd5facd7a",
+  "msgid": "/forcePause            -  Force the game to pause.",
+  "zh": "",
+  "note": "* TRANSLATORS: Available host command",
+  "ui": "network/gamehost",
+  "current": "/forcePause            -  强制游戏暂停。"
+ },
+ {
+  "key": "3234549e1c",
+  "msgid": "/endForcedPause        -  Return game to normal speed.",
+  "zh": "",
+  "note": "* TRANSLATORS: Available host command",
+  "ui": "network/gamehost",
+  "current": "/endForcedPause        -  恢复游戏到正常速度。"
+ },
+ {
+  "key": "8af329bb3f",
+  "msgid": "Wrong use, should be: /announce <message>",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "错误使用, 应该是: /announce <message>",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "5ea419dcba",
+  "msgid": "Wrong use, should be: /warn <name> <reason>",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "错误使用, 应该是: /warn <name> <reason>"
+ },
+ {
+  "key": "1871ada1c3",
+  "msgid": "The client %s could not be found.",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "找不到 %s 客户端。"
+ },
+ {
+  "key": "18ce483810",
+  "msgid": "Wrong use, should be: /kick <name> <reason>",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "错误使用, 应该是: /kick <name> <reason>"
+ },
+ {
+  "key": "1205d18e02",
+  "msgid": "Computer %u",
+  "zh": "",
+  "ui": "network/gamehost, ui/editor",
+  "current": "计算机 %u"
+ },
+ {
+  "key": "3fc3d90ab6",
+  "msgid": "You can not kick yourself!",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "你不能踢出自己！"
+ },
+ {
+  "key": "ccf6f33c15",
+  "msgid": "Are you sure you want to kick %s?",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "你确定你想提出 %s?"
+ },
+ {
+  "key": "8c8020050a",
+  "msgid": "The stated reason was: %s",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": " 所的述理由是： %s"
+ },
+ {
+  "key": "0419313783",
+  "msgid": "If yes, type: /ack_kick %s",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "如果是，输入: /ack_kick %s"
+ },
+ {
+  "key": "71ad0853e8",
+  "msgid": "Kick acknowledgement cancelled: No name given!",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "踢出确认取消: 没有指定的名字！"
+ },
+ {
+  "key": "fcac0d51df",
+  "msgid": "Wrong use, should be: /ack_kick <name>",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "错误使用, 应该是: /ack_kick <name>"
+ },
+ {
+  "key": "135d248e83",
+  "msgid": "%li second",
+  "zh": "",
+  "msgid_plural": "%li seconds",
+  "ui": "network/gamehost",
+  "current": "%li 秒"
+ },
+ {
+  "key": "b8d1d9b0f8",
+  "msgid": "Kick acknowledgement cancelled: Wrong name given!",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "踢出确认取消: 没有指定的名字！"
+ },
+ {
+  "key": "21df83d7f0",
+  "msgid": "Pause was already forced - game should be paused.",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "已经强制暂停 - 游戏应该暂停。"
+ },
+ {
+  "key": "29fd575c29",
+  "msgid": "There is no forced pause - nothing to end.",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "没有强制暂停 - 没有什么可结束的。"
+ },
+ {
+  "key": "50177a3fb1",
+  "msgid": "Invalid command! Type /help for a list of commands.",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "无效命令！ 输入 /help  获取命令列表。"
+ },
+ {
+  "key": "d468e3fb9d",
+  "msgid": "Failed to host the server!",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "服务器创建主机失败！",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "d0c5c9c6d4",
+  "msgid": "Widelands could not start hosting a server.\nThis should not happen and there is most likely nothing you can do about it. Please report a bug.",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "Widelands不能开始服务器托管。\n 这不应该发生，而且你很可能对此无能为力。 请报告软件错误 ",
+  "terms": [
+   "Server = 服务器",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "91583b37d7",
+  "msgid": "Failed to start the server!",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "服务器启动失败！",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "7813333299",
+  "msgid": "Widelands could not start a server.\nProbably some other process is already running a server on our port.",
+  "zh": "",
+  "ui": "network/gamehost",
+  "current": "Widelands不能启动服务。\n 可能其它的进程已经在我们的端口上运行服务器了 ",
+  "terms": [
+   "Server = 服务器",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "e34651c619",
+  "msgid": "Unknown",
+  "zh": "",
+  "msgctxt": "chat_sender",
+  "ui": "network/internet_gaming",
+  "current": "未知"
+ }
+]
