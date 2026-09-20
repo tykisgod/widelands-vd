@@ -25,31 +25,31 @@ msgstr ""
 #: ../../../../data/tribes/buildings/markets/amazons/market/init.lua:8
 msgctxt "amazons_building"
 msgid "Market"
-msgstr ""
+msgstr "市场"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/markets/atlanteans/market/init.lua:83
 msgctxt "atlanteans_building"
 msgid "Market"
-msgstr ""
+msgstr "市场"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/markets/barbarians/market/init.lua:8
 msgctxt "barbarians_building"
 msgid "Market"
-msgstr ""
+msgstr "市场"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/markets/empire/market/init.lua:8
 msgctxt "empire_building"
 msgid "Market"
-msgstr ""
+msgstr "市场"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/markets/frisians/market/init.lua:8
 msgctxt "frisians_building"
 msgid "Market"
-msgstr ""
+msgstr "市场"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/militarysites/amazons/fortification/init.lua:8
@@ -241,7 +241,7 @@ msgstr "树上岗哨"
 #: ../../../../data/tribes/buildings/militarysites/amazons/treetop_sentry/init.lua:41
 msgctxt "amazons_building"
 msgid "Your soldier has occupied your treetop sentry."
-msgstr ""
+msgstr "你的士兵已进驻树上岗哨。"
 
 #. TRANSLATORS: Message sent by an Amazon military site
 #: ../../../../data/tribes/buildings/militarysites/amazons/treetop_sentry/init.lua:43
@@ -745,7 +745,7 @@ msgstr "木质碉堡"
 #: ../../../../data/tribes/buildings/militarysites/empire/blockhouse/init.lua:50
 msgctxt "empire_building"
 msgid "Your soldier has occupied your blockhouse."
-msgstr ""
+msgstr "你的士兵已进驻木质碉堡。"
 
 #. TRANSLATORS: Message sent by an Empire military site
 #: ../../../../data/tribes/buildings/militarysites/empire/blockhouse/init.lua:52
@@ -1105,7 +1105,7 @@ msgstr "木塔"
 #: ../../../../data/tribes/buildings/militarysites/frisians/wooden_tower/init.lua:66
 msgctxt "frisians_building"
 msgid "Your soldier has occupied your wooden tower."
-msgstr ""
+msgstr "你的士兵已进驻木塔。"
 
 #. TRANSLATORS: Message sent by a Frisian military site
 #: ../../../../data/tribes/buildings/militarysites/frisians/wooden_tower/init.lua:68
@@ -1309,7 +1309,7 @@ msgctxt "amazons_building"
 msgid ""
 "The farmer working at this cassava plantation has no cleared soil to plant "
 "her seeds."
-msgstr ""
+msgstr "这座木薯种植园的农夫找不到清整好的土地来播种。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/amazons/cassava_root_cooker/init.lua:8
@@ -1577,7 +1577,7 @@ msgstr "狩猎者在他的狩猎小屋工作区域内已找不到任何任何猎
 #: ../../../../data/tribes/buildings/productionsites/amazons/initiation_site/init.lua:8
 msgctxt "amazons_building"
 msgid "Initiation Site"
-msgstr ""
+msgstr "成年礼场"
 
 #. TRANSLATORS: Completed/Skipped/Did not start recruiting soldier because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/initiation_site/init.lua:60
@@ -1802,7 +1802,7 @@ msgstr "制作石碗"
 #. TRANSLATORS: Completed/Skipped/Did not start making firestones because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/stone_workshop/init.lua:195
 msgid "making firestones"
-msgstr ""
+msgstr "制作火石"
 
 #. TRANSLATORS: Completed/Skipped/Did not start making a wooden spear because
 #. ...
@@ -1865,7 +1865,7 @@ msgstr "石头矿"
 #. TRANSLATORS: Completed/Skipped/Did not start mining because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/stonemine/init.lua:57
 msgid "mining"
-msgstr ""
+msgstr "采矿"
 
 #. TRANSLATORS: Completed/Skipped/Did not start mining granite because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/stonemine/init.lua:70
@@ -1892,11 +1892,11 @@ msgstr "开采石英"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/stonemine/init.lua:97
 msgid "No Stones"
-msgstr ""
+msgstr "没有石料"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/stonemine/init.lua:98
 msgid "Main Stone Vein Exhausted"
-msgstr ""
+msgstr "主石脉已枯竭"
 
 #: ../../../../data/tribes/buildings/productionsites/amazons/stonemine/init.lua:100
 msgctxt "amazons_building"
@@ -2215,7 +2215,7 @@ msgid ""
 "water where he can breed fish in his work area. Remember that you can only "
 "regenerate your fish resources if there ever were some fish in the vicinity "
 "in the first place."
-msgstr ""
+msgstr "这座鱼类饲养员之屋的饲养员在工作范围内找不到可以养鱼的水域。记住，只有当附近原本就有鱼时，鱼类资源才能再生。"
 
 #: ../../../../data/tribes/buildings/productionsites/atlanteans/fishbreeders_house/init.lua:61
 msgid "The fishing grounds are full"
@@ -3700,7 +3700,7 @@ msgid ""
 "The beekeeper working at this beekeeper’s house can’t find any flowering "
 "fields or bushes in his work area. You should consider building another farm"
 " or berry farm nearby, or dismantling or destroying this building."
-msgstr ""
+msgstr "这座养蜂房屋的养蜂人在工作范围内找不到开花的田地或灌木。你可以考虑在附近再建一座农场或浆果园，或者把这座建筑拆除或摧毁。"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/berry_farm/init.lua:8
@@ -3868,17 +3868,17 @@ msgstr "摘果人在他的摘果人之屋工作区域内已找不到任何可采
 #: ../../../../data/tribes/buildings/productionsites/frisians/dikers_house/init.lua:7
 msgctxt "frisians_building"
 msgid "Diker’s House"
-msgstr ""
+msgstr "筑堤工之屋"
 
 #. TRANSLATORS: Completed/Skipped/Did not start diking because ...
 #: ../../../../data/tribes/buildings/productionsites/frisians/dikers_house/init.lua:70
 msgid "diking"
-msgstr ""
+msgstr "筑堤"
 
 #. TRANSLATORS: Completed/Skipped/Did not start building a dike because ...
 #: ../../../../data/tribes/buildings/productionsites/frisians/dikers_house/init.lua:83
 msgid "building a dike"
-msgstr ""
+msgstr "修筑堤坝"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/drinking_hall/init.lua:8
@@ -5009,31 +5009,31 @@ msgstr "黑根田地(微小的)"
 #: ../../../../data/tribes/immovables/cassavafield/harvested/init.lua:8
 msgctxt "immovable"
 msgid "Cassava Field (harvested)"
-msgstr ""
+msgstr "木薯田（已收割）"
 
 #. TRANSLATORS: This is an immovable name used in lists of immovables
 #: ../../../../data/tribes/immovables/cassavafield/medium/init.lua:8
 msgctxt "immovable"
 msgid "Cassava Field (medium)"
-msgstr ""
+msgstr "木薯田（中等）"
 
 #. TRANSLATORS: This is an immovable name used in lists of immovables
 #: ../../../../data/tribes/immovables/cassavafield/ripe/init.lua:8
 msgctxt "immovable"
 msgid "Cassava Field (ripe)"
-msgstr ""
+msgstr "木薯田（成熟）"
 
 #. TRANSLATORS: This is an immovable name used in lists of immovables
 #: ../../../../data/tribes/immovables/cassavafield/small/init.lua:8
 msgctxt "immovable"
 msgid "Cassava Field (small)"
-msgstr ""
+msgstr "木薯田（小）"
 
 #. TRANSLATORS: This is an immovable name used in lists of immovables
 #: ../../../../data/tribes/immovables/cassavafield/tiny/init.lua:8
 msgctxt "immovable"
 msgid "Cassava Field (tiny)"
-msgstr ""
+msgstr "木薯田（幼苗）"
 
 #. TRANSLATORS: This is an immovable name used in lists of immovables
 #: ../../../../data/tribes/immovables/cornfield/harvested/init.lua:8
@@ -5075,7 +5075,7 @@ msgstr "毁坏的建筑物"
 #: ../../../../data/tribes/immovables/dike/init.lua:8
 msgctxt "immovable"
 msgid "Dike"
-msgstr ""
+msgstr "堤坝"
 
 #. TRANSLATORS: This is an immovable name used in lists of immovables
 #: ../../../../data/tribes/immovables/grapevine/medium/init.lua:8
@@ -5189,13 +5189,13 @@ msgstr "没有资源"
 #: ../../../../data/tribes/immovables/resi/amazons/stones_1/init.lua:8
 msgctxt "resource_indicator"
 msgid "Some Quartz"
-msgstr ""
+msgstr "少量石英"
 
 #. TRANSLATORS: This is a resource name used in lists of resources
 #: ../../../../data/tribes/immovables/resi/amazons/stones_2/init.lua:8
 msgctxt "resource_indicator"
 msgid "A Lot of Quartz"
-msgstr ""
+msgstr "大量石英"
 
 #. TRANSLATORS: This is a resource name used in lists of resources
 #: ../../../../data/tribes/immovables/resi/atlanteans/coal_1/init.lua:8
@@ -5478,11 +5478,11 @@ msgstr "Widelands 开发团队"
 #. TRANSLATORS: This is a tribe name
 #: ../../../../data/tribes/initialization/amazons/init.lua:13
 msgid "Amazons"
-msgstr ""
+msgstr "亚马逊人"
 
 #: ../../../../data/tribes/initialization/amazons/init.lua:14
 msgid "The people of the amazonian jungle."
-msgstr ""
+msgstr "亚马逊丛林的居民。"
 
 #. TRANSLATORS: This is the name of a starting condition
 #. TRANSLATORS: This is the name of a starting condition
@@ -5788,11 +5788,11 @@ msgstr "建筑"
 
 #: ../../../../data/tribes/scripting/help/init.lua:137
 msgid "Tribes Immovables"
-msgstr ""
+msgstr "部族固定物"
 
 #: ../../../../data/tribes/scripting/help/init.lua:144
 msgid "World Immovables"
-msgstr ""
+msgstr "世界固定物"
 
 #. TRANSLATORS: This is the ship's name used in lists of units
 #: ../../../../data/tribes/ships/amazons/init.lua:8
@@ -5845,1111 +5845,1111 @@ msgstr "普图马约号"
 #: ../../../../data/tribes/ships/amazons/init.lua:62
 msgctxt "shipname"
 msgid "Acari"
-msgstr ""
+msgstr "阿卡里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:64
 msgctxt "shipname"
 msgid "Acre"
-msgstr ""
+msgstr "阿克里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:66
 msgctxt "shipname"
 msgid "Açuã"
-msgstr ""
+msgstr "阿苏安号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:68
 msgctxt "shipname"
 msgid "Acurauá"
-msgstr ""
+msgstr "阿库拉瓦号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:70
 msgctxt "shipname"
 msgid "Aiari"
-msgstr ""
+msgstr "艾阿里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:72
 msgctxt "shipname"
 msgid "Alalaú"
-msgstr ""
+msgstr "阿拉劳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:74
 msgctxt "shipname"
 msgid "Amanã"
-msgstr ""
+msgstr "阿马南号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:76
 msgctxt "shipname"
 msgid "Amapá"
-msgstr ""
+msgstr "阿马帕号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:78
 msgctxt "shipname"
 msgid "Andirá"
-msgstr ""
+msgstr "安迪拉号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:80
 msgctxt "shipname"
 msgid "Antimary"
-msgstr ""
+msgstr "安蒂马里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:82
 msgctxt "shipname"
 msgid "Apoquitaua"
-msgstr ""
+msgstr "阿波基塔瓦号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:84
 msgctxt "shipname"
 msgid "Apuaú"
-msgstr ""
+msgstr "阿普阿乌号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:86
 msgctxt "shipname"
 msgid "Araçá"
-msgstr ""
+msgstr "阿拉萨号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:88
 msgctxt "shipname"
 msgid "Arara"
-msgstr ""
+msgstr "阿拉拉号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:90
 msgctxt "shipname"
 msgid "Ararirá"
-msgstr ""
+msgstr "阿拉里拉号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:92
 msgctxt "shipname"
 msgid "Arauã"
-msgstr ""
+msgstr "阿拉万号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:94
 msgctxt "shipname"
 msgid "Aripuanã"
-msgstr ""
+msgstr "阿里普安南号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:96
 msgctxt "shipname"
 msgid "Arrojo"
-msgstr ""
+msgstr "阿罗霍号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:98
 msgctxt "shipname"
 msgid "Atiparaná"
-msgstr ""
+msgstr "阿蒂帕拉纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:100
 msgctxt "shipname"
 msgid "Atucatiquini"
-msgstr ""
+msgstr "阿图卡蒂基尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:102
 msgctxt "shipname"
 msgid "Autaz-mirim"
-msgstr ""
+msgstr "奥塔斯米林号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:104
 msgctxt "shipname"
 msgid "Badajós"
-msgstr ""
+msgstr "巴达若斯号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:106
 msgctxt "shipname"
 msgid "Bararati"
-msgstr ""
+msgstr "巴拉拉蒂号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:108
 msgctxt "shipname"
 msgid "Biá"
-msgstr ""
+msgstr "比亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:110
 msgctxt "shipname"
 msgid "Camaiú"
-msgstr ""
+msgstr "卡迈乌号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:112
 msgctxt "shipname"
 msgid "Camanaú"
-msgstr ""
+msgstr "卡马瑙号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:114
 msgctxt "shipname"
 msgid "Canumã"
-msgstr ""
+msgstr "卡努曼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:116
 msgctxt "shipname"
 msgid "Capucapu"
-msgstr ""
+msgstr "卡普卡普号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:118
 msgctxt "shipname"
 msgid "Carabinani"
-msgstr ""
+msgstr "卡拉比纳尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:120
 msgctxt "shipname"
 msgid "Cauaburi"
-msgstr ""
+msgstr "考阿布里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:122
 msgctxt "shipname"
 msgid "Caurés"
-msgstr ""
+msgstr "考雷斯号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:124
 msgctxt "shipname"
 msgid "Ciriquiri"
-msgstr ""
+msgstr "西里基里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:126
 msgctxt "shipname"
 msgid "Coari"
-msgstr ""
+msgstr "科阿里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:128
 msgctxt "shipname"
 msgid "Copatana"
-msgstr ""
+msgstr "科帕塔纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:130
 msgctxt "shipname"
 msgid "Coti"
-msgstr ""
+msgstr "科蒂号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:132
 msgctxt "shipname"
 msgid "Cubate"
-msgstr ""
+msgstr "库巴特号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:134
 msgctxt "shipname"
 msgid "Cuiari"
-msgstr ""
+msgstr "奎阿里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:136
 msgctxt "shipname"
 msgid "Cuieiras"
-msgstr ""
+msgstr "奎埃拉斯号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:138
 msgctxt "shipname"
 msgid "Cuini"
-msgstr ""
+msgstr "奎尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:140
 msgctxt "shipname"
 msgid "Cuniuá"
-msgstr ""
+msgstr "库尼瓦号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:142
 msgctxt "shipname"
 msgid "Curicuriari"
-msgstr ""
+msgstr "库里库里阿里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:144
 msgctxt "shipname"
 msgid "Curiuaú"
-msgstr ""
+msgstr "库里瓦乌号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:146
 msgctxt "shipname"
 msgid "Curuçá"
-msgstr ""
+msgstr "库鲁萨号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:148
 msgctxt "shipname"
 msgid "Curuduri"
-msgstr ""
+msgstr "库鲁杜里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:150
 msgctxt "shipname"
 msgid "Curuquetê"
-msgstr ""
+msgstr "库鲁凯特号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:152
 msgctxt "shipname"
 msgid "Daraá"
-msgstr ""
+msgstr "达拉阿号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:154
 msgctxt "shipname"
 msgid "Demini"
-msgstr ""
+msgstr "德米尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:156
 msgctxt "shipname"
 msgid "Eiru"
-msgstr ""
+msgstr "埃鲁号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:158
 msgctxt "shipname"
 msgid "Endimari"
-msgstr ""
+msgstr "恩迪马里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:160
 msgctxt "shipname"
 msgid "Envira"
-msgstr ""
+msgstr "恩维拉号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:162
 msgctxt "shipname"
 msgid "Gregório"
-msgstr ""
+msgstr "格雷戈里奥号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:164
 msgctxt "shipname"
 msgid "Guaribe"
-msgstr ""
+msgstr "瓜里贝号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:166
 msgctxt "shipname"
 msgid "Iá"
-msgstr ""
+msgstr "亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:168
 msgctxt "shipname"
 msgid "Iaco"
-msgstr ""
+msgstr "亚科号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:170
 msgctxt "shipname"
 msgid "Içá"
-msgstr ""
+msgstr "伊萨号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:172
 msgctxt "shipname"
 msgid "Içana"
-msgstr ""
+msgstr "伊萨纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:174
 msgctxt "shipname"
 msgid "Igapó-Açu"
-msgstr ""
+msgstr "伊加波阿苏号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:176
 msgctxt "shipname"
 msgid "Inauini"
-msgstr ""
+msgstr "伊瑙伊尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:178
 msgctxt "shipname"
 msgid "Ipixuna"
-msgstr ""
+msgstr "伊皮舒纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:180
 msgctxt "shipname"
 msgid "Itanhauá"
-msgstr ""
+msgstr "伊塔尼奥阿号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:182
 msgctxt "shipname"
 msgid "Itaparaná"
-msgstr ""
+msgstr "伊塔帕拉纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:184
 msgctxt "shipname"
 msgid "Itaquai"
-msgstr ""
+msgstr "伊塔夸伊号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:186
 msgctxt "shipname"
 msgid "Itucumã"
-msgstr ""
+msgstr "伊图库曼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:188
 msgctxt "shipname"
 msgid "Ituí"
-msgstr ""
+msgstr "伊图伊号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:190
 msgctxt "shipname"
 msgid "Ituxi"
-msgstr ""
+msgstr "伊图希号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:192
 msgctxt "shipname"
 msgid "Jacaré"
-msgstr ""
+msgstr "雅卡雷号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:194
 msgctxt "shipname"
 msgid "Jamicia"
-msgstr ""
+msgstr "雅米西亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:196
 msgctxt "shipname"
 msgid "Jandiatuba"
-msgstr ""
+msgstr "雅恩迪亚图巴号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:198
 msgctxt "shipname"
 msgid "Japurá"
-msgstr ""
+msgstr "雅普拉号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:200
 msgctxt "shipname"
 msgid "Jaquirana"
-msgstr ""
+msgstr "雅基拉纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:202
 msgctxt "shipname"
 msgid "Jari"
-msgstr ""
+msgstr "雅里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:204
 msgctxt "shipname"
 msgid "Jatapu"
-msgstr ""
+msgstr "雅塔普号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:206
 msgctxt "shipname"
 msgid "Jatuarana"
-msgstr ""
+msgstr "雅图阿拉纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:208
 msgctxt "shipname"
 msgid "Jaú"
-msgstr ""
+msgstr "雅乌号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:210
 msgctxt "shipname"
 msgid "Jauaperi"
-msgstr ""
+msgstr "雅瓦佩里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:212
 msgctxt "shipname"
 msgid "Javary"
-msgstr ""
+msgstr "雅瓦里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:214
 msgctxt "shipname"
 msgid "Juami"
-msgstr ""
+msgstr "胡阿米号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:216
 msgctxt "shipname"
 msgid "Jufari"
-msgstr ""
+msgstr "胡法里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:218
 msgctxt "shipname"
 msgid "Juma"
-msgstr ""
+msgstr "胡马号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:220
 msgctxt "shipname"
 msgid "Juruá"
-msgstr ""
+msgstr "胡鲁阿号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:222
 msgctxt "shipname"
 msgid "Juruena"
-msgstr ""
+msgstr "胡鲁埃纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:224
 msgctxt "shipname"
 msgid "Jurupari"
-msgstr ""
+msgstr "胡鲁帕里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:226
 msgctxt "shipname"
 msgid "Jutai"
-msgstr ""
+msgstr "胡泰号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:228
 msgctxt "shipname"
 msgid "Jutaizinho"
-msgstr ""
+msgstr "胡泰津霍号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:230
 msgctxt "shipname"
 msgid "Luna"
-msgstr ""
+msgstr "卢纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:232
 msgctxt "shipname"
 msgid "Maiá"
-msgstr ""
+msgstr "迈亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:234
 msgctxt "shipname"
 msgid "Maici"
-msgstr ""
+msgstr "迈西号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:236
 msgctxt "shipname"
 msgid "Mamiá"
-msgstr ""
+msgstr "马米亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:238
 msgctxt "shipname"
 msgid "Mamoriá"
-msgstr ""
+msgstr "马莫里亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:240
 msgctxt "shipname"
 msgid "Mamuru"
-msgstr ""
+msgstr "马穆鲁号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:242
 msgctxt "shipname"
 msgid "Manacapuru"
-msgstr ""
+msgstr "马纳卡普鲁号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:244
 msgctxt "shipname"
 msgid "Manicoré"
-msgstr ""
+msgstr "马尼科雷号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:246
 msgctxt "shipname"
 msgid "Manicorezinho"
-msgstr ""
+msgstr "马尼科雷津霍号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:248
 msgctxt "shipname"
 msgid "Mapari"
-msgstr ""
+msgstr "马帕里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:250
 msgctxt "shipname"
 msgid "Mapiá"
-msgstr ""
+msgstr "马皮亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:252
 msgctxt "shipname"
 msgid "Maracanã"
-msgstr ""
+msgstr "马拉卡南号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:254
 msgctxt "shipname"
 msgid "Marari"
-msgstr ""
+msgstr "马拉里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:256
 msgctxt "shipname"
 msgid "Marauiá"
-msgstr ""
+msgstr "马拉维亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:258
 msgctxt "shipname"
 msgid "Marié"
-msgstr ""
+msgstr "马里埃号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:260
 msgctxt "shipname"
 msgid "Mariepauá"
-msgstr ""
+msgstr "马里埃帕瓦号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:262
 msgctxt "shipname"
 msgid "Marimari"
-msgstr ""
+msgstr "马里马里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:264
 msgctxt "shipname"
 msgid "Mataurá"
-msgstr ""
+msgstr "马陶拉号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:266
 msgctxt "shipname"
 msgid "Matupiri"
-msgstr ""
+msgstr "马图皮里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:268
 msgctxt "shipname"
 msgid "Maués Açu"
-msgstr ""
+msgstr "毛埃斯阿苏号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:270
 msgctxt "shipname"
 msgid "Mineruázinho"
-msgstr ""
+msgstr "米内鲁阿津霍号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:272
 msgctxt "shipname"
 msgid "Muaco"
-msgstr ""
+msgstr "穆阿科号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:274
 msgctxt "shipname"
 msgid "Mucum"
-msgstr ""
+msgstr "穆库姆号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:276
 msgctxt "shipname"
 msgid "Mutum"
-msgstr ""
+msgstr "穆图姆号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:278
 msgctxt "shipname"
 msgid "Nhamundá"
-msgstr ""
+msgstr "尼亚蒙达号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:280
 msgctxt "shipname"
 msgid "Paciá"
-msgstr ""
+msgstr "帕西亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:282
 msgctxt "shipname"
 msgid "Padauari"
-msgstr ""
+msgstr "帕道阿里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:284
 msgctxt "shipname"
 msgid "Papagaio"
-msgstr ""
+msgstr "帕帕盖奥号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:286
 msgctxt "shipname"
 msgid "Papuri"
-msgstr ""
+msgstr "帕普里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:288
 msgctxt "shipname"
 msgid "Paraconi"
-msgstr ""
+msgstr "帕拉科尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:290
 msgctxt "shipname"
 msgid "Parauari"
-msgstr ""
+msgstr "帕拉瓦里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:292
 msgctxt "shipname"
 msgid "Pardo"
-msgstr ""
+msgstr "帕尔多号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:294
 msgctxt "shipname"
 msgid "Pati"
-msgstr ""
+msgstr "帕蒂号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:296
 msgctxt "shipname"
 msgid "Pauini"
-msgstr ""
+msgstr "帕乌伊尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:298
 msgctxt "shipname"
 msgid "Pinhuã"
-msgstr ""
+msgstr "皮尼安号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:300
 msgctxt "shipname"
 msgid "Piorini"
-msgstr ""
+msgstr "皮奥里尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:302
 msgctxt "shipname"
 msgid "Piratucu"
-msgstr ""
+msgstr "皮拉图库号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:304
 msgctxt "shipname"
 msgid "Pitinga"
-msgstr ""
+msgstr "皮廷加号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:306
 msgctxt "shipname"
 msgid "Preto"
-msgstr ""
+msgstr "普雷图号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:308
 msgctxt "shipname"
 msgid "Puduari"
-msgstr ""
+msgstr "普杜阿里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:310
 msgctxt "shipname"
 msgid "Pureté"
-msgstr ""
+msgstr "普雷特号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:312
 msgctxt "shipname"
 msgid "Puruê"
-msgstr ""
+msgstr "普鲁埃号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:314
 msgctxt "shipname"
 msgid "Purus"
-msgstr ""
+msgstr "普鲁斯号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:316
 msgctxt "shipname"
 msgid "Quixito"
-msgstr ""
+msgstr "基希托号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:318
 msgctxt "shipname"
 msgid "Sepatini"
-msgstr ""
+msgstr "塞帕蒂尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:320
 msgctxt "shipname"
 msgid "Sepoti"
-msgstr ""
+msgstr "塞波蒂号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:322
 msgctxt "shipname"
 msgid "Seruini"
-msgstr ""
+msgstr "塞鲁伊尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:324
 msgctxt "shipname"
 msgid "Sucunduri"
-msgstr ""
+msgstr "苏昆杜里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:326
 msgctxt "shipname"
 msgid "Tapajós"
-msgstr ""
+msgstr "塔帕若斯号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:328
 msgctxt "shipname"
 msgid "Tapauá"
-msgstr ""
+msgstr "塔帕瓦号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:330
 msgctxt "shipname"
 msgid "Tarauacá"
-msgstr ""
+msgstr "塔劳阿卡号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:332
 msgctxt "shipname"
 msgid "Tarumã Açu"
-msgstr ""
+msgstr "塔鲁曼阿苏号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:334
 msgctxt "shipname"
 msgid "Tarumã Mirim"
-msgstr ""
+msgstr "塔鲁曼米林号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:336
 msgctxt "shipname"
 msgid "Tea"
-msgstr ""
+msgstr "特亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:338
 msgctxt "shipname"
 msgid "Tefé"
-msgstr ""
+msgstr "特费号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:340
 msgctxt "shipname"
 msgid "Tonantins"
-msgstr ""
+msgstr "托南廷斯号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:342
 msgctxt "shipname"
 msgid "Toototobi"
-msgstr ""
+msgstr "托托托比号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:344
 msgctxt "shipname"
 msgid "Traíra"
-msgstr ""
+msgstr "特拉伊拉号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:346
 msgctxt "shipname"
 msgid "Tumiã"
-msgstr ""
+msgstr "图米安号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:348
 msgctxt "shipname"
 msgid "Tupana"
-msgstr ""
+msgstr "图帕纳号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:350
 msgctxt "shipname"
 msgid "Uaicurapa"
-msgstr ""
+msgstr "瓦伊库拉帕号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:352
 msgctxt "shipname"
 msgid "Uarini"
-msgstr ""
+msgstr "瓦里尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:354
 msgctxt "shipname"
 msgid "Uatumã"
-msgstr ""
+msgstr "瓦图曼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:356
 msgctxt "shipname"
 msgid "Uaupés"
-msgstr ""
+msgstr "瓦乌佩斯号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:358
 msgctxt "shipname"
 msgid "Umari"
-msgstr ""
+msgstr "乌马里号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:360
 msgctxt "shipname"
 msgid "Uneiuxi"
-msgstr ""
+msgstr "乌内尤希号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:362
 msgctxt "shipname"
 msgid "Unini"
-msgstr ""
+msgstr "乌尼尼号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:364
 msgctxt "shipname"
 msgid "Uruá"
-msgstr ""
+msgstr "乌鲁阿号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:366
 msgctxt "shipname"
 msgid "Urubaxi"
-msgstr ""
+msgstr "乌鲁巴希号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:368
 msgctxt "shipname"
 msgid "Urubu"
-msgstr ""
+msgstr "乌鲁布号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:370
 msgctxt "shipname"
 msgid "Urucu"
-msgstr ""
+msgstr "乌鲁库号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:372
 msgctxt "shipname"
 msgid "Urupadi"
-msgstr ""
+msgstr "乌鲁帕迪号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:374
 msgctxt "shipname"
 msgid "Xeruã"
-msgstr ""
+msgstr "谢鲁安号"
 
 #. TRANSLATORS: This Amazonian ship is named after a river
 #: ../../../../data/tribes/ships/amazons/init.lua:376
 msgctxt "shipname"
 msgid "Xie"
-msgstr ""
+msgstr "希埃号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:378
 msgctxt "shipname"
 msgid "Apu Illapu"
-msgstr ""
+msgstr "阿普伊利亚普号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:380
 msgctxt "shipname"
 msgid "Ayar Cachi"
-msgstr ""
+msgstr "阿亚尔卡奇号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:382
 msgctxt "shipname"
 msgid "Illapa"
-msgstr ""
+msgstr "伊利亚帕号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:384
 msgctxt "shipname"
 msgid "Inti"
-msgstr ""
+msgstr "因蒂号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:386
 msgctxt "shipname"
 msgid "Kuychi"
-msgstr ""
+msgstr "库伊奇号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:388
 msgctxt "shipname"
 msgid "Mama Killa"
-msgstr ""
+msgstr "玛玛基利亚号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:390
 msgctxt "shipname"
 msgid "Mama Occlo"
-msgstr ""
+msgstr "玛玛奥克略号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:392
 msgctxt "shipname"
 msgid "Manco Cápac"
-msgstr ""
+msgstr "曼科卡帕克号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:394
 msgctxt "shipname"
 msgid "Pachamama"
-msgstr ""
+msgstr "帕查玛玛号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:396
 msgctxt "shipname"
 msgid "Quchamama"
-msgstr ""
+msgstr "库查玛玛号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:398
 msgctxt "shipname"
 msgid "Sachamama"
-msgstr ""
+msgstr "萨查玛玛号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:400
 msgctxt "shipname"
 msgid "Viracocha"
-msgstr ""
+msgstr "维拉科查号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca god
 #: ../../../../data/tribes/ships/amazons/init.lua:402
 msgctxt "shipname"
 msgid "Yakumama"
-msgstr ""
+msgstr "亚库玛玛号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:404
 msgctxt "shipname"
 msgid "Atahuallpa"
-msgstr ""
+msgstr "阿塔瓦尔帕号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:406
 msgctxt "shipname"
 msgid "Lloqe Yupanki"
-msgstr ""
+msgstr "略克尤潘基号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:408
 msgctxt "shipname"
 msgid "Manqo Qhapaq"
-msgstr ""
+msgstr "曼科卡帕克号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:410
 msgctxt "shipname"
 msgid "Mayta Qhapaq"
-msgstr ""
+msgstr "迈塔卡帕克号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:412
 msgctxt "shipname"
 msgid "Pachakuti"
-msgstr ""
+msgstr "帕查库提号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:414
 msgctxt "shipname"
 msgid "Qhapaq Yupanki"
-msgstr ""
+msgstr "卡帕克尤潘基号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:416
 msgctxt "shipname"
 msgid "Thupa"
-msgstr ""
+msgstr "图帕号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:418
 msgctxt "shipname"
 msgid "Urqon"
-msgstr ""
+msgstr "乌尔孔号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:420
 msgctxt "shipname"
 msgid "Washkar"
-msgstr ""
+msgstr "瓦斯卡尔号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:422
 msgctxt "shipname"
 msgid "Wayna Qhapaq"
-msgstr ""
+msgstr "瓦伊纳卡帕克号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:424
 msgctxt "shipname"
 msgid "Yawar Waqaq"
-msgstr ""
+msgstr "亚瓦尔瓦卡克号"
 
 #. TRANSLATORS: This Amazonian ship is named after an Inca ruler
 #: ../../../../data/tribes/ships/amazons/init.lua:426
 msgctxt "shipname"
 msgid "Zinchi Roqa"
-msgstr ""
+msgstr "辛奇罗卡号"
 
 #. TRANSLATORS: This Amazonian ship is named after the lake in the Andes
 #: ../../../../data/tribes/ships/amazons/init.lua:428
 msgctxt "shipname"
 msgid "Lake Titicaca"
-msgstr ""
+msgstr "的的喀喀湖号"
 
 #. TRANSLATORS: This Amazonian ship is named after the main Inca temple
 #: ../../../../data/tribes/ships/amazons/init.lua:430
 msgctxt "shipname"
 msgid "Koricancha"
-msgstr ""
+msgstr "科里坎查号"
 
 #. TRANSLATORS: This is the Atlanteans' ship's name used in lists of units
 #: ../../../../data/tribes/ships/atlanteans/init.lua:113
@@ -7345,7 +7345,7 @@ msgstr "贝奥武甫"
 #: ../../../../data/tribes/ships/barbarians/init.lua:51
 msgctxt "shipname"
 msgid "Bison"
-msgstr ""
+msgstr "野牛号"
 
 #. TRANSLATORS: This Barbarian ship is named after an in-game character
 #: ../../../../data/tribes/ships/barbarians/init.lua:53
@@ -7369,7 +7369,7 @@ msgstr "得林"
 #: ../../../../data/tribes/ships/barbarians/init.lua:59
 msgctxt "shipname"
 msgid "Eagle"
-msgstr ""
+msgstr "雄鹰号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:61
@@ -7393,7 +7393,7 @@ msgstr "哈格巴德"
 #: ../../../../data/tribes/ships/barbarians/init.lua:67
 msgctxt "shipname"
 msgid "Hakhor"
-msgstr ""
+msgstr "哈霍尔号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:69
@@ -7531,13 +7531,13 @@ msgstr "野猪"
 #: ../../../../data/tribes/ships/barbarians/init.lua:113
 msgctxt "shipname"
 msgid "Valkyrie"
-msgstr ""
+msgstr "女武神号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:115
 msgctxt "shipname"
 msgid "Wisent"
-msgstr ""
+msgstr "欧洲野牛号"
 
 #. TRANSLATORS: This a Barbarian ship name
 #: ../../../../data/tribes/ships/barbarians/init.lua:117
@@ -7567,13 +7567,13 @@ msgstr "亚得里亚海"
 #: ../../../../data/tribes/ships/empire/init.lua:43
 msgctxt "shipname"
 msgid "Adamas"
-msgstr ""
+msgstr "金刚石号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:45
 msgctxt "shipname"
 msgid "Agrippa"
-msgstr ""
+msgstr "阿格里帕号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:47
@@ -7603,7 +7603,7 @@ msgstr "阿波罗"
 #: ../../../../data/tribes/ships/empire/init.lua:55
 msgctxt "shipname"
 msgid "Aquila"
-msgstr ""
+msgstr "天鹰号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:57
@@ -7615,7 +7615,7 @@ msgstr "奥古斯都"
 #: ../../../../data/tribes/ships/empire/init.lua:59
 msgctxt "shipname"
 msgid "Aurum"
-msgstr ""
+msgstr "黄金号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:61
@@ -7663,19 +7663,19 @@ msgstr "卡拉拉"
 #: ../../../../data/tribes/ships/empire/init.lua:75
 msgctxt "shipname"
 msgid "Cato"
-msgstr ""
+msgstr "加图号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:77
 msgctxt "shipname"
 msgid "Cæsar"
-msgstr ""
+msgstr "恺撒号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:79
 msgctxt "shipname"
 msgid "Cervus"
-msgstr ""
+msgstr "牡鹿号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:81
@@ -7699,7 +7699,7 @@ msgstr "戴安娜"
 #: ../../../../data/tribes/ships/empire/init.lua:87
 msgctxt "shipname"
 msgid "Delphinus"
-msgstr ""
+msgstr "海豚号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:89
@@ -7711,7 +7711,7 @@ msgstr "多米蒂亚努斯"
 #: ../../../../data/tribes/ships/empire/init.lua:91
 msgctxt "shipname"
 msgid "Etna"
-msgstr ""
+msgstr "埃特纳号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:93
@@ -7723,7 +7723,7 @@ msgstr "浮士德"
 #: ../../../../data/tribes/ships/empire/init.lua:95
 msgctxt "shipname"
 msgid "Ferrum"
-msgstr ""
+msgstr "玄铁号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:97
@@ -7741,13 +7741,13 @@ msgstr "加卢斯"
 #: ../../../../data/tribes/ships/empire/init.lua:101
 msgctxt "shipname"
 msgid "Gladiator"
-msgstr ""
+msgstr "角斗士号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:103
 msgctxt "shipname"
 msgid "Gloria Imperii"
-msgstr ""
+msgstr "帝国荣光号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:105
@@ -7759,7 +7759,7 @@ msgstr "雅努斯"
 #: ../../../../data/tribes/ships/empire/init.lua:107
 msgctxt "shipname"
 msgid "Iulius Cæsar"
-msgstr ""
+msgstr "尤利乌斯·恺撒号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman goddess
 #: ../../../../data/tribes/ships/empire/init.lua:109
@@ -7789,13 +7789,13 @@ msgstr "拉托尼亚"
 #: ../../../../data/tribes/ships/empire/init.lua:117
 msgctxt "shipname"
 msgid "Leo"
-msgstr ""
+msgstr "雄狮号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:119
 msgctxt "shipname"
 msgid "Lepus"
-msgstr ""
+msgstr "野兔号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:121
@@ -7819,7 +7819,7 @@ msgstr "大理石"
 #: ../../../../data/tribes/ships/empire/init.lua:127
 msgctxt "shipname"
 msgid "Marcus Aurelius"
-msgstr ""
+msgstr "马可·奥勒留号"
 
 #. TRANSLATORS: This Empire ship is named after a Roman god
 #: ../../../../data/tribes/ships/empire/init.lua:129
@@ -7879,7 +7879,7 @@ msgstr "贝卢斯港"
 #: ../../../../data/tribes/ships/empire/init.lua:147
 msgctxt "shipname"
 msgid "Præda"
-msgstr ""
+msgstr "战利品号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:149
@@ -7903,7 +7903,7 @@ msgstr "罗米拉斯"
 #: ../../../../data/tribes/ships/empire/init.lua:155
 msgctxt "shipname"
 msgid "Sagitta"
-msgstr ""
+msgstr "天箭号"
 
 #. TRANSLATORS: This Empire ship is named after an in-game character
 #: ../../../../data/tribes/ships/empire/init.lua:157
@@ -7921,13 +7921,13 @@ msgstr "农神"
 #: ../../../../data/tribes/ships/empire/init.lua:161
 msgctxt "shipname"
 msgid "Scipio"
-msgstr ""
+msgstr "西庇阿号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:163
 msgctxt "shipname"
 msgid "Seneca"
-msgstr ""
+msgstr "塞内卡号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:165
@@ -7939,7 +7939,7 @@ msgstr "锡耶纳"
 #: ../../../../data/tribes/ships/empire/init.lua:167
 msgctxt "shipname"
 msgid "Spiculum"
-msgstr ""
+msgstr "锋矛号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:169
@@ -7969,7 +7969,7 @@ msgstr "特拉扬斯"
 #: ../../../../data/tribes/ships/empire/init.lua:177
 msgctxt "shipname"
 msgid "Venator"
-msgstr ""
+msgstr "猎手号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:179
@@ -7981,13 +7981,13 @@ msgstr "维纳斯"
 #: ../../../../data/tribes/ships/empire/init.lua:181
 msgctxt "shipname"
 msgid "Vergilius"
-msgstr ""
+msgstr "维吉尔号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:183
 msgctxt "shipname"
 msgid "Vespa"
-msgstr ""
+msgstr "黄蜂号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:185
@@ -8005,7 +8005,7 @@ msgstr "女灶神"
 #: ../../../../data/tribes/ships/empire/init.lua:189
 msgctxt "shipname"
 msgid "Vesuvius"
-msgstr ""
+msgstr "维苏威号"
 
 #. TRANSLATORS: This is an Empire ship name
 #: ../../../../data/tribes/ships/empire/init.lua:191
@@ -8448,7 +8448,7 @@ msgstr "火钳"
 #: ../../../../data/tribes/wares/firestones/init.lua:8
 msgctxt "ware"
 msgid "Firestones"
-msgstr ""
+msgstr "火石"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/fish/init.lua:8
@@ -9860,7 +9860,7 @@ msgstr "挖泥工"
 #: ../../../../data/tribes/workers/frisians/diker/init.lua:8
 msgctxt "frisians_worker"
 msgid "Diker"
-msgstr ""
+msgstr "筑堤工"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/frisians/farmer/init.lua:8

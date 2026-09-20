@@ -1,0 +1,926 @@
+[
+ {
+  "key": "5aade88410",
+  "msgid": "Market",
+  "zh": "",
+  "msgctxt": "amazons_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "f62e7d3b83",
+  "msgid": "Market",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "45ee124b46",
+  "msgid": "Market",
+  "zh": "",
+  "msgctxt": "barbarians_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "c71e05de41",
+  "msgid": "Market",
+  "zh": "",
+  "msgctxt": "empire_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "9ada4d8006",
+  "msgid": "Market",
+  "zh": "",
+  "msgctxt": "frisians_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "c04ce5568d",
+  "msgid": "Your soldier has occupied your treetop sentry.",
+  "zh": "",
+  "msgctxt": "amazons_building",
+  "note": "TRANSLATORS: Message sent by an Amazon military site",
+  "terms": [
+   "Treetop Sentry = 树上岗哨"
+  ]
+ },
+ {
+  "key": "7b545f23a1",
+  "msgid": "Your soldier has occupied your blockhouse.",
+  "zh": "",
+  "msgctxt": "empire_building",
+  "note": "TRANSLATORS: Message sent by an Empire military site",
+  "terms": [
+   "Blockhouse = 木质碉堡"
+  ]
+ },
+ {
+  "key": "250afe6476",
+  "msgid": "Your soldier has occupied your wooden tower.",
+  "zh": "",
+  "msgctxt": "frisians_building",
+  "note": "TRANSLATORS: Message sent by a Frisian military site",
+  "terms": [
+   "Wooden Tower = 木塔",
+   "Tower = 塔楼"
+  ]
+ },
+ {
+  "key": "f9a07b518e",
+  "msgid": "The farmer working at this cassava plantation has no cleared soil to plant her seeds.",
+  "zh": "",
+  "msgctxt": "amazons_building",
+  "terms": [
+   "Cassava Plantation = 木薯种植园",
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "1348332059",
+  "msgid": "Initiation Site",
+  "zh": "",
+  "msgctxt": "amazons_building",
+  "note": "TRANSLATORS: This is a building name used in lists of buildings"
+ },
+ {
+  "key": "277417d913",
+  "msgid": "making firestones",
+  "zh": "",
+  "note": "TRANSLATORS: Completed/Skipped/Did not start making firestones because ..."
+ },
+ {
+  "key": "3516aeed12",
+  "msgid": "mining",
+  "zh": "",
+  "note": "TRANSLATORS: Completed/Skipped/Did not start mining because ..."
+ },
+ {
+  "key": "afb76a82a4",
+  "msgid": "No Stones",
+  "zh": "",
+  "terms": [
+   "Stones = 石料"
+  ]
+ },
+ {
+  "key": "39a3a5b2b0",
+  "msgid": "Main Stone Vein Exhausted",
+  "zh": ""
+ },
+ {
+  "key": "debc819d07",
+  "msgid": "The fish breeder working out of this fish breeder’s house can’t find any water where he can breed fish in his work area. Remember that you can only regenerate your fish resources if there ever were some fish in the vicinity in the first place.",
+  "zh": "",
+  "msgctxt": "atlanteans_building",
+  "terms": [
+   "Fish Breeder’s House = 鱼类饲养员之屋",
+   "working = 工作",
+   "Water = 水",
+   "Fish = 鱼"
+  ]
+ },
+ {
+  "key": "654256acd6",
+  "msgid": "The beekeeper working at this beekeeper’s house can’t find any flowering fields or bushes in his work area. You should consider building another farm or berry farm nearby, or dismantling or destroying this building.",
+  "zh": "",
+  "msgctxt": "frisians_building",
+  "terms": [
+   "Beekeeper’s House = 养蜂房屋",
+   "Berry Farm = 浆果园",
+   "Building = 建筑",
+   "working = 工作",
+   "Farm = 农场"
+  ]
+ },
+ {
+  "key": "1d976d3487",
+  "msgid": "Diker’s House",
+  "zh": "",
+  "msgctxt": "frisians_building"
+ },
+ {
+  "key": "2f68627754",
+  "msgid": "diking",
+  "zh": "",
+  "note": "TRANSLATORS: Completed/Skipped/Did not start diking because ..."
+ },
+ {
+  "key": "e8dc8599aa",
+  "msgid": "building a dike",
+  "zh": "",
+  "note": "TRANSLATORS: Completed/Skipped/Did not start building a dike because ...",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "29e972f15d",
+  "msgid": "Cassava Field (harvested)",
+  "zh": "",
+  "msgctxt": "immovable",
+  "note": "TRANSLATORS: This is an immovable name used in lists of immovables"
+ },
+ {
+  "key": "aa6f193272",
+  "msgid": "Cassava Field (medium)",
+  "zh": "",
+  "msgctxt": "immovable",
+  "note": "TRANSLATORS: This is an immovable name used in lists of immovables"
+ },
+ {
+  "key": "78db5a0333",
+  "msgid": "Cassava Field (ripe)",
+  "zh": "",
+  "msgctxt": "immovable",
+  "note": "TRANSLATORS: This is an immovable name used in lists of immovables"
+ },
+ {
+  "key": "6297f9c7f2",
+  "msgid": "Cassava Field (small)",
+  "zh": "",
+  "msgctxt": "immovable",
+  "note": "TRANSLATORS: This is an immovable name used in lists of immovables"
+ },
+ {
+  "key": "d68113383b",
+  "msgid": "Cassava Field (tiny)",
+  "zh": "",
+  "msgctxt": "immovable",
+  "note": "TRANSLATORS: This is an immovable name used in lists of immovables"
+ },
+ {
+  "key": "ac72946cc1",
+  "msgid": "Dike",
+  "zh": "",
+  "msgctxt": "immovable",
+  "note": "TRANSLATORS: This is an immovable name used in lists of immovables"
+ },
+ {
+  "key": "7286518679",
+  "msgid": "Some Quartz",
+  "zh": "",
+  "msgctxt": "resource_indicator",
+  "note": "TRANSLATORS: This is a resource name used in lists of resources"
+ },
+ {
+  "key": "24dc01e1aa",
+  "msgid": "A Lot of Quartz",
+  "zh": "",
+  "msgctxt": "resource_indicator",
+  "note": "TRANSLATORS: This is a resource name used in lists of resources"
+ },
+ {
+  "key": "fa046a665b",
+  "msgid": "Amazons",
+  "zh": "",
+  "note": "TRANSLATORS: This is a tribe name"
+ },
+ {
+  "key": "d4527e6351",
+  "msgid": "The people of the amazonian jungle.",
+  "zh": ""
+ },
+ {
+  "key": "98bcb13fb2",
+  "msgid": "Tribes Immovables",
+  "zh": ""
+ },
+ {
+  "key": "339b484edb",
+  "msgid": "World Immovables",
+  "zh": ""
+ },
+ {
+  "key": "dbc4885ea0",
+  "msgid": "Atucatiquini",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "4e476de96d",
+  "msgid": "Autaz-mirim",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "21125e0494",
+  "msgid": "Badajós",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "031009b41b",
+  "msgid": "Bararati",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "0f9e3b9e6e",
+  "msgid": "Biá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "240ec8f8a1",
+  "msgid": "Camaiú",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "607776122f",
+  "msgid": "Camanaú",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "3ea9ee327e",
+  "msgid": "Canumã",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "136b47a42f",
+  "msgid": "Capucapu",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "7918937d51",
+  "msgid": "Carabinani",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "87ba4929fc",
+  "msgid": "Cauaburi",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "f7163bbc47",
+  "msgid": "Caurés",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "1d3c647ee2",
+  "msgid": "Ciriquiri",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "01bb36a23e",
+  "msgid": "Coari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "4ad1fb9950",
+  "msgid": "Copatana",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "765cab8b75",
+  "msgid": "Coti",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "8cba3c7526",
+  "msgid": "Cubate",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "ac18de1514",
+  "msgid": "Cuiari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "d6018cfcda",
+  "msgid": "Cuieiras",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "b6e29e9c09",
+  "msgid": "Cuini",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "87f1c4958f",
+  "msgid": "Cuniuá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "512dd01e6b",
+  "msgid": "Curicuriari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "34d6b54d96",
+  "msgid": "Curiuaú",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "4008baf492",
+  "msgid": "Curuçá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "fb4a7c2827",
+  "msgid": "Curuduri",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "032355f605",
+  "msgid": "Curuquetê",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "699007ed78",
+  "msgid": "Daraá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "f594624261",
+  "msgid": "Demini",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "db410953a6",
+  "msgid": "Eiru",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "2e16206cf7",
+  "msgid": "Endimari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "53b20f019b",
+  "msgid": "Envira",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "281e13a88b",
+  "msgid": "Gregório",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "a0d0432f4e",
+  "msgid": "Guaribe",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "a614190d62",
+  "msgid": "Iá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "e676c1983e",
+  "msgid": "Iaco",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "fcb3435ace",
+  "msgid": "Içá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "5f055c5497",
+  "msgid": "Içana",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "f5c8ba5272",
+  "msgid": "Igapó-Açu",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "10684a2d5b",
+  "msgid": "Inauini",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "33e054e7ac",
+  "msgid": "Ipixuna",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "924202881a",
+  "msgid": "Itanhauá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "7d51f6dd43",
+  "msgid": "Itaparaná",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "1b64a3987c",
+  "msgid": "Itaquai",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "7be0cd7288",
+  "msgid": "Itucumã",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "755da97171",
+  "msgid": "Ituí",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "d473495773",
+  "msgid": "Ituxi",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "c20607448b",
+  "msgid": "Jacaré",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "c303567682",
+  "msgid": "Jamicia",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "62c573d0f4",
+  "msgid": "Jandiatuba",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "0f7ff0aa9a",
+  "msgid": "Japurá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "1c9a6d6727",
+  "msgid": "Jaquirana",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "aaedf87298",
+  "msgid": "Jari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "6641d30082",
+  "msgid": "Jatapu",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "7e9820698f",
+  "msgid": "Jatuarana",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "a9f1c0ccda",
+  "msgid": "Jaú",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "0508a45c2c",
+  "msgid": "Jauaperi",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "ff8739d2bf",
+  "msgid": "Javary",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "ad7d54e5f8",
+  "msgid": "Juami",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "df6ab4ec3d",
+  "msgid": "Jufari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "b7bb8c5fc8",
+  "msgid": "Juma",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "4848a4c810",
+  "msgid": "Juruá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "1a8015e61f",
+  "msgid": "Juruena",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "2e4b4c648f",
+  "msgid": "Jurupari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "693071105b",
+  "msgid": "Jutai",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "f8979400ec",
+  "msgid": "Jutaizinho",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "ae5db1f1bd",
+  "msgid": "Luna",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "569cc1f4c0",
+  "msgid": "Maiá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "1fb712a31e",
+  "msgid": "Maici",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "e904c50b45",
+  "msgid": "Mamiá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "5758d5e645",
+  "msgid": "Mamoriá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "b875d9e293",
+  "msgid": "Mamuru",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "e09e1ab793",
+  "msgid": "Manacapuru",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "34f24a1d6d",
+  "msgid": "Manicoré",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "a79c0cc421",
+  "msgid": "Manicorezinho",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "0936599cdd",
+  "msgid": "Mapari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "824e8f8d57",
+  "msgid": "Mapiá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "0992f3bd8b",
+  "msgid": "Maracanã",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "dd4bf59bdc",
+  "msgid": "Marari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "1d017b9d6a",
+  "msgid": "Marauiá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "d5e71ee90c",
+  "msgid": "Marié",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "73539619a6",
+  "msgid": "Mariepauá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "a96d0a2704",
+  "msgid": "Marimari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "80f791a016",
+  "msgid": "Mataurá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "8df81b5aa4",
+  "msgid": "Matupiri",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "62b4c1e603",
+  "msgid": "Maués Açu",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "9a7f2cac23",
+  "msgid": "Mineruázinho",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "ab2c67c983",
+  "msgid": "Muaco",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "35e8bd7252",
+  "msgid": "Mucum",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "28905203e0",
+  "msgid": "Mutum",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "68307b52eb",
+  "msgid": "Nhamundá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "fea223c8d9",
+  "msgid": "Paciá",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "9fdee43006",
+  "msgid": "Padauari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "505cff4325",
+  "msgid": "Papagaio",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "53d9a9e1ad",
+  "msgid": "Papuri",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "c4dc31916a",
+  "msgid": "Paraconi",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "bc00eb8a28",
+  "msgid": "Parauari",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "6ef8684a36",
+  "msgid": "Pardo",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "eadc993525",
+  "msgid": "Pati",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ },
+ {
+  "key": "0723e2e51b",
+  "msgid": "Pauini",
+  "zh": "",
+  "msgctxt": "shipname",
+  "note": "TRANSLATORS: This Amazonian ship is named after a river"
+ }
+]

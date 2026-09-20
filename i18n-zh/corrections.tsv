@@ -115,3 +115,8 @@ Metaserver	元服务器		原"元数据服务器"是误译，它不提供元数�
 Metaserver Lobby	元服务器大厅		
 Port Space	港口位置		可建港口的地块，"空间"不达意
 Port spaces	港口位置		
+
+# Wisent 在 world 域是动物（无 msgctxt，因而成了全局规则），但它同时也是
+# 一个船名（msgctxt=shipname，按惯例译作「欧洲野牛号」）。无 ctxt 的词条
+# 不能全局约束，排除。
+Wisent	-		一词多义：world 域的动物 vs shipname，不能全局约束

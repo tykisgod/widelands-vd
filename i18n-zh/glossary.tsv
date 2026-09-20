@@ -9,8 +9,13 @@ A Lot of Gold	许多黄金	resource_indicator	tribes
 A Lot of Granite	许多花岗石	resource_indicator	tribes	
 A Lot of Iron	许多铁	resource_indicator	tribes	
 A Lot of Marble	许多大理石	resource_indicator	tribes	
+A Lot of Quartz	大量石英	resource_indicator	tribes	
 Abacaxis	阿巴卡西斯号	shipname	tribes	
 Abaco	阿巴科号	shipname	tribes	
+Acari	阿卡里号	shipname	tribes	
+Acre	阿克里号	shipname	tribes	
+Acurauá	阿库拉瓦号	shipname	tribes	
+Adamas	金刚石号	shipname	tribes	
 Add-On	附加内容		corrections	原"附件"/"插件"混用；实为可安装内容包
 add-on	附加内容		corrections	同上
 Add-Ons	附加内容		corrections	同上
@@ -20,6 +25,9 @@ Advanced Shield	高级护盾	ware	tribes
 Advanced Spear	高级长枪	ware	tribes	
 Agate	玛瑙号	shipname	tribes	
 Agilaz	阿吉拉兹	shipname	tribes	
+Agrippa	阿格里帕号	shipname	tribes	
+Aiari	艾阿里号	shipname	tribes	
+Alalaú	阿拉劳号	shipname	tribes	
 Alder	桤木		world	
 Alder (Mature)	桤木(成材的)		world	
 Alder (Old)	桤木(老树)		world	
@@ -29,24 +37,39 @@ Alexandria	亚历山大	shipname	tribes
 Alexandrite	亚历山大变色石号	shipname	tribes	
 Alt-Nordstrand	奥特-诺德斯特兰	shipname	tribes	
 Amalea	亚玛利亚	shipname	tribes	
+Amanã	阿马南号	shipname	tribes	
+Amapá	阿马帕号	shipname	tribes	
 Amazonas	亚马逊	shipname	tribes	
+Amazons	亚马逊人		tribes	
 Amber	琥珀号	shipname	tribes	
 Amethyst	紫水晶号	shipname	tribes	
 Amolius	阿莫利乌斯	shipname	tribes	
 Amrum	阿姆鲁姆	shipname	tribes	
 Anchicayá	阿测查雅号	shipname	tribes	
+Andirá	安迪拉号	shipname	tribes	
 Anguilla	安圭拉岛号	shipname	tribes	
 Antigua	安提瓜岛号	shipname	tribes	
+Antimary	安蒂马里号	shipname	tribes	
 Apollo	阿波罗	shipname	tribes	
+Apoquitaua	阿波基塔瓦号	shipname	tribes	
+Apu Illapu	阿普伊利亚普号	shipname	tribes	
+Apuaú	阿普阿乌号	shipname	tribes	
 Aqua Farm	水产养殖场	frisians_building	tribes	
 Aquamarine	海蓝宝石号	shipname	tribes	
 Aquatic	水生动物		corrections	编辑器动物类别名，原"水栖的"是形容词
+Aquila	天鹰号	shipname	tribes	
+Arara	阿拉拉号	shipname	tribes	
+Ararirá	阿拉里拉号	shipname	tribes	
+Arauã	阿拉万号	shipname	tribes	
+Araçá	阿拉萨号	shipname	tribes	
 Arena	竞技场	empire_building	tribes	
+Aripuanã	阿里普安南号	shipname	tribes	
 Armor	盔甲	ware	tribes	
 Armor Smithy	盔甲铺	atlanteans_building	tribes	
 Armor Smithy	盔甲铺	empire_building	tribes	
 Armorsmith	盔甲匠人	atlanteans_worker	tribes	
 Armorsmith	盔甲匠人	empire_worker	tribes	
+Arrojo	阿罗霍号	shipname	tribes	
 Artifact	远古遗物		world	
 Artifact Conquered	控制远古遗物		win_conditions	
 Artifact Found	找到远古遗物		win_conditions	
@@ -62,14 +85,22 @@ Aspen (Mature)	白杨(成材的)		world
 Aspen (Old)	白杨(老树)		world	
 Aspen (Pole)	白杨(树干)		world	
 Aspen (Sapling)	白杨(树苗)		world	
+Atahuallpa	阿塔瓦尔帕号	shipname	tribes	
+Atiparaná	阿蒂帕拉纳号	shipname	tribes	
 Atlanteans	亚特兰蒂斯人		tribes	
 Atlantean’s Stronghold	亚特兰蒂斯岛的要塞	shipname	tribes	
 Atlantis	亚特兰蒂斯	shipname	tribes	
+Atucatiquini	阿图卡蒂基尼号	shipname	tribes	
 Augustus	奥古斯都	shipname	tribes	
+Aurum	黄金号	shipname	tribes	
+Autaz-mirim	奥塔斯米林号	shipname	tribes	
 Autocrat	独裁者		win_conditions	
 Ax	斧	ware	tribes	
 Ax Workshop	斧头厂	barbarians_building	tribes	
+Ayar Cachi	阿亚尔卡奇号	shipname	tribes	
 Azurea Sea	阿祖拉海	shipname	tribes	
+Açuã	阿苏安号	shipname	tribes	
+Badajós	巴达若斯号	shipname	tribes	
 Badger	獾		world	
 Bahama	巴哈马	shipname	tribes	
 Baker	面包师	atlanteans_worker	tribes	
@@ -93,6 +124,7 @@ Balsa Tree (Old)	轻木树(老的)		tribes
 Balsa Tree (Pole)	轻木树(树干)		tribes	
 Balsa Tree (Sapling)	轻木树(树苗)		tribes	
 Baltic Sea	波罗的海	shipname	tribes	
+Bararati	巴拉拉蒂号	shipname	tribes	
 Barbados	巴巴多斯岛	shipname	tribes	
 Barbarians	蛮族		tribes	
 Barbuda	巴尔布达	shipname	tribes	
@@ -134,6 +166,8 @@ Birch (Mature)	白桦树(成材的)		world
 Birch (Old)	白桦树(老树)		world	
 Birch (Pole)	白桦树(树干)		world	
 Birch (Sapling)	白桦树(树苗)		world	
+Bison	野牛号	shipname	tribes	
+Biá	比亚号	shipname	tribes	
 Black Currant (medium)	黑加仑(半熟的)		tribes	
 Black Currant (ripe)	黑加仑(成熟的)		tribes	
 Black Currant (small)	黑加仑(小的)		tribes	
@@ -197,6 +231,7 @@ Builder	建筑工人	barbarians_worker	tribes
 Builder	建筑工人	empire_worker	tribes	
 Builder	建筑工人	frisians_worker	tribes	
 Building	建筑		corrections	
+building a dike	修筑堤坝		tribes	
 Buildings	建筑		tribes	
 Bunny	兔子		world	
 burning bricks	烧制砖块		tribes	
@@ -205,7 +240,12 @@ Bush	灌木		world
 Cactus	仙人掌		world	
 Caicos	凯科斯群岛	shipname	tribes	
 Caligula	卡利古拉	shipname	tribes	
+Camaiú	卡迈乌号	shipname	tribes	
+Camanaú	卡马瑙号	shipname	tribes	
 Camilla	卡米拉	shipname	tribes	
+Canumã	卡努曼号	shipname	tribes	
+Capucapu	卡普卡普号	shipname	tribes	
+Carabinani	卡拉比纳尼号	shipname	tribes	
 Carnivores	食肉动物		world	
 Carpenter	木匠	empire_worker	tribes	
 Carrara	卡拉拉	shipname	tribes	
@@ -215,15 +255,24 @@ Carrier	搬运工	barbarians_worker	tribes
 Carrier	搬运工	empire_worker	tribes	
 Carrier	搬运工	frisians_worker	tribes	
 Cassava Farmer	木薯种植农夫	amazons_worker	tribes	
+Cassava Field (harvested)	木薯田（已收割）	immovable	tribes	
+Cassava Field (medium)	木薯田（中等）	immovable	tribes	
+Cassava Field (ripe)	木薯田（成熟）	immovable	tribes	
+Cassava Field (small)	木薯田（小）	immovable	tribes	
+Cassava Field (tiny)	木薯田（幼苗）	immovable	tribes	
 Cassava Plantation	木薯种植园	amazons_building	tribes	
 Cassava Root	木薯块根	ware	tribes	
 Cassava Root Cooker	木薯块根厨房	amazons_building	tribes	
 Cassiterite	锡石	shipname	tribes	
 Castle	城堡	atlanteans_building	tribes	
 Castle	城堡	empire_building	tribes	
+Cato	加图号	shipname	tribes	
 Cattle Breeder	放牛娃	barbarians_worker	tribes	
 Cattle Farm	养牛场	barbarians_building	tribes	
 Cat’s Eye	猫眼	shipname	tribes	
+Cauaburi	考阿布里号	shipname	tribes	
+Caurés	考雷斯号	shipname	tribes	
+Cervus	牡鹿号	shipname	tribes	
 Chain Armor	链式盔甲	ware	tribes	
 Chamois	岩羚羊		world	
 Charcoal Burner	烧炭弟	amazons_worker	tribes	
@@ -243,6 +292,7 @@ Chisel	凿刀	ware	tribes
 Chocolate	巧克力	ware	tribes	
 Chocolate Brewery	巧克力酿酒厂	amazons_building	tribes	
 Cicero	西塞罗	shipname	tribes	
+Ciriquiri	西里基里号	shipname	tribes	
 Cirrus Tree	草海卷须树		world	
 Cirrus Tree (Mature)	草海卷须树(成材的)		world	
 Cirrus Tree (Old)	草海卷须树(老树)		world	
@@ -262,6 +312,7 @@ Coal Mine	煤矿	atlanteans_building	tribes
 Coal Mine	煤矿	barbarians_building	tribes	
 Coal Mine	煤矿	empire_building	tribes	
 Coal Mine	煤矿	frisians_building	tribes	
+Coari	科阿里号	shipname	tribes	
 Cocoa Beans	可可豆	ware	tribes	
 Cocoa Farm	可可种植场	amazons_building	tribes	
 Cocoa Farmer	可可种植农夫	amazons_worker	tribes	
@@ -283,6 +334,7 @@ constructing a ship	建造一艘船		tribes
 Construction Site	建筑工地	building	tribes	
 Controls	控制		tribes	
 Cook	炊事员	amazons_worker	tribes	
+Copatana	科帕塔纳号	shipname	tribes	
 Corn	玉米	ware	tribes	
 Cornfield (harvested)	玉米地(收获的)	immovable	tribes	
 Cornfield (medium)	玉米地(半熟的)	immovable	tribes	
@@ -290,9 +342,22 @@ Cornfield (ripe)	玉米地(成熟的)	immovable	tribes
 Cornfield (small)	玉米地(小的)	immovable	tribes	
 Cornfield (tiny)	玉米地(微小的)	immovable	tribes	
 Cornmeal	玉米面粉	ware	tribes	
+Coti	科蒂号	shipname	tribes	
 Crystal Mine	晶体矿	atlanteans_building	tribes	
+Cubate	库巴特号	shipname	tribes	
+Cuiari	奎阿里号	shipname	tribes	
+Cuieiras	奎埃拉斯号	shipname	tribes	
+Cuini	奎尼号	shipname	tribes	
+Cuniuá	库尼瓦号	shipname	tribes	
+Curicuriari	库里库里阿里号	shipname	tribes	
+Curiuaú	库里瓦乌号	shipname	tribes	
+Curuduri	库鲁杜里号	shipname	tribes	
+Curuquetê	库鲁凯特号	shipname	tribes	
+Curuçá	库鲁萨号	shipname	tribes	
 cutting granite	采集花岗石		tribes	
 cutting lianas	剪切藤蔓植物		tribes	
+Cæsar	恺撒号	shipname	tribes	
+Daraá	达拉阿号	shipname	tribes	
 Dark Mushroom Tree	黑远志蘑菇树		world	
 Dark Mushroom Tree (Mature)	黑远志蘑菇树(成材的)		world	
 Dark Mushroom Tree (Old)	黑远志蘑菇树(老树)		world	
@@ -323,6 +388,8 @@ Deeper Gold Mine	深井金矿	barbarians_building	tribes
 Deeper Iron Mine	深井铁矿	barbarians_building	tribes	
 Deer	鹿		world	
 Dellingr	得林	shipname	tribes	
+Delphinus	海豚号	shipname	tribes	
+Demini	德米尼号	shipname	tribes	
 Desert	沙漠		world	
 Desert 1	沙漠 1		world	
 Desert 2	沙漠 2		world	
@@ -336,6 +403,10 @@ Destroyed building	毁坏的建筑物	immovable	tribes
 Desync	不同步		corrections	网络对战中双方游戏状态不一致
 Diamond	钻石	ware	tribes	
 Diana	戴安娜	shipname	tribes	
+Dike	堤坝	immovable	tribes	
+Diker	筑堤工	frisians_worker	tribes	
+Diker’s House	筑堤工之屋	frisians_building	tribes	
+diking	筑堤		tribes	
 Diplomacy	外交		corrections	
 Directory	目录		corrections	统一"目录"，不与"文件夹"混用
 Discovery	发现		tribes	
@@ -354,14 +425,19 @@ Dry Pond	干旱池塘	immovable	tribes
 Dry Soil	旱作土壤		world	
 Duck	鸭子		world	
 Dungeon	地牢	atlanteans_building	tribes	
+Eagle	雄鹰号	shipname	tribes	
 Economy	经济		corrections	
 Efficiency	效率		tribes	
 Eiderstedt	艾德斯特德	shipname	tribes	
+Eiru	埃鲁号	shipname	tribes	
 Eleuthera	伊柳塞拉	shipname	tribes	
 Emerald	绿宝石	shipname	tribes	
 Empire	帝国		tribes	
+Endimari	恩迪马里号	shipname	tribes	
 Endless Game	无休止的游戏		win_conditions	
 enhancing the fertility of land	土地育肥		tribes	
+Envira	恩维拉号	shipname	tribes	
+Etna	埃特纳号	shipname	tribes	
 Farm	农场	atlanteans_building	tribes	
 Farm	农场	barbarians_building	tribes	
 Farm	农场	empire_building	tribes	
@@ -374,6 +450,7 @@ Faustulus	浮士德	shipname	tribes
 Felled Tree	砍倒的树		world	
 Felling Ax	伐木斧	ware	tribes	
 felling trees	砍伐树木		tribes	
+Ferrum	玄铁号	shipname	tribes	
 Ferry	艄公	amazons_worker	tribes	
 Ferry	艄公	atlanteans_worker	tribes	
 Ferry	艄公	barbarians_worker	tribes	
@@ -385,6 +462,7 @@ Ferry Yard	摆渡码头	barbarians_building	tribes
 Ferry Yard	摆渡码头	empire_building	tribes	
 Ferry Yard	摆渡码头	frisians_building	tribes	
 Fire Tongs	火钳	ware	tribes	
+Firestones	火石	ware	tribes	
 Fish	鱼		world	
 Fish	鱼	ware	tribes	
 Fish Breeder	鱼类饲养员	atlanteans_worker	tribes	
@@ -475,6 +553,8 @@ Geologist	地质专家	empire_worker	tribes
 Geologist	地质专家	frisians_worker	tribes	
 Gersemi	格尔塞蜜	shipname	tribes	
 Gilded Armor	镀金盔甲	ware	tribes	
+Gladiator	角斗士号	shipname	tribes	
+Gloria Imperii	帝国荣光号	shipname	tribes	
 Gold	黄金		world	
 Gold	黄金	ware	tribes	
 Gold Digger	掘金者	amazons_worker	tribes	
@@ -509,6 +589,7 @@ Green Umbrella Tree (Mature)	威宁绿木兰(成材的)		world
 Green Umbrella Tree (Old)	威宁绿木兰(老树)		world	
 Green Umbrella Tree (Pole)	威宁绿木兰(树干)		world	
 Green Umbrella Tree (Sapling)	威宁绿木兰(树苗)		world	
+Gregório	格雷戈里奥号	shipname	tribes	
 Grenada	格林纳达	shipname	tribes	
 grinding blackroot	碾磨黑根		tribes	
 grinding corn	碾磨玉米		tribes	
@@ -518,9 +599,11 @@ Gröde	格勒德	shipname	tribes
 Guadeloupe	瓜德罗普岛	shipname	tribes	
 Guardhall	守卫大厅	atlanteans_building	tribes	
 Guardhouse	岗楼	atlanteans_building	tribes	
+Guaribe	瓜里贝号	shipname	tribes	
 Guáitara	危地马拉号	shipname	tribes	
 Habel	哈贝尔	shipname	tribes	
 Hagbard	哈格巴德	shipname	tribes	
+Hakhor	哈霍尔号	shipname	tribes	
 Hamburger Hallig	汉堡角	shipname	tribes	
 Hammer	锤子	ware	tribes	
 Hard Ground 1	硬地 1		world	
@@ -571,6 +654,7 @@ Hook Pole	钩杆	ware	tribes
 Horse	马	atlanteans_worker	tribes	
 Horse Breeder	牧马人	atlanteans_worker	tribes	
 Horse Farm	牧马场	atlanteans_building	tribes	
+HQ Hunter	总部猎手		win_conditions	
 Hrothgar	赫罗斯加	shipname	tribes	
 Hunter	猎人	atlanteans_worker	tribes	
 Hunter	猎人	barbarians_worker	tribes	
@@ -585,18 +669,25 @@ Hunter’s Hut	猎人小屋	barbarians_building	tribes
 hunting	狩猎		tribes	
 Hunting Bow	狩猎弓	ware	tribes	
 Hunting Spear	狩猎长矛	ware	tribes	
+Iaco	亚科号	shipname	tribes	
 Ianus	雅努斯	shipname	tribes	
 Ice	冰		world	
 Ice Floes 1	浮冰 1		world	
 Ice Floes 2	浮冰 2		world	
+Igapó-Açu	伊加波阿苏号	shipname	tribes	
 Igneous Rocks	火成岩		world	
+Illapa	伊利亚帕号	shipname	tribes	
 Inagua	伊纳瓜 	shipname	tribes	
+Inauini	伊瑙伊尼号	shipname	tribes	
 Ingeld	英叶德	shipname	tribes	
+Initiation Site	成年礼场	amazons_building	tribes	
 Inn	客栈	barbarians_building	tribes	
 Inn	客栈	empire_building	tribes	
 Innkeeper	客栈掌柜	barbarians_worker	tribes	
 Innkeeper	客栈掌柜	empire_worker	tribes	
+Inti	因蒂号	shipname	tribes	
 Introduction	介绍		tribes	
+Ipixuna	伊皮舒纳号	shipname	tribes	
 Iron	铁		world	
 Iron	铁	ware	tribes	
 Iron Mine	铁矿	atlanteans_building	tribes	
@@ -611,9 +702,33 @@ Ironwood Tree (Old)	铁木树(老的)		tribes
 Ironwood Tree (Pole)	铁木树(树干)		tribes	
 Ironwood Tree (Sapling)	铁木树(树苗)		tribes	
 Iscuandé	伊斯库昂代号	shipname	tribes	
+Itanhauá	伊塔尼奥阿号	shipname	tribes	
+Itaparaná	伊塔帕拉纳号	shipname	tribes	
+Itaquai	伊塔夸伊号	shipname	tribes	
+Itucumã	伊图库曼号	shipname	tribes	
+Ituxi	伊图希号	shipname	tribes	
+Ituí	伊图伊号	shipname	tribes	
+Iulius Cæsar	尤利乌斯·恺撒号	shipname	tribes	
 Iuno	卢诺	shipname	tribes	
 Iupiter	卢皮特	shipname	tribes	
+Iá	亚号	shipname	tribes	
+Içana	伊萨纳号	shipname	tribes	
+Içá	伊萨号	shipname	tribes	
+Jacaré	雅卡雷号	shipname	tribes	
+Jamicia	雅米西亚号	shipname	tribes	
+Jandiatuba	雅恩迪亚图巴号	shipname	tribes	
 Japsand	杰彭士德	shipname	tribes	
+Japurá	雅普拉号	shipname	tribes	
+Jaquirana	雅基拉纳号	shipname	tribes	
+Jari	雅里号	shipname	tribes	
+Jatapu	雅塔普号	shipname	tribes	
+Jatuarana	雅图阿拉纳号	shipname	tribes	
+Jauaperi	雅瓦佩里号	shipname	tribes	
+Javary	雅瓦里号	shipname	tribes	
+Jaú	雅乌号	shipname	tribes	
+Juami	胡阿米号	shipname	tribes	
+Jufari	胡法里号	shipname	tribes	
+Juma	胡马号	shipname	tribes	
 Jundlina	朱鼎利纳	shipname	tribes	
 Jungle Master	丛林之主	amazons_worker	tribes	
 Jungle Preserver	丛林守护者	amazons_worker	tribes	
@@ -622,6 +737,11 @@ Juniper (medium)	杜松(半熟的)		tribes
 Juniper (ripe)	杜松(成熟的)		tribes	
 Juniper (small)	杜松(小的)		tribes	
 Juniper (tiny)	杜松(微小的)		tribes	
+Juruena	胡鲁埃纳号	shipname	tribes	
+Jurupari	胡鲁帕里号	shipname	tribes	
+Juruá	胡鲁阿号	shipname	tribes	
+Jutai	胡泰号	shipname	tribes	
+Jutaizinho	胡泰津霍号	shipname	tribes	
 Juventud	尤文图德	shipname	tribes	
 Karl Hundason	卡尔亨德森	shipname	tribes	
 Khantrukh	坎特鲁克	shipname	tribes	
@@ -629,8 +749,11 @@ King Ajanthul	阿甘图尔国王	shipname	tribes
 King Askandor	阿斯坎多尔国王	shipname	tribes	
 Kitchen Tools	厨房用具	ware	tribes	
 Kitts	基茨	shipname	tribes	
+Koricancha	科里坎查号	shipname	tribes	
 Kormoransand	鸬鹚沙滩	shipname	tribes	
+Kuychi	库伊奇号	shipname	tribes	
 Labyrinth	迷宫	atlanteans_building	tribes	
+Lake Titicaca	的的喀喀湖号	shipname	tribes	
 Landlady	女房东	frisians_worker	tribes	
 Langeneß	兰根ß	shipname	tribes	
 Larch	落叶松		world	
@@ -644,6 +767,8 @@ Latonia	拉托尼亚	shipname	tribes
 Lava	熔岩		world	
 Lava Rocks 1	火山熔岩 1		world	
 Lava Rocks 2	火山熔岩 2		world	
+Leo	雄狮号	shipname	tribes	
+Lepus	野兔号	shipname	tribes	
 Liana	藤蔓植物	ware	tribes	
 Liana Cutter	藤蔓采集者	amazons_worker	tribes	
 Liana Cutter’s Hut	藤蔓采集小屋	amazons_building	tribes	
@@ -657,6 +782,7 @@ Light Wooden Armor	轻装木甲	ware	tribes
 Liguria	利古里亚	shipname	tribes	
 Lime Kiln	石灰窑	barbarians_building	tribes	
 Lime-Burner	石灰烧窑匠	barbarians_worker	tribes	
+Lloqe Yupanki	略克尤潘基号	shipname	tribes	
 Loftomor	罗夫托莫	shipname	tribes	
 Log	原木	ware	tribes	
 Long Sword	长剑	ware	tribes	
@@ -665,16 +791,20 @@ Lumberjack	伐木工	barbarians_worker	tribes
 Lumberjack	伐木工	empire_worker	tribes	
 Lumberjack’s House	伐木工之屋	empire_building	tribes	
 Lumberjack’s Hut	伐木小屋	barbarians_building	tribes	
+Luna	卢纳号	shipname	tribes	
 Lutius	卢图斯	shipname	tribes	
 Lynx	猞猁		world	
 Lynx	猞猁	shipname	tribes	
 Machete	弯刀	ware	tribes	
+Maici	迈西号	shipname	tribes	
 Main Coal Vein Exhausted	煤矿的主矿脉已耗尽		tribes	
 Main Crystal Vein Exhausted	晶体矿的主矿脉已耗尽		tribes	
 Main Gold Vein Exhausted	黄金矿的主矿脉已耗尽		tribes	
 Main Granite Vein Exhausted	花岗石矿的主矿脉已耗尽		tribes	
 Main Iron Vein Exhausted	铁矿的主矿脉已耗尽		tribes	
 Main Marble Vein Exhausted	大理石矿的主矿脉已耗尽		tribes	
+Main Stone Vein Exhausted	主石脉已枯竭		tribes	
+Maiá	迈亚号	shipname	tribes	
 making a basket	制作篮子		tribes	
 making a bread paddle	制造面包桨		tribes	
 making a charcoal stack	码炭成堆		tribes	
@@ -703,6 +833,7 @@ making a wooden helmet	制造一顶木制头盔		tribes
 making a wooden spear	制作木矛		tribes	
 making clay	生产黏土		tribes	
 making fire tongs	制造火钳		tribes	
+making firestones	制作火石		tribes	
 making hero boots	制造英雄靴		tribes	
 making kitchen tools	打造厨房用具		tribes	
 making milking tongs	制造挤奶钳		tribes	
@@ -711,17 +842,41 @@ making sturdy boots	制造坚固的靴子		tribes
 making swift boots	制造健步鞋		tribes	
 making wine	制作葡萄酒		tribes	
 Malachite	孔雀石	shipname	tribes	
+Mama Killa	玛玛基利亚号	shipname	tribes	
+Mama Occlo	玛玛奥克略号	shipname	tribes	
+Mamiá	马米亚号	shipname	tribes	
+Mamoriá	马莫里亚号	shipname	tribes	
+Mamuru	马穆鲁号	shipname	tribes	
+Manacapuru	马纳卡普鲁号	shipname	tribes	
+Manco Cápac	曼科卡帕克号	shipname	tribes	
 Mani	曼尼	shipname	tribes	
+Manicorezinho	马尼科雷津霍号	shipname	tribes	
+Manicoré	马尼科雷号	shipname	tribes	
+Manqo Qhapaq	曼科卡帕克号	shipname	tribes	
 Map Set	地图集		corrections	附加内容类别，Set 在此非"设置"
+Mapari	马帕里号	shipname	tribes	
+Mapiá	马皮亚号	shipname	tribes	
 Maple	枫树		world	
 Maple (Mature)	枫树(成材的)		world	
 Maple (Old)	枫树(老树)		world	
 Maple (Pole)	枫树(树干)		world	
 Maple (Sapling)	枫树(树苗)		world	
+Maracanã	马拉卡南号	shipname	tribes	
+Marari	马拉里号	shipname	tribes	
+Marauiá	马拉维亚号	shipname	tribes	
 Marble	大理石	shipname	tribes	
 Marble	大理石	ware	tribes	
 Marble Column	大理石柱	ware	tribes	
 Marble Mine	大理石矿	empire_building	tribes	
+Marcus Aurelius	马可·奥勒留号	shipname	tribes	
+Mariepauá	马里埃帕瓦号	shipname	tribes	
+Marimari	马里马里号	shipname	tribes	
+Marié	马里埃号	shipname	tribes	
+Market	市场	amazons_building	tribes	
+Market	市场	atlanteans_building	tribes	
+Market	市场	barbarians_building	tribes	
+Market	市场	empire_building	tribes	
+Market	市场	frisians_building	tribes	
 Mars	战神	shipname	tribes	
 Marten	貂鼠		world	
 Martinique	马提尼克岛	shipname	tribes	
@@ -736,6 +891,10 @@ Master Miner	采矿大师	empire_worker	tribes
 Master Miner	采矿大师	frisians_worker	tribes	
 Master Seamstress	女缝纫大师	frisians_worker	tribes	
 Master Woodcutter	伐木大师	amazons_worker	tribes	
+Mataurá	马陶拉号	shipname	tribes	
+Matupiri	马图皮里号	shipname	tribes	
+Maués Açu	毛埃斯阿苏号	shipname	tribes	
+Mayta Qhapaq	迈塔卡帕克号	shipname	tribes	
 Mead	蜂蜜酒	ware	tribes	
 Mead Brewery	蜂蜜酿酒厂	frisians_building	tribes	
 Meadow	草场		world	
@@ -759,7 +918,9 @@ Miner	矿工	atlanteans_worker	tribes
 Miner	矿工	barbarians_worker	tribes	
 Miner	矿工	empire_worker	tribes	
 Miner	矿工	frisians_worker	tribes	
+Mineruázinho	米内鲁阿津霍号	shipname	tribes	
 Minerva	密涅瓦	shipname	tribes	
+mining	采矿		tribes	
 mining coal	开采煤矿		tribes	
 mining diamonds	开采钻石		tribes	
 mining gold	开采黄金		tribes	
@@ -778,7 +939,10 @@ Mountain 2	山峦 2		world
 Mountain 3	山峦 3		world	
 Mountain 4	山峦 4		world	
 Mountain Meadow	山地草原		world	
+Muaco	穆阿科号	shipname	tribes	
+Mucum	穆库姆号	shipname	tribes	
 Mushroom	蘑菇		world	
+Mutum	穆图姆号	shipname	tribes	
 Mystic Quartz	神秘石英	shipname	tribes	
 Name	名称		corrections	通用名称字段，不可译作"姓名"
 Name	玩家名称	player	corrections	玩家标识，非真实姓名
@@ -790,6 +954,7 @@ Nero	尼禄	shipname	tribes
 Nerva	涅尔瓦	shipname	tribes	
 Nevis	尼维斯岛	shipname	tribes	
 New World	新世界		corrections	开局条件名，原"新的世界"啰嗦
+Nhamundá	尼亚蒙达号	shipname	tribes	
 No Artifacts	没有远古遗物		win_conditions	
 No Bushes	没有灌木		tribes	
 No Coal	没有煤		tribes	
@@ -807,6 +972,7 @@ No Marble	没有大理石		tribes
 No Ponds	没有池塘		tribes	
 No Resources	没有资源	resource_indicator	tribes	
 No Rocks	没有岩石		tribes	
+No Stones	没有石料		tribes	
 No Tree to Cut Lianas	没有树可供砍伐藤蔓植物		tribes	
 No Trees	没有树		tribes	
 No Water	没有水		tribes	
@@ -851,16 +1017,31 @@ Outpost	前哨	empire_building	tribes
 Outpost	前哨	frisians_building	tribes	
 Overview:	概览：		win_conditions	
 Ox	牛	barbarians_worker	tribes	
+Pachakuti	帕查库提号	shipname	tribes	
+Pachamama	帕查玛玛号	shipname	tribes	
+Paciá	帕西亚号	shipname	tribes	
+Padauari	帕道阿里号	shipname	tribes	
 Padded Protector	衬垫保护	ware	tribes	
 Padded Vest	衬垫背心	ware	tribes	
 Palm Trees	棕榈树		world	
+Papagaio	帕帕盖奥号	shipname	tribes	
+Papuri	帕普里号	shipname	tribes	
+Paraconi	帕拉科尼号	shipname	tribes	
+Parauari	帕拉瓦里号	shipname	tribes	
+Pardo	帕尔多号	shipname	tribes	
+Pati	帕蒂号	shipname	tribes	
 Patrol Post	巡逻岗	amazons_building	tribes	
+Pauini	帕乌伊尼号	shipname	tribes	
 Pearl	珍珠	shipname	tribes	
 Pebble	鹅卵石		world	
 Pellworm	佩尔沃姆	shipname	tribes	
 Pick	鹤嘴镐	ware	tribes	
 Pig Breeder	猪倌	empire_worker	tribes	
 Piggery	养猪场	empire_building	tribes	
+Pinhuã	皮尼安号	shipname	tribes	
+Piorini	皮奥里尼号	shipname	tribes	
+Piratucu	皮拉图库号	shipname	tribes	
+Pitinga	皮廷加号	shipname	tribes	
 Pitta Bread	皮塔饼	barbarians_ware	tribes	
 Planks	厚木板	ware	tribes	
 planting balsa tree	种植轻木树		tribes	
@@ -899,10 +1080,17 @@ preparing a ration	预备定额口粮		tribes
 preparing a snack	做点心		tribes	
 preparing only one ration	只准备一份定额口粮		tribes	
 preparing rations	准备定额口粮		tribes	
+Preto	普雷图号	shipname	tribes	
 producing charcoal	生产木炭		tribes	
 producing coal	产煤		tribes	
 producing fur	生产毛皮	frisians_building	tribes	
+Præda	战利品号	shipname	tribes	
+Puduari	普杜阿里号	shipname	tribes	
+Pureté	普雷特号	shipname	tribes	
+Purus	普鲁斯号	shipname	tribes	
+Puruê	普鲁埃号	shipname	tribes	
 Putumayo	普图马约号	shipname	tribes	
+Qhapaq Yupanki	卡帕克尤潘基号	shipname	tribes	
 Quarry	采石场	atlanteans_building	tribes	
 Quarry	采石场	barbarians_building	tribes	
 Quarry	采石场	empire_building	tribes	
@@ -910,7 +1098,9 @@ Quarry	采石场	frisians_building	tribes
 quarrying granite	采集花岗石		tribes	
 quarrying marble	采集大理石		tribes	
 Quartz	石英	ware	tribes	
+Quchamama	库查玛玛号	shipname	tribes	
 Quirinus	基里努斯	shipname	tribes	
+Quixito	基希托号	shipname	tribes	
 raising pigs	养猪		tribes	
 Random	随机	climate	corrections	
 Random	随机	terrain	corrections	
@@ -997,6 +1187,8 @@ Rubber Tree (Old)	橡胶树(老的)		tribes
 Rubber Tree (Pole)	橡胶树(树干)		tribes	
 Rubber Tree (Sapling)	橡胶树(树苗)		tribes	
 Ruin	遗址		world	
+Sachamama	萨查玛玛号	shipname	tribes	
+Sagitta	天箭号	shipname	tribes	
 Saledus	塞勒杜斯	shipname	tribes	
 Sapphire	蓝宝石	shipname	tribes	
 Satul	萨图尔神	shipname	tribes	
@@ -1008,6 +1200,7 @@ Sawmill	锯木厂	atlanteans_building	tribes
 Sawmill	锯木厂	empire_building	tribes	
 Sawyer	锯木工	atlanteans_worker	tribes	
 Saxnot	萨克斯诺特	shipname	tribes	
+Scipio	西庇阿号	shipname	tribes	
 Scout	侦察兵	amazons_worker	tribes	
 Scout	侦察兵	atlanteans_worker	tribes	
 Scout	侦察兵	barbarians_worker	tribes	
@@ -1028,9 +1221,13 @@ Sea Buckthorn (small)	沙棘果(小的)		tribes
 Sea Buckthorn (tiny)	沙棘果(微小的)		tribes	
 Seamstress	女裁缝	frisians_worker	tribes	
 Seashell	贝壳		world	
+Seneca	塞内卡号	shipname	tribes	
 Sentinel	边哨	frisians_building	tribes	
 Sentry	岗哨	barbarians_building	tribes	
 Sentry	岗哨	empire_building	tribes	
+Sepatini	塞帕蒂尼号	shipname	tribes	
+Sepoti	塞波蒂号	shipname	tribes	
+Seruini	塞鲁伊尼号	shipname	tribes	
 Server	服务器		corrections	
 sewing a tunic	缝制一件紧身上衣		tribes	
 sewing a warrior’s coat	缝制一件勇士之铠		tribes	
@@ -1100,8 +1297,10 @@ Some Gold	一些黄金	resource_indicator	tribes
 Some Granite	一些花岗石	resource_indicator	tribes	
 Some Iron	一些铁	resource_indicator	tribes	
 Some Marble	一些大理石	resource_indicator	tribes	
+Some Quartz	少量石英	resource_indicator	tribes	
 Spear	长矛	ware	tribes	
 Sphalerite	闪锌矿	shipname	tribes	
+Spiculum	锋矛号	shipname	tribes	
 Spider	蜘蛛	shipname	tribes	
 Spider Breeder	蜘蛛饲养者	atlanteans_worker	tribes	
 Spider Farm	蜘蛛农场	atlanteans_building	tribes	
@@ -1148,6 +1347,7 @@ Strong Beer	高浓度啤酒	ware	tribes
 Struggling Outpost	艰难前哨		corrections	struggling 指处境艰难，原译"战争中的前哨"无依据
 Studded Fur Garment	钉饰皮铠	ware	tribes	
 Sturdy Boots	坚固的靴子	ware	tribes	
+Sucunduri	苏昆杜里号	shipname	tribes	
 Summer	夏季		world	
 Sunstone	日长石	shipname	tribes	
 Swamp	沼泽		world	
@@ -1158,23 +1358,35 @@ Süderoog	苏德鲁格	shipname	tribes
 Süderoogsand	苏德鲁格沙滩	shipname	tribes	
 Südfall	苏德福尔	shipname	tribes	
 Tabard	无袖短外套	ware	tribes	
+Taiga 1	针叶林 1		world	
+Taiga 2	针叶林 2		world	
+Taiga 3	针叶林 3		world	
 tailoring a golden tabard	缝制黄金战袍		tribes	
 tailoring a tabard	缝制无袖短外套		tribes	
 Tailor’s Shop	裁缝店	frisians_building	tribes	
+Tapajós	塔帕若斯号	shipname	tribes	
+Tapauá	塔帕瓦号	shipname	tribes	
 Tapir	貘貘	amazons_worker	tribes	
 Tapir Breeder	貘貘饲养员	amazons_worker	tribes	
 Tapir Farm	貘貘饲养场	amazons_building	tribes	
+Tarauacá	塔劳阿卡号	shipname	tribes	
+Tarumã Açu	塔鲁曼阿苏号	shipname	tribes	
+Tarumã Mirim	塔鲁曼米林号	shipname	tribes	
 Tavern	小酒馆	barbarians_building	tribes	
 Tavern	小酒馆	empire_building	tribes	
 Tavern	小酒馆	frisians_building	tribes	
+Tea	特亚号	shipname	tribes	
 Team	团队		corrections	指玩家结盟，"小队"易与士兵编队混淆
+Tefé	特费号	shipname	tribes	
 Territorial Lord	领土之主		win_conditions	
 Territorial Time	领土时间		win_conditions	
 Territory percentage	领土百分比		win_conditions	
+the configured time limit	设定的时限		win_conditions	
 The fishing grounds are full	渔场满了		tribes	
 The Widelands Development Team	Widelands 开发团队		tribes	
 Thor	雷神	shipname	tribes	
 Thron	斯隆	shipname	tribes	
+Thupa	图帕号	shipname	tribes	
 Thyrrenia	伊特鲁里亚	shipname	tribes	
 Tiberius	泰比里厄斯	shipname	tribes	
 Tiger Eye	虎睛石	shipname	tribes	
@@ -1182,10 +1394,12 @@ Tips	提示		tribes
 Titus	提图斯	shipname	tribes	
 Tobago	多巴哥岛	shipname	tribes	
 Tombstone	墓碑		world	
+Tonantins	托南廷斯号	shipname	tribes	
 Toolsmith	工具制造者	atlanteans_worker	tribes	
 Toolsmith	工具制造者	empire_worker	tribes	
 Toolsmithy	工具铺	atlanteans_building	tribes	
 Toolsmithy	工具铺	empire_building	tribes	
+Toototobi	托托托比号	shipname	tribes	
 Topaz	黄宝石	shipname	tribes	
 Tortuga	托尔图加岛	shipname	tribes	
 Tourmaline	黑碧玺	shipname	tribes	
@@ -1207,29 +1421,53 @@ Training Camp	训练营	barbarians_building	tribes
 Training Camp	训练营	empire_building	tribes	
 Training Camp	训练营	frisians_building	tribes	
 Training Glade	林中训练场	amazons_building	tribes	
+Traíra	特拉伊拉号	shipname	tribes	
 Trees owned	拥有的树木		win_conditions	
 Treetop Sentry	树上岗哨	amazons_building	tribes	
 Tribal Encyclopedia	部落大百科		tribes	
+Tribes Immovables	部族固定物		tribes	
 Trinidad	特立尼达	shipname	tribes	
+Tumiã	图米安号	shipname	tribes	
+Tundra	苔原		world	
 Tundra Taiga	冻原针叶林		world	
 Tunic	紧身上衣	ware	tribes	
+Tupana	图帕纳号	shipname	tribes	
 Twine Tree	安庆连理树		world	
 Twine Tree (Mature)	安庆连理树(成材的)		world	
 Twine Tree (Old)	安庆连理树(老树)		world	
 Twine Tree (Pole)	安庆连理树(树干)		world	
 Twine Tree (Sapling)	安庆连理树(树苗)		world	
+Uaicurapa	瓦伊库拉帕号	shipname	tribes	
+Uarini	瓦里尼号	shipname	tribes	
+Uatumã	瓦图曼号	shipname	tribes	
+Uaupés	瓦乌佩斯号	shipname	tribes	
 Ullr	乌勒尔	shipname	tribes	
+Umari	乌马里号	shipname	tribes	
+Uneiuxi	乌内尤希号	shipname	tribes	
+Unini	乌尼尼号	shipname	tribes	
+Urqon	乌尔孔号	shipname	tribes	
+Urubaxi	乌鲁巴希号	shipname	tribes	
+Urubu	乌鲁布号	shipname	tribes	
+Urucu	乌鲁库号	shipname	tribes	
+Urupadi	乌鲁帕迪号	shipname	tribes	
+Uruá	乌鲁阿号	shipname	tribes	
 Uthlande	乌斯兰德	shipname	tribes	
 Valdar	瓦尔达	shipname	tribes	
+Valkyrie	女武神号	shipname	tribes	
+Venator	猎手号	shipname	tribes	
 Venus	维纳斯	shipname	tribes	
+Vergilius	维吉尔号	shipname	tribes	
+Vespa	黄蜂号	shipname	tribes	
 Vespasianus	维斯帕西安	shipname	tribes	
 Vesta	女灶神	shipname	tribes	
+Vesuvius	维苏威号	shipname	tribes	
 Vili	威宁	shipname	tribes	
 Village	村庄		tribes	
 Vine Farmer	葡萄种植农夫	empire_worker	tribes	
 Vinea	威尼亚	shipname	tribes	
 Vineyard	葡萄园	empire_building	tribes	
 Vintner	酿酒师	empire_worker	tribes	
+Viracocha	维拉科查号	shipname	tribes	
 Vitellius	维特里乌斯	shipname	tribes	
 Volf	伏尔夫	shipname	tribes	
 War Mill	战争磨坊	barbarians_building	tribes	
@@ -1246,12 +1484,14 @@ Warriors’ Dwelling	勇士聚义厅	amazons_building	tribes
 Warriors’ Gathering	勇士俱乐部	amazons_building	tribes	
 Warrior’s Ax	勇士之斧	ware	tribes	
 Warrior’s Coat	勇士之铠	ware	tribes	
+Washkar	瓦斯卡尔号	shipname	tribes	
 Wasteland	荒地		world	
 Wasteland Trees	荒地树木		world	
 Water	水		world	
 Water	水	resource_indicator	tribes	
 Water	水	ware	tribes	
 Water Gatherer’s Hut	采水小屋	amazons_building	tribes	
+Wayna Qhapaq	瓦伊纳卡帕克号	shipname	tribes	
 Weapon Smithy	兵器铺	atlanteans_building	tribes	
 Weapon Smithy	兵器铺	empire_building	tribes	
 Weaponsmith	兵器匠	atlanteans_worker	tribes	
@@ -1283,7 +1523,6 @@ Wilderness Keeper’s Tent	荒野守护者帐篷	amazons_building	tribes
 Wine	葡萄酒	ware	tribes	
 Winery	葡萄酒酿造厂	empire_building	tribes	
 Winter	冬季		world	
-Wisent	欧洲野牛		world	
 Wolf	狼		world	
 Wolverine	狼獾	shipname	tribes	
 Wood Gnome	木材守护神		win_conditions	
@@ -1300,6 +1539,12 @@ Wooden Tower	木塔	frisians_building	tribes
 Wool	羊毛	ware	tribes	
 Workers	工人		tribes	
 working	工作		tribes	
+World Immovables	世界固定物		tribes	
+Xeruã	谢鲁安号	shipname	tribes	
+Xie	希埃号	shipname	tribes	
+Yakumama	亚库玛玛号	shipname	tribes	
+Yawar Waqaq	亚瓦尔瓦卡克号	shipname	tribes	
 You lost	你输了		win_conditions	
 You won	你赢了		win_conditions	
 Yrsa	伊尔萨	shipname	tribes	
+Zinchi Roqa	辛奇罗卡号	shipname	tribes	
