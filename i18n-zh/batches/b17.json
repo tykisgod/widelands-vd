@@ -1,0 +1,979 @@
+[
+ {
+  "key": "2e96b96be2",
+  "msgid": "Cancel Expedition",
+  "zh": "",
+  "note": "* TRANSLATORS: Window label when an expedition can't be canceled",
+  "ui": "ui/game",
+  "current": "取消探险"
+ },
+ {
+  "key": "becfd4283e",
+  "msgid": "This expedition can’t be canceled, because the ship has no port to return to.",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "探险不能被取消，因为船只没有港口可以返回。",
+  "terms": [
+   "Port = 港口",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "96694e2e62",
+  "msgid": "(none)",
+  "zh": "",
+  "msgctxt": "destination",
+  "note": "* TRANSLATORS: No destination",
+  "ui": "ui/game"
+ },
+ {
+  "key": "632cc111bd",
+  "msgid": "Go to destination (%s)",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "35f7a35715",
+  "msgid": "Go to destination",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "前往目的地"
+ },
+ {
+  "key": "8aa6861d29",
+  "msgid": "Refit to transport ship",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "751b9f18d1",
+  "msgid": "Refit to warship",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "2ec9bfe6f1",
+  "msgid": "HP: %1$u/%2$u",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "e045e88879",
+  "msgid": "Damaged warships regain %u hitpoint per second when anchored in a port.",
+  "zh": "",
+  "msgid_plural": "Damaged warships regain %u hitpoints per second when anchored in a port.",
+  "ui": "ui/game",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "862687284c",
+  "msgid": "Soldier Statistics",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "士兵统计",
+  "terms": [
+   "Soldier = 士兵"
+  ]
+ },
+ {
+  "key": "227ac37647",
+  "msgid": "By Attribute",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "按属性"
+ },
+ {
+  "key": "9de7910748",
+  "msgid": "Overview (%u)",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "8607923377",
+  "msgid": "×%u",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "×%u"
+ },
+ {
+  "key": "7630141278",
+  "msgid": "Health: %u",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "健康：%u"
+ },
+ {
+  "key": "933e46eebb",
+  "msgid": "Attack: %u",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "攻击：%u"
+ },
+ {
+  "key": "060ab8e550",
+  "msgid": "Defense: %u",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "防卫：%u"
+ },
+ {
+  "key": "3bfc0429cf",
+  "msgid": "Evade: %u",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "闪避：%u"
+ },
+ {
+  "key": "0583f26ef0",
+  "msgid": "Capacity",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "容量"
+ },
+ {
+  "key": "96ca152d8a",
+  "msgid": "Click soldier to send away",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "点击送走士兵",
+  "terms": [
+   "Soldier = 士兵",
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "06724c06b8",
+  "msgid": "Stock",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's statistics menu",
+  "ui": "ui/game, ui/wui",
+  "current": "存货"
+ },
+ {
+  "key": "1b1c219095",
+  "msgid": "Evaluate",
+  "zh": "",
+  "note": "* TRANSLATORS: If this checkbox is ticked, all icons in the stock menu are | drawn with | different background colors; each icon's color indicates whether the stock | is higher or | lower than the economy target setting. Very little space is available.",
+  "ui": "ui/game"
+ },
+ {
+  "key": "f7f583ecd9",
+  "msgid": "Compare stocked amounts to economy target quantities",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "b42f246f62",
+  "msgid": "Red:",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "96d0c37a76",
+  "msgid": "Stock is lower than the target",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "d83ca0e734",
+  "msgid": "Yellow:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "黄色："
+ },
+ {
+  "key": "af99a039df",
+  "msgid": "Stock is equal to the target",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "8702711b05",
+  "msgid": "Green:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "绿色："
+ },
+ {
+  "key": "aedf7fe994",
+  "msgid": "Stock is higher than the target",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "库存高于目标"
+ },
+ {
+  "key": "cd43925f15",
+  "msgid": "Wares (total)",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "物品(全部)",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "c41f491b1e",
+  "msgid": "Workers (total)",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "劳动者(全部)",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "76d0954755",
+  "msgid": "Wares in warehouses",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "仓库中的物品",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "aa677d9f52",
+  "msgid": "Workers in warehouses",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "仓库中的劳动者",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "82ad175b6f",
+  "msgid": "Continue playing this mission",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "3c350752a9",
+  "msgid": "Next Mission",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "7fad1cec47",
+  "msgid": "Start the next mission now",
+  "zh": "",
+  "ui": "ui/game"
+ },
+ {
+  "key": "8342931e39",
+  "msgid": "Continue playing",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "继续游戏"
+ },
+ {
+  "key": "16d9600324",
+  "msgid": "Time",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "时间"
+ },
+ {
+  "key": "f3778ec4e0",
+  "msgid": "Lost",
+  "zh": "",
+  "note": "* TRANSLATORS: This is shown in the game summary for the players who have | lost.",
+  "ui": "ui/game",
+  "current": "失败"
+ },
+ {
+  "key": "a1bfd6b7fa",
+  "msgid": "Won",
+  "zh": "",
+  "note": "* TRANSLATORS: This is shown in the game summary for the players who have | won.",
+  "ui": "ui/game",
+  "current": "获胜"
+ },
+ {
+  "key": "54f03aebf4",
+  "msgid": "Resigned",
+  "zh": "",
+  "note": "* TRANSLATORS: This is shown in the game summary for the players who have | resigned.",
+  "ui": "ui/game",
+  "current": "辞职"
+ },
+ {
+  "key": "448c52e736",
+  "msgid": "Unknown",
+  "zh": "",
+  "msgctxt": "player_won",
+  "note": "* TRANSLATORS: This is shown in the game summary when we don't know | * TRANSLATORS: if the player has lost or won.",
+  "ui": "ui/game",
+  "current": "未知"
+ },
+ {
+  "key": "d2ffa03260",
+  "msgid": "You won!",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "你赢了！",
+  "terms": [
+   "You won = 你赢了"
+  ]
+ },
+ {
+  "key": "e544691801",
+  "msgid": "You lost.",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "你输了。",
+  "terms": [
+   "You lost = 你输了"
+  ]
+ },
+ {
+  "key": "eeb53546ba",
+  "msgid": "%s won!",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "%s胜利！"
+ },
+ {
+  "key": "91528ef2d4",
+  "msgid": "Team %u won!",
+  "zh": "",
+  "ui": "ui/game",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "a27e70050d",
+  "msgid": "Score",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "得分"
+ },
+ {
+  "key": "03d29db5c3",
+  "msgid": "Team Score",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "团队得分",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "d092960aa2",
+  "msgid": "Game over",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "游戏结束"
+ },
+ {
+  "key": "b828189535",
+  "msgid": "Player Info:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "玩家信息：",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "08c38fefbe",
+  "msgid": "Elapsed time:",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "运行时间："
+ },
+ {
+  "key": "b7345fd034",
+  "msgid": "Soldiers in training",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "训练中的士兵"
+ },
+ {
+  "key": "3df0679bcd",
+  "msgid": "Ware Statistics",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "物品统计"
+ },
+ {
+  "key": "2cdc4e9cca",
+  "msgid": "Production",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "生产"
+ },
+ {
+  "key": "c804a5e2a5",
+  "msgid": "Consumption",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "消费"
+ },
+ {
+  "key": "0fbd181aca",
+  "msgid": "Economy health",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "经济健康",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "aa3751b8bd",
+  "msgid": "Remove 10 wares",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "移除10件物品",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "a1df09d350",
+  "msgid": "Remove a ware",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "移除一件物品"
+ },
+ {
+  "key": "64304d3c21",
+  "msgid": "Add a ware",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "添加一件物品"
+ },
+ {
+  "key": "1a77d995a8",
+  "msgid": "Add 10 wares",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "添加10件物品",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "c421bc127d",
+  "msgid": "Configure this building’s economy",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "调配此建筑的经济",
+  "terms": [
+   "Building = 建筑",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "52ebdce6e4",
+  "msgid": "Wares waiting to be shipped",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "等待船运的货物",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "2b855ed031",
+  "msgid": "Workers waiting to embark",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "等待上船的劳动者",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "297a5ff687",
+  "msgid": "Expedition",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "探险"
+ },
+ {
+  "key": "0d03f83b5d",
+  "msgid": "↓",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "↓"
+ },
+ {
+  "key": "87c069ccc9",
+  "msgid": "↑",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "↑"
+ },
+ {
+  "key": "86e0960ac9",
+  "msgid": "=",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "="
+ },
+ {
+  "key": "fad7342af0",
+  "msgid": "%1$s%2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: The first placeholder is the stock amount of a ware/worker, | and the second is an | * icon indicating a trend. Very little space is available.",
+  "ui": "ui/game",
+  "current": "%1$s%2$s"
+ },
+ {
+  "key": "56cb21e606",
+  "msgid": "%1%k",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a large number with a suffix (e.g. 50k = 50,000). | * TRANSLATORS: Space is limited, use only 1 letter for the suffix and no | whitespace.",
+  "ui": "ui/game",
+  "current": "%1%k"
+ },
+ {
+  "key": "6c3aaa4a49",
+  "msgid": "%1%M",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a large number with a suffix (e.g. 5M = 5,000,000). | * TRANSLATORS: Space is limited, use only 1 letter for the suffix and no | whitespace.",
+  "ui": "ui/game",
+  "current": "%1%M"
+ },
+ {
+  "key": "c259ee77d7",
+  "msgid": "%1%G",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a large number with a suffix (e.g. 5G = | 5,000,000,000). | * TRANSLATORS: Space is limited, use only 1 letter for the suffix and no | whitespace.",
+  "ui": "ui/game",
+  "current": "%1%G"
+ },
+ {
+  "key": "d10a9d572b",
+  "msgid": "Follow",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "跟随"
+ },
+ {
+  "key": "7a1de4051c",
+  "msgid": "Center the main view on this",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "主视图居中于此"
+ },
+ {
+  "key": "1a747c1ba9",
+  "msgid": "Login",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "登陆"
+ },
+ {
+  "key": "a10209e216",
+  "msgid": "Username:",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "用户名："
+ },
+ {
+  "key": "db8c7d25b8",
+  "msgid": "Unknown Recipient",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "未知接受者"
+ },
+ {
+  "key": "c7a771004c",
+  "msgid": "All",
+  "zh": "",
+  "msgctxt": "all_players",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "ad09a7c75d",
+  "msgid": "Recipient",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "接受者"
+ },
+ {
+  "key": "57964be8f9",
+  "msgid": "%d file",
+  "zh": "",
+  "msgid_plural": "%d files",
+  "note": "* TRANSLATORS: This is the second part of \"Selected %1% | directory/directories and %2%\"",
+  "ui": "ui/shared",
+  "current": "%d文件"
+ },
+ {
+  "key": "c6ac8a0025",
+  "msgid": "Selected %1% directory and %2%:",
+  "zh": "",
+  "msgid_plural": "Selected %1% directories and %2%:",
+  "note": "* TRANSLATORS: %1% = number of selected directories, %2% = number of | selected files",
+  "ui": "ui/shared",
+  "current": "选中%1%目录和%2%：",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "47f83fd111",
+  "msgid": "Directory Name:",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "目录名：",
+  "terms": [
+   "Directory = 目录",
+   "Name = 名称",
+   "Name = 船名",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "f8705fc20a",
+  "msgid": "Error:",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "错误："
+ },
+ {
+  "key": "95cf59f696",
+  "msgid": "Map Name:",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "地图名称：",
+  "terms": [
+   "Name = 名称",
+   "Name = 船名",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "5f7f534221",
+  "msgid": "Start of Replay:",
+  "zh": "",
+  "note": "* TRANSLATORS: The time a replay starts. Shown in the replay loading screen",
+  "ui": "ui/shared",
+  "current": "回放开始：",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "47dc9e13d8",
+  "msgid": "Game Time:",
+  "zh": "",
+  "note": "* TRANSLATORS: The current time of a savegame. Shown in the game saving and | loading screens.",
+  "ui": "ui/shared",
+  "current": "游戏时间："
+ },
+ {
+  "key": "781137017b",
+  "msgid": "Widelands Version:",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "WIdelands版本："
+ },
+ {
+  "key": "5b702c1d4b",
+  "msgid": "Win Condition:",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "胜利条件："
+ },
+ {
+  "key": "713ec8a78c",
+  "msgid": "Add-Ons:",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "附加组件",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "5a275bd569",
+  "msgid": "Game data error:",
+  "zh": "",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "df69aa3d24",
+  "msgid": "Version Mismatch",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "版本不匹配"
+ },
+ {
+  "key": "92c9a470bd",
+  "msgid": "This replay was created with a different Widelands version. It might be compatible, but will more likely desync or even fail to load.\n\nPlease do not report any bugs that occur while watching this replay.\n\nDo you want to load the replay anyway?",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "此回放是由不同的Widelands版本创建的。它可能是兼容的，但是很有可能不同步甚至无法加载。 \n\n请不要报告在观看此回放时发生的任何错误。 \n\n你是否还要加载回放文件？",
+  "terms": [
+   "Replay = 回放",
+   "Desync = 不同步"
+  ]
+ },
+ {
+  "key": "01ac0a68d5",
+  "msgid": "Delete this replay",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the delete button. The user has selected 1 file",
+  "ui": "ui/shared",
+  "current": "删除此回放",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "a209149f82",
+  "msgid": "Delete this game",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the delete button. The user has selected 1 file",
+  "ui": "ui/shared",
+  "current": "删除游戏"
+ },
+ {
+  "key": "cfe4fbd6ee",
+  "msgid": "Delete these replays",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the delete button. The user has | selected multiple files",
+  "ui": "ui/shared",
+  "current": "删除这些回放"
+ },
+ {
+  "key": "19641ff784",
+  "msgid": "Delete these games",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the delete button. The user has | selected multiple files",
+  "ui": "ui/shared",
+  "current": "删除这些游戏"
+ },
+ {
+  "key": "8ab980c7a6",
+  "msgid": "Official",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "官方"
+ },
+ {
+  "key": "a460055ed0",
+  "msgid": "The map is provided by the official Widelands release",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "c999fd9088",
+  "msgid": "Unofficial",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "非官方"
+ },
+ {
+  "key": "b4a7e453dd",
+  "msgid": "Custom or add-on map",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "c106a0b1a8",
+  "msgid": "Balanced",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "平衡的"
+ },
+ {
+  "key": "1457f95dd4",
+  "msgid": "Player starting positions were designed to provide equal conditions for all players",
+  "zh": "",
+  "ui": "ui/shared",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "2602555edc",
+  "msgid": "Unbalanced",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "不平衡的"
+ },
+ {
+  "key": "9d6598c45e",
+  "msgid": "Players face different conditions or balancing is not checked",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "871f62b533",
+  "msgid": "Seafaring",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag | * TRANSLATORS: An entry in the game's statistics menu",
+  "ui": "ui/shared, ui/wui",
+  "current": "航海"
+ },
+ {
+  "key": "bd35f10504",
+  "msgid": "The map allows building ports and ships",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "091370dec6",
+  "msgid": "Ferries",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "渡船"
+ },
+ {
+  "key": "00c71fd024",
+  "msgid": "The map allows building ferries, ferry yards and waterways",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared",
+  "terms": [
+   "Building = 建筑",
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "e08655dea7",
+  "msgid": "Artifacts",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared, ui/wui",
+  "current": "远古遗物",
+  "terms": [
+   "Artifacts = 远古遗物"
+  ]
+ },
+ {
+  "key": "010e99a42d",
+  "msgid": "The map contains artifacts for the Artifacts win condition",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared",
+  "terms": [
+   "Artifacts = 远古遗物"
+  ]
+ },
+ {
+  "key": "e4742563da",
+  "msgid": "The map contains a story line or other custom scripting",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "9d42b83a16",
+  "msgid": "Free for all",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "各自为战"
+ },
+ {
+  "key": "c1da85670d",
+  "msgid": "Every player fights against all other players",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "3583d9e66d",
+  "msgid": "1v1",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag. One versus one.",
+  "ui": "ui/shared",
+  "current": "1v1"
+ },
+ {
+  "key": "4c656ed54c",
+  "msgid": "Two players fight against each other",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "8f64602bae",
+  "msgid": "Teams of 2",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "每组2人"
+ },
+ {
+  "key": "c6f891b36e",
+  "msgid": "Players form teams of two players each",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "db3101f39d",
+  "msgid": "Teams of 3",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "每组3人"
+ },
+ {
+  "key": "9e41b8fa29",
+  "msgid": "Players form teams of three players each",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "9f474b078f",
+  "msgid": "Teams of 4",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/shared",
+  "current": "每组4人"
+ },
+ {
+  "key": "42cc0db5da",
+  "msgid": "Players form teams of four players each",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a tool tip for a map tag",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "117b9490c2",
+  "msgid": "parent",
+  "zh": "",
+  "note": "* TRANSLATORS: Parent directory/folder",
+  "ui": "ui/shared",
+  "current": "上一级"
+ }
+]

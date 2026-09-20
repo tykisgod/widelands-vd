@@ -1,0 +1,967 @@
+[
+ {
+  "key": "b6bd705bca",
+  "msgid": "empty",
+  "zh": "",
+  "note": "* TRANSLATORS: This label is shown when a folder is empty",
+  "ui": "ui/shared",
+  "current": "空"
+ },
+ {
+  "key": "032bab8acc",
+  "msgid": "No Author",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "没有作者"
+ },
+ {
+  "key": "0c2764d9d6",
+  "msgid": "Directory",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "目录",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "fdb883926f",
+  "msgid": "The original name of this map: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in map description when translated map names are | being | displayed. | * TRANSLATORS: %s is the English name of the map.",
+  "ui": "ui/shared",
+  "current": "此地图的原始名称：%s",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "635e4550e4",
+  "msgid": "The name of this map in your language: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip in map description when map names are being | displayed in | English. | * TRANSLATORS: %s is the localized name of the map.",
+  "ui": "ui/shared",
+  "current": "此地图在你的语言中的名称是：%s",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "607a7e6802",
+  "msgid": "Hint",
+  "zh": "",
+  "note": "* TRANSLATORS: Map hint header when selecting a map.",
+  "ui": "ui/shared",
+  "current": "提示"
+ },
+ {
+  "key": "dac55f062b",
+  "msgid": "Game data error",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "游戏数据错误"
+ },
+ {
+  "key": "fb95e21b85",
+  "msgid": "Filename",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "文件名"
+ },
+ {
+  "key": "e06997e2b6",
+  "msgid": "The name of the map or scenario",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "地图或场景的名称",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "dd82e94ce4",
+  "msgid": "Size",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "尺寸"
+ },
+ {
+  "key": "5de4e69d1f",
+  "msgid": "The size of the map (Width x Height)",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "地图的大小(宽 x 高)"
+ },
+ {
+  "key": "e0ade44d17",
+  "msgid": "Map Name",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "地图名称",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "cd3f1052ae",
+  "msgid": "The game could not be deleted.",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "此游戏不能被删除。"
+ },
+ {
+  "key": "3eeb265d51",
+  "msgid": "%d game could not be deleted.",
+  "zh": "",
+  "msgid_plural": "%d games could not be deleted.",
+  "note": "* TRANSLATORS: Used with multiple games, 1 game has a separate string. DO | NOT omit the | * placeholder in your translation.",
+  "ui": "ui/shared",
+  "current": "%d游戏不能被删除。"
+ },
+ {
+  "key": "77e0769e3c",
+  "msgid": "Do you really want to delete this replay?",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "确定删除此回放？",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "38e46c4167",
+  "msgid": "Do you really want to delete this %d replay?",
+  "zh": "",
+  "msgid_plural": "Do you really want to delete these %d replays?",
+  "note": "* TRANSLATORS: Used with multiple replays, 1 replay has a | separate string. DO NOT omit the placeholder in your translation.",
+  "ui": "ui/shared",
+  "current": "你真的想删除这些%d回放？",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "fc4eea948f",
+  "msgid": "The replay could not be deleted.",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "此回放不能被删除。",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "aeba9e2881",
+  "msgid": "%d replay could not be deleted.",
+  "zh": "",
+  "msgid_plural": "%d replays could not be deleted.",
+  "note": "* TRANSLATORS: Used with multiple replays, 1 replay has a separate string. | DO NOT omit the | * placeholder in your translation.",
+  "ui": "ui/shared",
+  "current": "%d回放不能被删除。",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "1f876d3e89",
+  "msgid": "Confirm Deleting File",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "确认删除文件"
+ },
+ {
+  "key": "2d1de2cdb5",
+  "msgid": "Confirm Deleting Files",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "确认删除文件"
+ },
+ {
+  "key": "d84e4909d1",
+  "msgid": "Do you really want to delete this game?",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "确定删除此游戏？"
+ },
+ {
+  "key": "711b213441",
+  "msgid": "Do you really want to delete this %d game?",
+  "zh": "",
+  "msgid_plural": "Do you really want to delete these %d games?",
+  "note": "* TRANSLATORS: Used with multiple games, 1 game has a separate | string. DO NOT omit the placeholder in your translation.",
+  "ui": "ui/shared",
+  "current": "你真的要删除这些%d游戏吗？"
+ },
+ {
+  "key": "bd42407480",
+  "msgid": "Error Deleting File!",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "删除文件时出错！"
+ },
+ {
+  "key": "86cf48dd07",
+  "msgid": "Error Deleting Files!",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "删除文件时出错！"
+ },
+ {
+  "key": "c55538fd14",
+  "msgid": "This file has the wrong format and can’t be loaded. Maybe it was created with an older version of Widelands.",
+  "zh": "",
+  "note": "* TRANSLATORS: Error message introduction for when an old savegame can't be | loaded",
+  "ui": "ui/shared",
+  "current": "此文件因格式错误而无法载入，可能是由旧版本Widelands创建的。"
+ },
+ {
+  "key": "c12b211871",
+  "msgid": "Error message:",
+  "zh": "",
+  "note": "* TRANSLATORS: This text is on a separate line with an error message below",
+  "ui": "ui/shared",
+  "current": "错误消息：",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "645deee763",
+  "msgid": "Today, %1%:%2%",
+  "zh": "",
+  "note": "* TRANSLATORS: Display date for choosing a savegame/replay. Placeholders | are: | hour:minute",
+  "ui": "ui/shared",
+  "current": "今天， %1%:%2%"
+ },
+ {
+  "key": "cf3a1c09f5",
+  "msgid": "saved today at %1%:%2%",
+  "zh": "",
+  "note": "* TRANSLATORS: Display date for choosing a savegame/replay. Placeholders | are: | hour:minute. This is part of a list.",
+  "ui": "ui/shared",
+  "current": "在今天保存于%1%:%2%"
+ },
+ {
+  "key": "75ae61d37c",
+  "msgid": "Yesterday, %1%:%2%",
+  "zh": "",
+  "note": "* TRANSLATORS: Display date for choosing a savegame/replay. Placeholders | are: | hour:minute",
+  "ui": "ui/shared",
+  "current": "昨天， %1%:%2%"
+ },
+ {
+  "key": "b347927eb4",
+  "msgid": "saved yesterday at %1%:%2%",
+  "zh": "",
+  "note": "* TRANSLATORS: Display date for choosing a savegame/replay. Placeholders | are: | hour:minute. This is part of a list.",
+  "ui": "ui/shared",
+  "current": "在昨天保存于%1%:%2%"
+ },
+ {
+  "key": "33767c58c2",
+  "msgid": "%1% %2%, %3%",
+  "zh": "",
+  "note": "* TRANSLATORS: Display date for choosing a savegame/replay. Placeholders | are: | month day, year",
+  "ui": "ui/shared",
+  "current": "%1%%2%,%3%"
+ },
+ {
+  "key": "79335e9d7b",
+  "msgid": "saved on %1$s %2$u, %3$u",
+  "zh": "",
+  "note": "* TRANSLATORS: Display date for choosing a savegame/replay. Placeholders | are: | month (short name) day (number), | year (number). This is part of a list.",
+  "ui": "ui/shared",
+  "current": "保存于：%1$s%2$u,%3$u"
+ },
+ {
+  "key": "af6e406cd7",
+  "msgid": "Incompatible: %s",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "不兼容的：%s"
+ },
+ {
+  "key": "9f0feda21b",
+  "msgid": "Save Date",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "保存日期"
+ },
+ {
+  "key": "bc7d804871",
+  "msgid": "The date this game was saved",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "游戏保存日期"
+ },
+ {
+  "key": "56246b163f",
+  "msgid": "The filename that the game was saved under followed by the map’s name, or the map’s name followed by the last objective achieved.",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "游戏存档的文件名后跟地图名，地图名后跟一个最后达成的目标。",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "2bc20cac4f",
+  "msgid": "Game Mode",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip header for the \"Mode\" column when choosing a | game/replay to | load.",
+  "ui": "ui/shared",
+  "current": "游戏模式"
+ },
+ {
+  "key": "5dbd2a5855",
+  "msgid": "SP = Single Player",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the \"Mode\" column when choosing a game/replay to | load. | * TRANSLATORS: Make sure that you keep consistency in your translation.",
+  "ui": "ui/shared",
+  "current": "SP = 单人游戏",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "ee1078ecd3",
+  "msgid": "MP = Multiplayer",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the \"Mode\" column when choosing a game/replay to | load. | * TRANSLATORS: Make sure that you keep consistency in your translation.",
+  "ui": "ui/shared",
+  "current": "MP = 多人游戏"
+ },
+ {
+  "key": "f2db09af38",
+  "msgid": "H = Multiplayer (Host)",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the \"Mode\" column when choosing a game/replay to | load. | * TRANSLATORS: Make sure that you keep consistency in your translation.",
+  "ui": "ui/shared",
+  "current": "H = 多人游戏（主机）"
+ },
+ {
+  "key": "d3f95f0fee",
+  "msgid": "Numbers are the number of players.",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "数字表示游戏玩家的数量。"
+ },
+ {
+  "key": "0d717b9095",
+  "msgid": "Mode",
+  "zh": "",
+  "note": "* TRANSLATORS: Game Mode table column when choosing a game/replay to load. | * TRANSLATORS: Keep this to 5 letters maximum. | * TRANSLATORS: A tooltip will explain if you need to use an abbreviation.",
+  "ui": "ui/shared",
+  "current": "模式"
+ },
+ {
+  "key": "5d26164450",
+  "msgid": "%1% (%2%)",
+  "zh": "",
+  "msgctxt": "mapname_gametime",
+  "ui": "ui/shared",
+  "current": "%1%(%2%)"
+ },
+ {
+  "key": "c13489fa5a",
+  "msgid": "Filename: Map name (start of replay)",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "文件名：地图名(回放起始)",
+  "terms": [
+   "Replay = 回放",
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "d19fbf6d92",
+  "msgid": "Map name (start of replay)",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "地图名(回放起始)",
+  "terms": [
+   "Replay = 回放",
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "8e68087756",
+  "msgid": "Autosave: %1%",
+  "zh": "",
+  "note": "* TRANSLATORS: %1% is a map's name.",
+  "ui": "ui/shared",
+  "current": "自动保存: %1%"
+ },
+ {
+  "key": "9b6e484512",
+  "msgid": "Autosave %1%: %2%",
+  "zh": "",
+  "note": "* TRANSLATORS: %1% is a number, %2% a map's name.",
+  "ui": "ui/shared",
+  "current": "自动保存 %1%: %2%"
+ },
+ {
+  "key": "b3fdf0f1ca",
+  "msgid": "%1%: %2%",
+  "zh": "",
+  "msgctxt": "filename_mapname",
+  "note": "* TRANSLATORS: %1% is a filename, %2% a map's name.",
+  "ui": "ui/shared",
+  "current": "%1%:%2%"
+ },
+ {
+  "key": "bee499d885",
+  "msgid": "SP",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Single Player\" entry in the Game Mode table column. | * TRANSLATORS: \"Keep this to 6 letters maximum. | * TRANSLATORS: A tooltip will explain the abbreviation. | * TRANSLATORS: Make sure that this translation is consistent with the | tooltip.",
+  "ui": "ui/shared",
+  "current": "单人"
+ },
+ {
+  "key": "037bc22567",
+  "msgid": "H (%1%)",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Multiplayer Host\" entry in the Game Mode table column. | * TRANSLATORS: \"Keep this to 2 letters maximum. | * TRANSLATORS: A tooltip will explain the abbreviation. | * TRANSLATORS: Make sure that this translation is consistent with the | tooltip. | * TRANSLATORS: %1% is the number of players",
+  "ui": "ui/shared",
+  "current": "主(%1%)"
+ },
+ {
+  "key": "cb2d000b24",
+  "msgid": "MP (%1%)",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Multiplayer\" entry in the Game Mode table column. | * TRANSLATORS: \"Keep this to 2 letters maximum. | * TRANSLATORS: A tooltip will explain the abbreviation. | * TRANSLATORS: Make sure that this translation is consistent with the | tooltip. | * TRANSLATORS: %1% is the number of players",
+  "ui": "ui/shared",
+  "current": "多 (%1%)"
+ },
+ {
+  "key": "dcc9110c20",
+  "msgid": "Play your own music in-game",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "在游戏中播放你自己的音乐"
+ },
+ {
+  "key": "7878004f46",
+  "msgid": "You can play custom in-game music by placing your own music files in ‘<Widelands Home Directory>/music/custom_XX.*’ (where ‘XX’ are sequential two-digit numbers starting with 00). Supported file formats are ‘.mp3’ and ‘.ogg’.",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "您可以通过将自己的音乐文件放置在“<Widelands Home Directory>/music/custom_XX.*”（其中“XX”是以00开头的连续两位数字）来播放自定义游戏内音乐。支持的文件格式为“.mp3”和“.ogg”。",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "df7c89d415",
+  "msgid": "Play the intro music at startup",
+  "zh": "",
+  "ui": "ui/shared"
+ },
+ {
+  "key": "2580a155d2",
+  "msgid": "Whether to play the intro music when Widelands is started. The splashscreen is only closed automatically when the intro music ends, but can be skipped by a keypress or a mouse click.",
+  "zh": "",
+  "ui": "ui/shared",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "e882ffaafa",
+  "msgid": "Music",
+  "zh": "",
+  "msgctxt": "sound_options",
+  "ui": "ui/shared",
+  "current": "音乐"
+ },
+ {
+  "key": "f6192c4e11",
+  "msgid": "Chat Messages",
+  "zh": "",
+  "msgctxt": "sound_options",
+  "ui": "ui/shared",
+  "current": "聊天消息"
+ },
+ {
+  "key": "d69dc6239a",
+  "msgid": "Game Messages",
+  "zh": "",
+  "msgctxt": "sound_options",
+  "ui": "ui/shared",
+  "current": "游戏消息"
+ },
+ {
+  "key": "3756986995",
+  "msgid": "User Interface",
+  "zh": "",
+  "msgctxt": "sound_options",
+  "ui": "ui/shared",
+  "current": "用户界面"
+ },
+ {
+  "key": "24c9e243f0",
+  "msgid": "Ambient Sounds",
+  "zh": "",
+  "msgctxt": "sound_options",
+  "ui": "ui/shared",
+  "current": "环境声效"
+ },
+ {
+  "key": "824e11888b",
+  "msgid": "Sound is disabled either due to a problem with the sound driver, or because it was switched off at the command line.",
+  "zh": "",
+  "ui": "ui/shared",
+  "current": "声音被禁用的原因可能是由于声卡驱动程序有问题，也可能是由于命令行关闭了声音。 "
+ },
+ {
+  "key": "1a8c584373",
+  "msgid": "Changes the volume. Click to hear a sample.",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for volume slider in sound options",
+  "ui": "ui/shared",
+  "current": "调节音量。单击此处收听示例。",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "8dd0e45d2a",
+  "msgid": "Suggested Teams",
+  "zh": "",
+  "note": "* TRANSLATORS: Label for the list of suggested teams when choosing a map",
+  "ui": "ui/shared",
+  "current": "组队建议"
+ },
+ {
+  "key": "9b933b5839",
+  "msgid": "Error loading script for encyclopedia:\n%s",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "6572b2f671",
+  "msgid": "Info Panel Visibility",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "信息面板可见性"
+ },
+ {
+  "key": "1e19b5c0a1",
+  "msgid": "Follow mouse",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "跟随鼠标"
+ },
+ {
+  "key": "c35f35a7b8",
+  "msgid": "Hide",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "隐藏"
+ },
+ {
+  "key": "102fc26bfd",
+  "msgid": "Move panel to bottom",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "将面板移至底部"
+ },
+ {
+  "key": "f8b13a56e5",
+  "msgid": "Move panel to top",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "将面板移至顶部"
+ },
+ {
+  "key": "6edc2ed758",
+  "msgid": "Cheat mode enabled",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "1931a46896",
+  "msgid": "%1$s • %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: (Gametime • Realtime) or (Gametime • Gamespeed) or (Realtime | • Gamespeed)",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "bf48be6dfa",
+  "msgid": "%1$s • %2$s • %3$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Gametime • Realtime • Gamespeed",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "e61fded781",
+  "msgid": "Map View",
+  "zh": "",
+  "note": "* TRANSLATORS: Title for the map view menu button in the game",
+  "ui": "ui/wui",
+  "current": "地图视图"
+ },
+ {
+  "key": "f95c07acc7",
+  "msgid": "Plugins",
+  "zh": "",
+  "note": "* TRANSLATORS: Title for the plugins menu button in the game",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "eb31cf7780",
+  "msgid": "Failed saving screenshot!",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "c9bb1cb9db",
+  "msgid": "Screenshot saved",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "3b2242b1f0",
+  "msgid": "Hide Minimap",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's map view menu",
+  "ui": "ui/wui",
+  "current": "隐藏迷你地图"
+ },
+ {
+  "key": "388895ea6d",
+  "msgid": "Show Minimap",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "显示迷你地图"
+ },
+ {
+  "key": "c8f39c89d8",
+  "msgid": "Hide Quick Navigation",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's map view menu",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "6b5e3b1255",
+  "msgid": "Show Quick Navigation",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "1e232227a4",
+  "msgid": "Zoom +",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's map view menu",
+  "ui": "ui/wui",
+  "current": "放大"
+ },
+ {
+  "key": "9cdf875d6c",
+  "msgid": "Zoom –",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's map view menu",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "54fd70e28f",
+  "msgid": "Maximum Zoom",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's map view menu",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "09920f374d",
+  "msgid": "Minimum Zoom",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's map view menu",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "a8c272be12",
+  "msgid": "Reset zoom",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's map view menu",
+  "ui": "ui/wui",
+  "current": "重置缩放"
+ },
+ {
+  "key": "73a59422ba",
+  "msgid": "Road length: %1$u (%2$u)",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "222dd4b47e",
+  "msgid": "Waterway length: %1$u (%2$u) / %3$u",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "c04ae9f6ec",
+  "msgid": "Road length: %u",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "道路的长度：%u"
+ },
+ {
+  "key": "a53117474e",
+  "msgid": "Waterway length: %1$u / %2$u",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "7882dd2a7b",
+  "msgid": "Game Speed",
+  "zh": "",
+  "note": "* TRANSLATORS: Title for a menu button in the game. This menu will show | options o increase/decrease the gamespeed, and to pause the game",
+  "ui": "ui/wui",
+  "current": "游戏速度"
+ },
+ {
+  "key": "09553a9d14",
+  "msgid": "Set sound effect and music options",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for Sound Options in the game's main menu",
+  "ui": "ui/wui",
+  "current": "设置音效和音乐选项"
+ },
+ {
+  "key": "d95673fe07",
+  "msgid": "Restart Replay",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's main menu",
+  "ui": "ui/wui",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "03ea30d376",
+  "msgid": "Restart Scenario",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's main menu",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "ed4735415b",
+  "msgid": "Are you sure you wish to restart this replay?",
+  "zh": "",
+  "ui": "ui/wui",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "a9f257831b",
+  "msgid": "Are you sure you wish to restart this scenario?",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "8a1429e2ed",
+  "msgid": "Hide Census",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's show/hide menu to toggle whether | building names are shown",
+  "ui": "ui/wui",
+  "current": "隐藏普查数据"
+ },
+ {
+  "key": "5df466ed54",
+  "msgid": "Hide Status",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's show/hide menu to toggle whether | * building status labels are shown",
+  "ui": "ui/wui",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "6a1682212d",
+  "msgid": "Hide Soldier Levels",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's show/hide menu to toggle whether | * level information is shown above soldiers' heads",
+  "ui": "ui/wui",
+  "current": "隐藏士兵层级",
+  "terms": [
+   "Soldier = 士兵"
+  ]
+ },
+ {
+  "key": "694eb6aaae",
+  "msgid": "Hide Buildings",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's show/hide menu to toggle whether | * buildings are greyed out",
+  "ui": "ui/wui",
+  "current": "隐藏建筑",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "8eba454d58",
+  "msgid": "Speed +",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "速度 +"
+ },
+ {
+  "key": "411f974b90",
+  "msgid": "Increase the game speed",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for Speed + in the game's game speed menu",
+  "ui": "ui/wui",
+  "current": "加快游戏速度"
+ },
+ {
+  "key": "623220e64f",
+  "msgid": "Speed -",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "速度 -"
+ },
+ {
+  "key": "a50806fe57",
+  "msgid": "Decrease the game speed",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for Speed - in the game's game speed menu",
+  "ui": "ui/wui",
+  "current": "减慢游戏速度"
+ },
+ {
+  "key": "4590e34319",
+  "msgid": "Resume",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "重新开始"
+ },
+ {
+  "key": "455b605170",
+  "msgid": "Resume the Game",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for Pause in the game's game speed menu",
+  "ui": "ui/wui",
+  "current": "重新开始游戏"
+ },
+ {
+  "key": "4389661146",
+  "msgid": "Pause",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "暂停"
+ },
+ {
+  "key": "7448738db4",
+  "msgid": "Pause the Game",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for Pause in the game's game speed menu",
+  "ui": "ui/wui",
+  "current": "暂停游戏"
+ },
+ {
+  "key": "375ef0d5eb",
+  "msgid": "%1$u.%2$u×",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a game speed value",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "edd27e4d48",
+  "msgid": "PAUSE",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "暂停"
+ },
+ {
+  "key": "880d5760e1",
+  "msgid": "%1$s (%2$s) (%3$s)",
+  "zh": "",
+  "note": "* TRANSLATORS: actual_speed (target_speed) (desired_speed)",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "2e67d9a4a6",
+  "msgid": "Remaining construction costs:",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "78f06ea3dc",
+  "msgid": "Fastplace Shortcuts",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "bc0c44c543",
+  "msgid": "Statistics",
+  "zh": "",
+  "note": "* TRANSLATORS: Title for the statistics menu button in the game",
+  "ui": "ui/wui",
+  "current": "统计"
+ },
+ {
+  "key": "77c890434e",
+  "msgid": "Hide Workarea Overlaps",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's show/hide menu to toggle whether | workarea overlaps | * are highlighted",
+  "ui": "ui/wui",
+  "current": "隐藏工作区重叠"
+ },
+ {
+  "key": "7f3cd9a253",
+  "msgid": "Toggle whether overlapping workareas are indicated when placing a constructionsite",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "放置建筑场所时是否切换标识重叠的部分的工作区域"
+ },
+ {
+  "key": "7cabb94484",
+  "msgid": "No current objectives",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "4b247a12e7",
+  "msgid": "%u new message",
+  "zh": "",
+  "msgid_plural": "%u new messages",
+  "ui": "ui/wui",
+  "current": "%u新消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "b7784f1709",
+  "msgid": "Owner",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "所有者"
+ },
+ {
+  "key": "9a95a25a81",
+  "msgid": "Roads",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "道路"
+ },
+ {
+  "key": "4a66fa3847",
+  "msgid": "High Traffic",
+  "zh": "",
+  "ui": "ui/wui"
+ }
+]

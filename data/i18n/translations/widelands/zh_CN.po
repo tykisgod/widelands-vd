@@ -9927,7 +9927,7 @@ msgid ""
 "Damaged warships regain %u hitpoint per second when anchored in a port."
 msgid_plural ""
 "Damaged warships regain %u hitpoints per second when anchored in a port."
-msgstr[0] ""
+msgstr[0] "受损的战船在港口抛锚时每秒恢复 %u 点生命。"
 
 #: ../../../../src/ui/game/shipwindow.cc:117
 msgid "Scout towards the north west"
@@ -9994,20 +9994,20 @@ msgstr "取消探险"
 msgid ""
 "This expedition can’t be canceled, because the ship has no port to return "
 "to."
-msgstr "探险不能被取消，因为船只没有港口可以返回。"
+msgstr "这次探险无法取消，因为船没有可返回的港口。"
 
 #. * TRANSLATORS: No destination
 #: ../../../../src/ui/game/shipwindow.cc:364
 msgctxt "destination"
 msgid "(none)"
-msgstr ""
+msgstr "（无）"
 
 #: ../../../../src/ui/game/shipwindow.cc:434
 #: ../../../../src/ui/game/shipwindow.cc:439
 #: ../../../../src/ui/game/shipwindow.cc:444
 #, c-format
 msgid "Go to destination (%s)"
-msgstr ""
+msgstr "前往目的地（%s）"
 
 #: ../../../../src/ui/game/shipwindow.cc:449
 msgid "Go to destination"
@@ -10015,22 +10015,22 @@ msgstr "前往目的地"
 
 #: ../../../../src/ui/game/shipwindow.cc:476
 msgid "Refit to transport ship"
-msgstr ""
+msgstr "改装为运输船"
 
 #: ../../../../src/ui/game/shipwindow.cc:477
 msgid "Refit to warship"
-msgstr ""
+msgstr "改装为战船"
 
 #: ../../../../src/ui/game/shipwindow.cc:499
 #, c-format
 msgid "HP: %1$u/%2$u"
-msgstr ""
+msgstr "生命：%1$u/%2$u"
 
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:89
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:182
 #, c-format
 msgid "Health: %u"
-msgstr "健康：%u"
+msgstr "生命：%u"
 
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:90
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:198
@@ -10042,7 +10042,7 @@ msgstr "攻击：%u"
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:214
 #, c-format
 msgid "Defense: %u"
-msgstr "防卫：%u"
+msgstr "防御：%u"
 
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:92
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:230
@@ -10062,7 +10062,7 @@ msgstr "按属性"
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:255
 #, c-format
 msgid "Overview (%u)"
-msgstr ""
+msgstr "总览（%u）"
 
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:260
 #: ../../../../src/ui/game/soldier_statistics_menu.cc:266
@@ -10078,14 +10078,14 @@ msgstr "容量"
 
 #: ../../../../src/ui/game/soldierlist.cc:566
 msgid "Click soldier to send away"
-msgstr "点击送走士兵"
+msgstr "单击士兵可将其遣走"
 
 #. * TRANSLATORS: An entry in the game's statistics menu
 #: ../../../../src/ui/game/stock_menu.cc:40
 #: ../../../../src/ui/game/ware_statistics_menu.cc:150
 #: ../../../../src/ui/wui/interactive_player.cc:319
 msgid "Stock"
-msgstr "存货"
+msgstr "库存"
 
 #. * TRANSLATORS: If this checkbox is ticked, all icons in the stock menu are
 #. drawn with
@@ -10094,19 +10094,19 @@ msgstr "存货"
 #. lower than the economy target setting. Very little space is available.
 #: ../../../../src/ui/game/stock_menu.cc:52
 msgid "Evaluate"
-msgstr ""
+msgstr "对照"
 
 #: ../../../../src/ui/game/stock_menu.cc:56
 msgid "Compare stocked amounts to economy target quantities"
-msgstr ""
+msgstr "把库存量与经济目标数量作对照"
 
 #: ../../../../src/ui/game/stock_menu.cc:59
 msgid "Red:"
-msgstr ""
+msgstr "红色："
 
 #: ../../../../src/ui/game/stock_menu.cc:59
 msgid "Stock is lower than the target"
-msgstr ""
+msgstr "库存低于目标"
 
 #: ../../../../src/ui/game/stock_menu.cc:62
 msgid "Yellow:"
@@ -10114,7 +10114,7 @@ msgstr "黄色："
 
 #: ../../../../src/ui/game/stock_menu.cc:63
 msgid "Stock is equal to the target"
-msgstr ""
+msgstr "库存等于目标"
 
 #: ../../../../src/ui/game/stock_menu.cc:66
 msgid "Green:"
@@ -10126,11 +10126,11 @@ msgstr "库存高于目标"
 
 #: ../../../../src/ui/game/stock_menu.cc:71
 msgid "Wares (total)"
-msgstr "物品(全部)"
+msgstr "物品（总计）"
 
 #: ../../../../src/ui/game/stock_menu.cc:75
 msgid "Workers (total)"
-msgstr "劳动者(全部)"
+msgstr "工人（总计）"
 
 #: ../../../../src/ui/game/stock_menu.cc:80
 msgid "Wares in warehouses"
@@ -10138,19 +10138,19 @@ msgstr "仓库中的物品"
 
 #: ../../../../src/ui/game/stock_menu.cc:85
 msgid "Workers in warehouses"
-msgstr "仓库中的劳动者"
+msgstr "仓库中的工人"
 
 #: ../../../../src/ui/game/story_message_box.cc:80
 msgid "Next Mission"
-msgstr ""
+msgstr "下一个任务"
 
 #: ../../../../src/ui/game/story_message_box.cc:81
 msgid "Start the next mission now"
-msgstr ""
+msgstr "立即开始下一个任务"
 
 #: ../../../../src/ui/game/story_message_box.cc:128
 msgid "Continue playing this mission"
-msgstr ""
+msgstr "继续进行这个任务"
 
 #: ../../../../src/ui/game/summary.cc:39
 msgid "Game over"
@@ -10162,7 +10162,7 @@ msgstr "玩家信息："
 
 #: ../../../../src/ui/game/summary.cc:92
 msgid "Elapsed time:"
-msgstr "运行时间："
+msgstr "已用时间："
 
 #: ../../../../src/ui/game/summary.cc:104
 msgid "Continue playing"
@@ -10188,7 +10188,7 @@ msgstr "获胜"
 #. resigned.
 #: ../../../../src/ui/game/summary.cc:232
 msgid "Resigned"
-msgstr "辞职"
+msgstr "已认输"
 
 #. * TRANSLATORS: This is shown in the game summary when we don't know
 #. * TRANSLATORS: if the player has lost or won.
@@ -10208,12 +10208,12 @@ msgstr "你输了。"
 #: ../../../../src/ui/game/summary.cc:257
 #, c-format
 msgid "%s won!"
-msgstr "%s胜利！"
+msgstr "%s 获胜！"
 
 #: ../../../../src/ui/game/summary.cc:259
 #, c-format
 msgid "Team %u won!"
-msgstr ""
+msgstr "团队 %u 获胜！"
 
 #: ../../../../src/ui/game/summary.cc:313
 msgid "Score"
@@ -10225,7 +10225,7 @@ msgstr "团队得分"
 
 #: ../../../../src/ui/game/trainingsitewindow.cc:45
 msgid "Soldiers in training"
-msgstr "训练中的士兵"
+msgstr "受训中的士兵"
 
 #: ../../../../src/ui/game/ware_statistics_menu.cc:103
 #: ../../../../src/wlapplication_options.cc:646
@@ -10238,15 +10238,15 @@ msgstr "生产"
 
 #: ../../../../src/ui/game/ware_statistics_menu.cc:137
 msgid "Consumption"
-msgstr "消费"
+msgstr "消耗"
 
 #: ../../../../src/ui/game/ware_statistics_menu.cc:144
 msgid "Economy health"
-msgstr "经济健康"
+msgstr "经济健康度"
 
 #: ../../../../src/ui/game/warehousewindow.cc:166
 msgid "Remove 10 wares"
-msgstr "移除10件物品"
+msgstr "移除 10 件物品"
 
 #: ../../../../src/ui/game/warehousewindow.cc:173
 msgid "Remove a ware"
@@ -10258,19 +10258,19 @@ msgstr "添加一件物品"
 
 #: ../../../../src/ui/game/warehousewindow.cc:187
 msgid "Add 10 wares"
-msgstr "添加10件物品"
+msgstr "添加 10 件物品"
 
 #: ../../../../src/ui/game/warehousewindow.cc:208
 msgid "Configure this building’s economy"
-msgstr "调配此建筑的经济"
+msgstr "配置这座建筑所属的经济"
 
 #: ../../../../src/ui/game/warehousewindow.cc:342
 msgid "Wares waiting to be shipped"
-msgstr "等待船运的货物"
+msgstr "等待装船的物品"
 
 #: ../../../../src/ui/game/warehousewindow.cc:345
 msgid "Workers waiting to embark"
-msgstr "等待上船的劳动者"
+msgstr "等待上船的工人"
 
 #: ../../../../src/ui/game/warehousewindow.cc:351
 msgid "Expedition"
@@ -10325,11 +10325,11 @@ msgstr "跟随"
 
 #: ../../../../src/ui/game/watchwindow.cc:98
 msgid "Center the main view on this"
-msgstr "主视图居中于此"
+msgstr "把主视角居中到此处"
 
 #: ../../../../src/ui/shared/addons_login_box.cc:34
 msgid "Login"
-msgstr "登陆"
+msgstr "登录"
 
 #: ../../../../src/ui/shared/addons_login_box.cc:90
 msgid "Username:"
@@ -10337,17 +10337,17 @@ msgstr "用户名："
 
 #: ../../../../src/ui/shared/chat_panel.cc:69
 msgid "Recipient"
-msgstr "接受者"
+msgstr "收件人"
 
 #: ../../../../src/ui/shared/chat_panel.cc:375
 #: ../../../../src/ui/shared/chat_panel.cc:500
 msgid "Unknown Recipient"
-msgstr "未知接受者"
+msgstr "未知收件人"
 
 #: ../../../../src/ui/shared/chat_panel.cc:444
 msgctxt "all_players"
 msgid "All"
-msgstr ""
+msgstr "全部"
 
 #. * TRANSLATORS: This is the second part of "Selected %1%
 #. directory/directories and %2%"
@@ -10355,18 +10355,18 @@ msgstr ""
 #, c-format
 msgid "%d file"
 msgid_plural "%d files"
-msgstr[0] "%d文件"
+msgstr[0] "%d 个文件"
 
 #. * TRANSLATORS: %1% = number of selected directories, %2% = number of
 #. selected files
 #: ../../../../src/ui/shared/gamedetails.cc:119
 msgid "Selected %1% directory and %2%:"
 msgid_plural "Selected %1% directories and %2%:"
-msgstr[0] "选中%1%目录和%2%："
+msgstr[0] "已选中 %1% 个目录和 %2%："
 
 #: ../../../../src/ui/shared/gamedetails.cc:137
 msgid "Directory Name:"
-msgstr "目录名："
+msgstr "目录名称："
 
 #: ../../../../src/ui/shared/gamedetails.cc:145
 msgid "Error:"
@@ -10379,7 +10379,7 @@ msgstr "地图名称："
 #. * TRANSLATORS: The time a replay starts. Shown in the replay loading screen
 #: ../../../../src/ui/shared/gamedetails.cc:162
 msgid "Start of Replay:"
-msgstr "回放开始："
+msgstr "回放起始时间："
 
 #. * TRANSLATORS: The current time of a savegame. Shown in the game saving and
 #. loading screens.
@@ -10389,7 +10389,7 @@ msgstr "游戏时间："
 
 #: ../../../../src/ui/shared/gamedetails.cc:173
 msgid "Widelands Version:"
-msgstr "WIdelands版本："
+msgstr "Widelands 版本："
 
 #: ../../../../src/ui/shared/gamedetails.cc:177
 msgid "Win Condition:"
@@ -10398,11 +10398,11 @@ msgstr "胜利条件："
 #: ../../../../src/ui/shared/gamedetails.cc:184
 #: ../../../../src/ui/shared/mapdetails.cc:183
 msgid "Add-Ons:"
-msgstr "附加组件"
+msgstr "附加内容："
 
 #: ../../../../src/ui/shared/gamedetails.cc:198
 msgid "Game data error:"
-msgstr ""
+msgstr "游戏数据错误："
 
 #: ../../../../src/ui/shared/load_or_save_game.cc:153
 msgid "Version Mismatch"
@@ -10415,17 +10415,17 @@ msgid ""
 "Please do not report any bugs that occur while watching this replay.\n"
 "\n"
 "Do you want to load the replay anyway?"
-msgstr "此回放是由不同的Widelands版本创建的。它可能是兼容的，但是很有可能不同步甚至无法加载。 \n\n请不要报告在观看此回放时发生的任何错误。 \n\n你是否还要加载回放文件？"
+msgstr "这份回放是用其他版本的 Widelands 录制的。它也许兼容，但更可能出现不同步，甚至无法载入。\n\n请不要报告观看这份回放时出现的任何缺陷。\n\n仍要载入这份回放吗？"
 
 #. * TRANSLATORS: Tooltip for the delete button. The user has selected 1 file
 #: ../../../../src/ui/shared/load_or_save_game.cc:182
 msgid "Delete this replay"
-msgstr "删除此回放"
+msgstr "删除这份回放"
 
 #. * TRANSLATORS: Tooltip for the delete button. The user has selected 1 file
 #: ../../../../src/ui/shared/load_or_save_game.cc:184
 msgid "Delete this game"
-msgstr "删除游戏"
+msgstr "删除这局游戏"
 
 #. * TRANSLATORS: Tooltip for the delete button. The user has
 #. selected multiple files
@@ -10447,7 +10447,7 @@ msgstr "官方"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:32
 msgid "The map is provided by the official Widelands release"
-msgstr ""
+msgstr "该地图随 Widelands 官方版本一同提供"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:35
@@ -10457,28 +10457,28 @@ msgstr "非官方"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:37
 msgid "Custom or add-on map"
-msgstr ""
+msgstr "自制地图或附加内容中的地图"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:40
 msgid "Balanced"
-msgstr "平衡的"
+msgstr "平衡"
 
 #: ../../../../src/ui/shared/map_tags.cc:43
 msgid ""
 "Player starting positions were designed to provide equal conditions for all "
 "players"
-msgstr ""
+msgstr "各玩家的起始位置经过设计，条件相当"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:46
 msgid "Unbalanced"
-msgstr "不平衡的"
+msgstr "不平衡"
 
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:48
 msgid "Players face different conditions or balancing is not checked"
-msgstr ""
+msgstr "玩家面临的条件不同，或未经平衡性检查"
 
 #. * TRANSLATORS: This is a map tag
 #. * TRANSLATORS: An entry in the game's statistics menu
@@ -10490,7 +10490,7 @@ msgstr "航海"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:53
 msgid "The map allows building ports and ships"
-msgstr ""
+msgstr "该地图允许建造港口和船只"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:56
@@ -10500,7 +10500,7 @@ msgstr "渡船"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:58
 msgid "The map allows building ferries, ferry yards and waterways"
-msgstr ""
+msgstr "该地图允许建造渡船、摆渡码头与水路"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:61
@@ -10511,12 +10511,12 @@ msgstr "远古遗物"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:63
 msgid "The map contains artifacts for the Artifacts win condition"
-msgstr ""
+msgstr "该地图含有用于「远古遗物」胜利条件的遗物"
 
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:68
 msgid "The map contains a story line or other custom scripting"
-msgstr ""
+msgstr "该地图带有剧情或其他自定义脚本"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:71
@@ -10526,7 +10526,7 @@ msgstr "各自为战"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:73
 msgid "Every player fights against all other players"
-msgstr ""
+msgstr "每位玩家与其他所有玩家为敌"
 
 #. * TRANSLATORS: This is a map tag. One versus one.
 #: ../../../../src/ui/shared/map_tags.cc:76
@@ -10536,42 +10536,42 @@ msgstr "1v1"
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:78
 msgid "Two players fight against each other"
-msgstr ""
+msgstr "两位玩家相互对战"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:81
 msgid "Teams of 2"
-msgstr "每组2人"
+msgstr "每组 2 人"
 
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:83
 msgid "Players form teams of two players each"
-msgstr ""
+msgstr "玩家组成每队两人的团队"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:86
 msgid "Teams of 3"
-msgstr "每组3人"
+msgstr "每组 3 人"
 
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:88
 msgid "Players form teams of three players each"
-msgstr ""
+msgstr "玩家组成每队三人的团队"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/shared/map_tags.cc:91
 msgid "Teams of 4"
-msgstr "每组4人"
+msgstr "每组 4 人"
 
 #. * TRANSLATORS: This is a tool tip for a map tag
 #: ../../../../src/ui/shared/map_tags.cc:93
 msgid "Players form teams of four players each"
-msgstr ""
+msgstr "玩家组成每队四人的团队"
 
 #: ../../../../src/ui/shared/mapdata.cc:51
 #: ../../../../src/ui/shared/mapdata.cc:80
 msgid "No Author"
-msgstr "没有作者"
+msgstr "无作者"
 
 #. * TRANSLATORS: Parent directory/folder
 #: ../../../../src/ui/shared/mapdata.cc:179
@@ -10595,7 +10595,7 @@ msgstr "目录"
 #: ../../../../src/ui/shared/mapdetails.cc:146
 #, c-format
 msgid "The original name of this map: %s"
-msgstr "此地图的原始名称：%s"
+msgstr "这张地图的原名：%s"
 
 #. * TRANSLATORS: Tooltip in map description when map names are being
 #. displayed in
@@ -10604,7 +10604,7 @@ msgstr "此地图的原始名称：%s"
 #: ../../../../src/ui/shared/mapdetails.cc:152
 #, c-format
 msgid "The name of this map in your language: %s"
-msgstr "此地图在你的语言中的名称是：%s"
+msgstr "这张地图在你的语言中的名称：%s"
 
 #. * TRANSLATORS: Map hint header when selecting a map.
 #: ../../../../src/ui/shared/mapdetails.cc:215
@@ -10627,7 +10627,7 @@ msgstr "文件名"
 
 #: ../../../../src/ui/shared/maptable.cc:35
 msgid "The name of the map or scenario"
-msgstr "地图或场景的名称"
+msgstr "地图或剧本的名称"
 
 #: ../../../../src/ui/shared/maptable.cc:37
 msgid "Size"
@@ -10635,7 +10635,7 @@ msgstr "尺寸"
 
 #: ../../../../src/ui/shared/maptable.cc:37
 msgid "The size of the map (Width x Height)"
-msgstr "地图的大小(宽 x 高)"
+msgstr "地图的尺寸（宽 × 高）"
 
 #: ../../../../src/ui/shared/maptable.cc:73
 msgid "Map Name"
@@ -10647,11 +10647,11 @@ msgstr "确认删除文件"
 
 #: ../../../../src/ui/shared/savegamedeleter.cc:52
 msgid "Confirm Deleting Files"
-msgstr "确认删除文件"
+msgstr "确认删除多个文件"
 
 #: ../../../../src/ui/shared/savegamedeleter.cc:60
 msgid "Do you really want to delete this game?"
-msgstr "确定删除此游戏？"
+msgstr "确定要删除这局游戏吗？"
 
 #. * TRANSLATORS: Used with multiple games, 1 game has a separate
 #. string. DO NOT omit the placeholder in your translation.
@@ -10659,19 +10659,19 @@ msgstr "确定删除此游戏？"
 #, c-format
 msgid "Do you really want to delete this %d game?"
 msgid_plural "Do you really want to delete these %d games?"
-msgstr[0] "你真的要删除这些%d游戏吗？"
+msgstr[0] "确定要删除这 %d 局游戏吗？"
 
 #: ../../../../src/ui/shared/savegamedeleter.cc:96
 msgid "Error Deleting File!"
-msgstr "删除文件时出错！"
+msgstr "删除文件出错！"
 
 #: ../../../../src/ui/shared/savegamedeleter.cc:96
 msgid "Error Deleting Files!"
-msgstr "删除文件时出错！"
+msgstr "删除多个文件出错！"
 
 #: ../../../../src/ui/shared/savegamedeleter.cc:108
 msgid "The game could not be deleted."
-msgstr "此游戏不能被删除。"
+msgstr "无法删除这局游戏。"
 
 #. * TRANSLATORS: Used with multiple games, 1 game has a separate string. DO
 #. NOT omit the
@@ -10680,11 +10680,11 @@ msgstr "此游戏不能被删除。"
 #, c-format
 msgid "%d game could not be deleted."
 msgid_plural "%d games could not be deleted."
-msgstr[0] "%d游戏不能被删除。"
+msgstr[0] "有 %d 局游戏无法删除。"
 
 #: ../../../../src/ui/shared/savegamedeleter.cc:124
 msgid "Do you really want to delete this replay?"
-msgstr "确定删除此回放？"
+msgstr "确定要删除这份回放吗？"
 
 #. * TRANSLATORS: Used with multiple replays, 1 replay has a
 #. separate string. DO NOT omit the placeholder in your translation.
@@ -10692,11 +10692,11 @@ msgstr "确定删除此回放？"
 #, c-format
 msgid "Do you really want to delete this %d replay?"
 msgid_plural "Do you really want to delete these %d replays?"
-msgstr[0] "你真的想删除这些%d回放？"
+msgstr[0] "确定要删除这 %d 份回放吗？"
 
 #: ../../../../src/ui/shared/savegamedeleter.cc:137
 msgid "The replay could not be deleted."
-msgstr "此回放不能被删除。"
+msgstr "无法删除这份回放。"
 
 #. * TRANSLATORS: Used with multiple replays, 1 replay has a separate string.
 #. DO NOT omit the
@@ -10705,7 +10705,7 @@ msgstr "此回放不能被删除。"
 #, c-format
 msgid "%d replay could not be deleted."
 msgid_plural "%d replays could not be deleted."
-msgstr[0] "%d回放不能被删除。"
+msgstr[0] "有 %d 份回放无法删除。"
 
 #. * TRANSLATORS: Error message introduction for when an old savegame can't be
 #. loaded
@@ -10713,48 +10713,48 @@ msgstr[0] "%d回放不能被删除。"
 msgid ""
 "This file has the wrong format and can’t be loaded. Maybe it was created "
 "with an older version of Widelands."
-msgstr "此文件因格式错误而无法载入，可能是由旧版本Widelands创建的。"
+msgstr "这个文件格式不对，无法载入。可能是用较旧版本的 Widelands 创建的。"
 
 #. * TRANSLATORS: This text is on a separate line with an error message below
 #: ../../../../src/ui/shared/savegameloader.cc:131
 #: ../../../../src/wlapplication.cc:1018 ../../../../src/wlapplication.cc:1023
 msgid "Error message:"
-msgstr "错误消息："
+msgstr "错误信息："
 
 #. * TRANSLATORS: Display date for choosing a savegame/replay. Placeholders
 #. are:
 #. hour:minute
 #: ../../../../src/ui/shared/savegameloader.cc:160
 msgid "Today, %1%:%2%"
-msgstr "今天， %1%:%2%"
+msgstr "今天 %1%:%2%"
 
 #. * TRANSLATORS: Display date for choosing a savegame/replay. Placeholders
 #. are:
 #. hour:minute. This is part of a list.
 #: ../../../../src/ui/shared/savegameloader.cc:165
 msgid "saved today at %1%:%2%"
-msgstr "在今天保存于%1%:%2%"
+msgstr "今天 %1%:%2% 保存"
 
 #. * TRANSLATORS: Display date for choosing a savegame/replay. Placeholders
 #. are:
 #. hour:minute
 #: ../../../../src/ui/shared/savegameloader.cc:178
 msgid "Yesterday, %1%:%2%"
-msgstr "昨天， %1%:%2%"
+msgstr "昨天 %1%:%2%"
 
 #. * TRANSLATORS: Display date for choosing a savegame/replay. Placeholders
 #. are:
 #. hour:minute. This is part of a list.
 #: ../../../../src/ui/shared/savegameloader.cc:183
 msgid "saved yesterday at %1%:%2%"
-msgstr "在昨天保存于%1%:%2%"
+msgstr "昨天 %1%:%2% 保存"
 
 #. * TRANSLATORS: Display date for choosing a savegame/replay. Placeholders
 #. are:
 #. month day, year
 #: ../../../../src/ui/shared/savegameloader.cc:188
 msgid "%1% %2%, %3%"
-msgstr "%1%%2%,%3%"
+msgstr "%3% 年 %1% %2% 日"
 
 #. * TRANSLATORS: Display date for choosing a savegame/replay. Placeholders
 #. are:
@@ -10763,23 +10763,23 @@ msgstr "%1%%2%,%3%"
 #: ../../../../src/ui/shared/savegameloader.cc:194
 #, c-format
 msgid "saved on %1$s %2$u, %3$u"
-msgstr "保存于：%1$s%2$u,%3$u"
+msgstr "保存于 %3$u 年 %1$s %2$u 日"
 
 #. * TRANSLATORS: %1% is a map's name.
 #: ../../../../src/ui/shared/savegametable.cc:47
 msgid "Autosave: %1%"
-msgstr "自动保存: %1%"
+msgstr "自动保存：%1%"
 
 #. * TRANSLATORS: %1% is a number, %2% a map's name.
 #: ../../../../src/ui/shared/savegametable.cc:50
 msgid "Autosave %1%: %2%"
-msgstr "自动保存 %1%: %2%"
+msgstr "自动保存 %1%：%2%"
 
 #. * TRANSLATORS: %1% is a filename, %2% a map's name.
 #: ../../../../src/ui/shared/savegametable.cc:54
 msgctxt "filename_mapname"
 msgid "%1%: %2%"
-msgstr "%1%:%2%"
+msgstr "%1%：%2%"
 
 #. * TRANSLATORS: "Single Player" entry in the Game Mode table column.
 #. * TRANSLATORS: "Keep this to 6 letters maximum.
@@ -10798,7 +10798,7 @@ msgstr "单人"
 #. * TRANSLATORS: %1% is the number of players
 #: ../../../../src/ui/shared/savegametable.cc:74
 msgid "H (%1%)"
-msgstr "主(%1%)"
+msgstr "主机（%1%）"
 
 #. * TRANSLATORS: "Multiplayer" entry in the Game Mode table column.
 #. * TRANSLATORS: "Keep this to 2 letters maximum.
@@ -10808,12 +10808,12 @@ msgstr "主(%1%)"
 #. * TRANSLATORS: %1% is the number of players
 #: ../../../../src/ui/shared/savegametable.cc:83
 msgid "MP (%1%)"
-msgstr "多 (%1%)"
+msgstr "多人（%1%）"
 
 #: ../../../../src/ui/shared/savegametable.cc:115
 #, c-format
 msgid "Incompatible: %s"
-msgstr "不兼容的：%s"
+msgstr "不兼容：%s"
 
 #: ../../../../src/ui/shared/savegametable.cc:147
 #: ../../../../src/ui/shared/savegametable.cc:175
@@ -10825,7 +10825,7 @@ msgstr "保存日期"
 #: ../../../../src/ui/shared/savegametable.cc:175
 #: ../../../../src/ui/shared/savegametable.cc:238
 msgid "The date this game was saved"
-msgstr "游戏保存日期"
+msgstr "这局游戏的保存日期"
 
 #: ../../../../src/ui/shared/savegametable.cc:149
 #: ../../../../src/ui/shared/savegametable.cc:201
@@ -10833,7 +10833,7 @@ msgstr "游戏保存日期"
 msgid ""
 "The filename that the game was saved under followed by the map’s name, or "
 "the map’s name followed by the last objective achieved."
-msgstr "游戏存档的文件名后跟地图名，地图名后跟一个最后达成的目标。"
+msgstr "存档的文件名后跟地图名称；若无文件名，则显示地图名称后跟最近达成的目标。"
 
 #. * TRANSLATORS: Tooltip header for the "Mode" column when choosing a
 #. game/replay to
@@ -10848,7 +10848,7 @@ msgstr "游戏模式"
 #. * TRANSLATORS: Make sure that you keep consistency in your translation.
 #: ../../../../src/ui/shared/savegametable.cc:183
 msgid "SP = Single Player"
-msgstr "SP = 单人游戏"
+msgstr "单人 = 单人游戏"
 
 #. * TRANSLATORS: Tooltip for the "Mode" column when choosing a game/replay to
 #. load.
@@ -10856,7 +10856,7 @@ msgstr "SP = 单人游戏"
 #: ../../../../src/ui/shared/savegametable.cc:187
 #: ../../../../src/ui/shared/savegametable.cc:246
 msgid "MP = Multiplayer"
-msgstr "MP = 多人游戏"
+msgstr "多人 = 多人游戏"
 
 #. * TRANSLATORS: Tooltip for the "Mode" column when choosing a game/replay to
 #. load.
@@ -10864,12 +10864,12 @@ msgstr "MP = 多人游戏"
 #: ../../../../src/ui/shared/savegametable.cc:190
 #: ../../../../src/ui/shared/savegametable.cc:249
 msgid "H = Multiplayer (Host)"
-msgstr "H = 多人游戏（主机）"
+msgstr "主机 = 多人游戏（主机）"
 
 #: ../../../../src/ui/shared/savegametable.cc:193
 #: ../../../../src/ui/shared/savegametable.cc:252
 msgid "Numbers are the number of players."
-msgstr "数字表示游戏玩家的数量。"
+msgstr "数字表示玩家人数。"
 
 #. * TRANSLATORS: Game Mode table column when choosing a game/replay to load.
 #. * TRANSLATORS: Keep this to 5 letters maximum.
@@ -10882,24 +10882,24 @@ msgstr "模式"
 #: ../../../../src/ui/shared/savegametable.cc:220
 msgctxt "mapname_gametime"
 msgid "%1% (%2%)"
-msgstr "%1%(%2%)"
+msgstr "%1%（%2%）"
 
 #: ../../../../src/ui/shared/savegametable.cc:226
 msgid "Filename: Map name (start of replay)"
-msgstr "文件名：地图名(回放起始)"
+msgstr "文件名：地图名（回放起始时间）"
 
 #: ../../../../src/ui/shared/savegametable.cc:227
 msgid "Map name (start of replay)"
-msgstr "地图名(回放起始)"
+msgstr "地图名（回放起始时间）"
 
 #. * TRANSLATORS: Tooltip for volume slider in sound options
 #: ../../../../src/ui/shared/sound_options.cc:73
 msgid "Changes the volume. Click to hear a sample."
-msgstr "调节音量。单击此处收听示例。"
+msgstr "调节音量。单击可试听。"
 
 #: ../../../../src/ui/shared/sound_options.cc:150
 msgid "Play your own music in-game"
-msgstr "在游戏中播放你自己的音乐"
+msgstr "在游戏中播放自己的音乐"
 
 #: ../../../../src/ui/shared/sound_options.cc:152
 msgid ""
@@ -10907,18 +10907,18 @@ msgid ""
 "‘<Widelands Home Directory>/music/custom_XX.*’ (where ‘XX’ are sequential "
 "two-digit numbers starting with 00). Supported file formats are ‘.mp3’ and "
 "‘.ogg’."
-msgstr "您可以通过将自己的音乐文件放置在“<Widelands Home Directory>/music/custom_XX.*”（其中“XX”是以00开头的连续两位数字）来播放自定义游戏内音乐。支持的文件格式为“.mp3”和“.ogg”。"
+msgstr "把你自己的音乐文件放到 ‘<Widelands Home Directory>/music/custom_XX.*’（其中 ‘XX’ 是从 00 开始的连续两位数字），即可在游戏中播放自定义音乐。支持 ‘.mp3’ 和 ‘.ogg’ 格式。"
 
 #: ../../../../src/ui/shared/sound_options.cc:161
 msgid "Play the intro music at startup"
-msgstr ""
+msgstr "启动时播放片头音乐"
 
 #: ../../../../src/ui/shared/sound_options.cc:163
 msgid ""
 "Whether to play the intro music when Widelands is started. The splashscreen "
 "is only closed automatically when the intro music ends, but can be skipped "
 "by a keypress or a mouse click."
-msgstr ""
+msgstr "是否在 Widelands 启动时播放片头音乐。启动画面只会在片头音乐结束后自动关闭，但按任意键或单击鼠标即可跳过。"
 
 #: ../../../../src/ui/shared/sound_options.cc:172
 msgctxt "sound_options"
@@ -10943,29 +10943,29 @@ msgstr "用户界面"
 #: ../../../../src/ui/shared/sound_options.cc:186
 msgctxt "sound_options"
 msgid "Ambient Sounds"
-msgstr "环境声效"
+msgstr "环境音效"
 
 #: ../../../../src/ui/shared/sound_options.cc:219
 msgid ""
 "Sound is disabled either due to a problem with the sound driver, or because "
 "it was switched off at the command line."
-msgstr "声音被禁用的原因可能是由于声卡驱动程序有问题，也可能是由于命令行关闭了声音。 "
+msgstr "声音已被禁用，可能是声卡驱动有问题，也可能是在命令行中关闭了声音。"
 
 #. * TRANSLATORS: Label for the list of suggested teams when choosing a map
 #: ../../../../src/ui/shared/suggested_teams_box.cc:85
 msgid "Suggested Teams"
-msgstr "组队建议"
+msgstr "建议阵容"
 
 #: ../../../../src/ui/wui/encyclopedia_window.cc:147
 #, c-format
 msgid ""
 "Error loading script for encyclopedia:\n"
 "%s"
-msgstr ""
+msgstr "载入百科全书脚本出错：\n%s"
 
 #: ../../../../src/ui/wui/info_panel.cc:153
 msgid "Info Panel Visibility"
-msgstr "信息面板可见性"
+msgstr "信息面板显示方式"
 
 #: ../../../../src/ui/wui/info_panel.cc:212
 msgid "Follow mouse"
@@ -10977,28 +10977,28 @@ msgstr "隐藏"
 
 #: ../../../../src/ui/wui/info_panel.cc:222
 msgid "Move panel to bottom"
-msgstr "将面板移至底部"
+msgstr "把面板移到底部"
 
 #: ../../../../src/ui/wui/info_panel.cc:222
 msgid "Move panel to top"
-msgstr "将面板移至顶部"
+msgstr "把面板移到顶部"
 
 #: ../../../../src/ui/wui/info_panel.cc:418
 msgid "Cheat mode enabled"
-msgstr ""
+msgstr "已启用作弊模式"
 
 #. * TRANSLATORS: (Gametime • Realtime) or (Gametime • Gamespeed) or (Realtime
 #. • Gamespeed)
 #: ../../../../src/ui/wui/info_panel.cc:465
 #, c-format
 msgid "%1$s • %2$s"
-msgstr ""
+msgstr "%1$s • %2$s"
 
 #. * TRANSLATORS: Gametime • Realtime • Gamespeed
 #: ../../../../src/ui/wui/info_panel.cc:470
 #, c-format
 msgid "%1$s • %2$s • %3$s"
-msgstr ""
+msgstr "%1$s • %2$s • %3$s"
 
 #. * TRANSLATORS: Title for the map view menu button in the game
 #: ../../../../src/ui/wui/interactive_base.cc:144
@@ -11008,25 +11008,25 @@ msgstr "地图视图"
 #. * TRANSLATORS: Title for the plugins menu button in the game
 #: ../../../../src/ui/wui/interactive_base.cc:157
 msgid "Plugins"
-msgstr ""
+msgstr "插件"
 
 #. * TRANSLATORS: An entry in the game's map view menu
 #: ../../../../src/ui/wui/interactive_base.cc:324
 msgid "Hide Minimap"
-msgstr "隐藏迷你地图"
+msgstr "隐藏小地图"
 
 #: ../../../../src/ui/wui/interactive_base.cc:324
 msgid "Show Minimap"
-msgstr "显示迷你地图"
+msgstr "显示小地图"
 
 #. * TRANSLATORS: An entry in the game's map view menu
 #: ../../../../src/ui/wui/interactive_base.cc:331
 msgid "Hide Quick Navigation"
-msgstr ""
+msgstr "隐藏快速导航"
 
 #: ../../../../src/ui/wui/interactive_base.cc:332
 msgid "Show Quick Navigation"
-msgstr ""
+msgstr "显示快速导航"
 
 #. * TRANSLATORS: An entry in the game's map view menu
 #: ../../../../src/ui/wui/interactive_base.cc:339
@@ -11036,19 +11036,19 @@ msgstr "放大"
 #. * TRANSLATORS: An entry in the game's map view menu
 #: ../../../../src/ui/wui/interactive_base.cc:344
 msgid "Zoom –"
-msgstr ""
+msgstr "缩小"
 
 #. * TRANSLATORS: An entry in the game's map view menu
 #: ../../../../src/ui/wui/interactive_base.cc:349
 #: ../../../../src/wlapplication_options.cc:426
 msgid "Maximum Zoom"
-msgstr ""
+msgstr "最大缩放"
 
 #. * TRANSLATORS: An entry in the game's map view menu
 #: ../../../../src/ui/wui/interactive_base.cc:354
 #: ../../../../src/wlapplication_options.cc:431
 msgid "Minimum Zoom"
-msgstr ""
+msgstr "最小缩放"
 
 #. * TRANSLATORS: An entry in the game's map view menu
 #: ../../../../src/ui/wui/interactive_base.cc:359
@@ -11058,40 +11058,40 @@ msgstr "重置缩放"
 #: ../../../../src/ui/wui/interactive_base.cc:956
 #, c-format
 msgid "Road length: %1$u (%2$u)"
-msgstr ""
+msgstr "道路长度：%1$u（%2$u）"
 
 #: ../../../../src/ui/wui/interactive_base.cc:958
 #, c-format
 msgid "Waterway length: %1$u (%2$u) / %3$u"
-msgstr ""
+msgstr "水路长度：%1$u（%2$u）/ %3$u"
 
 #: ../../../../src/ui/wui/interactive_base.cc:963
 #, c-format
 msgid "Road length: %u"
-msgstr "道路的长度：%u"
+msgstr "道路长度：%u"
 
 #: ../../../../src/ui/wui/interactive_base.cc:966
 #, c-format
 msgid "Waterway length: %1$u / %2$u"
-msgstr ""
+msgstr "水路长度：%1$u / %2$u"
 
 #: ../../../../src/ui/wui/interactive_base.cc:1893
 msgid "Failed saving screenshot!"
-msgstr ""
+msgstr "截图保存失败！"
 
 #: ../../../../src/ui/wui/interactive_base.cc:1897
 msgid "Screenshot saved"
-msgstr ""
+msgstr "截图已保存"
 
 #. * TRANSLATORS: This is a game speed value
 #: ../../../../src/ui/wui/interactive_gamebase.cc:58
 #, c-format
 msgid "%1$u.%2$u×"
-msgstr ""
+msgstr "%1$u.%2$u×"
 
 #: ../../../../src/ui/wui/interactive_gamebase.cc:60
 msgid "PAUSE"
-msgstr "暂停"
+msgstr "已暂停"
 
 #. * TRANSLATORS: Title for a menu button in the game. This menu will show
 #. options o increase/decrease the gamespeed, and to pause the game
@@ -11102,45 +11102,45 @@ msgstr "游戏速度"
 #. * TRANSLATORS: Tooltip for Sound Options in the game's main menu
 #: ../../../../src/ui/wui/interactive_gamebase.cc:150
 msgid "Set sound effect and music options"
-msgstr "设置音效和音乐选项"
+msgstr "设置音效与音乐选项"
 
 #. * TRANSLATORS: An entry in the game's main menu
 #: ../../../../src/ui/wui/interactive_gamebase.cc:172
 #: ../../../../src/ui/wui/interactive_gamebase.cc:240
 msgid "Restart Replay"
-msgstr ""
+msgstr "重新播放回放"
 
 #. * TRANSLATORS: An entry in the game's main menu
 #: ../../../../src/ui/wui/interactive_gamebase.cc:188
 #: ../../../../src/ui/wui/interactive_gamebase.cc:240
 msgid "Restart Scenario"
-msgstr ""
+msgstr "重新开始剧本"
 
 #: ../../../../src/ui/wui/interactive_gamebase.cc:241
 msgid "Are you sure you wish to restart this replay?"
-msgstr ""
+msgstr "确定要从头重新播放这份回放吗？"
 
 #: ../../../../src/ui/wui/interactive_gamebase.cc:242
 msgid "Are you sure you wish to restart this scenario?"
-msgstr ""
+msgstr "确定要从头重新开始这个剧本吗？"
 
 #. * TRANSLATORS: An entry in the game's show/hide menu to toggle whether
 #. building names are shown
 #: ../../../../src/ui/wui/interactive_gamebase.cc:278
 msgid "Hide Census"
-msgstr "隐藏普查数据"
+msgstr "隐藏名称"
 
 #. * TRANSLATORS: An entry in the game's show/hide menu to toggle whether
 #. * building status labels are shown
 #: ../../../../src/ui/wui/interactive_gamebase.cc:286
 msgid "Hide Status"
-msgstr ""
+msgstr "隐藏状态"
 
 #. * TRANSLATORS: An entry in the game's show/hide menu to toggle whether
 #. * level information is shown above soldiers' heads
 #: ../../../../src/ui/wui/interactive_gamebase.cc:295
 msgid "Hide Soldier Levels"
-msgstr "隐藏士兵层级"
+msgstr "隐藏士兵等级"
 
 #. * TRANSLATORS: An entry in the game's show/hide menu to toggle whether
 #. * buildings are greyed out
@@ -11168,12 +11168,12 @@ msgstr "减慢游戏速度"
 
 #: ../../../../src/ui/wui/interactive_gamebase.cc:368
 msgid "Resume"
-msgstr "重新开始"
+msgstr "继续"
 
 #. * TRANSLATORS: Tooltip for Pause in the game's game speed menu
 #: ../../../../src/ui/wui/interactive_gamebase.cc:371
 msgid "Resume the Game"
-msgstr "重新开始游戏"
+msgstr "继续游戏"
 
 #: ../../../../src/ui/wui/interactive_gamebase.cc:374
 msgid "Pause"
@@ -11188,11 +11188,11 @@ msgstr "暂停游戏"
 #: ../../../../src/ui/wui/interactive_gamebase.cc:630
 #, c-format
 msgid "%1$s (%2$s) (%3$s)"
-msgstr ""
+msgstr "%1$s（%2$s）（%3$s）"
 
 #: ../../../../src/ui/wui/interactive_gamebase.cc:669
 msgid "Remaining construction costs:"
-msgstr ""
+msgstr "剩余建造成本："
 
 #. * TRANSLATORS: Title for the statistics menu button in the game
 #: ../../../../src/ui/wui/interactive_player.cc:187
@@ -11205,27 +11205,27 @@ msgstr "统计"
 #. * are highlighted
 #: ../../../../src/ui/wui/interactive_player.cc:378
 msgid "Hide Workarea Overlaps"
-msgstr "隐藏工作区重叠"
+msgstr "隐藏工作范围重叠"
 
 #: ../../../../src/ui/wui/interactive_player.cc:384
 msgid ""
 "Toggle whether overlapping workareas are indicated when placing a "
 "constructionsite"
-msgstr "放置建筑场所时是否切换标识重叠的部分的工作区域"
+msgstr "切换放置建筑工地时是否标出重叠的工作范围"
 
 #: ../../../../src/ui/wui/interactive_player.cc:484
 msgid "No current objectives"
-msgstr ""
+msgstr "当前没有目标"
 
 #: ../../../../src/ui/wui/interactive_player.cc:500
 #, c-format
 msgid "%u new message"
 msgid_plural "%u new messages"
-msgstr[0] "%u新消息"
+msgstr[0] "%u 条新消息"
 
 #: ../../../../src/ui/wui/interactive_player.cc:1008
 msgid "Fastplace Shortcuts"
-msgstr ""
+msgstr "快速放置快捷键"
 
 #: ../../../../src/ui/wui/minimap.cc:169
 msgid "Owner"
@@ -11237,7 +11237,7 @@ msgstr "道路"
 
 #: ../../../../src/ui/wui/minimap.cc:226
 msgid "High Traffic"
-msgstr ""
+msgstr "高流量"
 
 #: ../../../../src/ui/wui/minimap.cc:237
 msgid "Attacks"
