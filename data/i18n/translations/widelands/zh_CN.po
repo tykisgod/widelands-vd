@@ -1228,12 +1228,12 @@ msgstr "发生意外错误："
 #. * TRANSLATORS: A world name for the random map generator in the editor
 #: ../../../../src/logic/map.cc:60
 msgid "Summer"
-msgstr "夏"
+msgstr "夏季"
 
 #. * TRANSLATORS: A world name for the random map generator in the editor
 #: ../../../../src/logic/map.cc:63
 msgid "Winter"
-msgstr "冬"
+msgstr "冬季"
 
 #. * TRANSLATORS: A world name for the random map generator in the editor
 #: ../../../../src/logic/map.cc:66
@@ -2017,7 +2017,7 @@ msgstr "物品"
 #: ../../../../src/ui/game/productionsitewindow.cc:110
 #: ../../../../src/ui/game/warehousewindow.cc:310
 msgid "Workers"
-msgstr "劳动者"
+msgstr "工人"
 
 #. * TRANSLATORS: An entry in the game's statistics menu
 #: ../../../../src/logic/map_objects/tribes/tribe_descr.cc:187
@@ -2027,7 +2027,7 @@ msgstr "劳动者"
 #: ../../../../src/ui/wui/interactive_player.cc:324
 #: ../../../../src/ui/wui/minimap.cc:202
 msgid "Buildings"
-msgstr "建筑物"
+msgstr "建筑"
 
 #. * TRANSLATORS: Productivity label on a building if there is 1 worker
 #. missing
@@ -6733,7 +6733,7 @@ msgstr ""
 #: ../../../../src/wlapplication_options.cc:1023
 #: ../../../../src/wlapplication_options.cc:1082
 msgid "Add-Ons"
-msgstr "附加组件"
+msgstr "附加内容"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:310
 msgid "Mouse Scrolling"

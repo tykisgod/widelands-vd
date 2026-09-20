@@ -320,7 +320,7 @@ msgstr "文档，帮助和维基"
 
 #: ../../../../data/txts/developers.lua:401
 msgid "Add-Ons"
-msgstr "附加组件"
+msgstr "附加内容"
 
 #: ../../../../data/txts/developers.lua:420
 msgid "Former Elders"

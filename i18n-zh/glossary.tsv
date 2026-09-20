@@ -1,0 +1,1291 @@
+# Widelands 简体中文术语表——由 build_glossary.py 生成，请勿手工编辑。
+# 要改译名请改 i18n-zh/corrections.tsv 后重新生成。
+# check_po.py --glossary 会据此校验全部 32 个域的一致性。
+#
+# 英文	中文	msgctxt	出处	备注
+A Lot of Coal	许多煤	resource_indicator	tribes	
+A Lot of Crystals	许多水晶	resource_indicator	tribes	
+A Lot of Gold	许多黄金	resource_indicator	tribes	
+A Lot of Granite	许多花岗石	resource_indicator	tribes	
+A Lot of Iron	许多铁	resource_indicator	tribes	
+A Lot of Marble	许多大理石	resource_indicator	tribes	
+Abacaxis	阿巴卡西斯号	shipname	tribes	
+Abaco	阿巴科号	shipname	tribes	
+Add-On	附加内容		corrections	原"附件"/"插件"混用；实为可安装内容包
+add-on	附加内容		corrections	同上
+Add-Ons	附加内容		corrections	同上
+add-ons	附加内容		corrections	同上
+Adriatic Sea	亚得里亚海	shipname	tribes	
+Advanced Shield	高级护盾	ware	tribes	
+Advanced Spear	高级长枪	ware	tribes	
+Agate	玛瑙号	shipname	tribes	
+Agilaz	阿吉拉兹	shipname	tribes	
+Alder	桤木		world	
+Alder (Mature)	桤木(成材的)		world	
+Alder (Old)	桤木(老树)		world	
+Alder (Pole)	桤木(树干)		world	
+Alder (Sapling)	桤木(树苗)		world	
+Alexandria	亚历山大	shipname	tribes	
+Alexandrite	亚历山大变色石号	shipname	tribes	
+Alt-Nordstrand	奥特-诺德斯特兰	shipname	tribes	
+Amalea	亚玛利亚	shipname	tribes	
+Amazonas	亚马逊	shipname	tribes	
+Amber	琥珀号	shipname	tribes	
+Amethyst	紫水晶号	shipname	tribes	
+Amolius	阿莫利乌斯	shipname	tribes	
+Amrum	阿姆鲁姆	shipname	tribes	
+Anchicayá	阿测查雅号	shipname	tribes	
+Anguilla	安圭拉岛号	shipname	tribes	
+Antigua	安提瓜岛号	shipname	tribes	
+Apollo	阿波罗	shipname	tribes	
+Aqua Farm	水产养殖场	frisians_building	tribes	
+Aquamarine	海蓝宝石号	shipname	tribes	
+Aquatic	水栖的		world	
+Arena	竞技场	empire_building	tribes	
+Armor	盔甲	ware	tribes	
+Armor Smithy	盔甲铺	atlanteans_building	tribes	
+Armor Smithy	盔甲铺	empire_building	tribes	
+Armorsmith	盔甲匠人	atlanteans_worker	tribes	
+Armorsmith	盔甲匠人	empire_worker	tribes	
+Artifact	远古遗物		world	
+Artifact Conquered	控制远古遗物		win_conditions	
+Artifact Found	找到远古遗物		win_conditions	
+Artifact Lost	丢失远古遗物		win_conditions	
+Artifacts	远古遗物		win_conditions,world	
+Artifacts owned	拥有的远古遗物		win_conditions	
+Ashes	灰烬	immovable	tribes	
+Ashes 1	灰烬 1		world	
+Ashes 2	灰烬 2		world	
+Aslaug	亚丝拉琪	shipname	tribes	
+Aspen	白杨树		world	
+Aspen (Mature)	白杨(成材的)		world	
+Aspen (Old)	白杨(老树)		world	
+Aspen (Pole)	白杨(树干)		world	
+Aspen (Sapling)	白杨(树苗)		world	
+Atlanteans	亚特兰蒂斯人		tribes	
+Atlantean’s Stronghold	亚特兰蒂斯岛的要塞	shipname	tribes	
+Atlantis	亚特兰蒂斯	shipname	tribes	
+Augustus	奥古斯都	shipname	tribes	
+Autocrat	独裁者		win_conditions	
+Ax	斧	ware	tribes	
+Ax Workshop	斧头厂	barbarians_building	tribes	
+Azurea Sea	阿祖拉海	shipname	tribes	
+Badger	獾		world	
+Bahama	巴哈马	shipname	tribes	
+Baker	面包师	atlanteans_worker	tribes	
+Baker	面包师	barbarians_worker	tribes	
+Baker	面包师	empire_worker	tribes	
+Baker	面包师	frisians_worker	tribes	
+Bakery	面包房	atlanteans_building	tribes	
+Bakery	面包房	barbarians_building	tribes	
+Bakery	面包房	empire_building	tribes	
+Bakery	面包房	frisians_building	tribes	
+baking bread	烘烤面包		tribes	
+baking bread	烘烤面包	atlanteans_building	tribes	
+baking bread	烘烤面包	empire_building	tribes	
+baking honey bread	烘烤蜂蜜面包		tribes	
+baking pitta bread	烘烤皮塔饼	barbarians_building	tribes	
+Baldr	巴尔德	shipname	tribes	
+Balsa	轻木	ware	tribes	
+Balsa Tree	轻木树		tribes	
+Balsa Tree (Mature)	轻木树(成材的)		tribes	
+Balsa Tree (Old)	轻木树(老的)		tribes	
+Balsa Tree (Pole)	轻木树(树干)		tribes	
+Balsa Tree (Sapling)	轻木树(树苗)		tribes	
+Baltic Sea	波罗的海	shipname	tribes	
+Barbados	巴巴多斯岛	shipname	tribes	
+Barbarians	蛮族		tribes	
+Barbuda	巴尔布达	shipname	tribes	
+Barley	大麦	ware	tribes	
+Barley Field (harvested)	麦田(收获的)	immovable	tribes	
+Barley Field (medium)	麦田(半熟的)	immovable	tribes	
+Barley Field (ripe)	麦田(成熟的)	immovable	tribes	
+Barley Field (small)	麦田(小的)	immovable	tribes	
+Barley Field (tiny)	麦田(微小的)	immovable	tribes	
+Barracks	步兵营	atlanteans_building	tribes	
+Barracks	步兵营	barbarians_building	tribes	
+Barracks	步兵营	empire_building	tribes	
+Barracks	步兵营	frisians_building	tribes	
+Barren Steppe	荒原		world	
+Barrier	关卡	barbarians_building	tribes	
+Barrier	关卡	empire_building	tribes	
+Basket	篮子	ware	tribes	
+Battle Arena	搏击场	barbarians_building	tribes	
+Battle Ax	战斧	ware	tribes	
+Be careful	注意		tribes	
+Beach	海滩		world	
+Bear	熊	shipname	tribes	
+Beech	山毛榉		world	
+Beech (Mature)	山毛榉(成材的)		world	
+Beech (Old)	山毛榉(老树)		world	
+Beech (Pole)	山毛榉(树干)		world	
+Beech (Sapling)	山毛榉(树苗)		world	
+Beekeeper	养蜂人	frisians_worker	tribes	
+Beekeeper’s House	养蜂房屋	frisians_building	tribes	
+Beer	啤酒	ware	tribes	
+Bellona	贝洛娜	shipname	tribes	
+Beowulf	贝奥武甫	shipname	tribes	
+Berry Farm	浆果园	frisians_building	tribes	
+Berry Farmer	浆果种植农夫	frisians_worker	tribes	
+Beryl	绿柱石	shipname	tribes	
+Big Inn	大客栈	barbarians_building	tribes	
+Birch	白桦树		world	
+Birch (Mature)	白桦树(成材的)		world	
+Birch (Old)	白桦树(老树)		world	
+Birch (Pole)	白桦树(树干)		world	
+Birch (Sapling)	白桦树(树苗)		world	
+Black Currant (medium)	黑加仑(半熟的)		tribes	
+Black Currant (ripe)	黑加仑(成熟的)		tribes	
+Black Currant (small)	黑加仑(小的)		tribes	
+Black Currant (tiny)	黑加仑(微小的)		tribes	
+Blackroot	黑根	ware	tribes	
+Blackroot Farm	黑根农场	atlanteans_building	tribes	
+Blackroot Farmer	黑根种植农夫	atlanteans_worker	tribes	
+Blackroot Field (harvested)	黑根田地(收获的)	immovable	tribes	
+Blackroot Field (medium)	黑根田地(半熟的)	immovable	tribes	
+Blackroot Field (ripe)	黑根田地(成熟的)	immovable	tribes	
+Blackroot Field (small)	黑根田地(小的)	immovable	tribes	
+Blackroot Field (tiny)	黑根田地(微小的)	immovable	tribes	
+Blackroot Flour	黑根粉	ware	tribes	
+Blacksmith	铁匠	barbarians_worker	tribes	
+Blacksmith	铁匠	frisians_worker	tribes	
+Blacksmithy	铁匠铺	frisians_building	tribes	
+Blackwood	黑檀木	ware	tribes	
+Blanquilla	布兰基亚岛	shipname	tribes	
+Blockhouse	木质碉堡	empire_building	tribes	
+Blueberry Bush (medium)	蓝莓树丛(半熟的)		tribes	
+Blueberry Bush (ripe)	蓝莓树丛(成熟的)		tribes	
+Blueberry Bush (small)	蓝莓树丛(小的)		tribes	
+Blueberry Bush (tiny)	蓝莓树丛(微小的)		tribes	
+Boldreth	博尔德雷思	shipname	tribes	
+Borassus Palm	糖棕榈树		world	
+Borassus Palm (Mature)	糖棕榈树(成材的)		world	
+Borassus Palm (Old)	糖棕榈树(老树)		world	
+Borassus Palm (Pole)	糖棕榈树(树干)		world	
+Borassus Palm (Sapling)	糖棕榈树(树苗)		world	
+Bread	面包	atlanteans_ware	tribes	
+Bread	面包	empire_ware	tribes	
+Bread	面包	frisians_ware	tribes	
+Bread	面包	ware	tribes	
+Bread Paddle	面包桨	ware	tribes	
+breeding fish	喂鱼		tribes	
+breeding horses	养马	atlanteans_building	tribes	
+breeding sheep	种羊		tribes	
+breeding tapir	饲养貘貘	amazons_building	tribes	
+Brewer	酿酒师	barbarians_worker	tribes	
+Brewer	酿酒师	empire_worker	tribes	
+Brewer	酿酒师	frisians_worker	tribes	
+Brewery	啤酒坊	barbarians_building	tribes	
+Brewery	啤酒坊	empire_building	tribes	
+Brewery	啤酒坊	frisians_building	tribes	
+brewing beer	酿造啤酒		tribes	
+brewing chocolate	酿制巧克力		tribes	
+brewing mead	酿造蜂蜜酒		tribes	
+brewing strong beer	酿造高浓度啤酒		tribes	
+Brick	砖	ware	tribes	
+Brick Kiln	砖窑	frisians_building	tribes	
+Brickmaker	烧砖工人	frisians_worker	tribes	
+Broad Ax	板斧	ware	tribes	
+Broadsword	阔剑	ware	tribes	
+Bronze Ax	青铜斧	ware	tribes	
+Brown bear	棕熊		world	
+Brutus	布鲁特斯	shipname	tribes	
+Buckets	水桶	ware	tribes	
+Builder	建筑工人	amazons_worker	tribes	
+Builder	建筑工人	atlanteans_worker	tribes	
+Builder	建筑工人	barbarians_worker	tribes	
+Builder	建筑工人	empire_worker	tribes	
+Builder	建筑工人	frisians_worker	tribes	
+Building	建筑		corrections	
+Buildings	建筑		tribes	
+Bunny	兔子		world	
+burning bricks	烧制砖块		tribes	
+Burning Charcoal Stack	燃烧的木炭堆	immovable	tribes	
+Bush	灌木		world	
+Cactus	仙人掌		world	
+Caicos	凯科斯群岛	shipname	tribes	
+Caligula	卡利古拉	shipname	tribes	
+Camilla	卡米拉	shipname	tribes	
+Carnivores	食肉动物		world	
+Carpenter	木匠	empire_worker	tribes	
+Carrara	卡拉拉	shipname	tribes	
+Carrier	搬运工	amazons_worker	tribes	
+Carrier	搬运工	atlanteans_worker	tribes	
+Carrier	搬运工	barbarians_worker	tribes	
+Carrier	搬运工	empire_worker	tribes	
+Carrier	搬运工	frisians_worker	tribes	
+Cassava Farmer	木薯种植农夫	amazons_worker	tribes	
+Cassava Plantation	木薯种植园	amazons_building	tribes	
+Cassava Root	木薯块根	ware	tribes	
+Cassava Root Cooker	木薯块根厨房	amazons_building	tribes	
+Cassiterite	锡石	shipname	tribes	
+Castle	城堡	atlanteans_building	tribes	
+Castle	城堡	empire_building	tribes	
+Cattle Breeder	放牛娃	barbarians_worker	tribes	
+Cattle Farm	养牛场	barbarians_building	tribes	
+Cat’s Eye	猫眼	shipname	tribes	
+Chain Armor	链式盔甲	ware	tribes	
+Chamois	岩羚羊		world	
+Charcoal Burner	烧炭弟	amazons_worker	tribes	
+Charcoal Burner	烧炭弟	atlanteans_worker	tribes	
+Charcoal Burner	烧炭弟	barbarians_worker	tribes	
+Charcoal Burner	烧炭弟	empire_worker	tribes	
+Charcoal Burner	烧炭弟	frisians_worker	tribes	
+Charcoal Burner’s House	煅炭厂	frisians_building	tribes	
+Charcoal Kiln	煅炭窑	amazons_building	tribes	
+Charcoal Kiln	煅炭窑	atlanteans_building	tribes	
+Charcoal Kiln	煅炭窑	barbarians_building	tribes	
+Charcoal Kiln	煅炭窑	empire_building	tribes	
+Charcoal Kiln	煅炭窑	frisians_building	tribes	
+Chat’Karuth	查特·卡鲁斯	shipname	tribes	
+Chief Miner	矿长	barbarians_worker	tribes	
+Chisel	凿刀	ware	tribes	
+Chocolate	巧克力	ware	tribes	
+Chocolate Brewery	巧克力酿酒厂	amazons_building	tribes	
+Cicero	西塞罗	shipname	tribes	
+Cirrus Tree	草海卷须树		world	
+Cirrus Tree (Mature)	草海卷须树(成材的)		world	
+Cirrus Tree (Old)	草海卷须树(老树)		world	
+Cirrus Tree (Pole)	草海卷须树(树干)		world	
+Cirrus Tree (Sapling)	草海卷须树(树苗)		world	
+Citadel	堡垒	barbarians_building	tribes	
+Citrine	黄水晶	shipname	tribes	
+Claudius	克劳迪厄斯	shipname	tribes	
+Clay	黏土	ware	tribes	
+Clay Digger	挖泥工	frisians_worker	tribes	
+Clay Pit	黏土井	frisians_building	tribes	
+Cloth	布料	ware	tribes	
+Coal	煤		world	
+Coal	煤	ware	tribes	
+Coal Mine	煤矿	atlanteans_building	tribes	
+Coal Mine	煤矿	barbarians_building	tribes	
+Coal Mine	煤矿	empire_building	tribes	
+Coal Mine	煤矿	frisians_building	tribes	
+Cocoa Beans	可可豆	ware	tribes	
+Cocoa Farm	可可种植场	amazons_building	tribes	
+Cocoa Farmer	可可种植农夫	amazons_worker	tribes	
+Cocoa Tree (mature)	可可树(成材的)		tribes	
+Cocoa Tree (old)	可可树(老的)		tribes	
+Cocoa Tree (pole)	可可树(树干)		tribes	
+Cocoa Tree (sapling)	可可树(树苗)		tribes	
+Coconut Palm	椰子树		world	
+Coconut Palm (Mature)	椰子树(成材的)		world	
+Coconut Palm (Old)	椰子树(老树)		world	
+Coconut Palm (Pole)	椰子树(树干)		world	
+Coconut Palm (Sapling)	椰子树(树苗)		world	
+Colionder	克林德尔	shipname	tribes	
+collecting coal	采煤		tribes	
+Collectors	收集者		win_conditions	
+Colosseum	角斗场	empire_building	tribes	
+Coniferous Trees	针叶树		world	
+constructing a ship	建造一艘船		tribes	
+Construction Site	建筑工地	building	tribes	
+Controls	控制		tribes	
+Cook	炊事员	amazons_worker	tribes	
+Corn	玉米	ware	tribes	
+Cornfield (harvested)	玉米地(收获的)	immovable	tribes	
+Cornfield (medium)	玉米地(半熟的)	immovable	tribes	
+Cornfield (ripe)	玉米地(成熟的)	immovable	tribes	
+Cornfield (small)	玉米地(小的)	immovable	tribes	
+Cornfield (tiny)	玉米地(微小的)	immovable	tribes	
+Cornmeal	玉米面粉	ware	tribes	
+Crystal Mine	晶体矿	atlanteans_building	tribes	
+cutting granite	采集花岗石		tribes	
+cutting lianas	剪切藤蔓植物		tribes	
+Dark Mushroom Tree	黑远志蘑菇树		world	
+Dark Mushroom Tree (Mature)	黑远志蘑菇树(成材的)		world	
+Dark Mushroom Tree (Old)	黑远志蘑菇树(老树)		world	
+Dark Mushroom Tree (Pole)	黑远志蘑菇树(树干)		world	
+Dark Mushroom Tree (Sapling)	黑远志蘑菇树(树苗)		world	
+Date Palm	椰枣树		world	
+Date Palm (Mature)	椰枣树(成材的)		world	
+Date Palm (Old)	椰枣树(老树)		world	
+Date Palm (Pole)	椰枣树(树干)		world	
+Date Palm (Sapling)	椰枣树(树苗)		world	
+Dead Tree	枯树		tribes,world	
+Dead Trees	枯树		world	
+Debris	残骸		world	
+Deciduous Trees	落叶乔木		world	
+Deep Coal Mine	井下煤矿	barbarians_building	tribes	
+Deep Coal Mine	井下煤矿	empire_building	tribes	
+Deep Coal Mine	井下煤矿	frisians_building	tribes	
+Deep Gold Mine	井下金矿	barbarians_building	tribes	
+Deep Gold Mine	井下金矿	empire_building	tribes	
+Deep Gold Mine	井下金矿	frisians_building	tribes	
+Deep Iron Mine	井下铁矿	barbarians_building	tribes	
+Deep Iron Mine	井下铁矿	empire_building	tribes	
+Deep Iron Mine	井下铁矿	frisians_building	tribes	
+Deep Marble Mine	井下大理石矿	empire_building	tribes	
+Deep Rock Mine	井下岩石矿	frisians_building	tribes	
+Deeper Coal Mine	深井煤矿	barbarians_building	tribes	
+Deeper Gold Mine	深井金矿	barbarians_building	tribes	
+Deeper Iron Mine	深井铁矿	barbarians_building	tribes	
+Deer	鹿		world	
+Dellingr	得林	shipname	tribes	
+Desert	沙漠		world	
+Desert 1	沙漠 1		world	
+Desert 2	沙漠 2		world	
+Desert 3	沙漠 3		world	
+Desert 4	沙漠 4		world	
+Desert Hackberry (medium)	沙漠朴树(半熟的)		tribes	
+Desert Hackberry (ripe)	沙漠朴树(成熟的)		tribes	
+Desert Hackberry (small)	沙漠朴树(小的)		tribes	
+Desert Hackberry (tiny)	沙漠朴树(微小的)		tribes	
+Destroyed building	毁坏的建筑物	immovable	tribes	
+Desync	不同步		corrections	网络对战中双方游戏状态不一致
+Diamond	钻石	ware	tribes	
+Diana	戴安娜	shipname	tribes	
+Diplomacy	外交		corrections	
+Discovery	发现		tribes	
+Dismantle Site	拆除工地	building	tribes	
+Dominica	多米尼加	shipname	tribes	
+Domitianus	多米蒂亚努斯	shipname	tribes	
+Donkey	毛驴	empire_worker	tribes	
+Donkey Breeder	毛驴饲养员	empire_worker	tribes	
+Donkey Farm	养驴场	empire_building	tribes	
+Double Trident	双三叉戟	ware	tribes	
+Double-edged Sword	双刃剑	ware	tribes	
+Dressmaker	裁缝	amazons_worker	tribes	
+Dressmakery	缝纫厂	amazons_building	tribes	
+Drinking Hall	酒馆	frisians_building	tribes	
+Dry Pond	干旱池塘	immovable	tribes	
+Dry Soil	旱作土壤		world	
+Duck	鸭子		world	
+Dungeon	地牢	atlanteans_building	tribes	
+Economy	经济		corrections	
+Efficiency	效率		tribes	
+Eiderstedt	艾德斯特德	shipname	tribes	
+Eleuthera	伊柳塞拉	shipname	tribes	
+Emerald	绿宝石	shipname	tribes	
+Empire	帝国		tribes	
+Endless Game	无休止的游戏		win_conditions	
+enhancing the fertility of land	土地育肥		tribes	
+Farm	农场	atlanteans_building	tribes	
+Farm	农场	barbarians_building	tribes	
+Farm	农场	empire_building	tribes	
+Farm	农场	frisians_building	tribes	
+Farmer	农夫	atlanteans_worker	tribes	
+Farmer	农夫	barbarians_worker	tribes	
+Farmer	农夫	empire_worker	tribes	
+Farmer	农夫	frisians_worker	tribes	
+Faustulus	浮士德	shipname	tribes	
+Felled Tree	砍倒的树		world	
+Felling Ax	伐木斧	ware	tribes	
+felling trees	砍伐树木		tribes	
+Ferry	艄公	amazons_worker	tribes	
+Ferry	艄公	atlanteans_worker	tribes	
+Ferry	艄公	barbarians_worker	tribes	
+Ferry	艄公	empire_worker	tribes	
+Ferry	艄公	frisians_worker	tribes	
+Ferry Yard	摆渡码头	amazons_building	tribes	
+Ferry Yard	摆渡码头	atlanteans_building	tribes	
+Ferry Yard	摆渡码头	barbarians_building	tribes	
+Ferry Yard	摆渡码头	empire_building	tribes	
+Ferry Yard	摆渡码头	frisians_building	tribes	
+Fire Tongs	火钳	ware	tribes	
+Fish	鱼		world	
+Fish	鱼	ware	tribes	
+Fish Breeder	鱼类饲养员	atlanteans_worker	tribes	
+Fish Breeder’s House	鱼类饲养员之屋	atlanteans_building	tribes	
+Fisher	渔夫	atlanteans_worker	tribes	
+Fisher	渔夫	barbarians_worker	tribes	
+Fisher	渔夫	empire_worker	tribes	
+Fisher	渔夫	frisians_worker	tribes	
+Fisher’s House	渔夫之屋	atlanteans_building	tribes	
+Fisher’s House	渔夫之屋	empire_building	tribes	
+Fisher’s House	渔夫之屋	frisians_building	tribes	
+Fisher’s Hut	捕鱼小屋	barbarians_building	tribes	
+fishing	捕鱼		tribes	
+Fishing Net	渔网	ware	tribes	
+Fishing Rod	鱼竿	ware	tribes	
+Flour	面粉	ware	tribes	
+Food Preserver	食品仓库	amazons_building	tribes	
+Forested Mountain 1	山林 1		world	
+Forested Mountain 2	山林 2		world	
+Forester	护林员	atlanteans_worker	tribes	
+Forester	护林员	empire_worker	tribes	
+Forester	护林员	frisians_worker	tribes	
+Forester’s House	护林员之屋	atlanteans_building	tribes	
+Forester’s House	护林员之屋	empire_building	tribes	
+Forester’s House	护林员之屋	frisians_building	tribes	
+forging a battle ax	锻造战斧		tribes	
+forging a broad ax	锻造板斧		tribes	
+forging a broadsword	锻造阔剑		tribes	
+forging a bronze ax	锻造青铜斧		tribes	
+forging a double trident	锻造双三叉戟		tribes	
+forging a double-edged sword	锻造双刃剑		tribes	
+forging a felling ax	锻造伐木斧		tribes	
+forging a golden helmet	锻造黄金头盔		tribes	
+forging a heavy double trident	锻造重型双三叉戟		tribes	
+forging a heavy spear	锻造铁脊长矛		tribes	
+forging a helmet	锻造头盔		tribes	
+forging a light trident	锻造轻型三叉戟		tribes	
+forging a long sword	锻造长剑		tribes	
+forging a long trident	锻造长三叉戟		tribes	
+forging a mask	锻造面具		tribes	
+forging a pick	锻造鹤嘴镐		tribes	
+forging a sharp ax	锻造锋利的斧头		tribes	
+forging a short sword	锻造短剑		tribes	
+forging a spear	锻造长矛		tribes	
+forging a steel shield	锻造钢盾		tribes	
+forging a steel trident	锻造钢三叉戟		tribes	
+forging a suit of armor	锻造一套盔甲		tribes	
+forging a suit of chain armor	锻造一套链式盔甲		tribes	
+forging a suit of gilded armor	锻造一套镀金盔甲		tribes	
+forging a war spear	锻造战矛		tribes	
+forging a warhelm	锻造战盔		tribes	
+forging a warrior’s ax	锻造勇士之斧		tribes	
+forging a wooden spear	打造木矛		tribes	
+forging an advanced shield	锻造高级护盾		tribes	
+forging an advanced spear	锻造高级长矛		tribes	
+forging an ax	锻造斧头		tribes	
+Fortification	要塞	amazons_building	tribes	
+Fortified Village	设防村落		corrections	原译"要塞与村庄"误将一个整体拆为两样
+Fortress	要塞	amazons_building	corrections	big/驻军8，原译"哨所"与 Sentry 语义重叠
+Fortress	要塞	barbarians_building	corrections	big/驻军8，原译"哨所"与 Sentry 语义重叠
+Fortress	要塞	empire_building	corrections	big/驻军8，原译"哨所"与 Sentry 语义重叠
+Fortress	要塞	frisians_building	corrections	big/驻军12，原译"哨所"与 Sentry 语义重叠
+Fox	狐狸		world	
+Frisians	弗里西亚部族		tribes	
+Fruit	水果	ware	tribes	
+Fruit Collector	摘果人	frisians_worker	tribes	
+Fruit Collector’s House	摘果人之屋	frisians_building	tribes	
+Fulla	芙拉	shipname	tribes	
+Fur	毛皮	ware	tribes	
+Fur Garment	皮装	ware	tribes	
+Furnace	熔炉	amazons_building	tribes	
+Furnace	熔炉	frisians_building	tribes	
+Föhr	弗尔	shipname	tribes	
+Galba	加尔巴号	shipname	tribes	
+Gallus	加卢斯	shipname	tribes	
+Gamekeeper	猎场看守	barbarians_worker	tribes	
+Gamekeeper’s Hut	猎场看守小屋	barbarians_building	tribes	
+Gardener	园丁	barbarians_worker	tribes	
+Gardening Center	园艺中心	amazons_building	tribes	
+gathering	采集		tribes	
+gathering berries	采摘浆果		tribes	
+gathering fish	捕鱼		tribes	
+gathering meat	采集肉食		tribes	
+Geologist	地质专家	amazons_worker	tribes	
+Geologist	地质专家	atlanteans_worker	tribes	
+Geologist	地质专家	barbarians_worker	tribes	
+Geologist	地质专家	empire_worker	tribes	
+Geologist	地质专家	frisians_worker	tribes	
+Gersemi	格尔塞蜜	shipname	tribes	
+Gilded Armor	镀金盔甲	ware	tribes	
+Gold	黄金		world	
+Gold	黄金	ware	tribes	
+Gold Digger	掘金者	amazons_worker	tribes	
+Gold Digger Dwelling	掘金窝棚	amazons_building	tribes	
+Gold Dust	金粉	ware	tribes	
+Gold Mine	金矿	atlanteans_building	tribes	
+Gold Mine	金矿	barbarians_building	tribes	
+Gold Mine	金矿	empire_building	tribes	
+Gold Mine	金矿	frisians_building	tribes	
+Gold Ore	金质矿石	ware	tribes	
+Gold Smelter	黄金冶炼厂	amazons_worker	tribes	
+Gold Spinning Mill	纺金坊	atlanteans_building	tribes	
+Gold Thread	金线	ware	tribes	
+Golden Fur Garment	金缕皮铠	ware	tribes	
+Golden Helmet	黄金头盔	frisians_ware	tribes	
+Golden Tabard	黄金战袍	ware	tribes	
+Granite	花岗石	ware	tribes	
+Granite Mine	花岗石矿	barbarians_building	tribes	
+Grape	葡萄	ware	tribes	
+Grapevine (medium)	葡萄藤(半熟的)	immovable	tribes	
+Grapevine (ripe)	葡萄藤(成熟的)	immovable	tribes	
+Grapevine (small)	葡萄藤(小的)	immovable	tribes	
+Grapevine (tiny)	葡萄藤(微小的)	immovable	tribes	
+Grass	青草		world	
+Green Mushroom Tree	草海绿蘑菇树		world	
+Green Mushroom Tree (Mature)	草海绿蘑菇树(成材的)		world	
+Green Mushroom Tree (Old)	草海绿蘑菇树(老树)		world	
+Green Mushroom Tree (Pole)	草海绿蘑菇树(树干)		world	
+Green Mushroom Tree (Sapling)	草海绿蘑菇树(树苗)		world	
+Green Umbrella Tree	威宁绿木兰		world	
+Green Umbrella Tree (Mature)	威宁绿木兰(成材的)		world	
+Green Umbrella Tree (Old)	威宁绿木兰(老树)		world	
+Green Umbrella Tree (Pole)	威宁绿木兰(树干)		world	
+Green Umbrella Tree (Sapling)	威宁绿木兰(树苗)		world	
+Grenada	格林纳达	shipname	tribes	
+grinding blackroot	碾磨黑根		tribes	
+grinding corn	碾磨玉米		tribes	
+grinding wheat	碾磨小麦		tribes	
+Grout	泥浆	ware	tribes	
+Gröde	格勒德	shipname	tribes	
+Guadeloupe	瓜德罗普岛	shipname	tribes	
+Guardhall	守卫大厅	atlanteans_building	tribes	
+Guardhouse	岗楼	atlanteans_building	tribes	
+Guáitara	危地马拉号	shipname	tribes	
+Habel	哈贝尔	shipname	tribes	
+Hagbard	哈格巴德	shipname	tribes	
+Hamburger Hallig	汉堡角	shipname	tribes	
+Hammer	锤子	ware	tribes	
+Hard Ground 1	硬地 1		world	
+Hard Ground 2	硬地 2		world	
+Hard Ground 3	硬地 3		world	
+Hard Ground 4	硬地 4		world	
+Hardened Spear	淬火长矛	ware	tribes	
+hardening wood	硬化木料		tribes	
+harvesting balsa	采收轻木		tribes	
+harvesting barley	采收大麦		tribes	
+harvesting blackroot	采收黑根		tribes	
+harvesting cassava	收获木薯		tribes	
+harvesting cocoa	采收可可		tribes	
+harvesting corn	采收玉米		tribes	
+harvesting grapes	采收葡萄		tribes	
+harvesting ironwood	采收铁木		tribes	
+harvesting reed	采收芦苇		tribes	
+harvesting rubber	采收橡胶		tribes	
+harvesting wheat	采收小麦		tribes	
+Headquarters	总部		corrections	五个部族一致
+Headquarters	总部	amazons_building	corrections	五个部族一致
+Headquarters	总部	atlanteans_building	corrections	五个部族一致
+Headquarters	总部	barbarians_building	corrections	五个部族一致
+Headquarters	总部	empire_building	corrections	五个部族一致
+Headquarters	总部	frisians_building	corrections	五个部族一致
+Headquarters Shipwreck	失事船舶临时总部	empire_building	tribes	
+Heavy Double Trident	重型双三叉戟	ware	tribes	
+Heavy Spear	铁脊长矛	ware	tribes	
+Heidrek	海德雷克	shipname	tribes	
+Heimdallr	海姆达尔	shipname	tribes	
+Helgoland	黑尔戈兰岛	shipname	tribes	
+Helm Smithy	铠甲铺	barbarians_building	tribes	
+Helmet	头盔	empire_ware	tribes	
+Helmet	头盔	ware	tribes	
+Helmsmith	铠甲匠	barbarians_worker	tribes	
+Herbivores	食草动物		world	
+Hero Boots	英雄靴	ware	tribes	
+Hever	希佛堡	shipname	tribes	
+High Mountain Meadow	高山草场		world	
+High Tower	高塔	atlanteans_building	tribes	
+High Wooden Tower	高木塔	frisians_building	tribes	
+Hnoss	赫诺丝	shipname	tribes	
+Honey	蜂蜜	ware	tribes	
+Honey Bread	蜂蜜面包	frisians_ware	tribes	
+Honey Bread Bakery	蜂蜜面包烘房	frisians_building	tribes	
+Hooge	霍克岛	shipname	tribes	
+Hook Pole	钩杆	ware	tribes	
+Horse	马	atlanteans_worker	tribes	
+Horse Breeder	牧马人	atlanteans_worker	tribes	
+Horse Farm	牧马场	atlanteans_building	tribes	
+Hrothgar	赫罗斯加	shipname	tribes	
+Hunter	猎人	atlanteans_worker	tribes	
+Hunter	猎人	barbarians_worker	tribes	
+Hunter	猎人	empire_worker	tribes	
+Hunter	猎人	frisians_worker	tribes	
+Hunter-Gatherer	狩猎者	amazons_worker	tribes	
+Hunter-Gatherer’s Hut	狩猎者小屋	amazons_building	tribes	
+Hunter’s House	猎人之屋	atlanteans_building	tribes	
+Hunter’s House	猎人之屋	empire_building	tribes	
+Hunter’s House	猎人之屋	frisians_building	tribes	
+Hunter’s Hut	猎人小屋	barbarians_building	tribes	
+hunting	狩猎		tribes	
+Hunting Bow	狩猎弓	ware	tribes	
+Hunting Spear	狩猎长矛	ware	tribes	
+Ianus	雅努斯	shipname	tribes	
+Ice	冰		world	
+Ice Floes 1	浮冰 1		world	
+Ice Floes 2	浮冰 2		world	
+Igneous Rocks	火成岩		world	
+Inagua	伊纳瓜 	shipname	tribes	
+Ingeld	英叶德	shipname	tribes	
+Inn	客栈	barbarians_building	tribes	
+Inn	客栈	empire_building	tribes	
+Innkeeper	客栈掌柜	barbarians_worker	tribes	
+Innkeeper	客栈掌柜	empire_worker	tribes	
+Introduction	介绍		tribes	
+Iron	铁		world	
+Iron	铁	ware	tribes	
+Iron Mine	铁矿	atlanteans_building	tribes	
+Iron Mine	铁矿	barbarians_building	tribes	
+Iron Mine	铁矿	empire_building	tribes	
+Iron Mine	铁矿	frisians_building	tribes	
+Iron Ore	铁矿石	ware	tribes	
+Ironwood	铁木	ware	tribes	
+Ironwood Tree	铁木树		tribes	
+Ironwood Tree (Mature)	铁木树(成材的)		tribes	
+Ironwood Tree (Old)	铁木树(老的)		tribes	
+Ironwood Tree (Pole)	铁木树(树干)		tribes	
+Ironwood Tree (Sapling)	铁木树(树苗)		tribes	
+Iscuandé	伊斯库昂代号	shipname	tribes	
+Iuno	卢诺	shipname	tribes	
+Iupiter	卢皮特	shipname	tribes	
+Japsand	杰彭士德	shipname	tribes	
+Jundlina	朱鼎利纳	shipname	tribes	
+Jungle Master	丛林之主	amazons_worker	tribes	
+Jungle Preserver	丛林守护者	amazons_worker	tribes	
+Jungle Preserver’s Hut	丛林守护者小屋	amazons_building	tribes	
+Juniper (medium)	杜松(半熟的)		tribes	
+Juniper (ripe)	杜松(成熟的)		tribes	
+Juniper (small)	杜松(小的)		tribes	
+Juniper (tiny)	杜松(微小的)		tribes	
+Juventud	尤文图德	shipname	tribes	
+Karl Hundason	卡尔亨德森	shipname	tribes	
+Khantrukh	坎特鲁克	shipname	tribes	
+King Ajanthul	阿甘图尔国王	shipname	tribes	
+King Askandor	阿斯坎多尔国王	shipname	tribes	
+Kitchen Tools	厨房用具	ware	tribes	
+Kitts	基茨	shipname	tribes	
+Kormoransand	鸬鹚沙滩	shipname	tribes	
+Labyrinth	迷宫	atlanteans_building	tribes	
+Landlady	女房东	frisians_worker	tribes	
+Langeneß	兰根ß	shipname	tribes	
+Larch	落叶松		world	
+Larch (Mature)	落叶松(成材的)		world	
+Larch (Old)	落叶松(老树)		world	
+Larch (Pole)	落叶松(树干)		world	
+Larch (Sapling)	落叶松(树苗)		world	
+Large Armor Smithy	重装盔甲铺	frisians_building	tribes	
+Latium	拉齐奥	shipname	tribes	
+Latonia	拉托尼亚	shipname	tribes	
+Lava	熔岩		world	
+Lava Rocks 1	火山熔岩 1		world	
+Lava Rocks 2	火山熔岩 2		world	
+Liana	藤蔓植物	ware	tribes	
+Liana Cutter	藤蔓采集者	amazons_worker	tribes	
+Liana Cutter’s Hut	藤蔓采集小屋	amazons_building	tribes	
+Liana Tree	香毛青藤树		world	
+Liana Tree (Mature)	香毛青藤树(成材的)		world	
+Liana Tree (Old)	香毛青藤树(老树)		world	
+Liana Tree (Pole)	香毛青藤树(树干)		world	
+Liana Tree (Sapling)	香毛青藤树(树苗)		world	
+Light Trident	轻型三叉戟	ware	tribes	
+Light Wooden Armor	轻装木甲	ware	tribes	
+Liguria	利古里亚	shipname	tribes	
+Lime Kiln	石灰窑	barbarians_building	tribes	
+Lime-Burner	石灰烧窑匠	barbarians_worker	tribes	
+Loftomor	罗夫托莫	shipname	tribes	
+Log	原木	ware	tribes	
+Long Sword	长剑	ware	tribes	
+Long Trident	长三叉戟	ware	tribes	
+Lumberjack	伐木工	barbarians_worker	tribes	
+Lumberjack	伐木工	empire_worker	tribes	
+Lumberjack’s House	伐木工之屋	empire_building	tribes	
+Lumberjack’s Hut	伐木小屋	barbarians_building	tribes	
+Lutius	卢图斯	shipname	tribes	
+Lynx	猞猁		world	
+Lynx	猞猁	shipname	tribes	
+Machete	弯刀	ware	tribes	
+Main Coal Vein Exhausted	煤矿的主矿脉已耗尽		tribes	
+Main Crystal Vein Exhausted	晶体矿的主矿脉已耗尽		tribes	
+Main Gold Vein Exhausted	黄金矿的主矿脉已耗尽		tribes	
+Main Granite Vein Exhausted	花岗石矿的主矿脉已耗尽		tribes	
+Main Iron Vein Exhausted	铁矿的主矿脉已耗尽		tribes	
+Main Marble Vein Exhausted	大理石矿的主矿脉已耗尽		tribes	
+making a basket	制作篮子		tribes	
+making a bread paddle	制造面包桨		tribes	
+making a charcoal stack	码炭成堆		tribes	
+making a chisel	打造凿刀		tribes	
+making a felling ax	打造伐木斧		tribes	
+making a fishing net	制作渔网		tribes	
+making a fishing rod	制作鱼竿		tribes	
+making a hammer	打造锤子		tribes	
+making a hardened spear	打造淬火长矛		tribes	
+making a hook pole	制作钩杆		tribes	
+making a hunting bow	制造狩猎弓		tribes	
+making a hunting spear	制作狩猎长矛		tribes	
+making a light wooden armor	制造一套轻装木甲		tribes	
+making a machete	打造弯刀		tribes	
+making a padded protector	制造一个衬垫保护		tribes	
+making a padded vest	制造一件衬垫背心		tribes	
+making a pair of buckets	制造一担水桶		tribes	
+making a pick	打造鹤嘴镐		tribes	
+making a rope	编织绳索		tribes	
+making a saw	制造锯子		tribes	
+making a scythe	制造镰刀		tribes	
+making a shovel	打造铁铲		tribes	
+making a stone bowl	制作石碗		tribes	
+making a stone-tipped spear	制作尖石矛		tribes	
+making a wooden helmet	制造一顶木制头盔		tribes	
+making a wooden spear	制作木矛		tribes	
+making clay	生产黏土		tribes	
+making fire tongs	制造火钳		tribes	
+making hero boots	制造英雄靴		tribes	
+making kitchen tools	打造厨房用具		tribes	
+making milking tongs	制造挤奶钳		tribes	
+making needles	制针		tribes	
+making sturdy boots	制造坚固的靴子		tribes	
+making swift boots	制造健步鞋		tribes	
+making wine	制作葡萄酒		tribes	
+Malachite	孔雀石	shipname	tribes	
+Mani	曼尼	shipname	tribes	
+Maple	枫树		world	
+Maple (Mature)	枫树(成材的)		world	
+Maple (Old)	枫树(老树)		world	
+Maple (Pole)	枫树(树干)		world	
+Maple (Sapling)	枫树(树苗)		world	
+Marble	大理石	shipname	tribes	
+Marble	大理石	ware	tribes	
+Marble Column	大理石柱	ware	tribes	
+Marble Mine	大理石矿	empire_building	tribes	
+Mars	战神	shipname	tribes	
+Marten	貂鼠		world	
+Martinique	马提尼克岛	shipname	tribes	
+Mask	面具	ware	tribes	
+Master Baker	面包大师	frisians_worker	tribes	
+Master Blacksmith	铸造大师	barbarians_worker	tribes	
+Master Blacksmith	铸造大师	frisians_worker	tribes	
+Master Brewer	酿造大师	barbarians_worker	tribes	
+Master Brewer	酿造大师	frisians_worker	tribes	
+Master Miner	采矿大师	barbarians_worker	tribes	
+Master Miner	采矿大师	empire_worker	tribes	
+Master Miner	采矿大师	frisians_worker	tribes	
+Master Seamstress	女缝纫大师	frisians_worker	tribes	
+Master Woodcutter	伐木大师	amazons_worker	tribes	
+Mead	蜂蜜酒	ware	tribes	
+Mead Brewery	蜂蜜酿酒厂	frisians_building	tribes	
+Meadow	草场		world	
+Meadow 1	草甸 1		world	
+Meadow 2	草甸 2		world	
+Meadow 3	草甸 3		world	
+Meadow 4	草甸 4		world	
+Meal	膳食	ware	tribes	
+Meat	肉	ware	tribes	
+Message	消息		corrections	
+Metal Workshop	五金车间	barbarians_building	tribes	
+Micro Brewery	小型酿酒厂	barbarians_building	tribes	
+Milking Tongs	挤奶钳	ware	tribes	
+Mill	磨坊	atlanteans_building	tribes	
+Mill	磨坊	empire_building	tribes	
+Miller	碾磨工	atlanteans_worker	tribes	
+Miller	碾磨工	empire_worker	tribes	
+Miner	矿工	atlanteans_worker	tribes	
+Miner	矿工	barbarians_worker	tribes	
+Miner	矿工	empire_worker	tribes	
+Miner	矿工	frisians_worker	tribes	
+Minerva	密涅瓦	shipname	tribes	
+mining coal	开采煤矿		tribes	
+mining diamonds	开采钻石		tribes	
+mining gold	开采黄金		tribes	
+mining granite	开采花岗石		tribes	
+mining iron	开采铁		tribes	
+mining marble	开采大理石		tribes	
+mining quartz	开采石英		tribes	
+Miscellaneous	五花八门的		world	
+Mixed Scrap Metal	废旧合金	ware	tribes	
+mixing grout	搅拌泥浆		tribes	
+Montserrat	蒙特塞拉特岛	shipname	tribes	
+Moonstone	月光石	shipname	tribes	
+Moose	麋鹿		world	
+Mountain 1	山峦 1		world	
+Mountain 2	山峦 2		world	
+Mountain 3	山峦 3		world	
+Mountain 4	山峦 4		world	
+Mountain Meadow	山地草原		world	
+Mushroom	蘑菇		world	
+Mystic Quartz	神秘石英	shipname	tribes	
+Nassau	巴哈马群岛	shipname	tribes	
+Needles	针	ware	tribes	
+Neptune	海神尼普顿	shipname	tribes	
+Nero	尼禄	shipname	tribes	
+Nerva	涅尔瓦	shipname	tribes	
+Nevis	尼维斯岛	shipname	tribes	
+New World	新的世界		tribes	
+No Artifacts	没有远古遗物		win_conditions	
+No Bushes	没有灌木		tribes	
+No Coal	没有煤		tribes	
+No Crystals	没有晶体		tribes	
+No Fields	没有场地		tribes	
+No Fish	没有鱼		tribes	
+No Flowers	没有花朵		tribes	
+No Game	没有猎物		tribes	
+No Game, No Fish	没有猎物，没有鱼		tribes	
+No Gold	没有黄金		tribes	
+No Granite	没有花岗石		tribes	
+No Ground	没有土地		tribes	
+No Iron	没有铁		tribes	
+No Level Ground	没有地坪		tribes	
+No Marble	没有大理石		tribes	
+No Ponds	没有池塘		tribes	
+No Resources	没有资源	resource_indicator	tribes	
+No Rocks	没有岩石		tribes	
+No Tree to Cut Lianas	没有树可供砍伐藤蔓植物		tribes	
+No Trees	没有树		tribes	
+No Water	没有水		tribes	
+Norderaue	诺德劳	shipname	tribes	
+Norderoog	诺德罗格	shipname	tribes	
+Norderoogsand	诺德罗格沙滩	shipname	tribes	
+Nordstrand	诺德斯特兰德	shipname	tribes	
+Nordstrandischmoor	诺德斯特兰德伊斯穆尔	shipname	tribes	
+Oak	橡树		world	
+Oak (Mature)	橡树(成材的)		world	
+Oak (Old)	橡树(老树)		world	
+Oak (Pole)	橡树(树干)		world	
+Oak (Sapling)	橡树(树苗)		world	
+Observation Tower	瞭望台	amazons_building	tribes	
+Obsidian	黑曜石	shipname	tribes	
+Octavianus	屋大维	shipname	tribes	
+Odin	奥丁	shipname	tribes	
+Oil Palm	油棕榈树		world	
+Oil Palm (Mature)	油棕榈树(成材的)		world	
+Oil Palm (Old)	油棕榈树(老树)		world	
+Oil Palm (Pole)	油棕榈树(树干)		world	
+Oil Palm (Sapling)	油棕榈树(树苗)		world	
+Oland	厄兰岛	shipname	tribes	
+Old Fur Garment	旧皮衣	ware	tribes	
+Onyx	玛瑙	shipname	tribes	
+Opol	奥波尔	shipname	tribes	
+Orchila	奥契拉岛	shipname	tribes	
+Orinoco	奥里诺科河	shipname	tribes	
+Ostur	奥斯特	shipname	tribes	
+Otho	奥托	shipname	tribes	
+Out of Berries	没有浆果资源了		tribes	
+Out of Clay Ponds	粘土池塘范围之外		tribes	
+Out of Fields	场地之外		tribes	
+Out of Fish	没有鱼类资源了		tribes	
+Out of Fish Ponds	鱼塘范围之外		tribes	
+Out of Flowers	没有花朵资源了		tribes	
+Out of Game	没有猎物资源了		tribes	
+Out of Game and Fish	没有猎物和鱼了		tribes	
+Out of Rocks	没有岩石资源了		tribes	
+Out of Trees	没有树木资源了		tribes	
+Out of Water	没有水资源了		tribes	
+Outpost	前哨	empire_building	tribes	
+Outpost	前哨	frisians_building	tribes	
+Overview:	概览：		win_conditions	
+Ox	牛	barbarians_worker	tribes	
+Padded Protector	衬垫保护	ware	tribes	
+Padded Vest	衬垫背心	ware	tribes	
+Palm Trees	棕榈树		world	
+Patrol Post	巡逻岗	amazons_building	tribes	
+Pearl	珍珠	shipname	tribes	
+Pebble	鹅卵石		world	
+Pellworm	佩尔沃姆	shipname	tribes	
+Pick	鹤嘴镐	ware	tribes	
+Pig Breeder	猪倌	empire_worker	tribes	
+Piggery	养猪场	empire_building	tribes	
+Pitta Bread	皮塔饼	barbarians_ware	tribes	
+Planks	厚木板	ware	tribes	
+planting balsa tree	种植轻木树		tribes	
+planting barley	种植大麦		tribes	
+planting blackroot	种植黑根		tribes	
+planting bushes	种植灌木		tribes	
+planting cassava	种植木薯		tribes	
+planting cocoa	种植可可		tribes	
+planting corn	种植玉米		tribes	
+planting grapevines	种植葡萄藤		tribes	
+planting ironwood tree	种植铁木树		tribes	
+planting reed	种植芦苇		tribes	
+planting rubber tree	种植橡胶树		tribes	
+planting trees	植树		tribes	
+planting wheat	种植小麦		tribes	
+Plants	植物		world	
+Player overview:	游戏玩家概览：		win_conditions	
+Pluto	冥王	shipname	tribes	
+Points	得分		win_conditions	
+Pond With Charcoal	木炭池	immovable	tribes	
+Pond With Fish	有鱼的池塘	immovable	tribes	
+Pond With Fish Spawn	有鱼卵的池塘	immovable	tribes	
+Poor Hamlet	贫穷村寨		tribes	
+Port	港口	amazons_building	corrections	五个部族一致
+Port	港口	atlanteans_building	corrections	五个部族一致
+Port	港口	barbarians_building	corrections	五个部族一致
+Port	港口	empire_building	corrections	五个部族一致
+Port	港口	frisians_building	corrections	五个部族一致
+Portus Bellus	贝卢斯港	shipname	tribes	
+preparing a meal	做饭		tribes	
+preparing a ration	预备定额口粮		tribes	
+preparing a snack	做点心		tribes	
+preparing only one ration	只准备一份定额口粮		tribes	
+preparing rations	准备定额口粮		tribes	
+producing charcoal	生产木炭		tribes	
+producing coal	产煤		tribes	
+producing fur	生产毛皮	frisians_building	tribes	
+Putumayo	普图马约号	shipname	tribes	
+Quarry	采石场	atlanteans_building	tribes	
+Quarry	采石场	barbarians_building	tribes	
+Quarry	采石场	empire_building	tribes	
+Quarry	采石场	frisians_building	tribes	
+quarrying granite	采集花岗石		tribes	
+quarrying marble	采集大理石		tribes	
+Quartz	石英	ware	tribes	
+Quirinus	基里努斯	shipname	tribes	
+raising pigs	养猪		tribes	
+Ranger	护林员	barbarians_worker	tribes	
+Ranger’s Hut	护林员小屋	barbarians_building	tribes	
+Rare Tree Cutter’s Hut	珍稀树种加工车间	amazons_building	tribes	
+Rare Tree Plantation	珍稀树种种植园	amazons_building	tribes	
+Raspberry Bush (medium)	树莓丛(半熟的)		tribes	
+Raspberry Bush (ripe)	树莓丛(成熟的)		tribes	
+Raspberry Bush (small)	树莓丛(小的)		tribes	
+Raspberry Bush (tiny)	树莓丛(微小的)		tribes	
+Ration	定额口粮	ware	tribes	
+rearing cattle	养牛	barbarians_building	tribes	
+rearing donkeys	喂驴	empire_building	tribes	
+rearing reindeer	饲养驯鹿	frisians_building	tribes	
+Recruit	新兵	atlanteans_worker	tribes	
+Recruit	新兵	barbarians_worker	tribes	
+Recruit	新兵	empire_worker	tribes	
+recruiting soldier	征兵	amazons_building	tribes	
+recruiting soldier	征兵	atlanteans_building	tribes	
+recruiting soldier	征兵	barbarians_building	tribes	
+recruiting soldier	征兵	empire_building	tribes	
+recruiting soldier	征兵	frisians_building	tribes	
+Recycling Center	再生中心	frisians_building	tribes	
+recycling fur	回收毛皮	frisians_building	tribes	
+recycling iron	回收铁	frisians_building	tribes	
+recycling iron and gold	回收铁和黄金	frisians_building	tribes	
+Red Currant (medium)	红加仑(半熟的)		tribes	
+Red Currant (ripe)	红加仑(成熟的)		tribes	
+Red Currant (small)	红加仑(小的)		tribes	
+Red Currant (tiny)	红加仑(微小的)		tribes	
+Red Fox	红狐	shipname	tribes	
+Red Mushroom Tree	乌蒙红菇树		world	
+Red Mushroom Tree (Mature)	乌蒙红菇树(成材的)		world	
+Red Mushroom Tree (Old)	乌蒙红菇树(老树)		world	
+Red Mushroom Tree (Pole)	乌蒙红菇树(树干)		world	
+Red Mushroom Tree (Sapling)	乌蒙红菇树(树苗)		world	
+Red Umbrella Tree	怀宁红木兰		world	
+Red Umbrella Tree (Mature)	怀宁红木兰(成材的)		world	
+Red Umbrella Tree (Old)	怀宁红木兰(老树)		world	
+Red Umbrella Tree (Pole)	怀宁红木兰(树干)		world	
+Red Umbrella Tree (Sapling)	怀宁红木兰(树苗)		world	
+Reed	芦苇	ware	tribes	
+Reed Farm	芦苇场	frisians_building	tribes	
+Reed Farmer	芦苇种植农夫	frisians_worker	tribes	
+Reed Field (medium)	芦苇田(中等的)	immovable	tribes	
+Reed Field (ripe)	芦苇田(成熟的)	immovable	tribes	
+Reed Field (small)	芦苇田(小的)	immovable	tribes	
+Reed Field (tiny)	芦苇田(微小的)	immovable	tribes	
+Reed Yard	芦苇苑	barbarians_building	tribes	
+Reindeer	驯鹿		world	
+Reindeer	驯鹿	frisians_worker	tribes	
+Reindeer Breeder	驯鹿饲育员	frisians_worker	tribes	
+Reindeer Farm	驯鹿场	frisians_building	tribes	
+releasing game	放生猎物		tribes	
+Remus	雷姆斯	shipname	tribes	
+Replay	录像		corrections	
+Rock Mine	岩石矿	frisians_building	tribes	
+Rocks	岩石		world	
+Rocks 1	岩石 1		world	
+Rocks 2	岩石 2		world	
+Rocks 3	岩石 3		world	
+Rocks 4	岩石 4		world	
+Rocks 5	岩石 5		world	
+Rocks 6	岩石 6		world	
+Romulus	罗米拉斯	shipname	tribes	
+Rope	绳索	ware	tribes	
+Rope Weaver Booth	绳索编织者摊位	amazons_building	tribes	
+Rowan	红果花楸		world	
+Rowan (Mature)	红果花楸(成材的)		world	
+Rowan (Old)	红果花楸(老树)		world	
+Rowan (Pole)	红果花楸(树干)		world	
+Rowan (Sapling)	红果花楸(树苗)		world	
+Roystonea regia Palm	大王椰		world	
+Roystonea regia Palm (Mature)	大王椰(成材的)		world	
+Roystonea regia Palm (Old)	大王椰(老树)		world	
+Roystonea regia Palm (Pole)	大王椰(树干)		world	
+Roystonea regia Palm (Sapling)	大王椰(树苗)		world	
+Rubber	橡胶	ware	tribes	
+Rubber Tree	橡胶树		tribes	
+Rubber Tree (Mature)	橡胶树(成材的)		tribes	
+Rubber Tree (Old)	橡胶树(老的)		tribes	
+Rubber Tree (Pole)	橡胶树(树干)		tribes	
+Rubber Tree (Sapling)	橡胶树(树苗)		tribes	
+Ruin	遗址		world	
+Saledus	塞勒杜斯	shipname	tribes	
+Sapphire	蓝宝石	shipname	tribes	
+Satul	萨图尔神	shipname	tribes	
+Saturn	农神	shipname	tribes	
+Saw	锯	ware	tribes	
+sawing logs	锯切原木		tribes	
+Sawmill	锯木厂	atlanteans_building	tribes	
+Sawmill	锯木厂	empire_building	tribes	
+Sawyer	锯木工	atlanteans_worker	tribes	
+Saxnot	萨克斯诺特	shipname	tribes	
+Scout	侦察兵	amazons_worker	tribes	
+Scout	侦察兵	atlanteans_worker	tribes	
+Scout	侦察兵	barbarians_worker	tribes	
+Scout	侦察兵	empire_worker	tribes	
+Scout	侦察兵	frisians_worker	tribes	
+scouting	侦察		tribes	
+Scout’s House	侦察兵之家	atlanteans_building	tribes	
+Scout’s House	侦察兵之家	empire_building	tribes	
+Scout’s House	侦察兵之家	frisians_building	tribes	
+Scout’s Hut	侦察兵小屋	amazons_building	tribes	
+Scout’s Hut	侦察兵小屋	barbarians_building	tribes	
+Scrap Iron	废铁	ware	tribes	
+sculpting a marble column	雕刻大理石柱		tribes	
+Scythe	镰刀	ware	tribes	
+Sea Buckthorn (medium)	沙棘果(半熟的)		tribes	
+Sea Buckthorn (ripe)	沙棘果(成熟的)		tribes	
+Sea Buckthorn (small)	沙棘果(小的)		tribes	
+Sea Buckthorn (tiny)	沙棘果(微小的)		tribes	
+Seamstress	女裁缝	frisians_worker	tribes	
+Seashell	贝壳		world	
+Sentinel	边哨	frisians_building	tribes	
+Sentry	岗哨	barbarians_building	tribes	
+Sentry	岗哨	empire_building	tribes	
+Server	服务器		corrections	
+sewing a tunic	缝制一件紧身上衣		tribes	
+sewing a warrior’s coat	缝制一件勇士之铠		tribes	
+sewing fur garment	缝制皮装		tribes	
+sewing golden fur garment	缝制金缕皮铠		tribes	
+Sewing Room	裁缝铺	frisians_building	tribes	
+sewing studded fur garment	缝制钉饰皮铠		tribes	
+Sharp Ax	锋利的斧头	ware	tribes	
+Sheep	绵羊		world	
+Sheep Farm	牧羊场	empire_building	tribes	
+Shepherd	牧羊倌	empire_worker	tribes	
+Ship	船		corrections	五个部族上下文一致使用"船"，更短且适合 UI，不改为"船只"
+Ship	船	atlanteans_ship	corrections	五个部族上下文一致使用"船"，更短且适合 UI，不改为"船只"
+Ship	船	barbarians_ship	corrections	五个部族上下文一致使用"船"，更短且适合 UI，不改为"船只"
+Ship	船	empire_ship	corrections	五个部族上下文一致使用"船"，更短且适合 UI，不改为"船只"
+Ship	船	frisians_ship	corrections	五个部族上下文一致使用"船"，更短且适合 UI，不改为"船只"
+Ship Under Construction	建造中的船只	immovable	tribes	
+Shipwright	造船木工	amazons_worker	tribes	
+Shipwright	造船木工	atlanteans_worker	tribes	
+Shipwright	造船木工	barbarians_worker	tribes	
+Shipwright	造船木工	empire_worker	tribes	
+Shipwright	造船木工	frisians_worker	tribes	
+Shipyard	造船厂	amazons_building	tribes	
+Shipyard	造船厂	atlanteans_building	tribes	
+Shipyard	造船厂	barbarians_building	tribes	
+Shipyard	造船厂	empire_building	tribes	
+Shipyard	造船厂	frisians_building	tribes	
+Short Sword	短剑	ware	tribes	
+Shovel	铁铲	ware	tribes	
+Sidolus	西多勒斯	shipname	tribes	
+Siena	锡耶纳	shipname	tribes	
+Sigmund	西格蒙德	shipname	tribes	
+Sigurd	西古德	shipname	tribes	
+Skeleton	骨骼		world	
+sleeping	睡觉		tribes	
+Small Armor Smithy	轻装盔甲铺	frisians_building	tribes	
+Small Tower	小型塔楼	atlanteans_building	tribes	
+Smelter	熔炼工	atlanteans_worker	tribes	
+Smelter	熔炼工	barbarians_worker	tribes	
+Smelter	熔炼工	empire_worker	tribes	
+Smelter	熔炼工	frisians_worker	tribes	
+smelting gold	熔炼黄金		tribes	
+smelting iron	炼铁		tribes	
+Smelting Works	冶炼厂	atlanteans_building	tribes	
+Smelting Works	冶炼厂	barbarians_building	tribes	
+Smelting Works	冶炼厂	empire_building	tribes	
+Smoked Fish	熏鱼	ware	tribes	
+Smoked Meat	烟熏肉	ware	tribes	
+Smoker	熏肉工	atlanteans_worker	tribes	
+Smoker	熏肉工	frisians_worker	tribes	
+Smokery	熏肉铺	atlanteans_building	tribes	
+Smokery	熏肉铺	frisians_building	tribes	
+smoking fish	熏鱼		tribes	
+smoking meat	熏肉		tribes	
+Snack	点心	ware	tribes	
+Snotra	斯洛特拉	shipname	tribes	
+Snow	雪		world	
+Snowman	雪人		world	
+Soldier	士兵	amazons_worker	tribes	
+Soldier	士兵	atlanteans_worker	tribes	
+Soldier	士兵	barbarians_worker	tribes	
+Soldier	士兵	empire_worker	tribes	
+Soldier	士兵	frisians_worker	tribes	
+Some Coal	一些煤	resource_indicator	tribes	
+Some Crystals	一些水晶	resource_indicator	tribes	
+Some Gold	一些黄金	resource_indicator	tribes	
+Some Granite	一些花岗石	resource_indicator	tribes	
+Some Iron	一些铁	resource_indicator	tribes	
+Some Marble	一些大理石	resource_indicator	tribes	
+Spear	长矛	ware	tribes	
+Sphalerite	闪锌矿	shipname	tribes	
+Spider	蜘蛛	shipname	tribes	
+Spider Breeder	蜘蛛饲养者	atlanteans_worker	tribes	
+Spider Farm	蜘蛛农场	atlanteans_building	tribes	
+Spider Silk	蜘蛛丝	ware	tribes	
+Spidercloth	蛛丝布	ware	tribes	
+Spinel	尖晶石	shipname	tribes	
+spinning gold	纺金		tribes	
+Spruce	云杉		world	
+Spruce (Mature)	云杉(成材的)		world	
+Spruce (Old)	云杉(老树)		world	
+Spruce (Pole)	云杉(树干)		world	
+Spruce (Sapling)	云杉(树苗)		world	
+Stag	雄鹿		world	
+Standing Stone	竖立的石柱		world	
+Standing Stones	立石		world	
+Status	状态		win_conditions	
+Steel Shield	钢盾	ware	tribes	
+Steel Trident	钢三叉戟	ware	tribes	
+Steppe	大草原		world	
+Stink Shepherd’s Tree (medium)	臭牧羊树(半熟的)		tribes	
+Stink Shepherd’s Tree (ripe)	臭牧羊树(成熟的)		tribes	
+Stink Shepherd’s Tree (small)	臭牧羊树(小的)		tribes	
+Stink Shepherd’s Tree (tiny)	臭牧羊树(微小的)		tribes	
+Stockpile	库存		tribes	
+Stone Bowl	石碗	ware	tribes	
+Stone Carver	石雕工	amazons_worker	tribes	
+Stone Mine	石头矿	amazons_building	tribes	
+Stone Workshop	石材车间	amazons_building	tribes	
+Stone-tipped Spear	尖石矛	ware	tribes	
+Stonecutter	采石匠	amazons_worker	tribes	
+Stonecutter	采石匠	atlanteans_worker	tribes	
+Stonecutter’s Hut	采石匠小屋	amazons_building	tribes	
+Stonemason	石匠	barbarians_worker	tribes	
+Stonemason	石匠	empire_worker	tribes	
+Stonemason	石匠	frisians_worker	tribes	
+Stonemason’s House	石匠之屋	empire_building	tribes	
+Stones	石料		world	
+Strand	斯特兰德	shipname	tribes	
+Strawberries (medium)	草莓(半熟的)		tribes	
+Strawberries (ripe)	草莓(成熟的)		tribes	
+Strawberries (small)	草莓(小的)		tribes	
+Strawberries (tiny)	草莓(微小的)		tribes	
+Strong Beer	高浓度啤酒	ware	tribes	
+Struggling Outpost	艰难前哨		corrections	struggling 指处境艰难，原译"战争中的前哨"无依据
+Studded Fur Garment	钉饰皮铠	ware	tribes	
+Sturdy Boots	坚固的靴子	ware	tribes	
+Summer	夏季		world	
+Sunstone	日长石	shipname	tribes	
+Swamp	沼泽		world	
+Swift Boots	健步鞋	ware	tribes	
+Sylt	叙尔特岛	shipname	tribes	
+Süderaue	苏德劳	shipname	tribes	
+Süderoog	苏德鲁格	shipname	tribes	
+Süderoogsand	苏德鲁格沙滩	shipname	tribes	
+Südfall	苏德福尔	shipname	tribes	
+Tabard	无袖短外套	ware	tribes	
+tailoring a golden tabard	缝制黄金战袍		tribes	
+tailoring a tabard	缝制无袖短外套		tribes	
+Tailor’s Shop	裁缝店	frisians_building	tribes	
+Tapir	貘貘	amazons_worker	tribes	
+Tapir Breeder	貘貘饲养员	amazons_worker	tribes	
+Tapir Farm	貘貘饲养场	amazons_building	tribes	
+Tavern	小酒馆	barbarians_building	tribes	
+Tavern	小酒馆	empire_building	tribes	
+Tavern	小酒馆	frisians_building	tribes	
+Team	小队		corrections	沿用主 UI 现有译法
+Territorial Lord	领土之主		win_conditions	
+Territorial Time	领土时间		win_conditions	
+Territory percentage	领土百分比		win_conditions	
+The fishing grounds are full	渔场满了		tribes	
+The Widelands Development Team	Widelands 开发团队		tribes	
+Thor	雷神	shipname	tribes	
+Thron	斯隆	shipname	tribes	
+Thyrrenia	伊特鲁里亚	shipname	tribes	
+Tiberius	泰比里厄斯	shipname	tribes	
+Tiger Eye	虎睛石	shipname	tribes	
+Tips	提示		tribes	
+Titus	提图斯	shipname	tribes	
+Tobago	多巴哥岛	shipname	tribes	
+Tombstone	墓碑		world	
+Toolsmith	工具制造者	atlanteans_worker	tribes	
+Toolsmith	工具制造者	empire_worker	tribes	
+Toolsmithy	工具铺	atlanteans_building	tribes	
+Toolsmithy	工具铺	empire_building	tribes	
+Topaz	黄宝石	shipname	tribes	
+Tortuga	托尔图加岛	shipname	tribes	
+Tourmaline	黑碧玺	shipname	tribes	
+Tower	塔楼	amazons_building	tribes	
+Tower	塔楼	atlanteans_building	tribes	
+Tower	塔楼	barbarians_building	tribes	
+Tower	塔楼	empire_building	tribes	
+Tower	塔楼	frisians_building	tribes	
+Track	足迹		world	
+Trade	贸易		corrections	
+Trading Outpost	贸易前哨		tribes	
+Traianus	特拉扬斯	shipname	tribes	
+Trainer	教练员	amazons_worker	tribes	
+Trainer	教练员	atlanteans_worker	tribes	
+Trainer	教练员	barbarians_worker	tribes	
+Trainer	教练员	empire_worker	tribes	
+Trainer	教练员	frisians_worker	tribes	
+Training Arena	训练场	frisians_building	tribes	
+Training Camp	训练营	barbarians_building	tribes	
+Training Camp	训练营	empire_building	tribes	
+Training Camp	训练营	frisians_building	tribes	
+Training Glade	林中训练场	amazons_building	tribes	
+Trees owned	拥有的树木		win_conditions	
+Treetop Sentry	树上岗哨	amazons_building	tribes	
+Tribal Encyclopedia	部落大百科		tribes	
+Trinidad	特立尼达	shipname	tribes	
+Tundra Taiga	冻原针叶林		world	
+Tunic	紧身上衣	ware	tribes	
+Twine Tree	安庆连理树		world	
+Twine Tree (Mature)	安庆连理树(成材的)		world	
+Twine Tree (Old)	安庆连理树(老树)		world	
+Twine Tree (Pole)	安庆连理树(树干)		world	
+Twine Tree (Sapling)	安庆连理树(树苗)		world	
+Ullr	乌勒尔	shipname	tribes	
+Uthlande	乌斯兰德	shipname	tribes	
+Valdar	瓦尔达	shipname	tribes	
+Venus	维纳斯	shipname	tribes	
+Vespasianus	维斯帕西安	shipname	tribes	
+Vesta	女灶神	shipname	tribes	
+Vili	威宁	shipname	tribes	
+Village	村庄		tribes	
+Vine Farmer	葡萄种植农夫	empire_worker	tribes	
+Vinea	威尼亚	shipname	tribes	
+Vineyard	葡萄园	empire_building	tribes	
+Vintner	酿酒师	empire_worker	tribes	
+Vitellius	维特里乌斯	shipname	tribes	
+Volf	伏尔夫	shipname	tribes	
+War Mill	战争磨坊	barbarians_building	tribes	
+War Spear	战矛	ware	tribes	
+Warehouse	仓库	amazons_building	corrections	五个部族一致
+Warehouse	仓库	atlanteans_building	corrections	五个部族一致
+Warehouse	仓库	barbarians_building	corrections	五个部族一致
+Warehouse	仓库	empire_building	corrections	五个部族一致
+Warehouse	仓库	frisians_building	corrections	五个部族一致
+Wares	物品		corrections	三个域一致使用，"货物"零出现，不做无谓改动
+Warhelm	战盔	ware	tribes	
+Warriors’ Dwelling	勇士聚义厅	amazons_building	tribes	
+Warriors’ Gathering	勇士俱乐部	amazons_building	tribes	
+Warrior’s Ax	勇士之斧	ware	tribes	
+Warrior’s Coat	勇士之铠	ware	tribes	
+Wasteland	荒地		world	
+Wasteland Trees	荒地树木		world	
+Water	水		world	
+Water	水	resource_indicator	tribes	
+Water	水	ware	tribes	
+Water Gatherer’s Hut	采水小屋	amazons_building	tribes	
+Weapon Smithy	兵器铺	atlanteans_building	tribes	
+Weapon Smithy	兵器铺	empire_building	tribes	
+Weaponsmith	兵器匠	atlanteans_worker	tribes	
+Weaponsmith	兵器匠	empire_worker	tribes	
+Weaver	纺织工	atlanteans_worker	tribes	
+Weaver	纺织工	barbarians_worker	tribes	
+Weaver	纺织工	empire_worker	tribes	
+weaving	纺织		tribes	
+weaving cloth	织布		tribes	
+Weaving Mill	织坊	atlanteans_building	tribes	
+Weaving Mill	织坊	barbarians_building	tribes	
+Weaving Mill	织坊	empire_building	tribes	
+Weaving Mill	织坊	frisians_building	tribes	
+weaving spidercloth	编织蛛丝布		tribes	
+Well	井	atlanteans_building	tribes	
+Well	井	barbarians_building	tribes	
+Well	井	empire_building	tribes	
+Well	井	frisians_building	tribes	
+Wheat	小麦	ware	tribes	
+Wheat Field (harvested)	麦田(收获的)	immovable	tribes	
+Wheat Field (medium)	麦田(半熟的)	immovable	tribes	
+Wheat Field (ripe)	麦田(成熟的)	immovable	tribes	
+Wheat Field (small)	麦田(小的)	immovable	tribes	
+Wheat Field (tiny)	麦田(微小的)	immovable	tribes	
+Wild boar	山猪		world	
+Wild Boar	野猪	shipname	tribes	
+Wilderness Keeper	荒野守护者	amazons_worker	tribes	
+Wilderness Keeper’s Tent	荒野守护者帐篷	amazons_building	tribes	
+Wine	葡萄酒	ware	tribes	
+Winery	葡萄酒酿造厂	empire_building	tribes	
+Winter	冬季		world	
+Wisent	欧洲野牛		world	
+Wolf	狼		world	
+Wolverine	狼獾	shipname	tribes	
+Wood Gnome	木材守护神		win_conditions	
+Wood Hardener	木材硬化厂	barbarians_building	tribes	
+Woodcutter	樵夫	amazons_worker	tribes	
+Woodcutter	樵夫	atlanteans_worker	tribes	
+Woodcutter	樵夫	frisians_worker	tribes	
+Woodcutter’s House	樵夫之屋	atlanteans_building	tribes	
+Woodcutter’s House	樵夫之屋	frisians_building	tribes	
+Woodcutter’s Hut	樵夫小屋	amazons_building	tribes	
+Wooden Helmet	木制头盔	ware	tribes	
+Wooden Spear	木矛	ware	tribes	
+Wooden Tower	木塔	frisians_building	tribes	
+Wool	羊毛	ware	tribes	
+Workers	工人		tribes	
+working	工作		tribes	
+You lost	你输了		win_conditions	
+You won	你赢了		win_conditions	
+Yrsa	伊尔萨	shipname	tribes	

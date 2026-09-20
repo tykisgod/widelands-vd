@@ -16873,7 +16873,7 @@ msgstr ""
 #: ../../../../data/tribes/scripting/help/building_help.lua:675
 #: ../../../../data/tribes/scripting/help/init.lua:123
 msgid "Workers"
-msgstr "劳动者"
+msgstr "工人"
 
 #. TRANSLATORS: %s is a worker name, e.g. "Chief Miner" or "Brewer".
 #: ../../../../data/tribes/scripting/help/building_help.lua:697
@@ -17202,7 +17202,7 @@ msgstr "物品"
 
 #: ../../../../data/tribes/scripting/help/init.lua:130
 msgid "Buildings"
-msgstr "建筑物"
+msgstr "建筑"
 
 #: ../../../../data/tribes/scripting/help/init.lua:137
 msgid "Tribes Immovables"

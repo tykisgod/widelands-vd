@@ -88,7 +88,7 @@ msgstr "你的士兵们在要塞战胜了敌人。"
 #: ../../../../data/tribes/buildings/militarysites/amazons/fortress/init.lua:8
 msgctxt "amazons_building"
 msgid "Fortress"
-msgstr "哨所"
+msgstr "要塞"
 
 #. TRANSLATORS: Message sent by an Amazon military site
 #: ../../../../data/tribes/buildings/militarysites/amazons/fortress/init.lua:62
@@ -592,7 +592,7 @@ msgstr "你的士兵们在堡垒战胜了敌人。"
 #: ../../../../data/tribes/buildings/militarysites/barbarians/fortress/init.lua:8
 msgctxt "barbarians_building"
 msgid "Fortress"
-msgstr "哨所"
+msgstr "要塞"
 
 #. TRANSLATORS: Message sent by a Barbarian military site
 #: ../../../../data/tribes/buildings/militarysites/barbarians/fortress/init.lua:77
@@ -808,7 +808,7 @@ msgstr "你的士兵们在城堡战胜了敌人。"
 #: ../../../../data/tribes/buildings/militarysites/empire/fortress/init.lua:8
 msgctxt "empire_building"
 msgid "Fortress"
-msgstr "哨所"
+msgstr "要塞"
 
 #. TRANSLATORS: Message sent by an Empire military site
 #: ../../../../data/tribes/buildings/militarysites/empire/fortress/init.lua:73
@@ -952,7 +952,7 @@ msgstr "你的士兵们在塔楼战胜了敌人。"
 #: ../../../../data/tribes/buildings/militarysites/frisians/fortress/init.lua:8
 msgctxt "frisians_building"
 msgid "Fortress"
-msgstr "哨所"
+msgstr "要塞"
 
 #. TRANSLATORS: Message sent by a Frisian military site
 #: ../../../../data/tribes/buildings/militarysites/frisians/fortress/init.lua:61
@@ -5561,7 +5561,7 @@ msgstr "从在海上的三艘船开始游戏，船上仅有极少的给养。"
 #: ../../../../data/tribes/initialization/empire/starting_conditions/fortified_village.lua:11
 #: ../../../../data/tribes/initialization/frisians/starting_conditions/fortified_village.lua:11
 msgid "Fortified Village"
-msgstr "要塞与村庄"
+msgstr "设防村落"
 
 #. TRANSLATORS: This is the tooltip for the "Fortified Village" starting
 #. condition
@@ -5651,7 +5651,7 @@ msgstr "你仅仅拥有恰量的物品用来制造启动经济所需的各种工
 #: ../../../../data/tribes/initialization/empire/starting_conditions/struggling_outpost.lua:11
 #: ../../../../data/tribes/initialization/frisians/starting_conditions/struggling_outpost.lua:11
 msgid "Struggling Outpost"
-msgstr "战争中的前哨"
+msgstr "艰难前哨"
 
 #. TRANSLATORS: This is the tooltip for the "Hardcore" starting condition
 #: ../../../../data/tribes/initialization/amazons/starting_conditions/struggling_outpost.lua:13

@@ -1,0 +1,73 @@
+# 术语人工裁决表 —— glossary.tsv 的唯一可编辑来源。
+# 改完这里后运行 `python i18n-zh/build_glossary.py` 重新生成术语表。
+#
+# 列：英文 <TAB> 中文 <TAB> msgctxt <TAB> 理由
+# msgctxt 留空表示对该英文的所有上下文生效。
+#
+# 收录两类词条：
+#   1. 修正 —— 抽取自四个高完成度域、但经查证有误的译法
+#   2. 锁定 —— 主 UI 高频术语，先定下来以免翻译过程中出现分歧
+#
+# ============================================================
+# 一、修正：军事建筑
+# ============================================================
+# Fortress 在四个部族里都是 big 尺寸、驻军 8~12 的大型军事建筑，
+# 却被译为"哨所"——而"哨所"的语义正是驻军 2 人的 Sentry。
+# 数据依据（size / max_soldiers，取自各 init.lua）：
+#   barbarians  sentry small 2 | barrier medium 5 | tower medium 5 | fortress big 8  | citadel big 12
+#   empire      blockhouse small 1 | sentry small 2 | outpost medium 3 | barrier medium 5
+#               | tower medium 5 | fortress big 8 | castle big 12
+#   frisians    wooden_tower small 1 | sentinel small 2 | outpost medium 6 | tower big 7 | fortress big 12
+#   amazons     treetop_sentry small 1 | patrol_post small 2 | tower medium 4 | fortress big 8
+#               | fortification big 12
+# 译作"要塞"，与已占用的"堡垒"(Citadel)、"城堡"(Castle) 不冲突。
+Fortress	要塞	amazons_building	big/驻军8，原译"哨所"与 Sentry 语义重叠
+Fortress	要塞	barbarians_building	big/驻军8，原译"哨所"与 Sentry 语义重叠
+Fortress	要塞	empire_building	big/驻军8，原译"哨所"与 Sentry 语义重叠
+Fortress	要塞	frisians_building	big/驻军12，原译"哨所"与 Sentry 语义重叠
+
+# ============================================================
+# 二、修正：开局条件
+# ============================================================
+# 这一组是游戏设置里的起始配置选项，不是建筑。
+# Fortified Village 是一个整体（设防的村落），原译"要塞与村庄"误拆成两样东西。
+Fortified Village	设防村落		原译"要塞与村庄"误将一个整体拆为两样
+Struggling Outpost	艰难前哨		struggling 指处境艰难，原译"战争中的前哨"无依据
+
+# ============================================================
+# 三、锁定：主 UI 高频术语
+# ============================================================
+# add-on 在主 UI 域出现 135 次，现有译文"附件"14 次、"插件"4 次并存。
+# 两者都不准确：Widelands 的 add-on 是地图、战役、部族、主题等可安装
+# 内容包，既非邮件附件也非代码插件。
+Add-On	附加内容		原"附件"/"插件"混用；实为可安装内容包
+Add-Ons	附加内容		同上
+add-on	附加内容		同上
+add-ons	附加内容		同上
+
+# 沿用四域中已确立且完全一致的译法，写入表内以防后续被改动。
+Wares	物品		三个域一致使用，"货物"零出现，不做无谓改动
+Headquarters	总部		五个部族一致
+Warehouse	仓库		五个部族一致
+Port	港口		五个部族一致
+
+# 主 UI 中尚未翻译、但会反复出现的核心名词，先定调。
+Ship	船		五个部族上下文一致使用"船"，更短且适合 UI，不改为"船只"
+Building	建筑
+Server	服务器
+Message	消息
+Economy	经济
+Diplomacy	外交
+Desync	不同步		网络对战中双方游戏状态不一致
+Replay	录像
+Trade	贸易
+Team	小队		沿用主 UI 现有译法
+
+# ============================================================
+# 四、排除：一词多义，不能全局强加
+# ============================================================
+# 中文写 "-" 表示把该词条排出术语表。
+# General 在部族语境里是士兵军衔"将军"，但在 UI 里是"综合/常规"
+# （widelands/zh_CN.po:6718 的译者注明写 "An entry in the game's
+# statistics menu"）。抽取时它没带 msgctxt，会被错误地全局强加。
+General	-		一词多义：部族军衔"将军" vs UI"综合"，不能全局约束
