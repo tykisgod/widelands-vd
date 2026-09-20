@@ -1,0 +1,922 @@
+[
+ {
+  "key": "8bed579c0b",
+  "msgid": "Remind me later",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "04a2313ef7",
+  "msgid": "Crash Report Details",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1e60ae79c0",
+  "msgid": "Open link",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1c4f060926",
+  "msgid": "Copy link",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "212bf292bb",
+  "msgid": "Copy report",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "06eff82841",
+  "msgid": "Copy the full report to the clipboard",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "477a10aabc",
+  "msgid": "Crash Report",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "71a0952c03",
+  "msgid": "Help: %s",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/game",
+  "current": "帮助： %s"
+ },
+ {
+  "key": "d45c926c06",
+  "msgid": "Join this game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "加入此游戏"
+ },
+ {
+  "key": "92531b8f1c",
+  "msgid": "Name of your server:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "你的服务器名称:",
+  "terms": [
+   "Server = 服务器",
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "d8a8135789",
+  "msgid": "Open a new game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "打开一个新游戏"
+ },
+ {
+  "key": "401292c3c8",
+  "msgid": "Leave Lobby",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "离开大厅"
+ },
+ {
+  "key": "905d61ffe2",
+  "msgid": "User Status",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "用户状态",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "4d7127397e",
+  "msgid": "Administrator",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "管理员"
+ },
+ {
+  "key": "ef68bd3cee",
+  "msgid": "Registered",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "已注册"
+ },
+ {
+  "key": "2876bc321c",
+  "msgid": "Unregistered",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "未注册"
+ },
+ {
+  "key": "05cbbeefaa",
+  "msgid": "Name",
+  "zh": "",
+  "msgctxt": "player",
+  "note": "* TRANSLATORS: Player Name",
+  "ui": "ui/fsmenu",
+  "current": "玩家名称",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "63a834f3c5",
+  "msgid": "Version",
+  "zh": "",
+  "note": "* TRANSLATORS: Widelands version",
+  "ui": "ui/fsmenu",
+  "current": "版本"
+ },
+ {
+  "key": "f2b54f3d28",
+  "msgid": "Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "游戏"
+ },
+ {
+  "key": "2ecfb2dd2a",
+  "msgid": "The game %s is already running. Please choose a different name.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "游戏%s已在运行中，请选择其他名称。",
+  "terms": [
+   "Name = 玩家名称",
+   "Name = 船名",
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "65806a3abe",
+  "msgid": "Widelands was unable to get the IP address of the server in time. There seems to be a network problem, either on your side or on the side of the server.\n",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": " Widelands不能及时获取服务器的IP地址。似乎存在一个网络问题，这个问题不在客户端就在服务器端。 \n",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "08e80ee560",
+  "msgid": "Connection Timed Out",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "连接超时 "
+ },
+ {
+  "key": "68a6c7d2af",
+  "msgid": "Network Error",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "网络错误"
+ },
+ {
+  "key": "b6cf2b1bcb",
+  "msgid": "unnamed %u",
+  "zh": "",
+  "note": "* TRANSLATORS: This is shown for multiplayer games when no host | * TRANSLATORS: server to connect to has been specified yet.",
+  "ui": "ui/fsmenu",
+  "current": "未命名 %u"
+ },
+ {
+  "key": "76b696a8b1",
+  "msgid": "Metaserver Lobby",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "元服务器大厅",
+  "terms": [
+   "Metaserver Lobby = 元服务器大厅",
+   "Metaserver = 元服务器"
+  ]
+ },
+ {
+  "key": "1c484a3efa",
+  "msgid": "Clients online:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "在线客户端:"
+ },
+ {
+  "key": "109210f0f2",
+  "msgid": "Open Games:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": " 打开游戏： "
+ },
+ {
+  "key": "83ee06e4b3",
+  "msgid": "(unused)",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "32d8c93544",
+  "msgid": "Edit Keyboard And Mouse Actions",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "编辑键盘和鼠标操作"
+ },
+ {
+  "key": "f10b60208c",
+  "msgid": "Reset all",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f89fc0b4ce",
+  "msgid": "Reset all to defaults",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5bb03da204",
+  "msgid": "%1$s: %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a button label for a keyboard shortcut in the form | \"Action: Key\"",
+  "ui": "ui/fsmenu",
+  "current": "%1$s:%2$s"
+ },
+ {
+  "key": "7b01fba766",
+  "msgid": "Keyboard Shortcut Conflict",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f8f0888b31",
+  "msgid": "The shortcut you selected (‘%1$s’) is already in use for the following action: ‘%2$s’. Please select a different shortcut or change the conflicting shortcut first.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "2c0161774c",
+  "msgid": "General",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's statistics menu",
+  "ui": "ui/fsmenu, ui/wui",
+  "current": "常规的"
+ },
+ {
+  "key": "e8dca928ca",
+  "msgid": "Editor",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "地图编辑"
+ },
+ {
+  "key": "9464f08dc2",
+  "msgid": "Fastplace",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "37abf1bdd1",
+  "msgid": "Add-Ons",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "附加内容",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "17724374e3",
+  "msgid": "Mouse Scrolling",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "9a69ed1e44",
+  "msgid": "Reset to default",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a11d98f0f6",
+  "msgid": "Press the new shortcut or close this window to cancel.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7e616ed9d8",
+  "msgid": "Show or hide additional game configuration options",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "2e7d316348",
+  "msgid": "Peaceful mode",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "和平模式"
+ },
+ {
+  "key": "ef74673874",
+  "msgid": "No fog of war",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "33a8690a2e",
+  "msgid": "Forbid diplomacy",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "f34a88bb1c",
+  "msgid": "Enable naval warfare (experimental feature)",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a58ee37ec9",
+  "msgid": "Custom starting positions",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "自定义起始位置"
+ },
+ {
+  "key": "d1ec79eda0",
+  "msgid": "Write Replay",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "8885214347",
+  "msgid": "Change map…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "更换地图..."
+ },
+ {
+  "key": "e4761932ac",
+  "msgid": "Change saved game…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "更改保存的游戏...",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "a62632665d",
+  "msgid": "Start game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "开始游戏"
+ },
+ {
+  "key": "3bc8c57847",
+  "msgid": "Show fewer options",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "e573766717",
+  "msgid": "Show more options",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1b41ba9598",
+  "msgid": "The relations between players are set by the scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "玩家之间的关系由场景决定"
+ },
+ {
+  "key": "181e132ef7",
+  "msgid": "The relations between players are set by the saved game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "玩家之间的关系由保存的游戏设置",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "99e490fe5f",
+  "msgid": "The selected win condition does not allow peaceful matches",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "所选的胜利条件不允许和平比赛模式"
+ },
+ {
+  "key": "4e0272a545",
+  "msgid": "Forbid fighting between players",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "玩家之间禁止战斗"
+ },
+ {
+  "key": "b35d552bc5",
+  "msgid": "All selected starting conditions ignore the map’s starting positions",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "6f53725b58",
+  "msgid": "The starting positions are set by the scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "起始位置由场景决定"
+ },
+ {
+  "key": "90843a70f6",
+  "msgid": "The starting positions are set by the saved game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "起始位置由已保存的游戏设定",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "19b73827e0",
+  "msgid": "Allow the players to choose their own starting positions at the beginning of the game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "允许玩家在游戏开始时选择自己的起始位置"
+ },
+ {
+  "key": "6d29b68668",
+  "msgid": "Player vision is set by the scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "a459056db3",
+  "msgid": "Player vision is set by the saved game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Saved Game = 存档",
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "8023ff634c",
+  "msgid": "Give all players permanent vision of the entire map",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "99636da307",
+  "msgid": "Naval warfare is set by the scenario",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "fbfdd35572",
+  "msgid": "Naval warfare is set by the saved game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "0e067e15c5",
+  "msgid": "Enable coastal invasions and ship-to-ship battles. This feature is experimental and may undergo substantial redesign in future versions of Widelands.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "b5a06565df",
+  "msgid": "Launch Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "启动游戏"
+ },
+ {
+  "key": "c7238fe1a7",
+  "msgid": "Player relations are set by the scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "9deac1fd9b",
+  "msgid": "Player relations are set by the saved game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Saved Game = 存档",
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "bf703999a9",
+  "msgid": "Disallow players to change their alliances during the game",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1a59dee5dc",
+  "msgid": "Scenario",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a map tag",
+  "ui": "ui/fsmenu, ui/shared",
+  "current": "方案"
+ },
+ {
+  "key": "ba7de08b59",
+  "msgid": "Win condition is set through the scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "胜利条件由剧本设置"
+ },
+ {
+  "key": "a0521167e6",
+  "msgid": "Saved Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "存档",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "bd7540e530",
+  "msgid": "The game is a saved game – the win condition was set before.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "此游戏是保存的游戏，胜利条件已经设置。",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "049c2fc4ad",
+  "msgid": "Unable to determine valid win conditions because the map ‘%s’ could not be loaded.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d674207b66",
+  "msgid": "Configure this game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "配置游戏"
+ },
+ {
+  "key": "cb4675ba42",
+  "msgid": "An enabled add-on is known to cause desyncs. No replay will be written.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Replay = 回放",
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "42b2de467e",
+  "msgid": "Playing time",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "40e78764c0",
+  "msgid": "File not found",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "文件未找到"
+ },
+ {
+  "key": "e40c51abcd",
+  "msgid": "Widelands tried to start a game with a file that could not be found at the given path.\nThe file was: %s\nIf this happens in a network game, the host might have selected a file that you do not own. Normally, such a file should be sent from the host to you, but perhaps the transfer was not yet finished!?!",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "Widelands用了一个无法找到的文件路径开始游戏。\n此文件是：%s\n如果此情况发生在网络游戏中，游戏创建者可能选择了你没有的文件。通常，此文件将从创建者传输过来，但是可能传输目前还没有完成?!"
+ },
+ {
+  "key": "2aeb8ff374",
+  "msgid": "The selected file can not be found. If it is not automatically transferred to you, please write to the host about this problem.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "无法找到选择的文件。如果此文件没有自动下载，请致信游戏创建者说明问题。"
+ },
+ {
+  "key": "999c37f106",
+  "msgid": "Unable to load the win condition script file ‘%s’.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "959f69e2f6",
+  "msgid": "Multiplayer Game Setup",
+  "zh": "",
+  "note": "* TRANSLATORS: This is a heading for a help window",
+  "ui": "ui/fsmenu",
+  "current": "多人游戏设置"
+ },
+ {
+  "key": "ca1223840f",
+  "msgid": "Show the help window",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "显示帮助窗口"
+ },
+ {
+  "key": "f5ea0af6be",
+  "msgid": "Please select a map or saved game.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "请选择一张地图或是保存游戏。",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "74fd30489d",
+  "msgid": "The host has not yet selected a map or saved game.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "主机还未选择地图或游戏存档",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "12b9526869",
+  "msgid": "Load this game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "载入游戏"
+ },
+ {
+  "key": "8f7e610be7",
+  "msgid": "Load this replay",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for OK button. The user has a file to select",
+  "ui": "ui/fsmenu",
+  "current": "载入重放",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "02dff0dd1d",
+  "msgid": "No game selected",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for the delete button. The user has | no files to select",
+  "ui": "ui/fsmenu, ui/shared"
+ },
+ {
+  "key": "a1b8f87517",
+  "msgid": "No replay selected",
+  "zh": "",
+  "note": "* TRANSLATORS: Tooltip for OK button. The user has no files to select | * TRANSLATORS: Tooltip for the delete button. The user has | no files to select",
+  "ui": "ui/fsmenu, ui/shared",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "5e740a625b",
+  "msgid": "Choose Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "选择游戏"
+ },
+ {
+  "key": "124f45c219",
+  "msgid": "Choose Replay",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "选择回放",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "366d8160e8",
+  "msgid": "Show Filenames",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/game",
+  "current": "显示文件名"
+ },
+ {
+  "key": "de4352ebe2",
+  "msgid": "Return to the multiplayer game setup",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "返回多人游戏的设置"
+ },
+ {
+  "key": "e92cb4a1a4",
+  "msgid": "Return to the single player menu",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "返回单人游戏菜单",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "972997de28",
+  "msgid": "nobody",
+  "zh": "",
+  "note": "* TRANSLATORS: This string may contain only English letters, numbers, and @ | . + - _ characters | * and must not be \"team\".",
+  "ui": "ui/fsmenu",
+  "current": "没有人"
+ },
+ {
+  "key": "4b9067565f",
+  "msgid": "Please enter a nickname!",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "请键入一个昵称！"
+ },
+ {
+  "key": "cbea06a583",
+  "msgid": "Enter a valid nickname. This value may contain only English letters, numbers, and @ . + - _ characters.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "键入一个有效的昵称。昵称只能由英文字母，数字，和@ . + - _ 等英文输入法状态下的字符构成。"
+ },
+ {
+  "key": "ab46f145bf",
+  "msgid": "Please enter your password!",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "请输入你的密码！"
+ },
+ {
+  "key": "ec9d245916",
+  "msgid": "Online Game Settings",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "在线游戏设置"
+ },
+ {
+  "key": "c3c9606ccc",
+  "msgid": "Save",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/game",
+  "current": "保存"
+ },
+ {
+  "key": "64fe904516",
+  "msgid": "Log in to a registered account.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "登录到注册帐户。",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "8bcb419960",
+  "msgid": "Nickname:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "昵称："
+ },
+ {
+  "key": "9e65e7a835",
+  "msgid": "Password:",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/shared",
+  "current": "密码："
+ },
+ {
+  "key": "383f72d778",
+  "msgid": "In order to use a registered account, you need an account on the Widelands website. Please log in at %s and set an online gaming password on your profile page.",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/shared",
+  "current": "为了使用注册帐户，你需要在Widelands的官方网站上注册一个帐号。请登入到%s并在你的个人资料概述页面设置一个在线游戏的密码。",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "714506bc03",
+  "msgid": "No tribes found!",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "找不到部落！"
+ },
+ {
+  "key": "da03d08332",
+  "msgid": "No tribes found in data/tribes/initialization/[tribename]/init.lua.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "在 data/tribes/initialization/[tribename]/init.lua 中找不到部落。"
+ },
+ {
+  "key": "ffb2c95b77",
+  "msgid": "Exit Confirmation",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "8e88642a9b",
+  "msgid": "Are you sure you wish to exit Widelands?",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ac1f85934c",
+  "msgid": "Unable to create a Game instance!\nError message:\n%s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "db11db92f6",
+  "msgid": "Begin a new game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "开始新游戏"
+ },
+ {
+  "key": "47fb9aadea",
+  "msgid": "New Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "新建游戏"
+ },
+ {
+  "key": "22b3484509",
+  "msgid": "New Random Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "新随机游戏",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "34a8cdc0df",
+  "msgid": "Create a new random match",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "创建新的随机比赛",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "dd6c1cb54a",
+  "msgid": "Campaigns",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "战役"
+ },
+ {
+  "key": "06e5e9bc0e",
+  "msgid": "Play a campaign",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "进入战役游戏模式"
+ },
+ {
+  "key": "7b93563fb5",
+  "msgid": "Tutorials",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "教程"
+ },
+ {
+  "key": "ae87a4d07d",
+  "msgid": "Play one of our beginners’ tutorials",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "进入我们的初学者教程之一"
+ },
+ {
+  "key": "f20d00df4b",
+  "msgid": "Load Game",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's main menu | * TRANSLATORS: This is the helptext for an access key combination.",
+  "ui": "ui/fsmenu, ui/game, ui/wui",
+  "current": "载入游戏"
+ }
+]

@@ -1,0 +1,914 @@
+[
+ {
+  "key": "1bf135fa80",
+  "msgid": "Continue a saved game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "从保存的游戏开始继续",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "193819e27e",
+  "msgid": "Continue Playing",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "继续游戏"
+ },
+ {
+  "key": "2e0d63b79d",
+  "msgid": "Map: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "地图：%s"
+ },
+ {
+  "key": "f9fd1cb6bd",
+  "msgid": "Win Condition: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "胜利条件：%s"
+ },
+ {
+  "key": "b63e520967",
+  "msgid": "Gametime: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "游戏时间：%s"
+ },
+ {
+  "key": "feeb427c8a",
+  "msgid": "Saved: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: Information about when a game was saved, e.g. 'Saved: Today, | * 10:30'",
+  "ui": "ui/fsmenu",
+  "current": "保存于：%s"
+ },
+ {
+  "key": "bfa9cb583c",
+  "msgid": "Online Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "在线游戏"
+ },
+ {
+  "key": "1ca5fd1dd7",
+  "msgid": "Join the Widelands lobby",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "进入Widelands游戏大厅"
+ },
+ {
+  "key": "5edd37659b",
+  "msgid": "Log in as a registered user",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "登录到注册用户",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "935a4fcaad",
+  "msgid": "LAN / Direct IP",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "局域网/IP直连"
+ },
+ {
+  "key": "e7fd902d45",
+  "msgid": "Play a private online game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "玩一局私人的在线游戏"
+ },
+ {
+  "key": "80ee637624",
+  "msgid": "Create a new empty map",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "创建一张新的空地图"
+ },
+ {
+  "key": "b29f45c0a9",
+  "msgid": "Create a new random map",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "创建一张新的随机地图",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "a632ddec31",
+  "msgid": "Edit an existing map",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "编辑一张现有的地图 "
+ },
+ {
+  "key": "24e0445116",
+  "msgid": "Continue Editing",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "继续编辑"
+ },
+ {
+  "key": "1c06bb4ed1",
+  "msgid": "Load Replay",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the game's main menu",
+  "ui": "ui/fsmenu, ui/game, ui/wui",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "8a8337a9cf",
+  "msgid": "Watch the replay of an old game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "观看已玩游戏的回放",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "47777ed4cd",
+  "msgid": "Watch last saved replay",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "9be4005dd5",
+  "msgid": "Single Player…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "单人玩家...",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "3c739c0738",
+  "msgid": "Multiplayer…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "多人玩家..."
+ },
+ {
+  "key": "3f6966dadc",
+  "msgid": "Editor…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "编辑器..."
+ },
+ {
+  "key": "70799bfdd6",
+  "msgid": "Watch Replay…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "4947089247",
+  "msgid": "Begin or load a single-player campaign or free game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "开始或载入单人战役游戏以及自由游戏",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "0f29528a12",
+  "msgid": "Play with your friends over the internet",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "通过网络和朋友一起游戏"
+ },
+ {
+  "key": "d9b4336608",
+  "msgid": "Launch the map editor",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "启动地图编辑器"
+ },
+ {
+  "key": "1648ae1b15",
+  "msgid": "Watch again a recorded earlier game",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "eddba7a516",
+  "msgid": "Install and manage add-ons",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "安装与管理附件",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "7a6ec68ca0",
+  "msgid": "Options",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "选项"
+ },
+ {
+  "key": "f95b3fbeb5",
+  "msgid": "Technical and game-related settings",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "技术和游戏相关的设置"
+ },
+ {
+  "key": "42dc3e0d34",
+  "msgid": "Readme, License, and Credits",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "自述，许可，致谢名单"
+ },
+ {
+  "key": "29e7f3531e",
+  "msgid": "Exit Widelands",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "退出Widelands"
+ },
+ {
+  "key": "e580767006",
+  "msgid": "Quit the game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "离开游戏"
+ },
+ {
+  "key": "831a9b48bc",
+  "msgid": "Version %1$s",
+  "zh": "",
+  "note": "* TRANSLATORS: %1$s = version string and build type  (\"Debug\", \"Release\", | or | \"RelWithDebInfo\")",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "be032181d6",
+  "msgid": "(C) %1%-%2% by the Widelands Development Team • Licensed under the GNU General Public License V2.0",
+  "zh": "",
+  "note": "* TRANSLATORS: Placeholders are the copyright years",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "00f72ea2d4",
+  "msgid": "Click for the main menu",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "75e517ad33",
+  "msgid": "Desyncing Add-On Found",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "9b89638f3c",
+  "msgid": "An enabled add-on is known to cause desyncs. Proceed at your own risk.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "b1cf225a5c",
+  "msgid": "Map Details",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "地图详情"
+ },
+ {
+  "key": "bd7ee6f80d",
+  "msgid": "Scenario Details",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "场景详情"
+ },
+ {
+  "key": "8fada5d3f1",
+  "msgid": "Hint: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "提示：%s"
+ },
+ {
+  "key": "9a0fcbfa3d",
+  "msgid": "No map selected",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "没有选中地图"
+ },
+ {
+  "key": "17f0af6621",
+  "msgid": "(no map)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "(无地图)"
+ },
+ {
+  "key": "bca24990d6",
+  "msgid": "invalid tribe ‘%s’",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "无效的部落'%s'"
+ },
+ {
+  "key": "03324d92b3",
+  "msgid": "Saved Players",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "保存的玩家"
+ },
+ {
+  "key": "52dd3beb5a",
+  "msgid": "Player %u: –",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "玩家%u: –",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "972e6abe12",
+  "msgid": "Player %1$u (%2$s): %3$s",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Player 1 (Barbarians): Playername\"",
+  "ui": "ui/fsmenu",
+  "current": "玩家%1$u (%2$s): %3$s",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "42846f935e",
+  "msgid": "Filter by official status",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "e507e14734",
+  "msgid": "Official & Unofficial",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "官方 & 非官方"
+ },
+ {
+  "key": "ff6349cbcf",
+  "msgid": "Show both official and unofficial maps",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f5e084db3c",
+  "msgid": "Filter by desired line-up",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "9dc54d8a00",
+  "msgid": "Any Teams",
+  "zh": "",
+  "note": "* TRANSLATORS: Filter entry in map selection. Other entries are \"Free for | all\"\", | * \"Teams of 2\" etc.",
+  "ui": "ui/fsmenu",
+  "current": "任意团队"
+ },
+ {
+  "key": "162114f00a",
+  "msgid": "Do not filter by line-up suggestions",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "4f9a71ff4a",
+  "msgid": "Filter by balancing status",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "b1e85bb0ef",
+  "msgid": "Balanced & Unbalanced",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "平衡的 & 失衡的"
+ },
+ {
+  "key": "c4a5dea775",
+  "msgid": "Show both balanced and unbalanced maps",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "948f363b82",
+  "msgid": "Unspecified",
+  "zh": "",
+  "msgctxt": "balancing",
+  "ui": "ui/fsmenu",
+  "current": "未指定的"
+ },
+ {
+  "key": "75ac63a884",
+  "msgid": "The map does not specify whether it is balanced",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7a11dfbdf2",
+  "msgid": "Choose Map",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "选择地图"
+ },
+ {
+  "key": "14b60f801d",
+  "msgid": "Show all maps",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "查看所有地图"
+ },
+ {
+  "key": "06f813e8eb",
+  "msgid": "Show original map names",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "显示原始地图名"
+ },
+ {
+  "key": "2c7f54c425",
+  "msgid": "Back",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/game",
+  "current": "返回"
+ },
+ {
+  "key": "50e10aed4f",
+  "msgid": "Back to ‘%s’",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "回到 '%s'"
+ },
+ {
+  "key": "d070993966",
+  "msgid": "Close window",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "关闭窗口"
+ },
+ {
+  "key": "0549f112c5",
+  "msgid": "(plain)",
+  "zh": "",
+  "note": "* TRANSLATORS: Placeholder when no modifier key is used, e.g. \"(plain) | Horizontal scroll\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "931be12984",
+  "msgid": "Neither",
+  "zh": "",
+  "note": "* TRANSLATORS: Used as: \"Invert scroll direction: Neither\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "2af48c8152",
+  "msgid": "Vertical",
+  "zh": "",
+  "note": "* TRANSLATORS: Used as: \"Invert scroll direction: Vertical\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "8b17489554",
+  "msgid": "Horizontal",
+  "zh": "",
+  "note": "* TRANSLATORS: Used as: \"Invert scroll direction: Horizontal\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "865b929b1e",
+  "msgid": "Both",
+  "zh": "",
+  "note": "* TRANSLATORS: Used as: \"Invert scroll direction: Both\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "22652c3387",
+  "msgid": "%1%:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d931be0ea6",
+  "msgid": "Scroll Setting Conflict",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "463c4ae77d",
+  "msgid": "‘%1$s%2$s’ conflicts with ‘%3$s’. Please select a different combination or change the conflicting setting first.",
+  "zh": "",
+  "note": "* TRANSLATORS: %1 is a modifier key combination, e.g. \"Ctrl+\", or | empty if none is used. %2 is scrolling direction. | %3 is the name of the conflicting function.",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ec9e78771e",
+  "msgid": "Reset Scrolling",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "6caa2907ca",
+  "msgid": "Reset scroll settings to the defaults recommended for a standard single wheel mouse",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f307a19a70",
+  "msgid": "Set for Touchpad",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ade8d49772",
+  "msgid": "Sets ‘Zoom Map’ and ‘Scroll Map’ to the recommended settings for a touchpad or other pointing device that can scroll horizontally as well as vertically.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Well = 井"
+  ]
+ },
+ {
+  "key": "ed9000c246",
+  "msgid": "Apply Scrolling",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "67ede63612",
+  "msgid": "Apply scroll settings",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "8692eb5008",
+  "msgid": "Zoom Map",
+  "zh": "",
+  "note": "* TRANSLATORS: Name of a function for the scroll wheel. | Used as e.g.: \"Zoom Map: Ctrl+Any scroll\" | The ':' will be added by another format string.",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "08ac2afd78",
+  "msgid": "Scroll Map",
+  "zh": "",
+  "note": "* TRANSLATORS: Name of a function for the scroll wheel. | Used as e.g.: \"Scroll Map: Ctrl+Any scroll\" | The ':' will be added by another format string.",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "62830c579a",
+  "msgid": "Change Game Speed",
+  "zh": "",
+  "note": "* TRANSLATORS: Name of a function for the scroll wheel. | Used as e.g.: \"Change Game Speed: Ctrl+Any scroll\" | The ':' will be added by another format string.",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "b583a52908",
+  "msgid": "Change Editor Toolsize",
+  "zh": "",
+  "note": "* TRANSLATORS: Name of a function for the scroll wheel. | Used as e.g.: \"Change Editor Toolsize: Ctrl+Any scroll\" | The ':' will be added by another format string.",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "17e952062a",
+  "msgid": "Change Editor Tool Gap",
+  "zh": "",
+  "note": "* TRANSLATORS: Name of a function for the scroll wheel. | Used as e.g.: \"Change Editor Tool Gap: Ctrl+Any scroll\" | The ':' will be added by another format string.",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5a6fbaf473",
+  "msgid": "Invert scroll direction for map zooming:",
+  "zh": "",
+  "note": "* TRANSLATORS: Used as e.g. \"Invert scroll direction for map zooming: | Vertical\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "143d4ab140",
+  "msgid": "Invert scroll direction for tab switching:",
+  "zh": "",
+  "note": "* TRANSLATORS: Used as e.g. \"Invert scroll direction for tab switching: | Vertical\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5d46e3125d",
+  "msgid": "Invert scroll direction for increase/decrease:",
+  "zh": "",
+  "note": "* TRANSLATORS: Used as e.g. \"Invert scroll direction for increase/decrease: | Vertical\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1823398908",
+  "msgid": "Fix inverted horizontal scrolling",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7f86947720",
+  "msgid": "An SDL bug in some configurations causes horizontal scroll to be inverted. We try to detect them, but if we got it wrong, you can fix it here. Please report if you need to turn this on, so that we can improve the detection.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "07e06f88b4",
+  "msgid": "Send feedback",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "c44d3e136f",
+  "msgid": "Scroll Settings Conflict",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d359d2a122",
+  "msgid": "‘%1$s’, ‘%2$s’, or ‘%3$s’ conflicts with the recommended settings. Change the conflicting setting(s) too?",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "bd813d55fc",
+  "msgid": "Vertical scroll",
+  "zh": "",
+  "note": "* TRANSLATORS: e.g. Ctrl+Vertical scroll",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5a52b8018a",
+  "msgid": "Horizontal scroll",
+  "zh": "",
+  "note": "* TRANSLATORS: e.g. Ctrl+Horizontal scroll",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "584545b78d",
+  "msgid": "Any scroll",
+  "zh": "",
+  "note": "* TRANSLATORS: Used when a function works with either vertical or | horizontal scrolling. | It may be used in combination with modifier keys, e.g. \"Ctrl+Any scroll\"",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "3f8205d380",
+  "msgid": "Send Feedback for Inverted Horizontal Scrolling",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "be8f5a2376",
+  "msgid": "Please help us improve the detection of inverted horizontal scrolling. To do so, please report at %s that horizontal scroll direction is wrong with your configuration. Please include the below technical information.",
+  "zh": "",
+  "note": "* TRANSLATORS: %s is a URL",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "0d2bd4bdfa",
+  "msgid": "Divergent Player Name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Player = 玩家",
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "f5667de47c",
+  "msgid": "The player name of the selected slot (%1%) does not match your own (%2%). Are you sure that you want to occupy this slot?",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Player = 玩家",
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "d86d2a0bb6",
+  "msgid": "Spectator",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "观众"
+ },
+ {
+  "key": "197acca2bc",
+  "msgid": "Player Number",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "638d17400c",
+  "msgid": "Type",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "类型"
+ },
+ {
+  "key": "88dae0a1e1",
+  "msgid": "Team",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/game, ui/shared",
+  "current": "团队",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "0cc32f0acb",
+  "msgid": "Random AI",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the name of an AI used in the game setup screens",
+  "ui": "ui/fsmenu",
+  "current": "随机 AI",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "65a2580766",
+  "msgid": "Shared in",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "共享给"
+ },
+ {
+  "key": "c8522f9349",
+  "msgid": "Closed",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "关闭"
+ },
+ {
+  "key": "81e70f88dd",
+  "msgid": "Open",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "开放"
+ },
+ {
+  "key": "5432454859",
+  "msgid": "Human",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "人类"
+ },
+ {
+  "key": "8b02084759",
+  "msgid": "Shared in Player %u",
+  "zh": "",
+  "note": "* TRANSLATORS: This is an option in multiplayer setup for sharing | another player's starting position.",
+  "ui": "ui/fsmenu",
+  "current": "共享给玩家 %u",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "a2eef1929c",
+  "msgid": "Start type is set via the scenario",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "起始类型通过场景设置"
+ },
+ {
+  "key": "45799ff0c4",
+  "msgid": "No Team",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "没有团队",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "30a506a867",
+  "msgid": "Team %d",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "团队 %d",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "11c55b8bfe",
+  "msgid": "Role",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "角色"
+ },
+ {
+  "key": "cc9c3c7a62",
+  "msgid": "Clients",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "客户端"
+ },
+ {
+  "key": "260c7802c3",
+  "msgid": "Host a new game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "发起新游戏"
+ },
+ {
+  "key": "f135211a4d",
+  "msgid": "Host",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "主机"
+ },
+ {
+  "key": "8e6a90f9c5",
+  "msgid": "State",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "状态"
+ },
+ {
+  "key": "e145b994c8",
+  "msgid": "Unknown",
+  "zh": "",
+  "msgctxt": "game_state",
+  "note": "* TRANSLATORS: The state of a LAN game can be open, closed or unknown",
+  "ui": "ui/fsmenu",
+  "current": "不详"
+ },
+ {
+  "key": "750cb087f6",
+  "msgid": "Enter a valid nickname. This value may contain only English letters, numbers, and @ . + - _ characters and must not be \"team\".",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "键入一个有效的昵称。昵称只能由英文字母，数字，和@ . + - _ 等英文输入法状态下的字符构成，且不能是团队名。",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "b93ced47ff",
+  "msgid": "Invalid Address",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "无效地址"
+ },
+ {
+  "key": "83bf316cc8",
+  "msgid": "The entered hostname or address is invalid and can’t be connected to.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "输入的主机名或地址是无效的，无法进行连接。 "
+ },
+ {
+  "key": "51a2011590",
+  "msgid": "Begin LAN Game",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "开始局域网游戏"
+ }
+]

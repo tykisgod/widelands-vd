@@ -6523,31 +6523,31 @@ msgstr "默认"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:44
 msgid "Crash Report Details"
-msgstr ""
+msgstr "崩溃报告详情"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:62
 #: ../../../../src/ui/fsmenu/crash_report.cc:149
 msgid "Open link"
-msgstr ""
+msgstr "打开链接"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:64
 #: ../../../../src/ui/fsmenu/crash_report.cc:151
 msgid "Copy link"
-msgstr ""
+msgstr "复制链接"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:68
 #: ../../../../src/ui/fsmenu/crash_report.cc:156
 msgid "Copy report"
-msgstr ""
+msgstr "复制报告"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:69
 #: ../../../../src/ui/fsmenu/crash_report.cc:156
 msgid "Copy the full report to the clipboard"
-msgstr ""
+msgstr "把完整报告复制到剪贴板"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:98
 msgid "Crash Report"
-msgstr ""
+msgstr "崩溃报告"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:132
 #, c-format
@@ -6569,13 +6569,13 @@ msgstr "查看详细的崩溃报告"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:159
 msgid "Remind me later"
-msgstr ""
+msgstr "稍后提醒"
 
 #: ../../../../src/ui/fsmenu/helpwindow.cc:46
 #: ../../../../src/ui/game/helpwindow.cc:48
 #, c-format
 msgid "Help: %s"
-msgstr "帮助： %s"
+msgstr "帮助：%s"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:57
 #: ../../../../src/wlapplication_options.cc:321
@@ -6584,24 +6584,24 @@ msgstr "元服务器大厅"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:67
 msgid "Clients online:"
-msgstr "在线客户端:"
+msgstr "在线用户："
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:91
 msgid "Open Games:"
-msgstr " 打开游戏： "
+msgstr "开放的游戏："
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:101
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:92
 msgid "Join this game"
-msgstr "加入此游戏"
+msgstr "加入这局游戏"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:110
 msgid "Name of your server:"
-msgstr "你的服务器名称:"
+msgstr "你的服务器名称："
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:119
 msgid "Open a new game"
-msgstr "打开一个新游戏"
+msgstr "开一局新游戏"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:128
 msgid "Leave Lobby"
@@ -6642,18 +6642,18 @@ msgstr "游戏"
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:440
 #, c-format
 msgid "The game %s is already running. Please choose a different name."
-msgstr "游戏%s已在运行中，请选择其他名称。"
+msgstr "游戏 %s 已在运行中，请换一个名称。"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:453
 msgid ""
 "Widelands was unable to get the IP address of the server in time. There "
 "seems to be a network problem, either on your side or on the side of the "
 "server.\n"
-msgstr " Widelands不能及时获取服务器的IP地址。似乎存在一个网络问题，这个问题不在客户端就在服务器端。 \n"
+msgstr "Widelands 未能及时获取服务器的 IP 地址。看来存在网络问题，可能在你这一侧，也可能在服务器一侧。\n"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:456
 msgid "Connection Timed Out"
-msgstr "连接超时 "
+msgstr "连接超时"
 
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:485
 #: ../../../../src/ui/fsmenu/internet_lobby.cc:547
@@ -6671,38 +6671,38 @@ msgstr "未命名 %u"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:53
 msgid "Reset to default"
-msgstr ""
+msgstr "恢复默认"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:74
 msgid "Press the new shortcut or close this window to cancel."
-msgstr ""
+msgstr "请按下新的快捷键，或关闭本窗口取消。"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:133
 msgid "(unused)"
-msgstr ""
+msgstr "（未使用）"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:211
 msgid "Edit Keyboard And Mouse Actions"
-msgstr "编辑键盘和鼠标操作"
+msgstr "编辑键盘与鼠标操作"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:223
 msgid "Reset all"
-msgstr ""
+msgstr "全部重置"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:224
 msgid "Reset all to defaults"
-msgstr ""
+msgstr "全部恢复为默认值"
 
 #. * TRANSLATORS: This is a button label for a keyboard shortcut in the form
 #. "Action: Key"
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:240
 #, c-format
 msgid "%1$s: %2$s"
-msgstr "%1$s:%2$s"
+msgstr "%1$s：%2$s"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:265
 msgid "Keyboard Shortcut Conflict"
-msgstr ""
+msgstr "快捷键冲突"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:267
 #, c-format
@@ -6710,22 +6710,22 @@ msgid ""
 "The shortcut you selected (‘%1$s’) is already in use for the following "
 "action: ‘%2$s’. Please select a different shortcut or change the conflicting"
 " shortcut first."
-msgstr ""
+msgstr "你选择的快捷键（‘%1$s’）已被以下操作占用：‘%2$s’。请另选一个快捷键，或先修改冲突的那一个。"
 
 #. * TRANSLATORS: An entry in the game's statistics menu
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:297
 #: ../../../../src/ui/wui/interactive_player.cc:334
 msgid "General"
-msgstr "常规的"
+msgstr "常规"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:299
 #: ../../../../src/wlapplication_options.cc:278
 msgid "Editor"
-msgstr "地图编辑"
+msgstr "编辑器"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:303
 msgid "Fastplace"
-msgstr ""
+msgstr "快速放置"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:307
 #: ../../../../src/ui/fsmenu/main.cc:526
@@ -6737,7 +6737,7 @@ msgstr "附加内容"
 
 #: ../../../../src/ui/fsmenu/keyboard_options.cc:310
 msgid "Mouse Scrolling"
-msgstr ""
+msgstr "鼠标滚屏"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:42
 msgid "Launch Game"
@@ -6745,20 +6745,20 @@ msgstr "启动游戏"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:53
 msgid "Configure this game"
-msgstr "配置游戏"
+msgstr "配置这局游戏"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:66
 msgid ""
 "An enabled add-on is known to cause desyncs. No replay will be written."
-msgstr ""
+msgstr "已启用的某个附加内容已知会导致不同步，将不录制回放。"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:87
 msgid "Playing time"
-msgstr ""
+msgstr "游戏时长"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:101
 msgid "Show or hide additional game configuration options"
-msgstr ""
+msgstr "显示或隐藏额外的游戏配置选项"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:114
 msgid "Peaceful mode"
@@ -6766,15 +6766,15 @@ msgstr "和平模式"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:122
 msgid "No fog of war"
-msgstr ""
+msgstr "无战争迷雾"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:130
 msgid "Forbid diplomacy"
-msgstr ""
+msgstr "禁止外交"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:138
 msgid "Enable naval warfare (experimental feature)"
-msgstr ""
+msgstr "启用海战（实验性功能）"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:146
 msgid "Custom starting positions"
@@ -6782,15 +6782,15 @@ msgstr "自定义起始位置"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:154
 msgid "Write Replay"
-msgstr ""
+msgstr "录制回放"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:164
 msgid "Change map…"
-msgstr "更换地图..."
+msgstr "更换地图…"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:174
 msgid "Change saved game…"
-msgstr "更改保存的游戏..."
+msgstr "更换存档…"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:200
 msgid "Start game"
@@ -6798,84 +6798,84 @@ msgstr "开始游戏"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:285
 msgid "Show fewer options"
-msgstr ""
+msgstr "收起选项"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:285
 msgid "Show more options"
-msgstr ""
+msgstr "展开更多选项"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:301
 msgid "The relations between players are set by the scenario"
-msgstr "玩家之间的关系由场景决定"
+msgstr "玩家之间的关系由剧本设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:303
 msgid "The relations between players are set by the saved game"
-msgstr "玩家之间的关系由保存的游戏设置"
+msgstr "玩家之间的关系由存档设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:305
 msgid "The selected win condition does not allow peaceful matches"
-msgstr "所选的胜利条件不允许和平比赛模式"
+msgstr "所选的胜利条件不允许和平模式"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:307
 msgid "Forbid fighting between players"
-msgstr "玩家之间禁止战斗"
+msgstr "禁止玩家之间交战"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:338
 msgid "All selected starting conditions ignore the map’s starting positions"
-msgstr ""
+msgstr "所选的全部起始条件都会忽略地图上的起始位置"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:344
 msgid "The starting positions are set by the scenario"
-msgstr "起始位置由场景决定"
+msgstr "起始位置由剧本设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:346
 msgid "The starting positions are set by the saved game"
-msgstr "起始位置由已保存的游戏设定"
+msgstr "起始位置由存档设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:349
 msgid ""
 "Allow the players to choose their own starting positions at the beginning of"
 " the game"
-msgstr "允许玩家在游戏开始时选择自己的起始位置"
+msgstr "允许玩家在游戏开始时自行选择起始位置"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:369
 msgid "Player vision is set by the scenario"
-msgstr ""
+msgstr "玩家视野由剧本设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:371
 msgid "Player vision is set by the saved game"
-msgstr ""
+msgstr "玩家视野由存档设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:373
 msgid "Give all players permanent vision of the entire map"
-msgstr ""
+msgstr "让所有玩家永久看到整张地图"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:395
 msgid "Naval warfare is set by the scenario"
-msgstr ""
+msgstr "海战由剧本设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:397
 msgid "Naval warfare is set by the saved game"
-msgstr ""
+msgstr "海战由存档设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:400
 msgid ""
 "Enable coastal invasions and ship-to-ship battles. This feature is "
 "experimental and may undergo substantial redesign in future versions of "
 "Widelands."
-msgstr ""
+msgstr "启用登陆作战与舰船对战。此功能尚属实验性质，在未来版本中可能会有较大改动。"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:421
 msgid "Player relations are set by the scenario"
-msgstr ""
+msgstr "玩家关系由剧本设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:423
 msgid "Player relations are set by the saved game"
-msgstr ""
+msgstr "玩家关系由存档设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:425
 msgid "Disallow players to change their alliances during the game"
-msgstr ""
+msgstr "禁止玩家在游戏过程中改变结盟关系"
 
 #. * TRANSLATORS: This is a map tag
 #: ../../../../src/ui/fsmenu/launch_game.cc:434
@@ -6885,11 +6885,11 @@ msgstr ""
 #: ../../../../src/ui/shared/map_tags.cc:66
 #: ../../../../src/ui/shared/mapdetails.cc:136
 msgid "Scenario"
-msgstr "方案"
+msgstr "剧本"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:435
 msgid "Win condition is set through the scenario"
-msgstr "胜利条件由剧本设置"
+msgstr "胜利条件由剧本设定"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:441
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:510
@@ -6899,14 +6899,14 @@ msgstr "存档"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:443
 msgid "The game is a saved game – the win condition was set before."
-msgstr "此游戏是保存的游戏，胜利条件已经设置。"
+msgstr "这是一局存档游戏——胜利条件此前已经设定。"
 
 #: ../../../../src/ui/fsmenu/launch_game.cc:518
 #, c-format
 msgid ""
 "Unable to determine valid win conditions because the map ‘%s’ could not be "
 "loaded."
-msgstr ""
+msgstr "无法确定有效的胜利条件，因为地图 ‘%s’ 载入失败。"
 
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:64
 msgid "Show the help window"
@@ -6914,16 +6914,16 @@ msgstr "显示帮助窗口"
 
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:88
 msgid "Please select a map or saved game."
-msgstr "请选择一张地图或是保存游戏。"
+msgstr "请选择一张地图或一份存档。"
 
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:91
 msgid "The host has not yet selected a map or saved game."
-msgstr "主机还未选择地图或游戏存档"
+msgstr "主机尚未选择地图或存档。"
 
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:226
 #: ../../../../src/ui/fsmenu/launch_spg.cc:134
 msgid "File not found"
-msgstr "文件未找到"
+msgstr "找不到文件"
 
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:227
 #: ../../../../src/ui/fsmenu/launch_spg.cc:135
@@ -6932,18 +6932,18 @@ msgid ""
 "Widelands tried to start a game with a file that could not be found at the given path.\n"
 "The file was: %s\n"
 "If this happens in a network game, the host might have selected a file that you do not own. Normally, such a file should be sent from the host to you, but perhaps the transfer was not yet finished!?!"
-msgstr "Widelands用了一个无法找到的文件路径开始游戏。\n此文件是：%s\n如果此情况发生在网络游戏中，游戏创建者可能选择了你没有的文件。通常，此文件将从创建者传输过来，但是可能传输目前还没有完成?!"
+msgstr "Widelands 试图用一个在给定路径下找不到的文件开始游戏。\n该文件是：%s\n如果这发生在网络游戏中，可能是主机选择了一个你没有的文件。通常主机会把这类文件发送给你，也许传输还没完成？"
 
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:268
 msgid ""
 "The selected file can not be found. If it is not automatically transferred "
 "to you, please write to the host about this problem."
-msgstr "无法找到选择的文件。如果此文件没有自动下载，请致信游戏创建者说明问题。"
+msgstr "找不到所选的文件。如果它没有自动传输给你，请就此问题联系主机。"
 
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:317
 #, c-format
 msgid "Unable to load the win condition script file ‘%s’."
-msgstr ""
+msgstr "无法载入胜利条件脚本文件 ‘%s’。"
 
 #. * TRANSLATORS: This is a heading for a help window
 #: ../../../../src/ui/fsmenu/launch_mpg.cc:444
@@ -6966,7 +6966,7 @@ msgstr "显示文件名"
 #: ../../../../src/ui/fsmenu/loadgame.cc:80
 #: ../../../../src/ui/fsmenu/mapselect.cc:72
 msgid "Return to the multiplayer game setup"
-msgstr "返回多人游戏的设置"
+msgstr "返回多人游戏设置"
 
 #: ../../../../src/ui/fsmenu/loadgame.cc:81
 #: ../../../../src/ui/fsmenu/mapselect.cc:74
@@ -6975,19 +6975,19 @@ msgstr "返回单人游戏菜单"
 
 #: ../../../../src/ui/fsmenu/loadgame.cc:187
 msgid "Load this game"
-msgstr "载入游戏"
+msgstr "载入这局游戏"
 
 #. * TRANSLATORS: Tooltip for OK button. The user has a file to select
 #: ../../../../src/ui/fsmenu/loadgame.cc:187
 msgid "Load this replay"
-msgstr "载入重放"
+msgstr "载入这份回放"
 
 #. * TRANSLATORS: Tooltip for the delete button. The user has
 #. no files to select
 #: ../../../../src/ui/fsmenu/loadgame.cc:194
 #: ../../../../src/ui/shared/load_or_save_game.cc:200
 msgid "No game selected"
-msgstr ""
+msgstr "未选择游戏"
 
 #. * TRANSLATORS: Tooltip for OK button. The user has no files to select
 #. * TRANSLATORS: Tooltip for the delete button. The user has
@@ -6995,7 +6995,7 @@ msgstr ""
 #: ../../../../src/ui/fsmenu/loadgame.cc:194
 #: ../../../../src/ui/shared/load_or_save_game.cc:197
 msgid "No replay selected"
-msgstr ""
+msgstr "未选择回放"
 
 #: ../../../../src/ui/fsmenu/login_box.cc:37
 #: ../../../../src/ui/fsmenu/main.cc:431
@@ -7010,7 +7010,7 @@ msgstr "保存"
 
 #: ../../../../src/ui/fsmenu/login_box.cc:53
 msgid "Log in to a registered account."
-msgstr "登录到注册帐户。"
+msgstr "使用已注册的账号登录。"
 
 #: ../../../../src/ui/fsmenu/login_box.cc:58
 msgid "Nickname:"
@@ -7028,7 +7028,7 @@ msgid ""
 "In order to use a registered account, you need an account on the Widelands "
 "website. Please log in at %s and set an online gaming password on your "
 "profile page."
-msgstr "为了使用注册帐户，你需要在Widelands的官方网站上注册一个帐号。请登入到%s并在你的个人资料概述页面设置一个在线游戏的密码。"
+msgstr "要使用已注册的账号，你需要在 Widelands 网站上拥有账号。请到 %s 登录，并在个人资料页设置在线游戏密码。"
 
 #. * TRANSLATORS: This string may contain only English letters, numbers, and @
 #. . + - _ characters
@@ -7037,17 +7037,17 @@ msgstr "为了使用注册帐户，你需要在Widelands的官方网站上注册
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:140
 #: ../../../../src/wlapplication.cc:838
 msgid "nobody"
-msgstr "没有人"
+msgstr "nobody"
 
 #: ../../../../src/ui/fsmenu/login_box.cc:218
 msgid "Please enter a nickname!"
-msgstr "请键入一个昵称！"
+msgstr "请输入昵称！"
 
 #: ../../../../src/ui/fsmenu/login_box.cc:222
 msgid ""
 "Enter a valid nickname. This value may contain only English letters, "
 "numbers, and @ . + - _ characters."
-msgstr "键入一个有效的昵称。昵称只能由英文字母，数字，和@ . + - _ 等英文输入法状态下的字符构成。"
+msgstr "请输入有效的昵称。昵称只能包含英文字母、数字，以及 @ . + - _ 这几个字符。"
 
 #: ../../../../src/ui/fsmenu/login_box.cc:228
 msgid "Please enter your password!"
@@ -7059,26 +7059,26 @@ msgid ""
 "Unable to create a Game instance!\n"
 "Error message:\n"
 "%s"
-msgstr ""
+msgstr "无法创建游戏实例！\n错误信息：\n%s"
 
 #: ../../../../src/ui/fsmenu/main.cc:380
 msgid "Begin a new game"
-msgstr "开始新游戏"
+msgstr "开始一局新游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:380
 #: ../../../../src/wlapplication_options.cc:238
 msgid "New Game"
-msgstr "新建游戏"
+msgstr "新游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:382
 #: ../../../../src/ui/fsmenu/random_game.cc:29
 #: ../../../../src/wlapplication_options.cc:259
 msgid "New Random Game"
-msgstr "新随机游戏"
+msgstr "新建随机游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:383
 msgid "Create a new random match"
-msgstr "创建新的随机比赛"
+msgstr "创建一局新的随机对局"
 
 #: ../../../../src/ui/fsmenu/main.cc:385
 #: ../../../../src/wlapplication_options.cc:267
@@ -7087,7 +7087,7 @@ msgstr "战役"
 
 #: ../../../../src/ui/fsmenu/main.cc:385
 msgid "Play a campaign"
-msgstr "进入战役游戏模式"
+msgstr "进行一场战役"
 
 #: ../../../../src/ui/fsmenu/main.cc:387
 #: ../../../../src/wlapplication_options.cc:263
@@ -7096,7 +7096,7 @@ msgstr "教程"
 
 #: ../../../../src/ui/fsmenu/main.cc:388
 msgid "Play one of our beginners’ tutorials"
-msgstr "进入我们的初学者教程之一"
+msgstr "玩一玩我们的新手教程"
 
 #. * TRANSLATORS: An entry in the game's main menu
 #. * TRANSLATORS: This is the helptext for an access key combination.
@@ -7110,7 +7110,7 @@ msgstr "载入游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:391
 msgid "Continue a saved game"
-msgstr "从保存的游戏开始继续"
+msgstr "继续一局存档游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:402
 #: ../../../../src/wlapplication_options.cc:301
@@ -7130,7 +7130,7 @@ msgstr "胜利条件：%s"
 #: ../../../../src/ui/fsmenu/main.cc:417 ../../../../src/ui/fsmenu/main.cc:498
 #, c-format
 msgid "Gametime: %s"
-msgstr "游戏时间：%s"
+msgstr "游戏时长：%s"
 
 #. * TRANSLATORS: Information about when a game was saved, e.g. 'Saved: Today,
 #. * 10:30'
@@ -7145,20 +7145,20 @@ msgstr "在线游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:429
 msgid "Join the Widelands lobby"
-msgstr "进入Widelands游戏大厅"
+msgstr "进入 Widelands 游戏大厅"
 
 #: ../../../../src/ui/fsmenu/main.cc:432
 msgid "Log in as a registered user"
-msgstr "登录到注册用户"
+msgstr "以注册用户身份登录"
 
 #: ../../../../src/ui/fsmenu/main.cc:434
 #: ../../../../src/wlapplication_options.cc:317
 msgid "LAN / Direct IP"
-msgstr "局域网/IP直连"
+msgstr "局域网 / IP 直连"
 
 #: ../../../../src/ui/fsmenu/main.cc:435
 msgid "Play a private online game"
-msgstr "玩一局私人的在线游戏"
+msgstr "开一局私人的在线游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:438
 msgid "Create a new empty map"
@@ -7170,7 +7170,7 @@ msgstr "创建一张新的随机地图"
 
 #: ../../../../src/ui/fsmenu/main.cc:443
 msgid "Edit an existing map"
-msgstr "编辑一张现有的地图 "
+msgstr "编辑一张现有的地图"
 
 #: ../../../../src/ui/fsmenu/main.cc:452
 #: ../../../../src/wlapplication_options.cc:296
@@ -7183,39 +7183,39 @@ msgstr "继续编辑"
 #: ../../../../src/ui/wui/interactive_gamebase.cc:167
 #: ../../../../src/wlapplication_options.cc:250
 msgid "Load Replay"
-msgstr ""
+msgstr "载入回放"
 
 #: ../../../../src/ui/fsmenu/main.cc:475
 msgid "Watch the replay of an old game"
-msgstr "观看已玩游戏的回放"
+msgstr "观看过往对局的回放"
 
 #: ../../../../src/ui/fsmenu/main.cc:483
 msgid "Watch last saved replay"
-msgstr ""
+msgstr "观看最近保存的回放"
 
 #: ../../../../src/ui/fsmenu/main.cc:509
 msgid "Single Player…"
-msgstr "单人玩家..."
+msgstr "单人游戏…"
 
 #: ../../../../src/ui/fsmenu/main.cc:510
 msgid "Multiplayer…"
-msgstr "多人玩家..."
+msgstr "多人游戏…"
 
 #: ../../../../src/ui/fsmenu/main.cc:511
 msgid "Editor…"
-msgstr "编辑器..."
+msgstr "编辑器…"
 
 #: ../../../../src/ui/fsmenu/main.cc:512
 msgid "Watch Replay…"
-msgstr ""
+msgstr "观看回放…"
 
 #: ../../../../src/ui/fsmenu/main.cc:514
 msgid "Begin or load a single-player campaign or free game"
-msgstr "开始或载入单人战役游戏以及自由游戏"
+msgstr "开始或载入单人战役与自由对局"
 
 #: ../../../../src/ui/fsmenu/main.cc:517
 msgid "Play with your friends over the internet"
-msgstr "通过网络和朋友一起游戏"
+msgstr "通过网络与朋友一起游戏"
 
 #: ../../../../src/ui/fsmenu/main.cc:520
 msgid "Launch the map editor"
@@ -7223,11 +7223,11 @@ msgstr "启动地图编辑器"
 
 #: ../../../../src/ui/fsmenu/main.cc:523
 msgid "Watch again a recorded earlier game"
-msgstr ""
+msgstr "重温此前录制的对局"
 
 #: ../../../../src/ui/fsmenu/main.cc:528
 msgid "Install and manage add-ons"
-msgstr "安装与管理附件"
+msgstr "安装与管理附加内容"
 
 #: ../../../../src/ui/fsmenu/main.cc:530
 #: ../../../../src/ui/fsmenu/options.cc:112
@@ -7237,20 +7237,20 @@ msgstr "选项"
 
 #: ../../../../src/ui/fsmenu/main.cc:532
 msgid "Technical and game-related settings"
-msgstr "技术和游戏相关的设置"
+msgstr "技术与游戏相关的设置"
 
 #: ../../../../src/ui/fsmenu/main.cc:536
 msgid "Readme, License, and Credits"
-msgstr "自述，许可，致谢名单"
+msgstr "自述、许可证与致谢"
 
 #: ../../../../src/ui/fsmenu/main.cc:538
 #: ../../../../src/wlapplication_options.cc:305
 msgid "Exit Widelands"
-msgstr "退出Widelands"
+msgstr "退出 Widelands"
 
 #: ../../../../src/ui/fsmenu/main.cc:540
 msgid "Quit the game"
-msgstr "离开游戏"
+msgstr "退出游戏"
 
 #. * TRANSLATORS: %1$s = version string and build type  ("Debug", "Release",
 #. or
@@ -7258,64 +7258,64 @@ msgstr "离开游戏"
 #: ../../../../src/ui/fsmenu/main.cc:546
 #, c-format
 msgid "Version %1$s"
-msgstr ""
+msgstr "版本 %1$s"
 
 #. * TRANSLATORS: Placeholders are the copyright years
 #: ../../../../src/ui/fsmenu/main.cc:549
 msgid ""
 "(C) %1%-%2% by the Widelands Development Team • Licensed under the GNU "
 "General Public License V2.0"
-msgstr ""
+msgstr "© %1%-%2% Widelands 开发团队 • 依 GNU 通用公共许可证 V2.0 授权"
 
 #: ../../../../src/ui/fsmenu/main.cc:892
 msgid "Click for the main menu"
-msgstr ""
+msgstr "单击进入主菜单"
 
 #: ../../../../src/ui/fsmenu/main.cc:970
 msgid "Desyncing Add-On Found"
-msgstr ""
+msgstr "发现会导致不同步的附加内容"
 
 #: ../../../../src/ui/fsmenu/main.cc:971
 msgid "An enabled add-on is known to cause desyncs. Proceed at your own risk."
-msgstr ""
+msgstr "已启用的某个附加内容已知会导致不同步，继续操作风险自负。"
 
 #: ../../../../src/ui/fsmenu/main.cc:1081
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:354
 msgid "No tribes found!"
-msgstr "找不到部落！"
+msgstr "找不到部族！"
 
 #: ../../../../src/ui/fsmenu/main.cc:1082
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:355
 msgid "No tribes found in data/tribes/initialization/[tribename]/init.lua."
-msgstr "在 data/tribes/initialization/[tribename]/init.lua 中找不到部落。"
+msgstr "在 data/tribes/initialization/[tribename]/init.lua 中找不到部族。"
 
 #: ../../../../src/ui/fsmenu/main.cc:1128
 msgid "Exit Confirmation"
-msgstr ""
+msgstr "退出确认"
 
 #: ../../../../src/ui/fsmenu/main.cc:1129
 msgid "Are you sure you wish to exit Widelands?"
-msgstr ""
+msgstr "确定要退出 Widelands 吗？"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:40
 #, c-format
 msgid "invalid tribe ‘%s’"
-msgstr "无效的部落'%s'"
+msgstr "无效的部族 ‘%s’"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:53
 msgid "Saved Players"
-msgstr "保存的玩家"
+msgstr "存档中的玩家"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:60
 #, c-format
 msgid "Player %u: –"
-msgstr "玩家%u: –"
+msgstr "玩家 %u：–"
 
 #. * TRANSLATORS: "Player 1 (Barbarians): Playername"
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:83
 #, c-format
 msgid "Player %1$u (%2$s): %3$s"
-msgstr "玩家%1$u (%2$s): %3$s"
+msgstr "玩家 %1$u（%2$s）：%3$s"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:109
 msgid "Map Details"
@@ -7323,7 +7323,7 @@ msgstr "地图详情"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:109
 msgid "Scenario Details"
-msgstr "场景详情"
+msgstr "剧本详情"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:134
 #, c-format
@@ -7332,11 +7332,11 @@ msgstr "提示：%s"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:172
 msgid "No map selected"
-msgstr "没有选中地图"
+msgstr "未选择地图"
 
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:215
 msgid "(no map)"
-msgstr "(无地图)"
+msgstr "（无地图）"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:46
 msgid "Choose Map"
@@ -7344,59 +7344,59 @@ msgstr "选择地图"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:85
 msgid "Show all maps"
-msgstr "查看所有地图"
+msgstr "显示全部地图"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:88
 msgid "Show original map names"
-msgstr "显示原始地图名"
+msgstr "显示地图原名"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:106
 msgid "Filter by official status"
-msgstr ""
+msgstr "按官方状态筛选"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:108
 msgid "Official & Unofficial"
-msgstr "官方 & 非官方"
+msgstr "官方与非官方"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:108
 msgid "Show both official and unofficial maps"
-msgstr ""
+msgstr "官方与非官方地图都显示"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:120
 msgid "Filter by desired line-up"
-msgstr ""
+msgstr "按期望的阵容筛选"
 
 #. * TRANSLATORS: Filter entry in map selection. Other entries are "Free for
 #. all"",
 #. * "Teams of 2" etc.
 #: ../../../../src/ui/fsmenu/mapselect.cc:124
 msgid "Any Teams"
-msgstr "任意团队"
+msgstr "任意阵容"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:124
 msgid "Do not filter by line-up suggestions"
-msgstr ""
+msgstr "不按阵容建议筛选"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:139
 msgid "Filter by balancing status"
-msgstr ""
+msgstr "按平衡性筛选"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:409
 msgid "Balanced & Unbalanced"
-msgstr "平衡的 & 失衡的"
+msgstr "平衡与不平衡"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:409
 msgid "Show both balanced and unbalanced maps"
-msgstr ""
+msgstr "平衡与不平衡的地图都显示"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:414
 msgctxt "balancing"
 msgid "Unspecified"
-msgstr "未指定的"
+msgstr "未标明"
 
 #: ../../../../src/ui/fsmenu/mapselect.cc:415
 msgid "The map does not specify whether it is balanced"
-msgstr ""
+msgstr "该地图未标明自己是否平衡"
 
 #: ../../../../src/ui/fsmenu/menu.cc:129
 #: ../../../../src/ui/game/helpwindow.cc:69
@@ -7406,7 +7406,7 @@ msgstr "返回"
 #: ../../../../src/ui/fsmenu/menu.cc:292
 #, c-format
 msgid "Back to ‘%s’"
-msgstr "回到 '%s'"
+msgstr "返回 ‘%s’"
 
 #: ../../../../src/ui/fsmenu/menu.cc:301
 msgid "Close window"
@@ -7415,53 +7415,53 @@ msgstr "关闭窗口"
 #. * TRANSLATORS: e.g. Ctrl+Vertical scroll
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:59
 msgid "Vertical scroll"
-msgstr ""
+msgstr "垂直滚动"
 
 #. * TRANSLATORS: e.g. Ctrl+Horizontal scroll
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:61
 msgid "Horizontal scroll"
-msgstr ""
+msgstr "水平滚动"
 
 #. * TRANSLATORS: Used when a function works with either vertical or
 #. horizontal scrolling.
 #. It may be used in combination with modifier keys, e.g. "Ctrl+Any scroll"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:64
 msgid "Any scroll"
-msgstr ""
+msgstr "任意方向滚动"
 
 #. * TRANSLATORS: Placeholder when no modifier key is used, e.g. "(plain)
 #. Horizontal scroll"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:151
 msgid "(plain)"
-msgstr ""
+msgstr "（无修饰键）"
 
 #. * TRANSLATORS: Used as: "Invert scroll direction: Neither"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:205
 msgid "Neither"
-msgstr ""
+msgstr "都不"
 
 #. * TRANSLATORS: Used as: "Invert scroll direction: Vertical"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:207
 msgid "Vertical"
-msgstr ""
+msgstr "垂直"
 
 #. * TRANSLATORS: Used as: "Invert scroll direction: Horizontal"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:209
 msgid "Horizontal"
-msgstr ""
+msgstr "水平"
 
 #. * TRANSLATORS: Used as: "Invert scroll direction: Both"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:211
 msgid "Both"
-msgstr ""
+msgstr "两者"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:235
 msgid "%1%:"
-msgstr ""
+msgstr "%1%："
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:292
 msgid "Scroll Setting Conflict"
-msgstr ""
+msgstr "滚轮设置冲突"
 
 #. * TRANSLATORS: %1 is a modifier key combination, e.g. "Ctrl+", or
 #. empty if none is used. %2 is scrolling direction.
@@ -7471,118 +7471,118 @@ msgstr ""
 msgid ""
 "‘%1$s%2$s’ conflicts with ‘%3$s’. Please select a different combination or "
 "change the conflicting setting first."
-msgstr ""
+msgstr "‘%1$s%2$s’ 与 ‘%3$s’ 冲突。请另选一种组合，或先修改冲突的那项设置。"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:371
 msgid "Reset Scrolling"
-msgstr ""
+msgstr "重置滚轮设置"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:372
 msgid ""
 "Reset scroll settings to the defaults recommended for a standard single "
 "wheel mouse"
-msgstr ""
+msgstr "把滚轮设置恢复为标准单滚轮鼠标的推荐值"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:381
 msgid "Set for Touchpad"
-msgstr ""
+msgstr "按触控板设置"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:382
 msgid ""
 "Sets ‘Zoom Map’ and ‘Scroll Map’ to the recommended settings for a touchpad "
 "or other pointing device that can scroll horizontally as well as vertically."
-msgstr ""
+msgstr "把「缩放地图」和「滚动地图」设为触控板或其他可横向滚动的指点设备的推荐值。"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:392
 msgid "Apply Scrolling"
-msgstr ""
+msgstr "应用滚轮设置"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:393
 msgid "Apply scroll settings"
-msgstr ""
+msgstr "应用滚轮设置"
 
 #. * TRANSLATORS: Name of a function for the scroll wheel.
 #. Used as e.g.: "Zoom Map: Ctrl+Any scroll"
 #. The ':' will be added by another format string.
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:424
 msgid "Zoom Map"
-msgstr ""
+msgstr "缩放地图"
 
 #. * TRANSLATORS: Name of a function for the scroll wheel.
 #. Used as e.g.: "Scroll Map: Ctrl+Any scroll"
 #. The ':' will be added by another format string.
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:432
 msgid "Scroll Map"
-msgstr ""
+msgstr "滚动地图"
 
 #. * TRANSLATORS: Name of a function for the scroll wheel.
 #. Used as e.g.: "Change Game Speed: Ctrl+Any scroll"
 #. The ':' will be added by another format string.
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:441
 msgid "Change Game Speed"
-msgstr ""
+msgstr "调整游戏速度"
 
 #. * TRANSLATORS: Name of a function for the scroll wheel.
 #. Used as e.g.: "Change Editor Toolsize: Ctrl+Any scroll"
 #. The ':' will be added by another format string.
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:449
 msgid "Change Editor Toolsize"
-msgstr ""
+msgstr "调整编辑器工具大小"
 
 #. * TRANSLATORS: Name of a function for the scroll wheel.
 #. Used as e.g.: "Change Editor Tool Gap: Ctrl+Any scroll"
 #. The ':' will be added by another format string.
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:457
 msgid "Change Editor Tool Gap"
-msgstr ""
+msgstr "调整编辑器工具间隔"
 
 #. * TRANSLATORS: Used as e.g. "Invert scroll direction for map zooming:
 #. Vertical"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:464
 msgid "Invert scroll direction for map zooming:"
-msgstr ""
+msgstr "反转地图缩放的滚动方向："
 
 #. * TRANSLATORS: Used as e.g. "Invert scroll direction for tab switching:
 #. Vertical"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:469
 msgid "Invert scroll direction for tab switching:"
-msgstr ""
+msgstr "反转标签页切换的滚动方向："
 
 #. * TRANSLATORS: Used as e.g. "Invert scroll direction for increase/decrease:
 #. Vertical"
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:474
 msgid "Invert scroll direction for increase/decrease:"
-msgstr ""
+msgstr "反转增减操作的滚动方向："
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:490
 msgid "Fix inverted horizontal scrolling"
-msgstr ""
+msgstr "修正被反转的横向滚动"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:491
 msgid ""
 "An SDL bug in some configurations causes horizontal scroll to be inverted. "
 "We try to detect them, but if we got it wrong, you can fix it here. Please "
 "report if you need to turn this on, so that we can improve the detection."
-msgstr ""
+msgstr "某些配置下的 SDL 缺陷会导致横向滚动方向相反。我们会尝试自动识别，但若识别有误，可以在这里手动修正。如果你需要打开这个开关，请告知我们，以便改进识别。"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:502
 msgid "Send feedback"
-msgstr ""
+msgstr "发送反馈"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:565
 msgid "Scroll Settings Conflict"
-msgstr ""
+msgstr "滚轮设置冲突"
 
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:567
 #, c-format
 msgid ""
 "‘%1$s’, ‘%2$s’, or ‘%3$s’ conflicts with the recommended settings. Change "
 "the conflicting setting(s) too?"
-msgstr ""
+msgstr "‘%1$s’、‘%2$s’ 或 ‘%3$s’ 与推荐设置冲突。是否一并修改这些冲突项？"
 
 #: ../../../../src/ui/fsmenu/mousewheel_report.cc:50
 msgid "Send Feedback for Inverted Horizontal Scrolling"
-msgstr ""
+msgstr "反馈横向滚动方向反转的问题"
 
 #. * TRANSLATORS: %s is a URL
 #: ../../../../src/ui/fsmenu/mousewheel_report.cc:65
@@ -7591,7 +7591,7 @@ msgid ""
 "Please help us improve the detection of inverted horizontal scrolling. To do"
 " so, please report at %s that horizontal scroll direction is wrong with your"
 " configuration. Please include the below technical information."
-msgstr ""
+msgstr "请帮助我们改进对横向滚动反转的识别。请到 %s 报告你的配置下横向滚动方向不正确，并附上下方的技术信息。"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:64
 msgid "Role"
@@ -7599,22 +7599,22 @@ msgstr "角色"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:108
 msgid "Divergent Player Name"
-msgstr ""
+msgstr "玩家名称不一致"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:110
 msgid ""
 "The player name of the selected slot (%1%) does not match your own (%2%). "
 "Are you sure that you want to occupy this slot?"
-msgstr ""
+msgstr "所选位置的玩家名称（%1%）与你自己的（%2%）不一致。确定要占用这个位置吗？"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:146
 msgid "Spectator"
-msgstr "观众"
+msgstr "观战者"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:198
 #: ../../../../src/ui/fsmenu/singleplayersetupbox.cc:54
 msgid "Player Number"
-msgstr ""
+msgstr "玩家编号"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:216
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:370
@@ -7648,7 +7648,7 @@ msgstr "共享给"
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:248
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:188
 msgid "Closed"
-msgstr "关闭"
+msgstr "已关闭"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:363
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:245
@@ -7658,7 +7658,7 @@ msgstr "开放"
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:370
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:197
 msgid "Human"
-msgstr "人类"
+msgstr "真人"
 
 #. * TRANSLATORS: This is an option in multiplayer setup for sharing
 #. another player's starting position.
@@ -7671,12 +7671,12 @@ msgstr "共享给玩家 %u"
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:507
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:284
 msgid "Start type is set via the scenario"
-msgstr "起始类型通过场景设置"
+msgstr "起始类型由剧本设定"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:587
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:387
 msgid "No Team"
-msgstr "没有团队"
+msgstr "无团队"
 
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:593
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:393
@@ -7710,7 +7710,7 @@ msgstr "载入先前的主机"
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:100
 msgid "Host a new game"
-msgstr "发起新游戏"
+msgstr "发起一局新游戏"
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:142
 msgid "Host"
@@ -7724,21 +7724,21 @@ msgstr "状态"
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:252
 msgctxt "game_state"
 msgid "Unknown"
-msgstr "不详"
+msgstr "未知"
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:302
 msgid ""
 "Enter a valid nickname. This value may contain only English letters, "
 "numbers, and @ . + - _ characters and must not be \"team\"."
-msgstr "键入一个有效的昵称。昵称只能由英文字母，数字，和@ . + - _ 等英文输入法状态下的字符构成，且不能是团队名。"
+msgstr "请输入有效的昵称。昵称只能包含英文字母、数字，以及 @ . + - _ 这几个字符，且不能是 “team”。"
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:327
 msgid "Invalid Address"
-msgstr "无效地址"
+msgstr "地址无效"
 
 #: ../../../../src/ui/fsmenu/netsetup_lan.cc:328
 msgid "The entered hostname or address is invalid and can’t be connected to."
-msgstr "输入的主机名或地址是无效的，无法进行连接。 "
+msgstr "输入的主机名或地址无效，无法连接。"
 
 #. * TRANSLATORS: This is a UI scaling integer value of the form "2×"
 #: ../../../../src/ui/fsmenu/options.cc:85
