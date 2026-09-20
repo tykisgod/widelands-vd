@@ -41,7 +41,7 @@ msgid ""
 "Some of your starting buildings didn’t have enough room and weren’t built. "
 "You are at a disadvantage with this; consider restarting this map with a "
 "fair starting condition."
-msgstr "你的一些起始建筑没有足够的空间并且尚未建设完成。 您在这方面处于劣势；请考虑以合理的初始条件重新开始这张地图。 "
+msgstr "你的部分起始建筑因空间不够而没有建成。这让你处于劣势，建议换一个公平的起始条件重开这张地图。"
 
 #: ../../../../data/scripting/infrastructure.lua:190
 msgid "Not enough space"
@@ -55,17 +55,17 @@ msgstr "附近没有岩石"
 msgid ""
 "There are no rocks near to your starting position. Therefore, you receive "
 "extra resources for bootstrapping your economy."
-msgstr "你的起始位置附近没有岩石。因此，你会得到额外的资源来引导你的经济。 "
+msgstr "你的起始位置附近没有岩石，因此你会获得额外资源来启动经济。"
 
 #: ../../../../data/scripting/infrastructure.lua:294
 msgid "Not enough trees nearby"
-msgstr "附近没有足够的树木"
+msgstr "附近树木不足"
 
 #: ../../../../data/scripting/infrastructure.lua:294
 msgid ""
 "There are not enough trees near to your starting position. Therefore, you "
 "receive extra resources for bootstrapping your economy."
-msgstr "你的起始位置附近没有足够的树木。因此，你会获得额外的资源来启动你的经济。"
+msgstr "你的起始位置附近树木不足，因此你会获得额外资源来启动经济。"
 
 #: ../../../../data/scripting/messages.lua:66
 #: ../../../../data/scripting/messages.lua:68
@@ -76,11 +76,11 @@ msgstr "状态"
 
 #: ../../../../data/scripting/messages.lua:293
 msgid "New Objective"
-msgstr "新的目标"
+msgstr "新目标"
 
 #: ../../../../data/scripting/messages.lua:295
 msgid "New Objectives"
-msgstr "一些新的目标"
+msgstr "新目标"
 
 #. TRANSLATORS: Put 2 sentences one after the other.
 #. TRANSLATORS: Languages using Chinese script probably want to lose the blank
@@ -97,7 +97,7 @@ msgstr "%s%s"
 #: ../../../../src/base/i18n.cc:335
 #, c-format
 msgid "%1$s & %2$s"
-msgstr "%1$s & %2$s"
+msgstr "%1$s和%2$s"
 
 #. * TRANSLATORS: Join the last 2 items on a list with "or".
 #. * TRANSLATORS: RTL languages might want to change the word order here.
@@ -105,7 +105,7 @@ msgstr "%1$s & %2$s"
 #: ../../../../src/base/i18n.cc:339
 #, c-format
 msgid "%1$s or %2$s"
-msgstr "%1$s or %2$s"
+msgstr "%1$s或%2$s"
 
 #. * TRANSLATORS: Join the last 2 items on a list with a comma.
 #. * TRANSLATORS: RTL languages might want to change the word order here.
@@ -117,7 +117,7 @@ msgstr "%1$s or %2$s"
 #: ../../../../src/logic/addons.cc:245
 #, c-format
 msgid "%1$s, %2$s"
-msgstr "%1$s,%2$s"
+msgstr "%1$s、%2$s"
 
 #. * TRANSLATORS: Concatenate the last 2 items on a list.
 #. * TRANSLATORS: RTL languages might want to change the word order here.
@@ -126,7 +126,7 @@ msgstr "%1$s,%2$s"
 #: ../../../../src/base/i18n.cc:347 ../../../../src/ui/basic/spinbox.cc:499
 #, c-format
 msgid "%1$s and %2$s"
-msgstr "%1$s 和 %2$s"
+msgstr "%1$s和%2$s"
 
 #: ../../../../data/scripting/richtext_scenarios.lua:52
 #, lua-format
@@ -138,22 +138,22 @@ msgstr "“%s”"
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:380
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:206
 msgid "No AI"
-msgstr "没有人工智能"
+msgstr "无 AI"
 
 #. * TRANSLATORS: This is the name of an AI used in the game setup screens
 #: ../../../../src/ai/defaultai.h:95
 msgid "Normal AI"
-msgstr "标准人工智能"
+msgstr "普通 AI"
 
 #. * TRANSLATORS: This is the name of an AI used in the game setup screens
 #: ../../../../src/ai/defaultai.h:110
 msgid "Weak AI"
-msgstr "弱人工智能"
+msgstr "弱 AI"
 
 #. * TRANSLATORS: This is the name of an AI used in the game setup screens
 #: ../../../../src/ai/defaultai.h:125
 msgid "Very Weak AI"
-msgstr "较弱人工智能"
+msgstr "极弱 AI"
 
 #. * TRANSLATORS: A variant of the commandline parameter "false" value
 #. * TRANSLATORS: Needs to be consistent with the translations in widelands-
@@ -161,7 +161,7 @@ msgstr "较弱人工智能"
 #: ../../../../src/base/format/boolean_node.h:52
 #: ../../../../src/io/profile.cc:50
 msgid "false"
-msgstr "错误"
+msgstr "假"
 
 #. * TRANSLATORS: A variant of the commandline parameter "true" value
 #. * TRANSLATORS: Needs to be consistent with the translations in widelands-
@@ -169,12 +169,12 @@ msgstr "错误"
 #: ../../../../src/base/format/boolean_node.h:52
 #: ../../../../src/io/profile.cc:38
 msgid "true"
-msgstr "正确"
+msgstr "真"
 
 #: ../../../../src/base/format/float_node.h:33
 msgctxt "decimal_separator"
 msgid "."
-msgstr ""
+msgstr "."
 
 #. * TRANSLATORS: January. Keep this to 4 letters maximum.
 #. * TRANSLATORS: Use the "Months - abbreviated - Formatting" definition from
@@ -290,7 +290,7 @@ msgstr "十二月"
 #: ../../../../src/base/time_string.cc:170
 msgctxt "day_of_month"
 msgid "Sun"
-msgstr ""
+msgstr "周日"
 
 #. * TRANSLATORS: Monday. Keep this to 4 letters maximum.
 #. * TRANSLATORS: Use the "Day - Stand-alone - Short Names" definition from
@@ -299,7 +299,7 @@ msgstr ""
 #: ../../../../src/base/time_string.cc:175
 msgctxt "day_of_month"
 msgid "Mon"
-msgstr ""
+msgstr "周一"
 
 #. * TRANSLATORS: Tuesday. Keep this to 4 letters maximum.
 #. * TRANSLATORS: Use the "Day - Stand-alone - Short Names" definition from
@@ -308,7 +308,7 @@ msgstr ""
 #: ../../../../src/base/time_string.cc:180
 msgctxt "day_of_month"
 msgid "Tue"
-msgstr ""
+msgstr "周二"
 
 #. * TRANSLATORS: Wednesday. Keep this to 4 letters maximum.
 #. * TRANSLATORS: Use the "Day - Stand-alone - Short Names" definition from
@@ -317,7 +317,7 @@ msgstr ""
 #: ../../../../src/base/time_string.cc:185
 msgctxt "day_of_month"
 msgid "Wed"
-msgstr ""
+msgstr "周三"
 
 #. * TRANSLATORS: Thursday. Keep this to 4 letters maximum.
 #. * TRANSLATORS: Use the "Day - Stand-alone - Short Names" definition from
@@ -326,7 +326,7 @@ msgstr ""
 #: ../../../../src/base/time_string.cc:190
 msgctxt "day_of_month"
 msgid "Thu"
-msgstr ""
+msgstr "周四"
 
 #. * TRANSLATORS: Friday. Keep this to 4 letters maximum.
 #. * TRANSLATORS: Use the "Day - Stand-alone - Short Names" definition from
@@ -335,7 +335,7 @@ msgstr ""
 #: ../../../../src/base/time_string.cc:195
 msgctxt "day_of_month"
 msgid "Fri"
-msgstr ""
+msgstr "周五"
 
 #. * TRANSLATORS: Saturday. Keep this to 4 letters maximum.
 #. * TRANSLATORS: Use the "Day - Stand-alone - Short Names" definition from
@@ -344,116 +344,116 @@ msgstr ""
 #: ../../../../src/base/time_string.cc:200
 msgctxt "day_of_month"
 msgid "Sat"
-msgstr ""
+msgstr "周六"
 
 #. * TRANSLATORS: Display date.
 #. * Placeholders are: day_of_month month day, year, hour:minute
 #: ../../../../src/base/time_string.cc:212
 msgid "%1% %2% %3%, %4%, %5%:%6%"
-msgstr ""
+msgstr "%4%年%2%%3%日 %1% %5%:%6%"
 
 #. * TRANSLATORS: Display time.
 #. * Placeholders are: hour:minute:second
 #: ../../../../src/base/time_string.cc:258
 msgid "%1%:%2%:%3%"
-msgstr ""
+msgstr "%1%:%2%:%3%"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:43
 #: ../../../../src/ui/game/diplomacy_menu.cc:44
 #: ../../../../src/ui/wui/interactive_gamebase.cc:250
 #: ../../../../src/wlapplication_options.cc:673
 msgid "Diplomacy"
-msgstr ""
+msgstr "外交"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:56
 #, c-format
 msgid "%s has resigned and is now a spectator."
-msgstr ""
+msgstr "%s 已认输，现在是观战者。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:56
 msgid "Player Resigned"
-msgstr ""
+msgstr "玩家认输"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:68
 msgid "Player Leaves Team"
-msgstr ""
+msgstr "玩家离队"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:69
 #, c-format
 msgid "%1$s has left team %2$u and is now teamless."
-msgstr ""
+msgstr "%1$s 已离开小队 %2$u，目前没有小队。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:101
 msgid "Team Joining Request"
-msgstr ""
+msgstr "加入小队请求"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:102
 msgid "Team Joining Invitation"
-msgstr ""
+msgstr "加入小队邀请"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:104
 #: ../../../../src/ui/game/diplomacy_menu.cc:320
 #, c-format
 msgid "%1$s has requested to join the team of %2$s."
-msgstr ""
+msgstr "%1$s 请求加入 %2$s 的小队。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:105
 #: ../../../../src/ui/game/diplomacy_menu.cc:327
 #, c-format
 msgid "%1$s has invited %2$s to join their team."
-msgstr ""
+msgstr "%1$s 邀请 %2$s 加入自己的小队。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:147
 #, c-format
 msgid "%1$s has accepted %2$s into their team."
-msgstr ""
+msgstr "%1$s 接受 %2$s 加入了自己的小队。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:149
 #, c-format
 msgid "%1$s has accepted the invitation to join the team of %2$s."
-msgstr ""
+msgstr "%1$s 接受了加入 %2$s 小队的邀请。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:154
 #, c-format
 msgid "%1$s has retracted the request to join the team of %2$s."
-msgstr ""
+msgstr "%1$s 撤回了加入 %2$s 小队的请求。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:156
 #, c-format
 msgid "%1$s has denied %2$s membership in their team."
-msgstr ""
+msgstr "%1$s 拒绝 %2$s 加入自己的小队。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:159
 #, c-format
 msgid "%1$s has retracted the invitation to %2$s to join their team."
-msgstr ""
+msgstr "%1$s 撤回了邀请 %2$s 加入自己小队的邀请。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:161
 #, c-format
 msgid "%1$s has rejected the invitation to join the team of %2$s."
-msgstr ""
+msgstr "%1$s 拒绝了加入 %2$s 小队的邀请。"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:165
 msgid "Team Change Accepted"
-msgstr ""
+msgstr "小队变更已接受"
 
 #: ../../../../src/commands/cmd_diplomacy.cc:165
 msgid "Team Change Rejected"
-msgstr ""
+msgstr "小队变更被拒绝"
 
 #: ../../../../src/commands/cmd_replay_end.cc:33
 msgid "End of Replay"
-msgstr "重播结束"
+msgstr "录像结束"
 
 #: ../../../../src/commands/cmd_replay_end.cc:34
 msgid ""
 "The end of the replay has been reached and the game has been paused. You may"
 " unpause the game and continue watching if you want to."
-msgstr "重放已结束，游戏已暂停。如果你想继续观看，你可以取消暂停游戏。"
+msgstr "录像已播放完毕，游戏已暂停。如果想继续观看，可以取消暂停。"
 
 #: ../../../../src/commands/cmd_replay_sync_read.cc:55
 msgid "Desync"
-msgstr ""
+msgstr "不同步"
 
 #: ../../../../src/commands/cmd_replay_sync_read.cc:56
 #, c-format
@@ -463,7 +463,7 @@ msgid ""
 "\n"
 "If you are certain that the replay was created with the same version of Widelands, %1$s, please report this problem as a bug.\n"
 "You will find related messages in the standard output (stdout.txt on Windows). Please add this information to your report."
-msgstr ""
+msgstr "录像出现不同步，游戏已暂停。\n你观看的录像很可能是用其他版本的 Widelands 录制的，这种情况不受支持。\n\n如果你确定这份录像就是用当前版本 %1$s 录制的，请将此问题作为缺陷报告给我们。\n相关信息在标准输出中（Windows 上为 stdout.txt），请一并附在报告里。"
 
 #: ../../../../src/editor/map_generator.cc:755
 msgid "Random Player"
@@ -475,7 +475,7 @@ msgstr "随机玩家"
 #: ../../../../src/editor/tools/increase_height_tool.cc:62
 #, c-format
 msgid "Height: inc./dec. %1$d, set to %2$d"
-msgstr ""
+msgstr "高度：增减 %1$d，设为 %2$d"
 
 #. * TRANSLATORS: An entry in the tool history list. Inc. and dec. stand for
 #. increase and
@@ -483,25 +483,25 @@ msgstr ""
 #: ../../../../src/editor/tools/increase_resources_tool.cc:85
 #, c-format
 msgid "%1$s: inc./dec. %2$d, set to %3$d"
-msgstr ""
+msgstr "%1$s：增减 %2$d，设为 %3$d"
 
 #. * TRANSLATORS: An entry in the tool history list.
 #: ../../../../src/editor/tools/noise_height_tool.cc:78
 #, c-format
 msgid "Noise height: %1$d–%2$d"
-msgstr ""
+msgstr "随机高度：%1$d–%2$d"
 
 #. * TRANSLATORS: An entry in the tool history list.
 #: ../../../../src/editor/tools/place_critter_tool.cc:127
 #, c-format
 msgid "Critter: %1$s"
-msgstr ""
+msgstr "动物：%1$s"
 
 #: ../../../../src/editor/tools/place_immovable_tool.cc:141
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:110
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:115
 msgid "Automatic Trees"
-msgstr ""
+msgstr "自动植树"
 
 #. * TRANSLATORS: An entry in the tool history list.
 #: ../../../../src/editor/tools/place_immovable_tool.cc:148
@@ -513,34 +513,34 @@ msgstr "固定物：%1$s"
 #: ../../../../src/editor/tools/set_terrain_tool.cc:120
 #, c-format
 msgid "Terrain: %1$s"
-msgstr ""
+msgstr "地形：%1$s"
 
 #: ../../../../src/game_io/game_loader.cc:70
 #, c-format
 msgid "Loading game: %1$s (%2$u/%3$d)"
-msgstr "载入游戏：%1$s(%2$u%3$d)"
+msgstr "载入游戏：%1$s（%2$u/%3$d）"
 
 #: ../../../../src/game_io/game_loader.cc:72
 #: ../../../../src/game_io/game_saver.cc:58
 #: ../../../../src/map_io/map_saver.cc:100
 #: ../../../../src/map_io/widelands_map_loader.cc:212
 msgid "Elemental data"
-msgstr "基本数据"
+msgstr "基础数据"
 
 #: ../../../../src/game_io/game_loader.cc:136
 #: ../../../../src/game_io/game_saver.cc:83
 msgid "Economies"
-msgstr "经济"
+msgstr "经济体"
 
 #: ../../../../src/game_io/game_loader.cc:143
 #: ../../../../src/game_io/game_saver.cc:90
 msgid "Trades"
-msgstr ""
+msgstr "贸易"
 
 #: ../../../../src/game_io/game_loader.cc:150
 #: ../../../../src/game_io/game_saver.cc:97
 msgid "AI"
-msgstr "人工智能"
+msgstr "AI"
 
 #: ../../../../src/game_io/game_loader.cc:157
 #: ../../../../src/game_io/game_saver.cc:104
@@ -559,20 +559,20 @@ msgstr "消息"
 #: ../../../../src/game_io/game_loader.cc:183
 #: ../../../../src/logic/map_objects/tribes/tribe_descr.cc:193
 msgid "Finishing"
-msgstr "完成"
+msgstr "收尾"
 
 #: ../../../../src/game_io/game_saver.cc:51
 #, c-format
 msgid "Saving game: %1$s (%2$d/%3$d)"
-msgstr "正在保存游戏：%1$s (%2$d/%3$d)"
+msgstr "保存游戏：%1$s（%2$d/%3$d）"
 
 #: ../../../../src/game_io/game_saver.cc:53
 msgid "Autosaving game…"
-msgstr "自动保存游戏......"
+msgstr "自动保存中…"
 
 #: ../../../../src/game_io/game_saver.cc:111
 msgid "Interactive player"
-msgstr "互相配合的玩家"
+msgstr "玩家视角"
 
 #. * TRANSLATORS: Basic error message when we can't handle the graphics
 #. driver. Font
@@ -581,7 +581,7 @@ msgstr "互相配合的玩家"
 msgid ""
 "Widelands won't work because we were unable to detect the shading language "
 "version."
-msgstr " Widelands无法正常工作，因为我们检测不到shading language 版本，由于显卡或是字体缺失所导致的 。"
+msgstr "Widelands 无法运行，因为检测不到着色语言版本。"
 
 #. * TRANSLATORS: Basic error message when we can't handle the graphics
 #. driver. Font
@@ -591,7 +591,7 @@ msgstr " Widelands无法正常工作，因为我们检测不到shading language 
 msgid ""
 "There is an unknown problem with reading the information from the graphics "
 "driver."
-msgstr "读取显卡信息时出现未知的问题。"
+msgstr "读取显卡驱动信息时出现未知问题。"
 
 #. * TRANSLATORS: Basic error message when we can't handle the graphics
 #. driver. Font
@@ -599,7 +599,7 @@ msgstr "读取显卡信息时出现未知的问题。"
 #: ../../../../src/graphic/gl/initialize.cc:191
 msgid ""
 "Widelands won't work because we were unable to detect the OpenGL version."
-msgstr "因无法检测 OpenGL 版本，故游戏无法启动。"
+msgstr "Widelands 无法运行，因为检测不到 OpenGL 版本。"
 
 #. * TRANSLATORS: Basic error message when we can't handle the graphics
 #. driver.
@@ -607,7 +607,7 @@ msgstr "因无法检测 OpenGL 版本，故游戏无法启动。"
 #: ../../../../src/graphic/gl/initialize.cc:222
 #: ../../../../src/graphic/gl/initialize.cc:242
 msgid "Widelands won’t work because your graphics driver is too old."
-msgstr "显卡驱动程序过于陈旧，导致游戏无法运行。"
+msgstr "Widelands 无法运行，因为你的显卡驱动过旧。"
 
 #. * TRANSLATORS: Basic error message when we can't handle the graphics
 #. driver.
@@ -615,7 +615,7 @@ msgstr "显卡驱动程序过于陈旧，导致游戏无法运行。"
 #: ../../../../src/graphic/gl/initialize.cc:225
 #, c-format
 msgid "The %1$s version needs to be version %2$u.%3$u or newer."
-msgstr ""
+msgstr "%1$s 版本需要为 %2$u.%3$u 或更新。"
 
 #. * TRANSLATORS: Basic error message when we can't handle the graphics
 #. driver.
@@ -623,7 +623,7 @@ msgstr ""
 #: ../../../../src/graphic/gl/initialize.cc:245
 #, c-format
 msgid "The %1$s needs to be version %2$u.%3$u or newer."
-msgstr ""
+msgstr "%1$s 需要为 %2$u.%3$u 版或更新。"
 
 #: ../../../../src/graphic/gl/initialize.cc:261
 msgid "OpenGL"
@@ -631,17 +631,17 @@ msgstr "OpenGL"
 
 #: ../../../../src/graphic/gl/initialize.cc:308
 msgid "Shading Language"
-msgstr ""
+msgstr "着色语言"
 
 #: ../../../../src/graphic/text/rt_render.cc:1421
 msgid "Copy link to clipboard"
-msgstr ""
+msgstr "复制链接到剪贴板"
 
 #: ../../../../src/graphic/text_layout.cc:287
 #, c-format
 msgctxt "definitionterm"
 msgid "%s:"
-msgstr ""
+msgstr "%s："
 
 #. * TRANSLATORS: Part of tooltip entry for characters in illegal filenames.
 #. replaces the
@@ -649,7 +649,7 @@ msgstr ""
 #: ../../../../src/io/filesystem/illegal_filename_check.cc:69
 msgctxt "illegal_filename_characters"
 msgid "blank space"
-msgstr "空白区"
+msgstr "空格"
 
 #. * TRANSLATORS: Tooltip entry for characters in illegal filenames.
 #. *  %s is a list of illegal characters
@@ -657,7 +657,7 @@ msgstr "空白区"
 #, c-format
 msgctxt "illegal_filename_characters"
 msgid "%s at the start of the filename"
-msgstr "%s在文件名的开头"
+msgstr "文件名开头的 %s"
 
 #. * TRANSLATORS: Tooltip entry for characters in illegal filenames.
 #. * %s is a list of illegal characters
@@ -665,14 +665,14 @@ msgstr "%s在文件名的开头"
 #, c-format
 msgctxt "illegal_filename_characters"
 msgid "%s anywhere in the filename"
-msgstr "%s文件名中的任意位置"
+msgstr "文件名中任意位置的 %s"
 
 #. * TRANSLATORS: Tooltip header for characters in illegal filenames.
 #. * This is followed by a list of bullet points
 #: ../../../../src/io/filesystem/illegal_filename_check.cc:93
 msgctxt "illegal_filename_characters"
 msgid "The following characters are not allowed:"
-msgstr " 不允许使用以下字符： "
+msgstr "不允许使用以下字符："
 
 #. * TRANSLATORS: A variant of the commandline parameter "true" value
 #. * TRANSLATORS: Needs to be consistent with the translations in widelands-
@@ -693,14 +693,14 @@ msgstr "开"
 #. console
 #: ../../../../src/io/profile.cc:53
 msgid "no"
-msgstr "没有"
+msgstr "否"
 
 #. * TRANSLATORS: A variant of the commandline parameter "false" value
 #. * TRANSLATORS: Needs to be consistent with the translations in widelands-
 #. console
 #: ../../../../src/io/profile.cc:56
 msgid "off"
-msgstr "关闭"
+msgstr "关"
 
 #: ../../../../src/logic/addons.cc:48 ../../../../src/ui/basic/dropdown.cc:361
 #: ../../../../src/ui/basic/dropdown.cc:363
@@ -728,7 +728,7 @@ msgstr "错误"
 
 #: ../../../../src/logic/addons.cc:50
 msgid "Tribes"
-msgstr "部落"
+msgstr "部族"
 
 #: ../../../../src/logic/addons.cc:53
 msgid "World"
@@ -786,76 +786,76 @@ msgstr "%1$s.%2$u"
 
 #: ../../../../src/logic/addons.cc:218
 msgid "No conflicts"
-msgstr "没有冲突"
+msgstr "无冲突"
 
 #: ../../../../src/logic/addons.cc:223
 #, c-format
 msgid "%1$s (expected version %2$s, found %3$s)"
-msgstr "%1$s (预期版本 %2$s, 找到 %3$s)"
+msgstr "%1$s（期望版本 %2$s，实际 %3$s）"
 
 #: ../../../../src/logic/addons.cc:226 ../../../../src/logic/addons.cc:262
 #, c-format
 msgid "%1$s, %2$s (expected version %3$s, found %4$s)"
-msgstr "%1$s, %2$s (预期版本 %3$s,找到 %4$s)"
+msgstr "%1$s、%2$s（期望版本 %3$s，实际 %4$s）"
 
 #: ../../../../src/logic/addons.cc:233
 #, c-format
 msgid "%1$u add-on with wrong version: %2$s"
 msgid_plural "%1$u add-ons with wrong version: %2$s"
-msgstr[0] "%1$u 错误的附件版本: %2$s"
+msgstr[0] "%1$u 个附加内容版本不符：%2$s"
 
 #: ../../../../src/logic/addons.cc:248
 #, c-format
 msgid "%1$u missing add-on: %2$s"
 msgid_plural "%1$u missing add-ons: %2$s"
-msgstr[0] "%1$u 缺少附件: %2$s"
+msgstr[0] "%1$u 个附加内容缺失：%2$s"
 
 #: ../../../../src/logic/addons.cc:256
 #, c-format
 msgid "%s (missing)"
-msgstr "%s (缺少)"
+msgstr "%s（缺失）"
 
 #: ../../../../src/logic/addons.cc:258
 #, c-format
 msgid "%1$s, %2$s (missing)"
-msgstr "%1$s, %2$s (缺少)"
+msgstr "%1$s、%2$s（缺失）"
 
 #: ../../../../src/logic/addons.cc:266
 #, c-format
 msgid "%1$s and %2$s: %3$s"
-msgstr "%1$s 和 %2$s: %3$s"
+msgstr "%1$s和%2$s：%3$s"
 
 #: ../../../../src/logic/addons.cc:267
 #, c-format
 msgid "%u missing add-on"
 msgid_plural "%u missing add-ons"
-msgstr[0] "%u 缺少插件"
+msgstr[0] "%u 个附加内容缺失"
 
 #: ../../../../src/logic/addons.cc:269
 #, c-format
 msgid "%u add-on with wrong version"
 msgid_plural "%u add-ons with wrong version"
-msgstr[0] "%u 错误的插件版本"
+msgstr[0] "%u 个附加内容版本不符"
 
 #. * TRANSLATORS: This map or savegame uses no add-ons
 #: ../../../../src/logic/addons.cc:280
 msgid "None"
-msgstr "没有"
+msgstr "无"
 
 #: ../../../../src/logic/addons.cc:284
 #, c-format
 msgid "%1$s<br>• %2$s (version %3$s)"
-msgstr ""
+msgstr "%1$s<br>• %2$s（版本 %3$s）"
 
 #: ../../../../src/logic/addons.cc:314
 msgid "No game-relevant add-ons in use."
-msgstr ""
+msgstr "未使用影响游戏性的附加内容。"
 
 #: ../../../../src/logic/addons.cc:319
 #, c-format
 msgid "%u game-relevant add-on in use:"
 msgid_plural "%u game-relevant add-ons in use:"
-msgstr[0] ""
+msgstr[0] "正在使用 %u 个影响游戏性的附加内容："
 
 #. * TRANSLATORS: "12 steps northwest of Port1"
 #: ../../../../src/logic/detected_port_space.cc:47

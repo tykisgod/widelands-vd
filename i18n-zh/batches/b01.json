@@ -1,0 +1,973 @@
+[
+ {
+  "key": "71a4899dca",
+  "msgid": "%2.1f%%",
+  "zh": "",
+  "note": "TRANSLATORS: Help text - Probability to grow for an immovable",
+  "current": "%2.1f%%"
+ },
+ {
+  "key": "5c2d2a2f5e",
+  "msgid": "No Space",
+  "zh": "",
+  "note": "TRANSLATORS: Short for \"Not enough space\"",
+  "current": "空间不足"
+ },
+ {
+  "key": "da75fe57a5",
+  "msgid": "Some of your starting buildings didn’t have enough room and weren’t built. You are at a disadvantage with this; consider restarting this map with a fair starting condition.",
+  "zh": "",
+  "current": "你的一些起始建筑没有足够的空间并且尚未建设完成。 您在这方面处于劣势；请考虑以合理的初始条件重新开始这张地图。 ",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "c550eb3bba",
+  "msgid": "Not enough space",
+  "zh": "",
+  "current": "没有足够的空间"
+ },
+ {
+  "key": "b07df85ce9",
+  "msgid": "No rocks nearby",
+  "zh": "",
+  "current": "附近没有岩石",
+  "terms": [
+   "No Rocks = 没有岩石",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "53a7db5ecd",
+  "msgid": "There are no rocks near to your starting position. Therefore, you receive extra resources for bootstrapping your economy.",
+  "zh": "",
+  "current": "你的起始位置附近没有岩石。因此，你会得到额外的资源来引导你的经济。 ",
+  "terms": [
+   "No Rocks = 没有岩石",
+   "Economy = 经济",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "50b02e46b1",
+  "msgid": "Not enough trees nearby",
+  "zh": "",
+  "current": "附近没有足够的树木"
+ },
+ {
+  "key": "d266b004b7",
+  "msgid": "There are not enough trees near to your starting position. Therefore, you receive extra resources for bootstrapping your economy.",
+  "zh": "",
+  "current": "你的起始位置附近没有足够的树木。因此，你会获得额外的资源来启动你的经济。",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "8ac83ac3a8",
+  "msgid": "New Objective",
+  "zh": "",
+  "current": "新的目标"
+ },
+ {
+  "key": "9f1730a0a8",
+  "msgid": "New Objectives",
+  "zh": "",
+  "current": "一些新的目标"
+ },
+ {
+  "key": "7bbbf1d981",
+  "msgid": "Status",
+  "zh": "",
+  "ui": "ui/game",
+  "current": "状态",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "e4c58b1619",
+  "msgid": "%s %s",
+  "zh": "",
+  "msgctxt": "sentence_separator",
+  "note": "TRANSLATORS: Put 2 sentences one after the other. | TRANSLATORS: Languages using Chinese script probably want to lose the blank | space here.",
+  "current": "%s%s"
+ },
+ {
+  "key": "3d80f7f8e2",
+  "msgid": "%1$s & %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Concatenate the last 2 items on a list. | * TRANSLATORS: RTL languages might want to change the word order here.",
+  "ui": "base/i",
+  "current": "%1$s & %2$s"
+ },
+ {
+  "key": "a6015d6eaa",
+  "msgid": "%1$s or %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Join the last 2 items on a list with \"or\". | * TRANSLATORS: RTL languages might want to change the word order here.",
+  "ui": "base/i",
+  "current": "%1$s or %2$s"
+ },
+ {
+  "key": "fc63bbb229",
+  "msgid": "%1$s, %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Join the last 2 items on a list with a comma. | * TRANSLATORS: RTL languages might want to change the word order here. | * TRANSLATORS: Concatenate 2 items at in the middle of a list. | * TRANSLATORS: RTL languages might want to change the word order here.",
+  "ui": "base/i, logic/addons",
+  "current": "%1$s,%2$s"
+ },
+ {
+  "key": "379b1515d8",
+  "msgid": "%1$s and %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Concatenate the last 2 items on a list. | * TRANSLATORS: RTL languages might want to change the word order here. | * TRANSLATORS: The current value of a spinbox, \"X hours and Y minutes\"",
+  "ui": "base/i",
+  "current": "%1$s 和 %2$s"
+ },
+ {
+  "key": "689723c953",
+  "msgid": "“%s”",
+  "zh": "",
+  "current": "“%s”"
+ },
+ {
+  "key": "e5544f14f1",
+  "msgid": "No AI",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the name of an AI used in the game setup screens",
+  "ui": "ai/computer_player, ui/fsmenu",
+  "current": "没有人工智能"
+ },
+ {
+  "key": "cbf01646df",
+  "msgid": "Weak AI",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the name of an AI used in the game setup screens",
+  "ui": "ai/defaultai",
+  "current": "弱人工智能"
+ },
+ {
+  "key": "58dee2cda2",
+  "msgid": "Very Weak AI",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the name of an AI used in the game setup screens",
+  "ui": "ai/defaultai",
+  "current": "较弱人工智能"
+ },
+ {
+  "key": "a4baaa21e9",
+  "msgid": "Normal AI",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the name of an AI used in the game setup screens",
+  "ui": "ai/defaultai",
+  "current": "标准人工智能"
+ },
+ {
+  "key": "dddd3e7006",
+  "msgid": "false",
+  "zh": "",
+  "note": "* TRANSLATORS: A variant of the commandline parameter \"false\" value | * TRANSLATORS: Needs to be consistent with the translations in widelands- | console",
+  "ui": "base/format, io/profile",
+  "current": "错误"
+ },
+ {
+  "key": "0993d5e740",
+  "msgid": "true",
+  "zh": "",
+  "note": "* TRANSLATORS: A variant of the commandline parameter \"true\" value | * TRANSLATORS: Needs to be consistent with the translations in widelands- | console",
+  "ui": "base/format, io/profile",
+  "current": "正确"
+ },
+ {
+  "key": "1f888b326d",
+  "msgid": ".",
+  "zh": "",
+  "msgctxt": "decimal_separator",
+  "ui": "base/format"
+ },
+ {
+  "key": "3c0d329f8e",
+  "msgid": "Mar",
+  "zh": "",
+  "note": "* TRANSLATORS: March. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "三月"
+ },
+ {
+  "key": "071be17344",
+  "msgid": "Apr",
+  "zh": "",
+  "note": "* TRANSLATORS: April. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "四月"
+ },
+ {
+  "key": "cf269e456c",
+  "msgid": "May",
+  "zh": "",
+  "note": "* TRANSLATORS: May. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "五月"
+ },
+ {
+  "key": "9c15496f93",
+  "msgid": "Jun",
+  "zh": "",
+  "note": "* TRANSLATORS: June. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "六月"
+ },
+ {
+  "key": "f256b9ec86",
+  "msgid": "Jul",
+  "zh": "",
+  "note": "* TRANSLATORS: July. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "七月"
+ },
+ {
+  "key": "e08c6c946e",
+  "msgid": "Aug",
+  "zh": "",
+  "note": "* TRANSLATORS: August. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "八月"
+ },
+ {
+  "key": "4ef08786ce",
+  "msgid": "Sep",
+  "zh": "",
+  "note": "* TRANSLATORS: September. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "九月"
+ },
+ {
+  "key": "30d2935ad2",
+  "msgid": "Oct",
+  "zh": "",
+  "note": "* TRANSLATORS: October. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "十月"
+ },
+ {
+  "key": "d436098151",
+  "msgid": "Nov",
+  "zh": "",
+  "note": "* TRANSLATORS: November. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "十一月"
+ },
+ {
+  "key": "0b50bcfb7f",
+  "msgid": "Dec",
+  "zh": "",
+  "note": "* TRANSLATORS: December. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string",
+  "current": "十二月"
+ },
+ {
+  "key": "6af1763af7",
+  "msgid": "Sun",
+  "zh": "",
+  "msgctxt": "day_of_month",
+  "note": "* TRANSLATORS: Sunday. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Day - Stand-alone - Short Names\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "cb0582a2b3",
+  "msgid": "Mon",
+  "zh": "",
+  "msgctxt": "day_of_month",
+  "note": "* TRANSLATORS: Monday. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Day - Stand-alone - Short Names\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "9b9e035d7a",
+  "msgid": "Tue",
+  "zh": "",
+  "msgctxt": "day_of_month",
+  "note": "* TRANSLATORS: Tuesday. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Day - Stand-alone - Short Names\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "ba5160ef85",
+  "msgid": "Wed",
+  "zh": "",
+  "msgctxt": "day_of_month",
+  "note": "* TRANSLATORS: Wednesday. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Day - Stand-alone - Short Names\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "1e68042c34",
+  "msgid": "Thu",
+  "zh": "",
+  "msgctxt": "day_of_month",
+  "note": "* TRANSLATORS: Thursday. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Day - Stand-alone - Short Names\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "4bc985df41",
+  "msgid": "Fri",
+  "zh": "",
+  "msgctxt": "day_of_month",
+  "note": "* TRANSLATORS: Friday. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Day - Stand-alone - Short Names\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "8d57f94397",
+  "msgid": "Sat",
+  "zh": "",
+  "msgctxt": "day_of_month",
+  "note": "* TRANSLATORS: Saturday. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Day - Stand-alone - Short Names\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language.",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "9407fe9efa",
+  "msgid": "%1% %2% %3%, %4%, %5%:%6%",
+  "zh": "",
+  "note": "* TRANSLATORS: Display date. | * Placeholders are: day_of_month month day, year, hour:minute",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "5bfef3fa1d",
+  "msgid": "%1%:%2%:%3%",
+  "zh": "",
+  "note": "* TRANSLATORS: Display time. | * Placeholders are: hour:minute:second",
+  "ui": "base/time_string"
+ },
+ {
+  "key": "b3c54457ed",
+  "msgid": "Jan",
+  "zh": "",
+  "note": "* TRANSLATORS: January. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "一月"
+ },
+ {
+  "key": "f06141f57a",
+  "msgid": "Feb",
+  "zh": "",
+  "note": "* TRANSLATORS: February. Keep this to 4 letters maximum. | * TRANSLATORS: Use the \"Months - abbreviated - Formatting\" definition from | the CLDR | * TRANSLATORS: definition if there is one for your language. | * TRANSLATORS: https://www.unicode.org/cldr/charts/latest/summary/root.html",
+  "ui": "base/time_string",
+  "current": "二月"
+ },
+ {
+  "key": "76838a0737",
+  "msgid": "Team Joining Request",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "d773155ec0",
+  "msgid": "Team Joining Invitation",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "ee9171d078",
+  "msgid": "%1$s has requested to join the team of %2$s.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy, ui/game",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "120bf0e45c",
+  "msgid": "%1$s has invited %2$s to join their team.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy, ui/game",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "742172c033",
+  "msgid": "%1$s has accepted %2$s into their team.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "4d22a0a53f",
+  "msgid": "%1$s has accepted the invitation to join the team of %2$s.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "6b02126f1c",
+  "msgid": "%1$s has retracted the request to join the team of %2$s.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "9505b6a058",
+  "msgid": "%1$s has denied %2$s membership in their team.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "46c0cad7ee",
+  "msgid": "%1$s has retracted the invitation to %2$s to join their team.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "02bb9c728a",
+  "msgid": "%1$s has rejected the invitation to join the team of %2$s.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "57b373b186",
+  "msgid": "Team Change Accepted",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "c4bd359d8b",
+  "msgid": "Team Change Rejected",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "2ab0de97a8",
+  "msgid": "Diplomacy",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy, ui/game, ui/wui",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "1f1d22b4a9",
+  "msgid": "%s has resigned and is now a spectator.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy"
+ },
+ {
+  "key": "096d9aa17d",
+  "msgid": "Player Resigned",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy"
+ },
+ {
+  "key": "1ebd0bbd38",
+  "msgid": "Player Leaves Team",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "754c26435f",
+  "msgid": "%1$s has left team %2$u and is now teamless.",
+  "zh": "",
+  "ui": "commands/cmd_diplomacy",
+  "terms": [
+   "Team = 小队"
+  ]
+ },
+ {
+  "key": "698bdbf776",
+  "msgid": "End of Replay",
+  "zh": "",
+  "ui": "commands/cmd_replay_end",
+  "current": "重播结束",
+  "terms": [
+   "Replay = 录像"
+  ]
+ },
+ {
+  "key": "d52146f078",
+  "msgid": "The end of the replay has been reached and the game has been paused. You may unpause the game and continue watching if you want to.",
+  "zh": "",
+  "ui": "commands/cmd_replay_end",
+  "current": "重放已结束，游戏已暂停。如果你想继续观看，你可以取消暂停游戏。",
+  "terms": [
+   "Replay = 录像"
+  ]
+ },
+ {
+  "key": "c52ff7785e",
+  "msgid": "Desync",
+  "zh": "",
+  "ui": "commands/cmd_replay_sync_read",
+  "terms": [
+   "Desync = 不同步"
+  ]
+ },
+ {
+  "key": "16fa75491f",
+  "msgid": "The replay has desynced and the game was paused.\nYou are probably watching a replay created with another version of Widelands, which is not supported.\n\nIf you are certain that the replay was created with the same version of Widelands, %1$s, please report this problem as a bug.\nYou will find related messages in the standard output (stdout.txt on Windows). Please add this information to your report.",
+  "zh": "",
+  "ui": "commands/cmd_replay_sync_read",
+  "terms": [
+   "Message = 消息",
+   "Desync = 不同步",
+   "Replay = 录像",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "aab8c8844b",
+  "msgid": "Random Player",
+  "zh": "",
+  "ui": "editor/map_generator",
+  "current": "随机玩家"
+ },
+ {
+  "key": "929a33f67d",
+  "msgid": "Height: inc./dec. %1$d, set to %2$d",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the tool history list. Inc. and dec. stand for | increase and | * decrease.",
+  "ui": "editor/tools"
+ },
+ {
+  "key": "46740b25a1",
+  "msgid": "%1$s: inc./dec. %2$d, set to %3$d",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the tool history list. Inc. and dec. stand for | increase and | * decrease.",
+  "ui": "editor/tools"
+ },
+ {
+  "key": "072d2b2043",
+  "msgid": "Noise height: %1$d–%2$d",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the tool history list.",
+  "ui": "editor/tools"
+ },
+ {
+  "key": "5031db958e",
+  "msgid": "Critter: %1$s",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the tool history list.",
+  "ui": "editor/tools"
+ },
+ {
+  "key": "9b4d1dc55a",
+  "msgid": "Automatic Trees",
+  "zh": "",
+  "ui": "editor/tools, ui/editor"
+ },
+ {
+  "key": "738f469834",
+  "msgid": "Immovable: %1$s",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the tool history list.",
+  "ui": "editor/tools",
+  "current": "固定物：%1$s"
+ },
+ {
+  "key": "10b1b874b0",
+  "msgid": "Terrain: %1$s",
+  "zh": "",
+  "note": "* TRANSLATORS: An entry in the tool history list.",
+  "ui": "editor/tools"
+ },
+ {
+  "key": "f296f1a5d6",
+  "msgid": "Economies",
+  "zh": "",
+  "ui": "game_io/game_loader, game_io/game_saver",
+  "current": "经济"
+ },
+ {
+  "key": "8fbc9ddeec",
+  "msgid": "Trades",
+  "zh": "",
+  "ui": "game_io/game_loader, game_io/game_saver",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "2845179acb",
+  "msgid": "AI",
+  "zh": "",
+  "ui": "game_io/game_loader, game_io/game_saver",
+  "current": "人工智能"
+ },
+ {
+  "key": "b267ef6921",
+  "msgid": "Command queue",
+  "zh": "",
+  "ui": "game_io/game_loader, game_io/game_saver",
+  "current": "命令队列"
+ },
+ {
+  "key": "d0474bdfdd",
+  "msgid": "Messages",
+  "zh": "",
+  "ui": "game_io/game_loader, map_io/map_saver, map_io/widelands_map_loader",
+  "current": "消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "00c454dd16",
+  "msgid": "Finishing",
+  "zh": "",
+  "ui": "game_io/game_loader, logic/map_objects",
+  "current": "完成"
+ },
+ {
+  "key": "38ccd2b92d",
+  "msgid": "Loading game: %1$s (%2$u/%3$d)",
+  "zh": "",
+  "ui": "game_io/game_loader",
+  "current": "载入游戏：%1$s(%2$u%3$d)"
+ },
+ {
+  "key": "5cfc6d8246",
+  "msgid": "Elemental data",
+  "zh": "",
+  "ui": "game_io/game_loader, game_io/game_saver, map_io/map_saver",
+  "current": "基本数据"
+ },
+ {
+  "key": "6d046bb1d5",
+  "msgid": "Interactive player",
+  "zh": "",
+  "ui": "game_io/game_saver",
+  "current": "互相配合的玩家"
+ },
+ {
+  "key": "d3abcebd1f",
+  "msgid": "Saving game: %1$s (%2$d/%3$d)",
+  "zh": "",
+  "ui": "game_io/game_saver",
+  "current": "正在保存游戏：%1$s (%2$d/%3$d)"
+ },
+ {
+  "key": "c64315d55e",
+  "msgid": "Autosaving game…",
+  "zh": "",
+  "ui": "game_io/game_saver",
+  "current": "自动保存游戏......"
+ },
+ {
+  "key": "36289363fe",
+  "msgid": "Widelands won't work because we were unable to detect the shading language version.",
+  "zh": "",
+  "note": "* TRANSLATORS: Basic error message when we can't handle the graphics | driver. Font | support is limited here, so do not use advanced typography *",
+  "ui": "graphic/gl",
+  "current": " Widelands无法正常工作，因为我们检测不到shading language 版本，由于显卡或是字体缺失所导致的 。"
+ },
+ {
+  "key": "12f109ed49",
+  "msgid": "There is an unknown problem with reading the information from the graphics driver.",
+  "zh": "",
+  "note": "* TRANSLATORS: Basic error message when we can't handle the graphics | driver. Font | support is limited here, so do not use advanced typography *",
+  "ui": "graphic/gl",
+  "current": "读取显卡信息时出现未知的问题。"
+ },
+ {
+  "key": "b024fe8296",
+  "msgid": "Widelands won't work because we were unable to detect the OpenGL version.",
+  "zh": "",
+  "note": "* TRANSLATORS: Basic error message when we can't handle the graphics | driver. Font | support is limited here, so do not use advanced typography *",
+  "ui": "graphic/gl",
+  "current": "因无法检测 OpenGL 版本，故游戏无法启动。"
+ },
+ {
+  "key": "f40d7a65bb",
+  "msgid": "Widelands won’t work because your graphics driver is too old.",
+  "zh": "",
+  "note": "* TRANSLATORS: Basic error message when we can't handle the graphics | driver. | Font support is limited here, so do not use advanced typography *",
+  "ui": "graphic/gl",
+  "current": "显卡驱动程序过于陈旧，导致游戏无法运行。"
+ },
+ {
+  "key": "e1ac39c5c0",
+  "msgid": "The %1$s version needs to be version %2$u.%3$u or newer.",
+  "zh": "",
+  "note": "* TRANSLATORS: Basic error message when we can't handle the graphics | driver. | Font support is limited here, so do not use advanced typography *",
+  "ui": "graphic/gl"
+ },
+ {
+  "key": "3900054cbc",
+  "msgid": "The %1$s needs to be version %2$u.%3$u or newer.",
+  "zh": "",
+  "note": "* TRANSLATORS: Basic error message when we can't handle the graphics | driver. | Font support is limited here, so do not use advanced typography *",
+  "ui": "graphic/gl"
+ },
+ {
+  "key": "7939f58924",
+  "msgid": "OpenGL",
+  "zh": "",
+  "ui": "graphic/gl",
+  "current": "OpenGL"
+ },
+ {
+  "key": "868d23ebb9",
+  "msgid": "Shading Language",
+  "zh": "",
+  "ui": "graphic/gl"
+ },
+ {
+  "key": "5bb596b420",
+  "msgid": "Copy link to clipboard",
+  "zh": "",
+  "ui": "graphic/text"
+ },
+ {
+  "key": "3f9d6ea7f3",
+  "msgid": "%s:",
+  "zh": "",
+  "msgctxt": "definitionterm",
+  "ui": "graphic/text_layout"
+ },
+ {
+  "key": "ad0e70669c",
+  "msgid": "blank space",
+  "zh": "",
+  "msgctxt": "illegal_filename_characters",
+  "note": "* TRANSLATORS: Part of tooltip entry for characters in illegal filenames. | replaces the | * blank space in a list of illegal characters",
+  "ui": "io/filesystem",
+  "current": "空白区"
+ },
+ {
+  "key": "ce652ee596",
+  "msgid": "%s at the start of the filename",
+  "zh": "",
+  "msgctxt": "illegal_filename_characters",
+  "note": "* TRANSLATORS: Tooltip entry for characters in illegal filenames. | *  %s is a list of illegal characters",
+  "ui": "io/filesystem",
+  "current": "%s在文件名的开头"
+ },
+ {
+  "key": "96b65d0302",
+  "msgid": "%s anywhere in the filename",
+  "zh": "",
+  "msgctxt": "illegal_filename_characters",
+  "note": "* TRANSLATORS: Tooltip entry for characters in illegal filenames. | * %s is a list of illegal characters",
+  "ui": "io/filesystem",
+  "current": "%s文件名中的任意位置"
+ },
+ {
+  "key": "7c6b9fc6f5",
+  "msgid": "The following characters are not allowed:",
+  "zh": "",
+  "msgctxt": "illegal_filename_characters",
+  "note": "* TRANSLATORS: Tooltip header for characters in illegal filenames. | * This is followed by a list of bullet points",
+  "ui": "io/filesystem",
+  "current": " 不允许使用以下字符： "
+ },
+ {
+  "key": "03390f6226",
+  "msgid": "yes",
+  "zh": "",
+  "note": "* TRANSLATORS: A variant of the commandline parameter \"true\" value | * TRANSLATORS: Needs to be consistent with the translations in widelands- | console",
+  "ui": "io/profile",
+  "current": "是"
+ },
+ {
+  "key": "4621736446",
+  "msgid": "on",
+  "zh": "",
+  "note": "* TRANSLATORS: A variant of the commandline parameter \"true\" value | * TRANSLATORS: Needs to be consistent with the translations in widelands- | console",
+  "ui": "io/profile",
+  "current": "开"
+ },
+ {
+  "key": "896ea40c45",
+  "msgid": "no",
+  "zh": "",
+  "note": "* TRANSLATORS: A variant of the commandline parameter \"false\" value | * TRANSLATORS: Needs to be consistent with the translations in widelands- | console",
+  "ui": "io/profile",
+  "current": "没有"
+ },
+ {
+  "key": "c8c930f9e8",
+  "msgid": "off",
+  "zh": "",
+  "note": "* TRANSLATORS: A variant of the commandline parameter \"false\" value | * TRANSLATORS: Needs to be consistent with the translations in widelands- | console",
+  "ui": "io/profile",
+  "current": "关闭"
+ },
+ {
+  "key": "8772109845",
+  "msgid": "%1$s.%2$u",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "%1$s.%2$u"
+ },
+ {
+  "key": "e4d70a9bee",
+  "msgid": "No conflicts",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "没有冲突"
+ },
+ {
+  "key": "d172db4789",
+  "msgid": "%1$s (expected version %2$s, found %3$s)",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "%1$s (预期版本 %2$s, 找到 %3$s)"
+ },
+ {
+  "key": "39c2aa7708",
+  "msgid": "%1$s, %2$s (expected version %3$s, found %4$s)",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "%1$s, %2$s (预期版本 %3$s,找到 %4$s)"
+ },
+ {
+  "key": "cca59c97ad",
+  "msgid": "%1$u add-on with wrong version: %2$s",
+  "zh": "",
+  "msgid_plural": "%1$u add-ons with wrong version: %2$s",
+  "ui": "logic/addons",
+  "current": "%1$u 错误的附件版本: %2$s",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "f46f8d1be3",
+  "msgid": "%1$u missing add-on: %2$s",
+  "zh": "",
+  "msgid_plural": "%1$u missing add-ons: %2$s",
+  "ui": "logic/addons",
+  "current": "%1$u 缺少附件: %2$s",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "28897f6505",
+  "msgid": "%s (missing)",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "%s (缺少)"
+ },
+ {
+  "key": "b89f059803",
+  "msgid": "%1$s, %2$s (missing)",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "%1$s, %2$s (缺少)"
+ },
+ {
+  "key": "65de4b176d",
+  "msgid": "%1$s and %2$s: %3$s",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "%1$s 和 %2$s: %3$s"
+ },
+ {
+  "key": "e81e014272",
+  "msgid": "%u missing add-on",
+  "zh": "",
+  "msgid_plural": "%u missing add-ons",
+  "ui": "logic/addons",
+  "current": "%u 缺少插件",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "bce0e8023e",
+  "msgid": "%u add-on with wrong version",
+  "zh": "",
+  "msgid_plural": "%u add-ons with wrong version",
+  "ui": "logic/addons",
+  "current": "%u 错误的插件版本",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "d0f31919a1",
+  "msgid": "None",
+  "zh": "",
+  "note": "* TRANSLATORS: This map or savegame uses no add-ons",
+  "ui": "logic/addons",
+  "current": "没有"
+ },
+ {
+  "key": "ca5d3c6a68",
+  "msgid": "%1$s<br>• %2$s (version %3$s)",
+  "zh": "",
+  "ui": "logic/addons"
+ },
+ {
+  "key": "10cd634706",
+  "msgid": "No game-relevant add-ons in use.",
+  "zh": "",
+  "ui": "logic/addons",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "No Game = 没有猎物",
+   "add-ons = 附加内容",
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "23af0a9957",
+  "msgid": "%u game-relevant add-on in use:",
+  "zh": "",
+  "msgid_plural": "%u game-relevant add-ons in use:",
+  "ui": "logic/addons",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "93921d5d53",
+  "msgid": "Error",
+  "zh": "",
+  "ui": "logic/addons, ui/basic, ui/editor",
+  "current": "错误"
+ },
+ {
+  "key": "8b66739a4b",
+  "msgid": "Tribes",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "部落"
+ }
+]

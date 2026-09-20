@@ -40,7 +40,8 @@ def unescape(s: str) -> str:
 
 
 class Entry:
-    __slots__ = ('line', 'ctxt', 'msgid', 'msgid_plural', 'msgstrs', 'flags', 'comments')
+    __slots__ = ('line', 'ctxt', 'msgid', 'msgid_plural', 'msgstrs',
+                 'flags', 'comments', 'ref')
 
     def __init__(self, line: int):
         self.line = line
@@ -49,7 +50,8 @@ class Entry:
         self.msgid_plural = ''
         self.msgstrs: list[str] = []
         self.flags: list[str] = []
-        self.comments: list[str] = []
+        self.comments: list[str] = []      # #. 译者注释
+        self.ref: list[str] = []           # #: 源码位置
 
     @property
     def is_header(self) -> bool:
@@ -95,6 +97,8 @@ def parse_po(path: str):
                     cur.flags += [f.strip() for f in s[2:].split(',')]
                 elif s.startswith('#.'):
                     cur.comments.append(s[2:].strip())
+                elif s.startswith('#:'):
+                    cur.ref.append(s[2:].strip())
                 target = None
                 continue
 
