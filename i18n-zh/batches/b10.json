@@ -1,0 +1,902 @@
+[
+ {
+  "key": "a1042754de",
+  "msgid": "Do you really want to delete the map ‘%s’?",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "85070cc5c1",
+  "msgid": "Difficulty",
+  "zh": "",
+  "note": "* TRANSLATORS: Header for campaign difficulty",
+  "ui": "ui/fsmenu",
+  "current": "难度"
+ },
+ {
+  "key": "9cba6c3d54",
+  "msgid": "Difficulty:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "难度"
+ },
+ {
+  "key": "cd10e7be94",
+  "msgid": "Invalid filename",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "fa4cf7b6b1",
+  "msgid": "The campaigns difficulty. One word.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "3dcf678543",
+  "msgid": "Short description, which will be appended to the difficulty.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7e78c03f45",
+  "msgid": "Name too long",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "1e9aa46f7c",
+  "msgid": "Invalid character ‘%c’",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "59728f5956",
+  "msgid": "Filename may not contain ‘%s’",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "65867d67ee",
+  "msgid": "This screenshot could not be fetched from the server due to an error.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "由于出现错误，无法从服务器获取此屏幕快照。 ",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "6adceb754d",
+  "msgid": "Please log in to comment",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "957b162c14",
+  "msgid": "Please log in to vote",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "ec2650ee2f",
+  "msgid": "The comment could not be deleted.\n\nError Message:\n%s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "30abec05ce",
+  "msgid": "Edit Comment",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "835424addc",
+  "msgid": "Write Comment",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a1b4637938",
+  "msgid": "B",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Bold text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "252ff76120",
+  "msgid": "Bold",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "959ec5b53c",
+  "msgid": "I",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Italic text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "aac483d303",
+  "msgid": "Italic",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "96c6823200",
+  "msgid": "Underline",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "95cfa35b4c",
+  "msgid": "_",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Underline text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a9ef44e304",
+  "msgid": "S",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Shadow text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "dc6e369197",
+  "msgid": "Shadow",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d107c10165",
+  "msgid": "C",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Color text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "67c7968815",
+  "msgid": "Color…",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1bb49cd3bc",
+  "msgid": "1",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Tiny text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "95f2959cd9",
+  "msgid": "Tiny",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "afaf1618e0",
+  "msgid": "2",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Small text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "aa93a04a25",
+  "msgid": "Small",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "小"
+ },
+ {
+  "key": "3a18e71071",
+  "msgid": "3",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Medium text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "65b07bd663",
+  "msgid": "4",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Large text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f68edf5dc9",
+  "msgid": "Large",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "e322a24bad",
+  "msgid": "5",
+  "zh": "",
+  "msgctxt": "markup",
+  "note": "* TRANSLATORS: Short for Huge text markup",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "0411f5d46d",
+  "msgid": "Huge",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5378103142",
+  "msgid": "The comment could not be submitted.\n\nError Message:\n%s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "ac8c7f34fb",
+  "msgid": "Preview:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ada2b0f709",
+  "msgid": "The comment contains invalid richtext markup:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ba17efdca0",
+  "msgid": "Priority:",
+  "zh": "",
+  "msgctxt": "tx",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "e271db7e31",
+  "msgid": "Resource Name:",
+  "zh": "",
+  "msgctxt": "tx",
+  "note": "* TRANSLATORS: \"Resource\" here refers to the name of a translation unit",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "f758baf0d4",
+  "msgid": "Categories (whitespace-separated; characters only):",
+  "zh": "",
+  "msgctxt": "tx",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "3c3444f7fb",
+  "msgid": "This may take several minutes. Please be patient.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "9c627f3621",
+  "msgid": "Low",
+  "zh": "",
+  "msgctxt": "priority",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "725d44400f",
+  "msgid": "Normal",
+  "zh": "",
+  "msgctxt": "priority",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7ecbbe0d83",
+  "msgid": "High",
+  "zh": "",
+  "msgctxt": "priority",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "fc36cdfb9b",
+  "msgid": "Please explain why you are deleting this add-on.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "5d8a85503d",
+  "msgid": "Unchecked",
+  "zh": "",
+  "note": "* TRANSLATORS: This add-on has not yet been verified",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "108bc29af7",
+  "msgid": "Verified",
+  "zh": "",
+  "note": "* TRANSLATORS: This add-on has been verified",
+  "ui": "ui/fsmenu",
+  "current": "已验证"
+ },
+ {
+  "key": "51f05587ef",
+  "msgid": "Desyncs",
+  "zh": "",
+  "note": "* TRANSLATORS: This add-on is known to cause desyncs",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "daf905b1a4",
+  "msgid": "Sync-safe",
+  "zh": "",
+  "note": "* TRANSLATORS: This add-on will not cause desyncs",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "806bb1b839",
+  "msgid": "Edit…",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "88977475de",
+  "msgid": "Your vote",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "你的选票"
+ },
+ {
+  "key": "9260bfbd2d",
+  "msgid": "Next screenshot",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "下一个屏幕快照"
+ },
+ {
+  "key": "00d23dbba7",
+  "msgid": "Previous screenshot",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "上一个屏幕快照"
+ },
+ {
+  "key": "c3c731d239",
+  "msgid": "Write a comment…",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1904ee0cd7",
+  "msgid": "Administrator actions",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d45aa827d4",
+  "msgid": "Not voted",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "未投票"
+ },
+ {
+  "key": "f2e118aaa8",
+  "msgid": "The vote could not be submitted.\nError code: %s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "4276158c94",
+  "msgid": "Screenshots (%u)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "屏幕快照 (%u)"
+ },
+ {
+  "key": "3d89ed344b",
+  "msgid": "Change verification status",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "4a20642127",
+  "msgid": "Change quality rating",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "6af966b986",
+  "msgid": "Change sync-safety status",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "24132cf920",
+  "msgid": "Configure Transifex integration",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "8e53f11e03",
+  "msgid": "Comments (%u)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "注释 (%u)"
+ },
+ {
+  "key": "e2acb5af8a",
+  "msgid": "Votes (%u)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "投票 (%u)"
+ },
+ {
+  "key": "8f1765f977",
+  "msgid": "Average rating: %1$.3f (%2$u vote)",
+  "zh": "",
+  "msgid_plural": "Average rating: %1$.3f (%2$u votes)",
+  "ui": "ui/fsmenu",
+  "current": "平均评级： %1$.3f (%2$u votes)"
+ },
+ {
+  "key": "4100520555",
+  "msgid": "No votes yet",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "还没有投票"
+ },
+ {
+  "key": "e8fef1349e",
+  "msgid": "No comments yet.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "还没有评论"
+ },
+ {
+  "key": "7f9f4042a8",
+  "msgid": "%u comment:",
+  "zh": "",
+  "msgid_plural": "%u comments:",
+  "ui": "ui/fsmenu",
+  "current": "%u 评论："
+ },
+ {
+  "key": "f2e8a3e092",
+  "msgid": "%1$s (edited on %2$s)",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f8e4d255be",
+  "msgid": "%1$s (edited by ‘%2$s’ on %3$s)",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "b8be2c941b",
+  "msgid": "Are you sure you want to delete this comment?",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "36e3d41007",
+  "msgid": "‘%1$s’ commented:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a2ebb2203a",
+  "msgid": "‘%1$s’ commented on version %2$s:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "‘%1$s’ 对版本发表了评论 %2$s:"
+ },
+ {
+  "key": "aa063c99cb",
+  "msgid": "%1$u / %2$u",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "%1$u/%2$u"
+ },
+ {
+  "key": "6433918eac",
+  "msgid": "This add-on is known to cause desyncs in multiplayer games and replays.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "34a1b0922e",
+  "msgid": "Requires a Widelands version of at least %s.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7bce0603e0",
+  "msgid": "Requires a Widelands version of at most %s.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d49c555a59",
+  "msgid": "Requires a Widelands version of at least %1$s and at most %2$s.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a12c8afdc7",
+  "msgid": "Hint:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "92287ab699",
+  "msgid": "Comment by uploader:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "4176d70ee5",
+  "msgid": "Disable",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "禁用"
+ },
+ {
+  "key": "40686959c9",
+  "msgid": "Enable",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "启用"
+ },
+ {
+  "key": "685107c693",
+  "msgid": "%1$s+%2$u",
+  "zh": "",
+  "note": "* TRANSLATORS: (MajorVersion)+(MinorVersion)",
+  "ui": "ui/fsmenu",
+  "current": "%1$s+%2$u"
+ },
+ {
+  "key": "4ceabf8527",
+  "msgid": "(%s)",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/game",
+  "current": "(%s)"
+ },
+ {
+  "key": "5ec58b49ef",
+  "msgid": "Category: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": " 类别： %s"
+ },
+ {
+  "key": "ef1ac684c3",
+  "msgid": "Version: %1$s+%2$u",
+  "zh": "",
+  "note": "* TRANSLATORS: (MajorVersion)+(MinorVersion)",
+  "ui": "ui/fsmenu",
+  "current": "版本： %1$s+%2$u"
+ },
+ {
+  "key": "1c7561ce32",
+  "msgid": "Install",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "安装"
+ },
+ {
+  "key": "26df1af450",
+  "msgid": "Upgrade",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "升级"
+ },
+ {
+  "key": "ca9ac9095b",
+  "msgid": "Comments and Votes",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "评论和投票"
+ },
+ {
+  "key": "b115c9fa01",
+  "msgid": "%1$s   ✎ %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Upload timestamp • Edit timestamp",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "41333be52e",
+  "msgid": "%1$s   ⬇ %2$u   ★ %3$s   “” %4$u   ▣ %5$u",
+  "zh": "",
+  "note": "* TRANSLATORS: Filesize • Download count • Average rating • Number of | comments • | Number of screenshots",
+  "ui": "ui/fsmenu",
+  "current": "%1$s ⬇%2$u  ★ %3$s  “” %4$u ▣ %5$u"
+ },
+ {
+  "key": "5f42747407",
+  "msgid": "Uninstall",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "卸载"
+ },
+ {
+  "key": "0f5ce82238",
+  "msgid": "by %1$s (uploaded by %2$s)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "by %1$s (由 %2$s 上传)"
+ },
+ {
+  "key": "c7af347834",
+  "msgid": "Are you certain that you want to install this add-on?\n\n%1$s\nby %2$s\n%3$s\nVersion %4$s\nCategory: %5$s\n%6$s\n",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "你确定要安装此附件吗？\n\n%1$s\nby %2$s\n%3$s\n版本 %4$s\n类别 ：%5$s\n%6$s\n",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "be83acdaff",
+  "msgid": "Are you certain that you want to uninstall this map?\n\n%1$s\nby %2$s\n%3$s\n\nNote that this map can not be downloaded again from the server.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "d1c127308f",
+  "msgid": "Are you certain that you want to upgrade this add-on?\n\n%1$s\nby %2$s\n%3$s\nInstalled version: %4$s\nAvailable version: %5$s\nCategory: %6$s\n%7$s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "53a6ab6dca",
+  "msgid": "Are you certain that you want to uninstall this map?\n\n%1$s\nby %2$s\n%3$s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1509cf8339",
+  "msgid": "Verified by the Widelands Development Team",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "由Widelands开发团队验证",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "e43e0e9ac6",
+  "msgid": "This add-on was not checked by the Widelands Development Team yet. We cannot guarantee that it does not contain harmful or offensive content.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "Widelands开发团队尚未检查此附加组件。我们不能保证它不包含有害的或是不礼貌的内容 ",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "add-on = 附加内容",
+   "Add-On = 附加内容",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "cb105909ff",
+  "msgid": "Total size: %u byte",
+  "zh": "",
+  "msgid_plural": "Total size: %u bytes",
+  "ui": "ui/fsmenu",
+  "current": "总计： %u 字节"
+ },
+ {
+  "key": "bb97853e91",
+  "msgid": "%u download",
+  "zh": "",
+  "msgid_plural": "%u downloads",
+  "ui": "ui/fsmenu",
+  "current": "%u 下载"
+ },
+ {
+  "key": "83839f4043",
+  "msgid": "%u comment",
+  "zh": "",
+  "msgid_plural": "%u comments",
+  "ui": "ui/fsmenu",
+  "current": "%u 评论"
+ },
+ {
+  "key": "7343d0625f",
+  "msgid": "%u screenshot",
+  "zh": "",
+  "msgid_plural": "%u screenshots",
+  "ui": "ui/fsmenu",
+  "current": "%u屏幕快照"
+ },
+ {
+  "key": "0eb6e7031c",
+  "msgid": "Are you certain that you want to uninstall this add-on?\n\n%1$s\nby %2$s\nVersion %3$s\nCategory: %4$s\n%5$s\n\nNote that this add-on can not be downloaded again from the server.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "32329a7176",
+  "msgid": "Are you certain that you want to uninstall this add-on?\n\n%1$s\nby %2$s\nVersion %3$s\nCategory: %4$s\n%5$s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "f40cb9385f",
+  "msgid": "Size: %1$u×%2$u • Max Players: %3$u • %4$s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7dde692fb9",
+  "msgid": "%1$s   %2$s   ⬇ %3$u   ★ %4$s   “” %5$u",
+  "zh": "",
+  "note": "* TRANSLATORS: Timestamp · Filesize · Download count · Average rating · | Number of comments",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "31210f75c1",
+  "msgid": "The screenshot ‘%1$s’ for the add-on ‘%2$s’ could not be uploaded to the server.\n\nError Message:\n%3$s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息",
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "b1427d331d",
+  "msgid": "Upload Screenshot for ‘%s’",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "bcc6b44a0f",
+  "msgid": "Description",
+  "zh": "",
+  "note": "* TRANSLATORS: Header for campaign description",
+  "ui": "ui/fsmenu, ui/shared",
+  "current": "描述"
+ },
+ {
+  "key": "d0cf4035fc",
+  "msgid": "Choose Campaign",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "选择战役"
+ },
+ {
+  "key": "f9e35aa3a0",
+  "msgid": "Return to the main menu",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/game",
+  "current": "返回主菜单"
+ },
+ {
+  "key": "df37e2da33",
+  "msgid": "Play this campaign",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "开始这个战役"
+ },
+ {
+  "key": "b121024f55",
+  "msgid": "Diff.",
+  "zh": "",
+  "note": "* TRANSLATORS: Campaign difficulty table header",
+  "ui": "ui/fsmenu",
+  "current": "难度."
+ },
+ {
+  "key": "efc72e06f1",
+  "msgid": "Tribe Name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "部落名称",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "3cdb14bdc9",
+  "msgid": "Campaign Name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "战役名称",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "90b6d6d3de",
+  "msgid": "Default",
+  "zh": "",
+  "msgctxt": "difficulty",
+  "note": "* TRANSLATORS: A campaign difficulty",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "55c24df474",
+  "msgid": "It looks like Widelands crashed the last time you ran it, but a backtrace for debugging was automatically generated. Please provide the report along with a description of what was going on in the game and what you did last before the crash to the Widelands Development Team under %s so we can fix the problem.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "ba15e9e768",
+  "msgid": "Show details…",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1ae12dd8de",
+  "msgid": "View the detailed crash report",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ }
+]

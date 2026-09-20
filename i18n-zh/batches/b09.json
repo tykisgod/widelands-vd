@@ -1,0 +1,1058 @@
+[
+ {
+  "key": "46301891a3",
+  "msgid": "Verified only",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "仅验证"
+ },
+ {
+  "key": "bebafe943a",
+  "msgid": "Show only verified add-ons",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "只显示已验证的插件",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "84106b9315",
+  "msgid": "Sort by",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "排序"
+ },
+ {
+  "key": "74ff43feee",
+  "msgid": "Minimum quality",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "最低质量"
+ },
+ {
+  "key": "3468eec311",
+  "msgid": "Min Players:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "1f044cdb14",
+  "msgid": "Min Width:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5280171c93",
+  "msgid": "Min Height:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "9b0245c2a1",
+  "msgid": "Min Size:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "89760b82ce",
+  "msgid": "Max Players:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a80537488e",
+  "msgid": "Max Width:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "fedc85e670",
+  "msgid": "Max Height:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7da01a5249",
+  "msgid": "Max Size:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "afe615ea5e",
+  "msgid": "Choose add-on to upload…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "e5d991d9f6",
+  "msgid": "Upload a screenshot…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "上传一张屏幕截图..."
+ },
+ {
+  "key": "abc54a70ac",
+  "msgid": "Understood and confirmed",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7d01fdf87e",
+  "msgid": "By ticking this checkbox, you confirm that you have read and agree to the above terms.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "133c369fa6",
+  "msgid": "Reset",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/shared",
+  "current": "复位"
+ },
+ {
+  "key": "9233a111e3",
+  "msgid": "Reset the filters",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "重置过滤器"
+ },
+ {
+  "key": "1cb6fd87a1",
+  "msgid": "Refresh",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "刷新"
+ },
+ {
+  "key": "b976ba9865",
+  "msgid": "Refresh the list of add-ons available from the server",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "刷新服务器上可用的附件列表",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "9b2d7b0e1e",
+  "msgid": "Fix dependencies…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "修复依赖项…"
+ },
+ {
+  "key": "20a7cee546",
+  "msgid": "Try to automatically fix the dependency errors",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "尝试自动修复依赖项错误"
+ },
+ {
+  "key": "354d3dfbf8",
+  "msgid": "Move selected add-on to top",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "将选中的附件移到顶部",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "e74885c08c",
+  "msgid": "Move selected add-on one step up",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "将选中的附件上移一步",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "c619b9003b",
+  "msgid": "Move selected add-on one step down",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "将选中的附件下移一步",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "d1d69780e4",
+  "msgid": "Move selected add-on to bottom",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "将选中的附件移到底部",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "108f26362f",
+  "msgid": "Launch the add-ons packager…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "启动附加组件打包程序…",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "b0abe7326a",
+  "msgid": "Contact us…",
+  "zh": "",
+  "note": "* TRANSLATORS: This button allows the user to send a message to the | Widelands | Development Team",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "543e66941d",
+  "msgid": "Tools for Add-Ons Developers",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "附加组件开发者工具",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "8d157d0148",
+  "msgid": "The interactive add-ons packager allows you to create, edit, and delete add-ons. You can bundle maps designed with the Widelands Map Editor as an add-on using the graphical interface and share them with other players, without having to write a single line of code.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "4cb0610458",
+  "msgid": "For more information regarding how to develop and package your own add-ons, please visit %s.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "b1107cc593",
+  "msgid": "Here, you can upload your add-ons to the server to make them available to other players. By uploading, you agree to publish your creation under the terms of the GNU General Public License (GPL) version 2 or any later version (the same license under which Widelands itself is distributed). For more information on the GPL, please refer to ‘About Widelands’ → ‘License’ in the main menu or see %s.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "36e735b70b",
+  "msgid": "%.2f GB",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "%.2f GB"
+ },
+ {
+  "key": "950fdb9ed5",
+  "msgid": "It is forbidden to upload add-ons containing harmful or malicious content or spam. By uploading an add-on, you assert that the add-on is of your own creation or you have the add-on’s author(s) permission to submit it in their stead.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "86b9477d97",
+  "msgid": "You are required to have read the add-ons documentation under the link given further above before submitting content. Since the documentation is subject to frequent changes, ensure that you have read it recently and that you followed all guidelines stated there.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "a41d96e711",
+  "msgid": "The Widelands Development Team will review your add-on soon after uploading. In case they have further inquiries, they will contact you via a PM on the Widelands website; therefore please check the inbox of your online user profile page frequently.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "Add-On = 附加内容",
+   "add-on = 附加内容",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "08f7f95de0",
+  "msgid": "%.2f MB",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "%.2f MB"
+ },
+ {
+  "key": "dd4dcdd82d",
+  "msgid": "Technical problems? Unclear documentation? Advanced needs such as deletion of an add-on or collaborating with another add-on designer? Please visit our forums at %s, explain your needs, and the Widelands Development Team will be happy to help.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "Add-On = 附加内容",
+   "add-on = 附加内容",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "18845d3247",
+  "msgid": "%.2f kB",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "%.2f kB"
+ },
+ {
+  "key": "e95b7c1816",
+  "msgid": "Alternatively you can also send a message to the Widelands Development Team and we’ll try to help you with your enquiry as soon as we can. Only the server administrators can read messages sent in this way. Since other add-on designers can usually benefit from others’ questions and answers, please use this way of communication only if there is a reason why your concern is not for everyone’s ears. You’ll receive our reply via a PM on your Widelands website user profile page.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "Message = 消息",
+   "Add-On = 附加内容",
+   "Server = 服务器",
+   "add-on = 附加内容",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "dff0a9706b",
+  "msgid": "%u bytes",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "%u 字节"
+ },
+ {
+  "key": "61baa225ba",
+  "msgid": "Manage your installed add-ons",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "9f31835dfa",
+  "msgid": "Browse and install add-ons available on the server",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "9d0a5281a0",
+  "msgid": "Browse and install maps from the widelands.org website maps archive. Like manually downloaded maps, installed website maps are stored in the ‘%s’ directory under the Widelands home directory.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "5bd33437dc",
+  "msgid": "Development",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "发展"
+ },
+ {
+  "key": "4eafab86e1",
+  "msgid": "Tools for add-on developers",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "fdc6c81e8a",
+  "msgid": "Name",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons alphabetically by name",
+  "ui": "ui/fsmenu",
+  "current": "名称",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "5af947b1b0",
+  "msgid": "Name (descending)",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons alphabetically by name (inverted)",
+  "ui": "ui/fsmenu",
+  "current": "姓名 (降序)",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "eadc6654a5",
+  "msgid": "Most popular",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons by average rating",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "099ac37f86",
+  "msgid": "Least popular",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons by average rating",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "977440326f",
+  "msgid": "Most often downloaded",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons by how often they were downloaded",
+  "ui": "ui/fsmenu",
+  "current": "最常下载"
+ },
+ {
+  "key": "efc7a1b586",
+  "msgid": "Least often downloaded",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons by how often they were downloaded",
+  "ui": "ui/fsmenu",
+  "current": "最少下载"
+ },
+ {
+  "key": "02b3c766e4",
+  "msgid": "Oldest",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons by upload date/time",
+  "ui": "ui/fsmenu",
+  "current": "最老的"
+ },
+ {
+  "key": "b9c6445c8e",
+  "msgid": "Newest",
+  "zh": "",
+  "note": "* TRANSLATORS: Sort add-ons by upload date/time",
+  "ui": "ui/fsmenu",
+  "current": "最新的"
+ },
+ {
+  "key": "f7c6c99463",
+  "msgid": "Filter add-ons by name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "按名称过滤附件",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "940551c49b",
+  "msgid": "Filter maps by name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "54e0687713",
+  "msgid": "Toggle category ‘%s’",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "切换类别'%s'"
+ },
+ {
+  "key": "06e33a2ffe",
+  "msgid": "One World",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "0fa7542d98",
+  "msgid": "Toggle world ‘%s’",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "a64c8b9463",
+  "msgid": "Unlimited",
+  "zh": "",
+  "msgctxt": "nr_players",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "6dbd208346",
+  "msgid": "Unlimited",
+  "zh": "",
+  "msgctxt": "map_size",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "b7a540b122",
+  "msgid": "Delete this add-on",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "0e80a050b9",
+  "msgid": "Discard changes",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "958baec585",
+  "msgid": "Save changes",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "保存更改"
+ },
+ {
+  "key": "ea78c0b4ab",
+  "msgid": "Writing Add-Ons…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "3e293bd9b3",
+  "msgid": "Please be patient while your changes are written.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "35caa16c23",
+  "msgid": "Name:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "姓名：",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "6f8ca25078",
+  "msgid": "Version:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "版本："
+ },
+ {
+  "key": "b768382970",
+  "msgid": "Minimum Widelands Version:",
+  "zh": "",
+  "ui": "ui/fsmenu, ui/shared"
+ },
+ {
+  "key": "b9b0bb836f",
+  "msgid": "Maximum Widelands Version:",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "b96fc9ec09",
+  "msgid": "New Add-On",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "0d54e8ec96",
+  "msgid": "Enter the name for the new add-on.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "6e516df1d1",
+  "msgid": "Category",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "03a4e8701a",
+  "msgid": "Invalid Name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "5ab4a58519",
+  "msgid": "This name is invalid. Reason: %s\n\nPlease choose a different name.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "d0b5ff2ce6",
+  "msgid": "An add-on with this internal name already exists.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "21b5ec0ac9",
+  "msgid": "An add-on with this internal name was deleted recently. Please commit your changes before using this name again.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "f1bfc4ae9b",
+  "msgid": "Delete Add-on",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "25c69f74a0",
+  "msgid": "Do you really want to delete the add-on ‘%s’?",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "b46da9ade7",
+  "msgid": "Do you really want to delete the local add-on ‘%s’?\n\nNote that this add-on can not be downloaded again from the server.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "Server = 服务器",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "5c7f142525",
+  "msgid": "If you quit the packager now, all changes to the following %u add-on will be discarded.",
+  "zh": "",
+  "msgid_plural": "If you quit the packager now, all changes to the following %u add-ons will be discarded.",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "f220089f00",
+  "msgid": "%1$s\n• %2$s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "15f1b9e087",
+  "msgid": "Add-Ons Packager",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "附加组件打包程序",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "939ef0eab8",
+  "msgid": "Quit Packager",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "cd94b4db5e",
+  "msgid": "Do you really want to discard all changes to the add-on ‘%s’?",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "6a6e137684",
+  "msgid": "Do you really want to discard all changes to the following %u add-on?",
+  "zh": "",
+  "msgid_plural": "Do you really want to discard all changes to the following %u add-ons?",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "3f242f2f34",
+  "msgid": "Discard Changes",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "4d5a1cd409",
+  "msgid": "Do you really want to commit all changes to the add-on ‘%s’ to disk?",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "37375c12ad",
+  "msgid": "Do you really want to commit all changes to the following %u add-on to disk?",
+  "zh": "",
+  "msgid_plural": "Do you really want to commit all changes to the following %u add-ons to disk?",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "e87f25d996",
+  "msgid": "Warning: If you manually edited any files in this add-on, your changes may be overwritten!",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "496c8e4684",
+  "msgid": "Confirm Saving",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d8a32cb7ef",
+  "msgid": "Invalid Version Requirement",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "4a54343f87",
+  "msgid": "The minimum Widelands version ‘%1$s’ may not be newer than the maximum Widelands version ‘%2$s’. The add-on ‘%3$s’ will not be saved.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "1953fbb823",
+  "msgid": "Invalid Version",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7d00ff7a8f",
+  "msgid": "‘%1$s’ is not a valid version string. The add-on ‘%2$s’ will not be saved.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "d85baf0230",
+  "msgid": "Version Requirement",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "accf2b3fa0",
+  "msgid": "The add-on ‘%1$s’ does not specify a minimum Widelands version. None of the contained maps can be loaded with a Widelands version older than %2$s. The minimum version requirement will automatically be set accordingly.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "e6079a4388",
+  "msgid": "The add-on ‘%1$s’ specifies a minimum Widelands version of %2$s. However, none of the contained maps can be loaded with a Widelands version older than %3$s. The version requirement will automatically be changed accordingly.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "77ad2b5797",
+  "msgid": "Error Writing Addon",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "e53b65e65f",
+  "msgid": "The add-on ‘%1$s’ can not be saved to disk:\n%2$s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "0b0a142815",
+  "msgid": "New add-on",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Add-On = 附加内容",
+   "add-on = 附加内容"
+  ]
+ },
+ {
+  "key": "a3fd2fdefd",
+  "msgid": "Add selected map",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "6b06a98b0e",
+  "msgid": "*",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7aa53d4b61",
+  "msgid": "Create subdirectory",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f85f24886a",
+  "msgid": "Remove selected map or directory",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "e563c7af7e",
+  "msgid": "The selected internal directory name is used multiple times. All directories with the same internal name will also share the same display name.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "8ea4ef8a56",
+  "msgid": "Directory Display Name",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "4b15d4d72f",
+  "msgid": "Directory Tree",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "0f52d5c134",
+  "msgid": "Name: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "名称：%s",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "3cf6e71eb4",
+  "msgid": "Size: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "大小：%s"
+ },
+ {
+  "key": "453d56598b",
+  "msgid": "%1$u×%2$u",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "%1$u×%2$u"
+ },
+ {
+  "key": "9adce6ea27",
+  "msgid": "Players: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "玩家：%s"
+ },
+ {
+  "key": "7c382c52d1",
+  "msgid": "Minimum Widelands Version: %s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "f18da0b216",
+  "msgid": "(none)",
+  "zh": "",
+  "msgctxt": "version",
+  "note": "* TRANSLATORS: No minimum required version",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "290c1f0f5c",
+  "msgid": "Top-level directory",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "b156baf7af",
+  "msgid": "New Directory",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "135610946b",
+  "msgid": "Enter the name for the new directory.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "39a562684e",
+  "msgid": "Directories may not use the extension ‘%s’.\n\nPlease choose a different name.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "7e3ced44eb",
+  "msgid": "A directory with this name already exists.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录",
+   "Name = 船名",
+   "Name = 名称",
+   "Name = 玩家名称"
+  ]
+ },
+ {
+  "key": "58d3052ba9",
+  "msgid": "Do you really want to delete the directory ‘%s’ and all its contents?",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Directory = 目录"
+  ]
+ }
+]

@@ -4927,16 +4927,16 @@ msgstr "附加内容管理器"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:297
 msgid "Verified only"
-msgstr "仅验证"
+msgstr "仅已验证"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:298
 msgid "Show only verified add-ons"
-msgstr "只显示已验证的插件"
+msgstr "只显示已验证的附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:306
 #: ../../../../src/ui/fsmenu/addons/manager.cc:317
 msgid "Sort by"
-msgstr "排序"
+msgstr "排序方式"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:328
 msgid "Minimum quality"
@@ -4944,53 +4944,53 @@ msgstr "最低质量"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:339
 msgid "Min Players:"
-msgstr ""
+msgstr "最少玩家数："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:349
 msgid "Min Width:"
-msgstr ""
+msgstr "最小宽度："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:359
 msgid "Min Height:"
-msgstr ""
+msgstr "最小高度："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:369
 msgid "Min Size:"
-msgstr ""
+msgstr "最小尺寸："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:379
 msgid "Max Players:"
-msgstr ""
+msgstr "最多玩家数："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:389
 msgid "Max Width:"
-msgstr ""
+msgstr "最大宽度："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:399
 msgid "Max Height:"
-msgstr ""
+msgstr "最大高度："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:409
 msgid "Max Size:"
-msgstr ""
+msgstr "最大尺寸："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:419
 msgid "Choose add-on to upload…"
-msgstr ""
+msgstr "选择要上传的附加内容…"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:430
 msgid "Upload a screenshot…"
-msgstr "上传一张屏幕截图..."
+msgstr "上传一张截图…"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:438
 msgid "Understood and confirmed"
-msgstr ""
+msgstr "已阅读并确认"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:439
 msgid ""
 "By ticking this checkbox, you confirm that you have read and agree to the "
 "above terms."
-msgstr ""
+msgstr "勾选此框即表示你已阅读并同意上述条款。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:448
 #: ../../../../src/ui/fsmenu/addons/manager.cc:457
@@ -4998,12 +4998,12 @@ msgstr ""
 #: ../../../../src/ui/fsmenu/training_wheel_options.cc:118
 #: ../../../../src/ui/shared/addons_login_box.cc:69
 msgid "Reset"
-msgstr "复位"
+msgstr "重置"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:449
 #: ../../../../src/ui/fsmenu/addons/manager.cc:458
 msgid "Reset the filters"
-msgstr "重置过滤器"
+msgstr "重置筛选条件"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:474
 msgid "Refresh"
@@ -5011,46 +5011,46 @@ msgstr "刷新"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:475
 msgid "Refresh the list of add-ons available from the server"
-msgstr "刷新服务器上可用的附件列表"
+msgstr "刷新服务器上可用的附加内容列表"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:492
 msgid "Fix dependencies…"
-msgstr "修复依赖项…"
+msgstr "修复依赖…"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:493
 msgid "Try to automatically fix the dependency errors"
-msgstr "尝试自动修复依赖项错误"
+msgstr "尝试自动修复依赖错误"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:503
 msgid "Move selected add-on to top"
-msgstr "将选中的附件移到顶部"
+msgstr "将选中的附加内容移到最前"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:512
 msgid "Move selected add-on one step up"
-msgstr "将选中的附件上移一步"
+msgstr "将选中的附加内容上移一位"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:521
 msgid "Move selected add-on one step down"
-msgstr "将选中的附件下移一步"
+msgstr "将选中的附加内容下移一位"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:530
 msgid "Move selected add-on to bottom"
-msgstr "将选中的附件移到底部"
+msgstr "将选中的附加内容移到最后"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:538
 msgid "Launch the add-ons packager…"
-msgstr "启动附加组件打包程序…"
+msgstr "启动附加内容打包器…"
 
 #. * TRANSLATORS: This button allows the user to send a message to the
 #. Widelands
 #. Development Team
 #: ../../../../src/ui/fsmenu/addons/manager.cc:549
 msgid "Contact us…"
-msgstr ""
+msgstr "联系我们…"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:576
 msgid "Tools for Add-Ons Developers"
-msgstr "附加组件开发者工具"
+msgstr "附加内容开发者工具"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:584
 msgid ""
@@ -5058,14 +5058,14 @@ msgid ""
 "ons. You can bundle maps designed with the Widelands Map Editor as an add-on"
 " using the graphical interface and share them with other players, without "
 "having to write a single line of code."
-msgstr ""
+msgstr "交互式附加内容打包器可以让你创建、编辑和删除附加内容。你可以用图形界面把 Widelands 地图编辑器做好的地图打包成附加内容分享给其他玩家，无需编写任何代码。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:599
 #, c-format
 msgid ""
 "For more information regarding how to develop and package your own add-ons, "
 "please visit %s."
-msgstr ""
+msgstr "关于如何开发和打包自己的附加内容，详见 %s。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:615
 #, c-format
@@ -5076,7 +5076,7 @@ msgid ""
 " (the same license under which Widelands itself is distributed). For more "
 "information on the GPL, please refer to ‘About Widelands’ → ‘License’ in the"
 " main menu or see %s."
-msgstr ""
+msgstr "在这里你可以把自己的附加内容上传到服务器，供其他玩家使用。上传即表示你同意依照 GNU 通用公共许可证（GPL）第 2 版或任何更新版本发布你的作品，这也是 Widelands 自身采用的许可证。关于 GPL 的更多信息，请在主菜单中查看「关于 Widelands」→「许可证」，或访问 %s。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:624
 msgid ""
@@ -5084,7 +5084,7 @@ msgid ""
 " spam. By uploading an add-on, you assert that the add-on is of your own "
 "creation or you have the add-on’s author(s) permission to submit it in their"
 " stead."
-msgstr ""
+msgstr "禁止上传含有有害内容、恶意内容或垃圾信息的附加内容。上传即表示你确认该附加内容为你本人创作，或你已获得其作者授权代为提交。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:630
 msgid ""
@@ -5092,7 +5092,7 @@ msgid ""
 " further above before submitting content. Since the documentation is subject"
 " to frequent changes, ensure that you have read it recently and that you "
 "followed all guidelines stated there."
-msgstr ""
+msgstr "提交内容前，你必须阅读上方链接给出的附加内容文档。该文档会经常更新，请确保你读的是近期版本，并遵循其中的全部规范。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:636
 msgid ""
@@ -5100,7 +5100,7 @@ msgid ""
 " In case they have further inquiries, they will contact you via a PM on the "
 "Widelands website; therefore please check the inbox of your online user "
 "profile page frequently."
-msgstr ""
+msgstr "上传后 Widelands 开发团队会尽快审核你的附加内容。如需进一步了解情况，他们会通过 Widelands 网站的私信联系你，因此请经常查看你在线用户主页的收件箱。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:666
 #, c-format
@@ -5109,7 +5109,7 @@ msgid ""
 "of an add-on or collaborating with another add-on designer? Please visit our"
 " forums at %s, explain your needs, and the Widelands Development Team will "
 "be happy to help."
-msgstr ""
+msgstr "遇到技术问题？文档不清楚？有删除附加内容、与其他作者协作之类的进阶需求？请到我们的论坛 %s 说明你的需求，Widelands 开发团队很乐意提供帮助。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:683
 msgid ""
@@ -5120,15 +5120,15 @@ msgid ""
 "use this way of communication only if there is a reason why your concern is "
 "not for everyone’s ears. You’ll receive our reply via a PM on your Widelands"
 " website user profile page."
-msgstr ""
+msgstr "你也可以给 Widelands 开发团队发消息，我们会尽快答复。这种方式发出的消息只有服务器管理员能看到。由于其他附加内容作者通常也能从别人的问答中受益，请仅在确有不便公开的理由时才使用这种方式。答复会通过 Widelands 网站用户主页的私信发给你。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:728
 msgid "Manage your installed add-ons"
-msgstr ""
+msgstr "管理已安装的附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:730
 msgid "Browse and install add-ons available on the server"
-msgstr ""
+msgstr "浏览并安装服务器上的附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:732
 #, c-format
@@ -5136,15 +5136,15 @@ msgid ""
 "Browse and install maps from the widelands.org website maps archive. Like "
 "manually downloaded maps, installed website maps are stored in the ‘%s’ "
 "directory under the Widelands home directory."
-msgstr ""
+msgstr "浏览并安装 widelands.org 网站地图库中的地图。与手动下载的地图一样，已安装的网站地图存放在 Widelands 主目录下的 ‘%s’ 目录中。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:736
 msgid "Development"
-msgstr "发展"
+msgstr "开发"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:736
 msgid "Tools for add-on developers"
-msgstr ""
+msgstr "附加内容开发者工具"
 
 #. * TRANSLATORS: Sort add-ons alphabetically by name
 #: ../../../../src/ui/fsmenu/addons/manager.cc:740
@@ -5154,72 +5154,72 @@ msgstr "名称"
 #. * TRANSLATORS: Sort add-ons alphabetically by name (inverted)
 #: ../../../../src/ui/fsmenu/addons/manager.cc:742
 msgid "Name (descending)"
-msgstr "姓名 (降序)"
+msgstr "名称（降序）"
 
 #. * TRANSLATORS: Sort add-ons by average rating
 #: ../../../../src/ui/fsmenu/addons/manager.cc:744
 msgid "Most popular"
-msgstr ""
+msgstr "评分最高"
 
 #. * TRANSLATORS: Sort add-ons by average rating
 #: ../../../../src/ui/fsmenu/addons/manager.cc:746
 msgid "Least popular"
-msgstr ""
+msgstr "评分最低"
 
 #. * TRANSLATORS: Sort add-ons by how often they were downloaded
 #: ../../../../src/ui/fsmenu/addons/manager.cc:748
 msgid "Most often downloaded"
-msgstr "最常下载"
+msgstr "下载最多"
 
 #. * TRANSLATORS: Sort add-ons by how often they were downloaded
 #: ../../../../src/ui/fsmenu/addons/manager.cc:750
 msgid "Least often downloaded"
-msgstr "最少下载"
+msgstr "下载最少"
 
 #. * TRANSLATORS: Sort add-ons by upload date/time
 #: ../../../../src/ui/fsmenu/addons/manager.cc:752
 msgid "Oldest"
-msgstr "最老的"
+msgstr "最早"
 
 #. * TRANSLATORS: Sort add-ons by upload date/time
 #: ../../../../src/ui/fsmenu/addons/manager.cc:754
 msgid "Newest"
-msgstr "最新的"
+msgstr "最新"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:763
 msgid "Filter add-ons by name"
-msgstr "按名称过滤附件"
+msgstr "按名称筛选附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:764
 msgid "Filter maps by name"
-msgstr ""
+msgstr "按名称筛选地图"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:775
 #, c-format
 msgid "Toggle category ‘%s’"
-msgstr "切换类别'%s'"
+msgstr "切换类别 ‘%s’"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:791
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:712
 msgid "One World"
-msgstr ""
+msgstr "单一世界"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:799
 #, c-format
 msgid "Toggle world ‘%s’"
-msgstr ""
+msgstr "切换世界 ‘%s’"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:897
 msgctxt "nr_players"
 msgid "Unlimited"
-msgstr ""
+msgstr "不限"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:899
 #: ../../../../src/ui/fsmenu/addons/manager.cc:901
 #: ../../../../src/ui/fsmenu/addons/manager.cc:903
 msgctxt "map_size"
 msgid "Unlimited"
-msgstr ""
+msgstr "不限"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1035
 #, c-format
@@ -5541,20 +5541,20 @@ msgstr "服务器上找不到所需的附加内容 ‘%s’。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:46
 msgid "Add-Ons Packager"
-msgstr "附加组件打包程序"
+msgstr "附加内容打包器"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:98
 msgid "New add-on"
-msgstr ""
+msgstr "新建附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:107
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:847
 msgid "Delete this add-on"
-msgstr ""
+msgstr "删除此附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:115
 msgid "Discard changes"
-msgstr ""
+msgstr "放弃更改"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:123
 msgid "Save changes"
@@ -5562,15 +5562,15 @@ msgstr "保存更改"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:133
 msgid "Writing Add-Ons…"
-msgstr ""
+msgstr "正在写入附加内容…"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:135
 msgid "Please be patient while your changes are written."
-msgstr ""
+msgstr "正在写入你的更改，请稍候。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:158
 msgid "Name:"
-msgstr "姓名："
+msgstr "名称："
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:168
 #: ../../../../src/ui/fsmenu/tech_info.cc:76
@@ -5581,23 +5581,23 @@ msgstr "版本："
 #: ../../../../src/ui/shared/mapdetails.cc:199
 #: ../../../../src/ui/shared/mapdetails.cc:204
 msgid "Minimum Widelands Version:"
-msgstr ""
+msgstr "最低 Widelands 版本："
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:180
 msgid "Maximum Widelands Version:"
-msgstr ""
+msgstr "最高 Widelands 版本："
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:353
 msgid "New Add-On"
-msgstr ""
+msgstr "新建附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:354
 msgid "Enter the name for the new add-on."
-msgstr ""
+msgstr "请输入新附加内容的名称。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:356
 msgid "Category"
-msgstr ""
+msgstr "类别"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:377
 #: ../../../../src/ui/fsmenu/addons/packager.cc:393
@@ -5606,7 +5606,7 @@ msgstr ""
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:415
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:421
 msgid "Invalid Name"
-msgstr ""
+msgstr "名称无效"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:378
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:401
@@ -5615,26 +5615,26 @@ msgid ""
 "This name is invalid. Reason: %s\n"
 "\n"
 "Please choose a different name."
-msgstr ""
+msgstr "该名称无效。原因：%s\n\n请换一个名称。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:393
 msgid "An add-on with this internal name already exists."
-msgstr ""
+msgstr "已存在使用该内部名称的附加内容。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:398
 msgid ""
 "An add-on with this internal name was deleted recently. Please commit your "
 "changes before using this name again."
-msgstr ""
+msgstr "使用该内部名称的附加内容刚刚被删除。请先提交你的更改，再重新使用这个名称。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:424
 msgid "Delete Add-on"
-msgstr ""
+msgstr "删除附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:426
 #, c-format
 msgid "Do you really want to delete the add-on ‘%s’?"
-msgstr ""
+msgstr "确定要删除附加内容 ‘%s’ 吗？"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:427
 #, c-format
@@ -5642,7 +5642,7 @@ msgid ""
 "Do you really want to delete the local add-on ‘%s’?\n"
 "\n"
 "Note that this add-on can not be downloaded again from the server."
-msgstr ""
+msgstr "确定要删除本地附加内容 ‘%s’ 吗？\n\n注意：该附加内容无法再从服务器重新下载。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:448
 #, c-format
@@ -5652,7 +5652,7 @@ msgid ""
 msgid_plural ""
 "If you quit the packager now, all changes to the following %u add-ons will "
 "be discarded."
-msgstr[0] ""
+msgstr[0] "如果现在退出打包器，以下 %u 个附加内容的全部更改都将被放弃。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:457
 #: ../../../../src/ui/fsmenu/addons/packager.cc:484
@@ -5661,32 +5661,32 @@ msgstr[0] ""
 msgid ""
 "%1$s\n"
 "• %2$s"
-msgstr ""
+msgstr "%1$s\n• %2$s"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:460
 msgid "Quit Packager"
-msgstr ""
+msgstr "退出打包器"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:475
 #, c-format
 msgid "Do you really want to discard all changes to the add-on ‘%s’?"
-msgstr ""
+msgstr "确定要放弃对附加内容 ‘%s’ 的全部更改吗？"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:479
 #, c-format
 msgid "Do you really want to discard all changes to the following %u add-on?"
 msgid_plural ""
 "Do you really want to discard all changes to the following %u add-ons?"
-msgstr[0] ""
+msgstr[0] "确定要放弃对以下 %u 个附加内容的全部更改吗？"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:488
 msgid "Discard Changes"
-msgstr ""
+msgstr "放弃更改"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:500
 #, c-format
 msgid "Do you really want to commit all changes to the add-on ‘%s’ to disk?"
-msgstr ""
+msgstr "确定要把对附加内容 ‘%s’ 的全部更改写入磁盘吗？"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:504
 #, c-format
@@ -5695,42 +5695,42 @@ msgid ""
 msgid_plural ""
 "Do you really want to commit all changes to the following %u add-ons to "
 "disk?"
-msgstr[0] ""
+msgstr[0] "确定要把对以下 %u 个附加内容的全部更改写入磁盘吗？"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:513
 msgid ""
 "Warning: If you manually edited any files in this add-on, your changes may "
 "be overwritten!"
-msgstr ""
+msgstr "警告：如果你手工修改过该附加内容中的文件，这些改动可能会被覆盖！"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:516
 msgid "Confirm Saving"
-msgstr ""
+msgstr "确认保存"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:587
 msgid "Invalid Version Requirement"
-msgstr ""
+msgstr "版本要求无效"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:588
 #, c-format
 msgid ""
 "The minimum Widelands version ‘%1$s’ may not be newer than the maximum "
 "Widelands version ‘%2$s’. The add-on ‘%3$s’ will not be saved."
-msgstr ""
+msgstr "最低 Widelands 版本 ‘%1$s’ 不能高于最高版本 ‘%2$s’。附加内容 ‘%3$s’ 将不会被保存。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:595
 msgid "Invalid Version"
-msgstr ""
+msgstr "版本号无效"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:596
 #, c-format
 msgid ""
 "‘%1$s’ is not a valid version string. The add-on ‘%2$s’ will not be saved."
-msgstr ""
+msgstr "‘%1$s’ 不是有效的版本号。附加内容 ‘%2$s’ 将不会被保存。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:609
 msgid "Version Requirement"
-msgstr ""
+msgstr "版本要求"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:611
 #, c-format
@@ -5738,7 +5738,7 @@ msgid ""
 "The add-on ‘%1$s’ does not specify a minimum Widelands version. None of the "
 "contained maps can be loaded with a Widelands version older than %2$s. The "
 "minimum version requirement will automatically be set accordingly."
-msgstr ""
+msgstr "附加内容 ‘%1$s’ 未指定最低 Widelands 版本。其中包含的地图在低于 %2$s 的版本中都无法载入，最低版本要求将自动设为该值。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:616
 #, c-format
@@ -5746,66 +5746,66 @@ msgid ""
 "The add-on ‘%1$s’ specifies a minimum Widelands version of %2$s. However, "
 "none of the contained maps can be loaded with a Widelands version older than"
 " %3$s. The version requirement will automatically be changed accordingly."
-msgstr ""
+msgstr "附加内容 ‘%1$s’ 指定的最低 Widelands 版本为 %2$s，但其中包含的地图在低于 %3$s 的版本中都无法载入，版本要求将自动调整。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:638
 msgid "Error Writing Addon"
-msgstr ""
+msgstr "写入附加内容出错"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:639
 #, c-format
 msgid ""
 "The add-on ‘%1$s’ can not be saved to disk:\n"
 "%2$s"
-msgstr ""
+msgstr "附加内容 ‘%1$s’ 无法保存到磁盘：\n%2$s"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:52
 msgid "Invalid filename"
-msgstr ""
+msgstr "文件名无效"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:55
 msgid "Name too long"
-msgstr ""
+msgstr "名称过长"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:60
 #, c-format
 msgid "Invalid character ‘%c’"
-msgstr ""
+msgstr "无效字符 ‘%c’"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:65
 #, c-format
 msgid "Filename may not contain ‘%s’"
-msgstr ""
+msgstr "文件名不能包含 ‘%s’"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:151
 msgid "Add selected map"
-msgstr ""
+msgstr "添加选中的地图"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:159
 msgid "*"
-msgstr ""
+msgstr "*"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:160
 msgid "Create subdirectory"
-msgstr ""
+msgstr "新建子目录"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:169
 msgid "Remove selected map or directory"
-msgstr ""
+msgstr "移除选中的地图或目录"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:191
 msgid ""
 "The selected internal directory name is used multiple times. All directories"
 " with the same internal name will also share the same display name."
-msgstr ""
+msgstr "所选的内部目录名称被多次使用。所有内部名称相同的目录，显示名称也会相同。"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:197
 msgid "Directory Display Name"
-msgstr ""
+msgstr "目录显示名称"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:205
 msgid "Directory Tree"
-msgstr ""
+msgstr "目录树"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:279
 #: ../../../../src/ui/fsmenu/main.cc:461
@@ -5838,25 +5838,25 @@ msgstr "玩家：%s"
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:288
 #, c-format
 msgid "Minimum Widelands Version: %s"
-msgstr ""
+msgstr "最低 Widelands 版本：%s"
 
 #. * TRANSLATORS: No minimum required version
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:292
 msgctxt "version"
 msgid "(none)"
-msgstr ""
+msgstr "（无）"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:322
 msgid "Top-level directory"
-msgstr ""
+msgstr "顶层目录"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:387
 msgid "New Directory"
-msgstr ""
+msgstr "新建目录"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:388
 msgid "Enter the name for the new directory."
-msgstr ""
+msgstr "请输入新目录的名称。"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:408
 #, c-format
@@ -5864,21 +5864,21 @@ msgid ""
 "Directories may not use the extension ‘%s’.\n"
 "\n"
 "Please choose a different name."
-msgstr ""
+msgstr "目录不能使用扩展名 ‘%s’。\n\n请换一个名称。"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:421
 msgid "A directory with this name already exists."
-msgstr ""
+msgstr "已存在同名的目录。"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:437
 #, c-format
 msgid "Do you really want to delete the directory ‘%s’ and all its contents?"
-msgstr ""
+msgstr "确定要删除目录 ‘%s’ 及其全部内容吗？"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:439
 #, c-format
 msgid "Do you really want to delete the map ‘%s’?"
-msgstr ""
+msgstr "确定要删除地图 ‘%s’ 吗？"
 
 #. * TRANSLATORS: Header for campaign difficulty
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:490
@@ -5890,23 +5890,23 @@ msgstr "难度"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:500
 msgid "Difficulty:"
-msgstr "难度"
+msgstr "难度："
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:525
 msgid "The campaigns difficulty. One word."
-msgstr ""
+msgstr "战役难度，一个词。"
 
 #: ../../../../src/ui/fsmenu/addons/packager_box.cc:526
 msgid "Short description, which will be appended to the difficulty."
-msgstr ""
+msgstr "简短描述，会附在难度后面。"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:68
 msgid "Edit…"
-msgstr ""
+msgstr "编辑…"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:95
 msgid "Are you sure you want to delete this comment?"
-msgstr ""
+msgstr "确定要删除这条评论吗？"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:109
 #, c-format
@@ -5915,81 +5915,81 @@ msgid ""
 "\n"
 "Error Message:\n"
 "%s"
-msgstr ""
+msgstr "评论删除失败。\n\n错误信息：\n%s"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:182
 msgid "Edit Comment"
-msgstr ""
+msgstr "编辑评论"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:182
 msgid "Write Comment"
-msgstr ""
+msgstr "撰写评论"
 
 #. * TRANSLATORS: Short for Bold text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:236
 msgctxt "markup"
 msgid "B"
-msgstr ""
+msgstr "粗"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:236
 msgid "Bold"
-msgstr ""
+msgstr "粗体"
 
 #. * TRANSLATORS: Short for Italic text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:240
 msgctxt "markup"
 msgid "I"
-msgstr ""
+msgstr "斜"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:240
 msgid "Italic"
-msgstr ""
+msgstr "斜体"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:244
 msgid "Underline"
-msgstr ""
+msgstr "下划线"
 
 #. * TRANSLATORS: Short for Underline text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:244
 msgctxt "markup"
 msgid "_"
-msgstr ""
+msgstr "_"
 
 #. * TRANSLATORS: Short for Shadow text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:248
 msgctxt "markup"
 msgid "S"
-msgstr ""
+msgstr "影"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:248
 msgid "Shadow"
-msgstr ""
+msgstr "阴影"
 
 #. * TRANSLATORS: Short for Color text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:254
 msgctxt "markup"
 msgid "C"
-msgstr ""
+msgstr "色"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:254
 msgid "Color…"
-msgstr ""
+msgstr "颜色…"
 
 #. * TRANSLATORS: Short for Tiny text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:270
 msgctxt "markup"
 msgid "1"
-msgstr ""
+msgstr "1"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:270
 msgid "Tiny"
-msgstr ""
+msgstr "极小"
 
 #. * TRANSLATORS: Short for Small text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:274
 msgctxt "markup"
 msgid "2"
-msgstr ""
+msgstr "2"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:274
 msgid "Small"
@@ -5999,27 +5999,27 @@ msgstr "小"
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:278
 msgctxt "markup"
 msgid "3"
-msgstr ""
+msgstr "3"
 
 #. * TRANSLATORS: Short for Large text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:282
 msgctxt "markup"
 msgid "4"
-msgstr ""
+msgstr "4"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:282
 msgid "Large"
-msgstr ""
+msgstr "大"
 
 #. * TRANSLATORS: Short for Huge text markup
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:286
 msgctxt "markup"
 msgid "5"
-msgstr ""
+msgstr "5"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:286
 msgid "Huge"
-msgstr ""
+msgstr "极大"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:317
 #, c-format
@@ -6028,59 +6028,59 @@ msgid ""
 "\n"
 "Error Message:\n"
 "%s"
-msgstr ""
+msgstr "评论提交失败。\n\n错误信息：\n%s"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:335
 msgid "Preview:"
-msgstr ""
+msgstr "预览："
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:360
 msgid "The comment contains invalid richtext markup:"
-msgstr ""
+msgstr "评论中含有无效的富文本标记："
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:405
 msgctxt "tx"
 msgid "Priority:"
-msgstr ""
+msgstr "优先级："
 
 #. * TRANSLATORS: "Resource" here refers to the name of a translation unit
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:414
 msgctxt "tx"
 msgid "Resource Name:"
-msgstr ""
+msgstr "资源名称："
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:421
 msgctxt "tx"
 msgid "Categories (whitespace-separated; characters only):"
-msgstr ""
+msgstr "类别（用空格分隔，仅限字母）："
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:429
 msgid "This may take several minutes. Please be patient."
-msgstr ""
+msgstr "这可能需要几分钟，请耐心等待。"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:434
 msgctxt "priority"
 msgid "Low"
-msgstr ""
+msgstr "低"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:435
 msgctxt "priority"
 msgid "Normal"
-msgstr ""
+msgstr "普通"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:436
 msgctxt "priority"
 msgid "High"
-msgstr ""
+msgstr "高"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:512
 msgid "Please explain why you are deleting this add-on."
-msgstr ""
+msgstr "请说明删除这个附加内容的原因。"
 
 #. * TRANSLATORS: This add-on has not yet been verified
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:531
 msgid "Unchecked"
-msgstr ""
+msgstr "未审核"
 
 #. * TRANSLATORS: This add-on has been verified
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:533
@@ -6092,74 +6092,74 @@ msgstr "已验证"
 #. * TRANSLATORS: This add-on is known to cause desyncs
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:537
 msgid "Desyncs"
-msgstr ""
+msgstr "会导致不同步"
 
 #. * TRANSLATORS: This add-on will not cause desyncs
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:539
 msgid "Sync-safe"
-msgstr ""
+msgstr "同步安全"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:680
 msgid "Your vote"
-msgstr "你的选票"
+msgstr "你的评分"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:710
 msgid "Next screenshot"
-msgstr "下一个屏幕快照"
+msgstr "下一张截图"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:719
 msgid "Previous screenshot"
-msgstr "上一个屏幕快照"
+msgstr "上一张截图"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:727
 msgid "Write a comment…"
-msgstr ""
+msgstr "写条评论…"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:737
 msgid "Administrator actions"
-msgstr ""
+msgstr "管理员操作"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:744
 msgid "Not voted"
-msgstr "未投票"
+msgstr "未评分"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:755
 #, c-format
 msgid ""
 "The vote could not be submitted.\n"
 "Error code: %s"
-msgstr ""
+msgstr "评分提交失败。\n错误码：%s"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:819
 #, c-format
 msgid "Screenshots (%u)"
-msgstr "屏幕快照 (%u)"
+msgstr "截图（%u）"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:842
 msgid "Change verification status"
-msgstr ""
+msgstr "修改验证状态"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:843
 msgid "Change quality rating"
-msgstr ""
+msgstr "修改质量评级"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:844
 msgid "Change sync-safety status"
-msgstr ""
+msgstr "修改同步安全状态"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:846
 msgid "Configure Transifex integration"
-msgstr ""
+msgstr "配置 Transifex 集成"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:898
 #, c-format
 msgid "Comments (%u)"
-msgstr "注释 (%u)"
+msgstr "评论（%u）"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:899
 #, c-format
 msgid "Votes (%u)"
-msgstr "投票 (%u)"
+msgstr "评分（%u）"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:903
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:594
@@ -6167,60 +6167,60 @@ msgstr "投票 (%u)"
 #, c-format
 msgid "Average rating: %1$.3f (%2$u vote)"
 msgid_plural "Average rating: %1$.3f (%2$u votes)"
-msgstr[0] "平均评级： %1$.3f (%2$u votes)"
+msgstr[0] "平均评分：%1$.3f（%2$u 次评分）"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:906
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:597
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:768
 msgid "No votes yet"
-msgstr "还没有投票"
+msgstr "尚无评分"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:924
 msgid "No comments yet."
-msgstr "还没有评论"
+msgstr "尚无评论。"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:925
 #, c-format
 msgid "%u comment:"
 msgid_plural "%u comments:"
-msgstr[0] "%u 评论："
+msgstr[0] "%u 条评论："
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:936
 #, c-format
 msgid "%1$s (edited on %2$s)"
-msgstr ""
+msgstr "%1$s（编辑于 %2$s）"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:942
 #, c-format
 msgid "%1$s (edited by ‘%2$s’ on %3$s)"
-msgstr ""
+msgstr "%1$s（由 ‘%2$s’ 编辑于 %3$s）"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:950
 #, c-format
 msgid "‘%1$s’ commented:"
-msgstr ""
+msgstr "‘%1$s’ 评论道："
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:951
 #, c-format
 msgid "‘%1$s’ commented on version %2$s:"
-msgstr "‘%1$s’ 对版本发表了评论 %2$s:"
+msgstr "‘%1$s’ 对版本 %2$s 评论道："
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:977
 #, c-format
 msgid "%1$u / %2$u"
-msgstr "%1$u/%2$u"
+msgstr "%1$u / %2$u"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:1013
 msgid "This screenshot could not be fetched from the server due to an error."
-msgstr "由于出现错误，无法从服务器获取此屏幕快照。 "
+msgstr "发生错误，无法从服务器获取这张截图。"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:1031
 msgid "Please log in to comment"
-msgstr ""
+msgstr "请先登录再发表评论"
 
 #: ../../../../src/ui/fsmenu/addons/remote_interaction.cc:1033
 msgid "Please log in to vote"
-msgstr ""
+msgstr "请先登录再评分"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:47
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:207
@@ -6239,7 +6239,7 @@ msgid ""
 "%3$s\n"
 "\n"
 "Note that this map can not be downloaded again from the server."
-msgstr ""
+msgstr "确定要卸载这张地图吗？\n\n%1$s\n作者 %2$s\n%3$s\n\n注意：这张地图无法再从服务器重新下载。"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:55
 #, c-format
@@ -6249,7 +6249,7 @@ msgid ""
 "%1$s\n"
 "by %2$s\n"
 "%3$s"
-msgstr ""
+msgstr "确定要卸载这张地图吗？\n\n%1$s\n作者 %2$s\n%3$s"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:61
 #, c-format
@@ -6263,7 +6263,7 @@ msgid ""
 "%5$s\n"
 "\n"
 "Note that this add-on can not be downloaded again from the server."
-msgstr ""
+msgstr "确定要卸载这个附加内容吗？\n\n%1$s\n作者 %2$s\n版本 %3$s\n类别：%4$s\n%5$s\n\n注意：该附加内容无法再从服务器重新下载。"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:68
 #, c-format
@@ -6275,35 +6275,35 @@ msgid ""
 "Version %3$s\n"
 "Category: %4$s\n"
 "%5$s"
-msgstr ""
+msgstr "确定要卸载这个附加内容吗？\n\n%1$s\n作者 %2$s\n版本 %3$s\n类别：%4$s\n%5$s"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:131
 msgid ""
 "This add-on is known to cause desyncs in multiplayer games and replays."
-msgstr ""
+msgstr "已知这个附加内容会在多人游戏和回放中导致不同步。"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:137
 #, c-format
 msgid "Requires a Widelands version of at least %s."
-msgstr ""
+msgstr "要求 Widelands 版本不低于 %s。"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:139
 #, c-format
 msgid "Requires a Widelands version of at most %s."
-msgstr ""
+msgstr "要求 Widelands 版本不高于 %s。"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:141
 #, c-format
 msgid "Requires a Widelands version of at least %1$s and at most %2$s."
-msgstr ""
+msgstr "要求 Widelands 版本不低于 %1$s 且不高于 %2$s。"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:169
 msgid "Hint:"
-msgstr ""
+msgstr "提示："
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:176
 msgid "Comment by uploader:"
-msgstr ""
+msgstr "上传者的说明："
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:217
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:268
@@ -6328,7 +6328,7 @@ msgstr "%1$s+%2$u"
 #: ../../../../src/ui/game/constructionsitewindow.cc:140
 #, c-format
 msgid "(%s)"
-msgstr "(%s)"
+msgstr "（%s）"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:253
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:472
@@ -6341,14 +6341,14 @@ msgstr "作者 %s"
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:570
 #, c-format
 msgid "Category: %s"
-msgstr " 类别： %s"
+msgstr "类别：%s"
 
 #. * TRANSLATORS: (MajorVersion)+(MinorVersion)
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:294
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:573
 #, c-format
 msgid "Version: %1$s+%2$u"
-msgstr "版本： %1$s+%2$u"
+msgstr "版本：%1$s+%2$u"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:362
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:488
@@ -6364,13 +6364,13 @@ msgstr "升级"
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:389
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:685
 msgid "Comments and Votes"
-msgstr "评论和投票"
+msgstr "评论与评分"
 
 #. * TRANSLATORS: Upload timestamp • Edit timestamp
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:427
 #, c-format
 msgid "%1$s   ✎ %2$s"
-msgstr ""
+msgstr "%1$s   ✎ %2$s"
 
 #. * TRANSLATORS: Filesize • Download count • Average rating • Number of
 #. comments •
@@ -6378,13 +6378,13 @@ msgstr ""
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:445
 #, c-format
 msgid "%1$s   ⬇ %2$u   ★ %3$s   “” %4$u   ▣ %5$u"
-msgstr "%1$s ⬇%2$u  ★ %3$s  “” %4$u ▣ %5$u"
+msgstr "%1$s   ⬇ %2$u   ★ %3$s   “” %4$u   ▣ %5$u"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:473
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:702
 #, c-format
 msgid "by %1$s (uploaded by %2$s)"
-msgstr "by %1$s (由 %2$s 上传)"
+msgstr "作者 %1$s（由 %2$s 上传）"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:490
 #, c-format
@@ -6397,7 +6397,7 @@ msgid ""
 "Version %4$s\n"
 "Category: %5$s\n"
 "%6$s\n"
-msgstr "你确定要安装此附件吗？\n\n%1$s\nby %2$s\n%3$s\n版本 %4$s\n类别 ：%5$s\n%6$s\n"
+msgstr "确定要安装这个附加内容吗？\n\n%1$s\n作者 %2$s\n%3$s\n版本 %4$s\n类别：%5$s\n%6$s\n"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:523
 #, c-format
@@ -6411,61 +6411,61 @@ msgid ""
 "Available version: %5$s\n"
 "Category: %6$s\n"
 "%7$s"
-msgstr ""
+msgstr "确定要升级这个附加内容吗？\n\n%1$s\n作者 %2$s\n%3$s\n已安装版本：%4$s\n可用版本：%5$s\n类别：%6$s\n%7$s"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:578
 msgid "Verified by the Widelands Development Team"
-msgstr "由Widelands开发团队验证"
+msgstr "已由 Widelands 开发团队验证"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:579
 msgid ""
 "This add-on was not checked by the Widelands Development Team yet. We cannot"
 " guarantee that it does not contain harmful or offensive content."
-msgstr "Widelands开发团队尚未检查此附加组件。我们不能保证它不包含有害的或是不礼貌的内容 "
+msgstr "Widelands 开发团队尚未审核这个附加内容。我们无法保证它不含有害或冒犯性内容。"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:589
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:761
 #, c-format
 msgid "Total size: %u byte"
 msgid_plural "Total size: %u bytes"
-msgstr[0] "总计： %u 字节"
+msgstr[0] "总大小：%u 字节"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:592
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:763
 #, c-format
 msgid "%u download"
 msgid_plural "%u downloads"
-msgstr[0] "%u 下载"
+msgstr[0] "%u 次下载"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:598
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:769
 #, c-format
 msgid "%u comment"
 msgid_plural "%u comments"
-msgstr[0] "%u 评论"
+msgstr[0] "%u 条评论"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:600
 #, c-format
 msgid "%u screenshot"
 msgid_plural "%u screenshots"
-msgstr[0] "%u屏幕快照"
+msgstr[0] "%u 张截图"
 
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:707
 #, c-format
 msgid "Size: %1$u×%2$u • Max Players: %3$u • %4$s"
-msgstr ""
+msgstr "尺寸：%1$u×%2$u • 最多玩家：%3$u • %4$s"
 
 #. * TRANSLATORS: Timestamp · Filesize · Download count · Average rating ·
 #. Number of comments
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:728
 #, c-format
 msgid "%1$s   %2$s   ⬇ %3$u   ★ %4$s   “” %5$u"
-msgstr ""
+msgstr "%1$s   %2$s   ⬇ %3$u   ★ %4$s   “” %5$u"
 
 #: ../../../../src/ui/fsmenu/addons/screenshot_upload.cc:41
 #, c-format
 msgid "Upload Screenshot for ‘%s’"
-msgstr ""
+msgstr "为 ‘%s’ 上传截图"
 
 #. * TRANSLATORS: Header for campaign description
 #: ../../../../src/ui/fsmenu/addons/screenshot_upload.cc:95
@@ -6485,7 +6485,7 @@ msgid ""
 "\n"
 "Error Message:\n"
 "%3$s"
-msgstr ""
+msgstr "附加内容 ‘%2$s’ 的截图 ‘%1$s’ 无法上传到服务器。\n\n错误信息：\n%3$s"
 
 #: ../../../../src/ui/fsmenu/campaign_select.cc:33
 msgid "Choose Campaign"
@@ -6505,11 +6505,11 @@ msgstr "开始这个战役"
 #. * TRANSLATORS: Campaign difficulty table header
 #: ../../../../src/ui/fsmenu/campaign_select.cc:47
 msgid "Diff."
-msgstr "难度."
+msgstr "难度"
 
 #: ../../../../src/ui/fsmenu/campaign_select.cc:48
 msgid "Tribe Name"
-msgstr "部落名称"
+msgstr "部族名称"
 
 #: ../../../../src/ui/fsmenu/campaign_select.cc:50
 msgid "Campaign Name"
@@ -6519,7 +6519,7 @@ msgstr "战役名称"
 #: ../../../../src/ui/fsmenu/campaigns.cc:45
 msgctxt "difficulty"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:44
 msgid "Crash Report Details"
@@ -6557,15 +6557,15 @@ msgid ""
 "with a description of what was going on in the game and what you did last "
 "before the crash to the Widelands Development Team under %s so we can fix "
 "the problem."
-msgstr ""
+msgstr "看起来 Widelands 上次运行时崩溃了，但已自动生成了用于调试的调用栈。请把这份报告连同崩溃前游戏中的情况和你最后的操作一并提交给 Widelands 开发团队（%s），以便我们修复问题。"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:142
 msgid "Show details…"
-msgstr ""
+msgstr "查看详情…"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:142
 msgid "View the detailed crash report"
-msgstr ""
+msgstr "查看详细的崩溃报告"
 
 #: ../../../../src/ui/fsmenu/crash_report.cc:159
 msgid "Remind me later"
