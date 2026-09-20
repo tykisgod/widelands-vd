@@ -3283,7 +3283,7 @@ msgstr[0] ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:433
 msgctxt "atlanteans_ware"
 msgid "The Atlanteans produce granite blocks in quarries and crystal mines."
-msgstr ""
+msgstr "亚特兰蒂斯人在采石场和晶体矿里产出花岗石块。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Log, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:445
@@ -3292,7 +3292,7 @@ msgid ""
 "Atlanteans use logs also as the base for planks, which are used in nearly "
 "every building. Besides the sawmill, the charcoal kiln, the toolsmithy and "
 "the smokery also need logs for their work."
-msgstr ""
+msgstr "亚特兰蒂斯人还把原木用作厚木板的原料，而几乎每座建筑都要用到厚木板。除锯木厂外，煅炭窑、工具铺和熏肉铺干活时也需要原木。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Planks, part 1
 #. TRANSLATORS: Helptext for an Empire ware: Planks, part 1
@@ -3300,13 +3300,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:136
 msgctxt "ware"
 msgid "Planks are an important building material."
-msgstr ""
+msgstr "厚木板是重要的建材。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Planks, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:458
 msgctxt "atlanteans_ware"
 msgid "They are produced out of logs by the sawmill."
-msgstr ""
+msgstr "它们由锯木厂用原木做成。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Planks, part 3
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:460
@@ -3314,7 +3314,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "The weapon smithy and the shipyard also use planks to produce the different "
 "tridents and mighty ships."
-msgstr ""
+msgstr "兵器铺和造船厂也用厚木板来制造各式三叉戟和雄伟的船只。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Spider Silk
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:470
@@ -3323,7 +3323,7 @@ msgid ""
 "Spider silk is produced by spiders, which are bred by spider farms. It can "
 "be processed into spidercloth or tabards in a weaving mill, or used to make "
 "tools in the toolsmithy."
-msgstr ""
+msgstr "蜘蛛丝由蜘蛛吐出，蜘蛛则在蜘蛛农场里饲育。它可以在织坊里加工成蛛丝布或战袍，也可以在工具铺里用来做工具。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Spidercloth
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:479
@@ -3332,7 +3332,7 @@ msgid ""
 "Spidercloth is made out of spider silk in a weaving mill. It is used in the "
 "shipyard. Also some higher developed buildings need spidercloth for their "
 "construction."
-msgstr ""
+msgstr "蛛丝布在织坊里用蜘蛛丝做成。它用于造船厂。一些较高级的建筑建造时也需要蛛丝布。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Fish
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:490
@@ -3341,7 +3341,7 @@ msgid ""
 "Fish is one of the biggest food resources of the Atlanteans. It has to be "
 "smoked in a smokery before being delivered to mines, training sites and "
 "scouts."
-msgstr ""
+msgstr "鱼是亚特兰蒂斯人最大的食物来源之一。它必须先在熏肉铺里熏过，才能送往矿场、训练场和侦察兵处。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Smoked Fish
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:499
@@ -3349,7 +3349,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "As no Atlantean likes raw fish, smoking it in a smokery is the most common "
 "way to make it edible."
-msgstr ""
+msgstr "既然没有哪个亚特兰蒂斯人爱吃生鱼，在熏肉铺里熏制便是让它能入口的最常见办法。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Meat, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Meat, part 1
@@ -3363,7 +3363,7 @@ msgctxt "ware"
 msgid ""
 "Meat contains a lot of energy, and it is obtained from wild game taken by "
 "hunters."
-msgstr ""
+msgstr "肉含有大量能量，由猎人捕获的野味取得。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Meat, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:510
@@ -3371,7 +3371,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "Meat has to be smoked in a smokery before being delivered to mines and "
 "training sites (dungeon and labyrinth)."
-msgstr ""
+msgstr "肉必须先在熏肉铺里熏过，才能送往矿场和训练场（地牢与迷宫）。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Smoked Meat
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:520
@@ -3380,13 +3380,13 @@ msgid ""
 "Smoked meat is made out of meat in a smokery. It is delivered to the mines "
 "and training sites (labyrinth and dungeon) where the miners and soldiers "
 "prepare a nutritious lunch for themselves."
-msgstr ""
+msgstr "烟熏肉在熏肉铺里用肉做成。它被送往矿场和训练场（迷宫与地牢），矿工和士兵在那里为自己备一顿有营养的午餐。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Water, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:531
 msgctxt "atlanteans_ware"
 msgid "Water is used in the bakery and the horse and spider farms."
-msgstr ""
+msgstr "水用于面包房，以及牧马场和蜘蛛农场。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Corn
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:540
@@ -3395,7 +3395,7 @@ msgid ""
 "This corn is processed in the mill into fine cornmeal that every Atlantean "
 "baker needs for a good bread. Also horse and spider farms need to be "
 "provided with corn."
-msgstr ""
+msgstr "这种玉米在磨坊里磨成细玉米面粉，每个亚特兰蒂斯面包师做好面包都少不了它。牧马场和蜘蛛农场也得供上玉米。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Cornmeal
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:549
@@ -3403,7 +3403,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "Cornmeal is produced in a mill out of corn and is one of three parts of the "
 "Atlantean bread produced in bakeries."
-msgstr ""
+msgstr "玉米面粉在磨坊里用玉米磨成，是面包房做的亚特兰蒂斯面包的三种原料之一。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Blackroot
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:557
@@ -3412,7 +3412,7 @@ msgid ""
 "Blackroots are a special kind of root produced at blackroot farms and "
 "processed in mills. The Atlanteans like their strong taste and use their "
 "flour for making bread."
-msgstr ""
+msgstr "黑根是一种特别的根茎，在黑根农场里种出，再送到磨坊加工。亚特兰蒂斯人喜欢它浓烈的味道，用它的粉来做面包。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Blackroot Flour
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:566
@@ -3420,7 +3420,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "Blackroot Flour is produced in mills out of blackroots. It is used in "
 "bakeries to make a tasty bread."
-msgstr ""
+msgstr "黑根粉在磨坊里用黑根磨成。它在面包房里用来做可口的面包。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Bread
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:575
@@ -3429,7 +3429,7 @@ msgid ""
 "This tasty bread is made in bakeries out of cornmeal, blackroot flour and "
 "water. It is appreciated as basic food by miners, scouts and soldiers in "
 "training sites (labyrinth and dungeon)."
-msgstr ""
+msgstr "这种可口的面包在面包房里用玉米面粉、黑根粉和水做成。矿工、侦察兵，以及训练场（迷宫与地牢）里的士兵都把它当作基础口粮。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Quartz
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:587
@@ -3437,7 +3437,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "These transparent quartz gems are used to build some exclusive buildings. "
 "They are produced in a crystal mine."
-msgstr ""
+msgstr "这些透明的石英宝石用来建造一些高档建筑。它们在晶体矿里产出。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Diamond
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:596
@@ -3445,7 +3445,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "These wonderful diamonds are used to build some exclusive buildings. They "
 "are mined in a crystal mine."
-msgstr ""
+msgstr "这些美妙的钻石用来建造一些高档建筑。它们在晶体矿里开采。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Coal, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Coal, part 1
@@ -3456,7 +3456,7 @@ msgstr ""
 msgctxt "ware"
 msgid ""
 "Coal is mined in coal mines or produced out of logs by a charcoal kiln."
-msgstr ""
+msgstr "煤在煤矿里开采，也可由煅炭窑用原木烧制。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Coal, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:608
@@ -3464,7 +3464,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "The Atlantean fires in smelting works, armor smithies and weapon smithies "
 "are fed with coal."
-msgstr ""
+msgstr "亚特兰蒂斯人冶炼厂、盔甲铺和兵器铺的炉火都用煤来烧。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Iron Ore, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Iron Ore, part 1
@@ -3476,13 +3476,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:319
 msgctxt "default_ware"
 msgid "Iron ore is mined in iron mines."
-msgstr ""
+msgstr "铁矿石在铁矿里开采。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Iron Ore, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:621
 msgctxt "atlanteans_ware"
 msgid "It is smelted in a smelting works to retrieve the iron."
-msgstr ""
+msgstr "它在冶炼厂里熔炼，以取得铁。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Iron, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Iron, part 1
@@ -3494,7 +3494,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:332
 msgctxt "ware"
 msgid "Iron is smelted out of iron ores."
-msgstr ""
+msgstr "铁由铁矿石熔炼而成。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Iron, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:634
@@ -3502,7 +3502,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "It is produced by the smelting works and used in the toolsmithy, armor "
 "smithy and weapon smithy."
-msgstr ""
+msgstr "它由冶炼厂产出，用于工具铺、盔甲铺和兵器铺。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Gold Ore, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Gold Ore, part 1
@@ -3514,7 +3514,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:345
 msgctxt "ware"
 msgid "Gold ore is mined in a gold mine."
-msgstr ""
+msgstr "金质矿石在金矿里开采。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Gold Ore, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:647
@@ -3522,7 +3522,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "Smelted in a smelting works, it turns into gold which is used as a precious "
 "building material and to produce weapons and armor."
-msgstr ""
+msgstr "在冶炼厂里熔炼后，它变成黄金——一种贵重的建材，也用来制造兵器和甲胄。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Gold, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Gold, part 1
@@ -3535,7 +3535,7 @@ msgstr ""
 msgctxt "ware"
 msgid ""
 "Gold is the most valuable of all metals, and it is smelted out of gold ore."
-msgstr ""
+msgstr "黄金是所有金属中最贵重的，由金质矿石熔炼而成。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Gold, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:660
@@ -3543,7 +3543,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "It is produced by the smelting works and used by the armor smithy, the "
 "weapon smithy and the gold spinning mill."
-msgstr ""
+msgstr "它由冶炼厂产出，供盔甲铺、兵器铺和纺金坊使用。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Pick
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:673
@@ -3551,7 +3551,7 @@ msgctxt "ware"
 msgid ""
 "Picks are used by stonecutters and miners. They are produced by the "
 "toolsmith."
-msgstr ""
+msgstr "鹤嘴镐由采石匠和矿工使用。它们由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Saw
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:682
@@ -3559,7 +3559,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "The saw is needed by the sawyer, the woodcutter and the toolsmith. It is "
 "produced by the toolsmith."
-msgstr ""
+msgstr "锯木工、樵夫和工具制造者都需要锯。它由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Shovel, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:694
@@ -3567,7 +3567,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "Therefore the forester and the blackroot farmer use them. They are produced "
 "by the toolsmith."
-msgstr ""
+msgstr "因此护林员和黑根种植农夫要用到它们。它们由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Hammer, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:707
@@ -3576,7 +3576,7 @@ msgid ""
 "Geologists, builders, weaponsmiths, armorsmiths and shipwrights all need a "
 "hammer. Make sure you’ve always got some in reserve! They are produced by "
 "the toolsmith."
-msgstr ""
+msgstr "地质专家、建筑工人、兵器匠、盔甲匠人和造船木工都需要锤子。记得随时留些备用！它们由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Milking Tongs
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:717
@@ -3584,26 +3584,26 @@ msgctxt "atlanteans_ware"
 msgid ""
 "Milking tongs are used by the spider breeder to milk the spiders. They are "
 "produced by the toolsmith."
-msgstr ""
+msgstr "挤奶钳由蜘蛛饲养者用来给蜘蛛「挤奶」。它们由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Fishing Net
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:726
 msgctxt "atlanteans_ware"
 msgid "The fishing net is used by the fisher and produced by the toolsmith."
-msgstr ""
+msgstr "渔网由渔夫使用，由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Buckets
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:735
 msgctxt "atlanteans_ware"
 msgid "Big buckets for the fish breeder – produced by the toolsmith."
-msgstr ""
+msgstr "给鱼类饲养员用的大水桶——由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Hunting Bow
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:744
 msgctxt "atlanteans_ware"
 msgid ""
 "This bow is used by the Atlantean hunter. It is produced by the toolsmith."
-msgstr ""
+msgstr "这把弓由亚特兰蒂斯猎人使用。它由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Hook Pole
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:753
@@ -3611,7 +3611,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "This hook pole is used by the smoker to suspend all the meat and fish from "
 "the top of the smokery. It is created by the toolsmith."
-msgstr ""
+msgstr "这根钩杆由熏肉工用来把所有的肉和鱼吊在熏肉铺顶上。它由工具制造者做成。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Scythe, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Scythe, part 1
@@ -3623,13 +3623,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:468
 msgctxt "ware"
 msgid "The scythe is the tool of the farmers."
-msgstr ""
+msgstr "镰刀是农夫的工具。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Scythe, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:765
 msgctxt "atlanteans_ware"
 msgid "Scythes are produced by the toolsmith."
-msgstr ""
+msgstr "镰刀由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Bread Paddle, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Bread Paddle, part 1
@@ -3641,13 +3641,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:481
 msgctxt "ware"
 msgid "The bread paddle is the tool of the baker, each baker needs one."
-msgstr ""
+msgstr "面包桨是面包师的工具，每位面包师都需要一把。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Bread Paddle, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:778
 msgctxt "atlanteans_ware"
 msgid "Bread paddles are produced by the toolsmith."
-msgstr ""
+msgstr "面包桨由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Fire Tongs, part 1
 #. TRANSLATORS: Helptext for a Barbarian ware: Fire Tongs, part 1
@@ -3659,13 +3659,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:503
 msgctxt "ware"
 msgid "Fire tongs are the tools for smelting ores."
-msgstr ""
+msgstr "火钳是熔炼矿石的工具。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Fire Tongs, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:791
 msgctxt "atlanteans_ware_fire_tongs"
 msgid "They are used in the smelting works and produced by the toolsmith."
-msgstr ""
+msgstr "它们用于冶炼厂，由工具制造者打造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Light Trident
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:804
@@ -3674,7 +3674,7 @@ msgid ""
 "This is the basic weapon of the Atlantean soldiers. Together with a tabard, "
 "it makes up the equipment of young soldiers. Light tridents are produced in "
 "the weapon smithy as are all other tridents."
-msgstr ""
+msgstr "这是亚特兰蒂斯士兵的基础兵器。它和战袍一起构成新兵的装备。轻型三叉戟和其他各式三叉戟一样，都在兵器铺里制造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Long Trident
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:813
@@ -3683,7 +3683,7 @@ msgid ""
 "The long trident is the first trident in the training of soldiers. It is "
 "produced in the weapon smithy and used in the dungeon – together with food –"
 " to train soldiers from attack level 0 to level 1."
-msgstr ""
+msgstr "长三叉戟是士兵训练中用到的第一种三叉戟。它在兵器铺里制造，在地牢里与食物一同用来把士兵的攻击从 0 级练到 1 级。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Steel Trident
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:822
@@ -3692,7 +3692,7 @@ msgid ""
 "This is the medium trident. It is produced in the weapon smithy and used by "
 "advanced soldiers in the dungeon – together with food – to train from attack"
 " level 1 to level 2."
-msgstr ""
+msgstr "这是中阶的三叉戟。它在兵器铺里制造，由地牢里的进阶士兵与食物一同使用，把攻击从 1 级练到 2 级。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Double Trident
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:831
@@ -3701,7 +3701,7 @@ msgid ""
 "The double trident is one of the best tridents produced by the Atlantean "
 "weapon smithy. It is used in a dungeon – together with food – to train "
 "soldiers from attack level 2 to level 3."
-msgstr ""
+msgstr "双三叉戟是亚特兰蒂斯兵器铺造出的最好的三叉戟之一。它在地牢里与食物一同用来把士兵的攻击从 2 级练到 3 级。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Heavy Double Trident
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:840
@@ -3711,7 +3711,7 @@ msgid ""
 "of the best soldiers may use it. It is produced in the weapon smithy and "
 "used in the dungeon – together with food – to train soldiers from attack "
 "level 3 to level 4."
-msgstr ""
+msgstr "这是亚特兰蒂斯军中最凶险的兵器。只有精锐中的精锐才配使用。它在兵器铺里制造，在地牢里与食物一同用来把士兵的攻击从 3 级练到 4 级。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Steel Shield
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:849
@@ -3719,7 +3719,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "This steel shield is produced in the armor smithy and used in the labyrinth "
 "– together with food – to train soldiers from defense level 0 to level 1."
-msgstr ""
+msgstr "这面钢盾在盔甲铺里制造，在迷宫里与食物一同用来把士兵的防御从 0 级练到 1 级。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Advanced Shield
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:858
@@ -3728,7 +3728,7 @@ msgid ""
 "These advanced shields are used by the best soldiers of the Atlanteans. They"
 " are produced in the armor smithy and used in the labyrinth – together with "
 "food – to train soldiers from defense level 1 to level 2."
-msgstr ""
+msgstr "这些高级护盾由亚特兰蒂斯最精锐的士兵使用。它们在盔甲铺里制造，在迷宫里与食物一同用来把士兵的防御从 1 级练到 2 级。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Tabard
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:867
@@ -3736,7 +3736,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "A tabard and a light trident are the basic equipment for young soldiers. "
 "Tabards are produced in the weaving mill."
-msgstr ""
+msgstr "一件战袍加一把轻型三叉戟，就是新兵的基础装备。战袍在织坊里制造。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Gold Thread
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:876
@@ -3744,7 +3744,7 @@ msgctxt "atlanteans_ware"
 msgid ""
 "This thread, made of gold by the gold spinning mill, is used for weaving the"
 " exclusive golden tabard in the weaving mill."
-msgstr ""
+msgstr "这种线由纺金坊用黄金纺成，用于在织坊里织出高档的黄金战袍。"
 
 #. TRANSLATORS: Helptext for an Atlantean ware: Golden Tabard
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:885
@@ -3753,19 +3753,19 @@ msgid ""
 "Golden tabards are produced in Atlantean weaving mills out of gold thread. "
 "They are used in the labyrinth – together with food – to train soldiers from"
 " health level 0 to level 1."
-msgstr ""
+msgstr "黄金战袍在亚特兰蒂斯织坊里用金线织成。它们在迷宫里与食物一同用来把士兵的生命从 0 级练到 1 级。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Carrier
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:901
 msgctxt "atlanteans_worker"
 msgid "Carries items along your roads."
-msgstr ""
+msgstr "沿着你的道路搬运物品。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Ferry
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:908
 msgctxt "atlanteans_worker"
 msgid "Ships wares across narrow rivers."
-msgstr ""
+msgstr "把物品运过狭窄的河道。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Horse
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:917
@@ -3773,7 +3773,7 @@ msgctxt "atlanteans_worker"
 msgid ""
 "Horses help to carry items along busy roads. They are reared in a horse "
 "farm."
-msgstr ""
+msgstr "马帮着在繁忙的道路上搬运物品。它们在牧马场里饲育。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Horse Breeder
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:924
@@ -3781,91 +3781,91 @@ msgctxt "atlanteans_worker"
 msgid ""
 "Breeds the strong Atlantean horses for adding them to the transportation "
 "system."
-msgstr ""
+msgstr "饲育强壮的亚特兰蒂斯马，把它们并入运输体系。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Stonecutter
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:934
 msgctxt "atlanteans_worker"
 msgid "Cuts blocks of granite out of rocks in the vicinity."
-msgstr ""
+msgstr "从附近的岩石上凿下花岗石块。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Woodcutter
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:941
 msgctxt "atlanteans_worker"
 msgid "Fells trees."
-msgstr ""
+msgstr "砍伐树木。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Sawyer
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:948
 msgctxt "atlanteans_worker"
 msgid "Saws logs to produce planks."
-msgstr ""
+msgstr "把原木锯成厚木板。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Forester
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:955
 msgctxt "atlanteans_worker"
 msgid "Plants trees."
-msgstr ""
+msgstr "种植树木。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Builder
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:962
 msgctxt "atlanteans_worker"
 msgid "Works at construction sites to raise new buildings."
-msgstr ""
+msgstr "在工地上干活，把新建筑盖起来。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Spider Breeder
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:969
 msgctxt "atlanteans_worker"
 msgid "Breeds spiders for silk."
-msgstr ""
+msgstr "饲育蜘蛛以取丝。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Weaver
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:976
 msgctxt "atlanteans_worker"
 msgid "Produces spidercloth for buildings, ships and soldiers."
-msgstr ""
+msgstr "为建筑、船只和士兵生产蛛丝布。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Shipwright
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:983
 msgctxt "atlanteans_worker"
 msgid "Works at the shipyard and constructs new ships."
-msgstr ""
+msgstr "在造船厂干活，建造新船。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Fisher
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:993
 msgctxt "atlanteans_worker"
 msgid "The fisher fishes delicious fish."
-msgstr ""
+msgstr "渔夫捕捞鲜美的鱼。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Fish Breeder
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1000
 msgctxt "atlanteans_worker"
 msgid "Breeds fish."
-msgstr ""
+msgstr "繁育鱼类。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Hunter
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1007
 msgctxt "atlanteans_worker"
 msgid "The hunter brings fresh, raw meat to the colonists."
-msgstr ""
+msgstr "猎人给拓荒者带来新鲜的生肉。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Smoker
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1014
 msgctxt "atlanteans_worker"
 msgid "Smokes meat and fish."
-msgstr ""
+msgstr "熏制肉和鱼。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Farmer
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1021
 msgctxt "atlanteans_worker"
 msgid "Plants and harvests cornfields."
-msgstr ""
+msgstr "种植并收割玉米田。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Blackroot Farmer
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1028
 msgctxt "atlanteans_worker"
 msgid "Plants and harvests blackroot."
-msgstr ""
+msgstr "种植并收割黑根。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Miller
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1035
@@ -3873,80 +3873,80 @@ msgctxt "atlanteans_worker"
 msgid ""
 "Grinds blackroots and corn to produce blackroot flour and cornmeal, "
 "respectively."
-msgstr ""
+msgstr "碾磨黑根和玉米，分别产出黑根粉和玉米面粉。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Baker
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1042
 msgctxt "atlanteans_worker"
 msgid "Bakes bread for workers."
-msgstr ""
+msgstr "为工人烤面包。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Geologist
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1052
 msgctxt "atlanteans_worker"
 msgid "Discovers resources for mining."
-msgstr ""
+msgstr "探明可供开采的资源。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Miner
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1059
 msgctxt "atlanteans_worker"
 msgid "Works deep in the mines to obtain coal, iron, gold or precious stones."
-msgstr ""
+msgstr "在矿井深处干活，取得煤、铁、黄金或宝石。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Charcoal Burner
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1066
 msgctxt "atlanteans_worker"
 msgid "Burns coal."
-msgstr ""
+msgstr "烧制木炭。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Smelter
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1073
 msgctxt "atlanteans_worker"
 msgid "Smelts ores into metal."
-msgstr ""
+msgstr "把矿石熔炼成金属。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Toolsmith
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1083
 msgctxt "atlanteans_worker"
 msgid "Produces tools for the workers."
-msgstr ""
+msgstr "为工人制造工具。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Recruit
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1093
 msgctxt "atlanteans_worker"
 msgid "Eager to become a soldier and defend his tribe!"
-msgstr ""
+msgstr "一心想当兵，保卫自己的部族！"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Soldier
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1102
 msgctxt "atlanteans_worker"
 msgid "Defend and Conquer!"
-msgstr ""
+msgstr "守土开疆！"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Trainer
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1109
 msgctxt "atlanteans_worker"
 msgid "Trains the soldiers."
-msgstr ""
+msgstr "训练士兵。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Weaponsmith
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1116
 msgctxt "atlanteans_worker"
 msgid "Produces weapons for the soldiers."
-msgstr ""
+msgstr "为士兵制造兵器。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Armorsmith
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1123
 msgctxt "atlanteans_worker"
 msgid "Produces armor for the soldiers."
-msgstr ""
+msgstr "为士兵制造甲胄。"
 
 #. TRANSLATORS: Helptext for an Atlantean worker: Scout
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1130
 msgctxt "atlanteans_worker"
 msgid ""
 "Scouts like Scotty the scout scouting unscouted areas in a scouty fashion."
-msgstr ""
+msgstr "侦察兵，比如侦察兵斯科蒂，正以侦察兵的架势侦察着尚未侦察过的地带。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Water
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Water
@@ -3957,7 +3957,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:946
 #: ../../../../data/tribes/initialization/frisians/units.lua:1283
 msgid "There is water in the ground here that can be pulled up by a well."
-msgstr ""
+msgstr "这里地下有水，可以用井打上来。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Coal, part 1
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Coal, part 1
@@ -3972,7 +3972,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1291
 #: ../../../../data/tribes/initialization/frisians/units.lua:1335
 msgid "Coal veins contain coal that can be dug up by coal mines."
-msgstr ""
+msgstr "煤脉里含有煤，可由煤矿挖出。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Coal, part 2
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Coal part 2
@@ -3983,7 +3983,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:956
 #: ../../../../data/tribes/initialization/frisians/units.lua:1293
 msgid "There is only a little bit of coal here."
-msgstr ""
+msgstr "这里的煤只有一点点。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Iron, part 1
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Iron, part 1
@@ -3998,7 +3998,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1302
 #: ../../../../data/tribes/initialization/frisians/units.lua:1346
 msgid "Iron veins contain iron ore that can be dug up by iron mines."
-msgstr ""
+msgstr "铁脉里含有铁矿石，可由铁矿挖出。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Iron, part 2
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Iron, part 2
@@ -4009,7 +4009,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:967
 #: ../../../../data/tribes/initialization/frisians/units.lua:1304
 msgid "There is only a little bit of iron here."
-msgstr ""
+msgstr "这里的铁只有一点点。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Gold, part 1
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Gold, part 1
@@ -4024,7 +4024,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1313
 #: ../../../../data/tribes/initialization/frisians/units.lua:1357
 msgid "Gold veins contain gold ore that can be dug up by gold mines."
-msgstr ""
+msgstr "金脉里含有金质矿石，可由金矿挖出。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Stones, part 1
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1274
@@ -4032,12 +4032,12 @@ msgstr ""
 msgid ""
 "Precious stones are used in the construction of big buildings. They can be "
 "dug up by a crystal mine. You will also get granite from the mine."
-msgstr ""
+msgstr "宝石用于建造大型建筑。它们可由晶体矿挖出。这座矿场还会顺带产出花岗石。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Stones, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1276
 msgid "There are only a few precious stones here."
-msgstr ""
+msgstr "这里的宝石只有寥寥几颗。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Coal, part 2
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Coal, part 2
@@ -4048,7 +4048,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:1000
 #: ../../../../data/tribes/initialization/frisians/units.lua:1337
 msgid "There is a lot of coal here."
-msgstr ""
+msgstr "这里的煤很多。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Iron, part 2
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Iron, part 2
@@ -4059,12 +4059,12 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:1011
 #: ../../../../data/tribes/initialization/frisians/units.lua:1348
 msgid "There is a lot of iron here."
-msgstr ""
+msgstr "这里的铁很多。"
 
 #. TRANSLATORS: Helptext for an Atlantean resource indicator: Stones, part 2
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1320
 msgid "There are many precious stones here."
-msgstr ""
+msgstr "这里的宝石很多。"
 
 #. TRANSLATORS: Helptext for an Amazon immovable usable by Atlanteans: Balsa
 #. Tree
@@ -4144,19 +4144,19 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1515
 msgid ""
 "This tree is only planted by the Amazon tribe but can be harvested for logs."
-msgstr ""
+msgstr "这种树只有亚马逊部族会种，但砍下来也能得到原木。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean warehouse: Headquarters
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1432
 msgctxt "atlanteans_building"
 msgid "Accommodation for your people. Also stores your wares and tools."
-msgstr ""
+msgstr "供你的族人栖身。也存放你的物品和工具。"
 
 #. TRANSLATORS: Note helptext for an Atlantean warehouse: Headquarters
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1434
 msgctxt "atlanteans_building"
 msgid "The headquarters is your main building."
-msgstr ""
+msgstr "总部是你的主建筑。"
 
 #. TRANSLATORS: Note lore for an Atlantean production site: Headquarters
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1436
@@ -4164,13 +4164,13 @@ msgctxt "atlanteans_building"
 msgid ""
 "We founded this new colony, now go with Satul and do the best you can do for"
 " your tribe."
-msgstr ""
+msgstr "我们建起了这片新的殖民地，如今就带着萨图尔上路，为你的部族尽你所能吧。"
 
 #. TRANSLATORS: Note lore_autor for an Atlantean production site: Headquarters
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1438
 msgctxt "atlanteans_building"
 msgid "Priest of Satul inaugurating you as leader of the Atleantean tribe"
-msgstr ""
+msgstr "萨图尔的祭司在册立你为亚特兰蒂斯部族的首领"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean warehouse: Warehouse
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1446
@@ -4178,7 +4178,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Your workers and soldiers will find shelter here. Also stores your wares and"
 " tools. It will help you to stabilize your economy."
-msgstr ""
+msgstr "你的工人和士兵可以在这里栖身。也存放你的物品和工具。它有助于稳住你的经济。"
 
 #. TRANSLATORS: Note lore for an Atlantean production site: Warehouse
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1449
@@ -4187,13 +4187,13 @@ msgid ""
 "Maybe you think it’s a boring task to store, count and retrieve all this "
 "stuff, but do you really want your carriers to walk all the way to your "
 "Headquarters?"
-msgstr ""
+msgstr "你也许觉得把这些东西入库、清点、取出是件无趣的活儿，可你真愿意让搬运工一路走回总部去吗？"
 
 #. TRANSLATORS: Note lore_autor for an Atlantean production site: Headquarters
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1452
 msgctxt "atlanteans_building"
 msgid "Head of the warehouse"
-msgstr ""
+msgstr "仓库管事"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean warehouse: Port
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1460
@@ -4201,7 +4201,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Serves as a base for overseas colonization and trade. Also stores your "
 "soldiers, wares and tools."
-msgstr ""
+msgstr "作为海外拓殖与贸易的据点。同时存放你的士兵、物品和工具。"
 
 #. TRANSLATORS: Note helptext for an Atlantean warehouse: Port
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1462
@@ -4209,7 +4209,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Similar to the Headquarters a Port can be attacked and destroyed by an "
 "enemy. It is recommendable to send soldiers to defend it."
-msgstr ""
+msgstr "和总部一样，港口也会被敌人攻击和摧毁。建议派士兵去守卫它。"
 
 #. TRANSLATORS: Note lore for an Atlantean production site: Port
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1464
@@ -4217,7 +4217,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "This is the building where expeditions will be equipped to boldly go and "
 "find new shores."
-msgstr ""
+msgstr "远征队就是在这座建筑里备齐行装，去大胆寻访新的海岸。"
 
 #. TRANSLATORS: Note lore_autor for an Atlantean production site: Port
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1466
@@ -4225,25 +4225,25 @@ msgctxt "atlanteans_building"
 msgid ""
 "Ostur, the designer of the new Expedition ship class, during the opening of "
 "a new Port"
-msgstr ""
+msgstr "奥斯图尔，新式远征船的设计者，在一座新港口落成时"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean market: Market
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1475
 msgctxt "atlanteans_building"
 msgid "A market enables trading with other tribes."
-msgstr ""
+msgstr "市场让你能与其他部族通商。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Quarry
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1484
 msgctxt "atlanteans_building"
 msgid "Cuts blocks of granite out of rocks in the vicinity."
-msgstr ""
+msgstr "从附近的岩石上凿下花岗石块。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Quarry
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1486
 msgctxt "atlanteans_building"
 msgid "The quarry needs rocks to cut within the work area."
-msgstr ""
+msgstr "采石场的工作范围内需要有可凿的岩石。"
 
 #. TRANSLATORS: Note lore for an Atlantean production site: Quarry
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1488
@@ -4251,13 +4251,13 @@ msgctxt "atlanteans_building"
 msgid ""
 "You must not assume Atlanteans will play everything soft, there are hard "
 "times we cannot avoid."
-msgstr ""
+msgstr "别以为亚特兰蒂斯人做什么都轻柔，有些苦日子是躲不掉的。"
 
 #. TRANSLATORS: Note lore_autor for an Atlantean production site: Quarry
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1490
 msgctxt "atlanteans_building"
 msgid "Priest of Satul asked why stones are needed for buildings"
-msgstr ""
+msgstr "有人问萨图尔的祭司为何盖房子要用石头"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Quarry,
 #. part 1
@@ -4266,7 +4266,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "This building can produce one granite between %1$s and %2$s, depending on "
 "how far the stonecutter has to walk."
-msgstr ""
+msgstr "这座建筑产出一块花岗石需要 %1$s 到 %2$s，取决于采石匠要走多远。"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Quarry,
 #. part 2
@@ -4297,7 +4297,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2137
 msgctxt "atlanteans_building"
 msgid "In case of slopes or obstacles in the way, the time is increased."
-msgstr ""
+msgstr "若途中有坡地或障碍，所需时间会更长。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site:
 #. Woodcutter's House
@@ -4313,14 +4313,14 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1590
 msgctxt "building"
 msgid "Fells trees in the surrounding area and processes them into logs."
-msgstr ""
+msgstr "砍伐周边区域的树木，并把它们加工成原木。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Woodcutter's
 #. House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1505
 msgctxt "atlanteans_building"
 msgid "The woodcutter’s house needs trees to fell within the work area."
-msgstr ""
+msgstr "樵夫之屋的工作范围内需要有可砍的树。"
 
 #. TRANSLATORS: Note lore for an Atlantean production site: Woodcutter's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1507
@@ -4328,14 +4328,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "We want to fell trees in a clean and dignified way, therefore we use saws. "
 "An ax is a tool used by other tribes only."
-msgstr ""
+msgstr "我们要干净体面地伐树，所以用锯。斧头那是别的部族才用的家伙。"
 
 #. TRANSLATORS: Note lore_autor for an Atlantean production site: Woodcutter's
 #. House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1509
 msgctxt "atlanteans_building"
 msgid "Atlantean woodcutter asked why saws are used to cut trees"
-msgstr ""
+msgstr "有人问亚特兰蒂斯樵夫为何用锯来伐树"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Woodcutter's House, part 1
@@ -4344,7 +4344,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "This building can produce one log between %1$s and %2$s, depending on how "
 "far the woodcutter has to walk."
-msgstr ""
+msgstr "这座建筑产出一根原木需要 %1$s 到 %2$s，取决于樵夫要走多远。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Forester's
 #. House
@@ -4359,7 +4359,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1609
 msgctxt "building"
 msgid "Plants trees in the surrounding area."
-msgstr ""
+msgstr "在周边区域种树。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Forester's
 #. House
@@ -4368,7 +4368,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "The forester’s house needs free space within the work area to plant the "
 "trees."
-msgstr ""
+msgstr "护林员之屋的工作范围内需要有空地才能种树。"
 
 #. TRANSLATORS: Note lore for an Atlantean production site: Forester's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1526
@@ -4377,14 +4377,14 @@ msgid ""
 "‘Only after the last tree has been cut<br>Only after the last forest was "
 "devastated<br>Only after the last piece of green has become bare "
 "soil<br>Then will you find that nature needs to be cared for.’"
-msgstr ""
+msgstr "「直到最后一棵树被砍倒<br>直到最后一片森林被毁尽<br>直到最后一抹绿化作裸土<br>你才会明白，自然是需要照料的。」"
 
 #. TRANSLATORS: Note lore_autor for an Atlantean production site: Forester's
 #. House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1531
 msgctxt "atlanteans_building"
 msgid "Prophecy of the foresters’ guild"
-msgstr ""
+msgstr "护林员行会的预言"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Forester's House, part 1
@@ -4393,21 +4393,21 @@ msgctxt "atlanteans_building"
 msgid ""
 "The forester plants one tree between %1$s and %2$s, depending on how far he "
 "has to walk."
-msgstr ""
+msgstr "护林员种下一棵树需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Fisher's
 #. House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1544
 msgctxt "atlanteans_building"
 msgid "Fishes on the coast near the fisher’s house."
-msgstr ""
+msgstr "在渔夫之屋附近的海岸捕鱼。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Fisher's
 #. House, part 1
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1547
 msgctxt "atlanteans_building"
 msgid "The fisher’s house needs water full of fish within the work area."
-msgstr ""
+msgstr "渔夫之屋的工作范围内需要有鱼群丰富的水域。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Fisher's
 #. House, part 2
@@ -4416,14 +4416,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "Build a fish breeder’s house close to the fisher’s house to make sure that "
 "you don’t run out of fish."
-msgstr ""
+msgstr "在渔夫之屋附近建一座鱼类饲养员之屋，保证鱼不会被捕光。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Fisher's
 #. House, part 3
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1551
 msgctxt "atlanteans_building"
 msgid "Roads and trees along the shoreline block fishing."
-msgstr ""
+msgstr "岸线上的道路和树木会妨碍捕鱼。"
 
 #. TRANSLATORS: Note lore for an Atlantean production site: Fisher's House use
 #. some local fise song as you like
@@ -4433,14 +4433,14 @@ msgid ""
 "‘Take your net and come to the sea<br>In the early morning the moon ya still"
 " see<br>Collect ya catch by net or by spear,<br>and don’t forget to give "
 "Satul his share.’"
-msgstr ""
+msgstr "「带上你的网，到海边来<br>清早时分月色还在<br>用网也好用叉也罢，把渔获收好，<br>别忘了给萨图尔留一份。」"
 
 #. TRANSLATORS: Note lore_autor for an Atlantean production site: Fisher's
 #. House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1559
 msgctxt "atlanteans_building"
 msgid "A song from the fishers’ guild"
-msgstr ""
+msgstr "渔夫行会的一支歌"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Fisher's House, part 1
@@ -4449,21 +4449,21 @@ msgctxt "atlanteans_building"
 msgid ""
 "This building can produce one fish between %1$s and %2$s, depending on how "
 "far the fisher has to walk."
-msgstr ""
+msgstr "这座建筑产出一条鱼需要 %1$s 到 %2$s，取决于渔夫要走多远。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Fish
 #. Breeder's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1572
 msgctxt "building"
 msgid "Breeds fish."
-msgstr ""
+msgstr "繁育鱼类。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Fish Breeder's
 #. House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1574
 msgctxt "atlanteans_building"
 msgid "The fish breeder needs open access to the coast."
-msgstr ""
+msgstr "鱼类饲养员需要能直通海岸。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Fish Breeder's
 #. House
@@ -4473,14 +4473,14 @@ msgid ""
 "‘Only after the last duck has been shot down<br>Only after the last deer has"
 " been put to death<br>Only after the last fish has been caught<br>Then will "
 "you find that spiders are not to be eaten.’"
-msgstr ""
+msgstr "「直到最后一只鸭子被射落<br>直到最后一头鹿被杀死<br>直到最后一条鱼被捕尽<br>你才会明白，蜘蛛是不能吃的。」"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Fish
 #. Breeder's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1581
 msgctxt "atlanteans_building"
 msgid "Prophecy of the fish breeders"
-msgstr ""
+msgstr "鱼类饲养员们的预言"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Fish
 #. Breeder’s House, part 1
@@ -4489,7 +4489,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "The fish breeder can breed one fish between %1$s and %2$s, depending on how "
 "far he has to walk."
-msgstr ""
+msgstr "鱼类饲养员繁育出一条鱼需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Hunter's
 #. House
@@ -4502,13 +4502,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1624
 msgctxt "building"
 msgid "Hunts animals to produce meat."
-msgstr ""
+msgstr "猎取动物以产出肉。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Hunter's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1596
 msgctxt "atlanteans_building"
 msgid "The hunter’s house needs animals to hunt within the work area."
-msgstr ""
+msgstr "猎人之屋的工作范围内需要有可猎的动物。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Hunter's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1598
@@ -4516,14 +4516,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "Sometimes we end up in a region with no fish, so we must hunt. Game will "
 "reproduce by itself, if not hunted too much. But yes, fish is our main meal."
-msgstr ""
+msgstr "有时候我们落脚的地方没有鱼，那就只能打猎。野物只要不猎得太狠，自己会繁衍。不过说真的，鱼才是我们的主食。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Hunter's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1601
 msgctxt "atlanteans_building"
 msgid "Hunter answering a fisher"
-msgstr ""
+msgstr "猎人回答渔夫"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Hunter's House, part 1
@@ -4532,7 +4532,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "This building can produce one meat between %1$s and %2$s, depending on how "
 "far the hunter has to walk."
-msgstr ""
+msgstr "这座建筑产出一块肉需要 %1$s 到 %2$s，取决于猎人要走多远。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Well
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Well
@@ -4544,25 +4544,25 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1687
 msgctxt "building"
 msgid "Draws water out of the deep."
-msgstr ""
+msgstr "从地下深处汲水。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Well
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1616
 msgctxt "atlanteans_building"
 msgid "I hope you have checked this spot with a geologist."
-msgstr ""
+msgstr "但愿你已经让地质专家查过这个地方了。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Well
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1618
 msgctxt "atlanteans_building"
 msgid "Well, there is no wellbeing without a well."
-msgstr ""
+msgstr "没有井，哪来的安居乐业。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Well
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1620
 msgctxt "atlanteans_building"
 msgid "Water carrier muttering to himself"
-msgstr ""
+msgstr "运水的搬运工自言自语"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Well,
 #. part 1
@@ -4570,7 +4570,7 @@ msgstr ""
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "The carrier needs %s to get one bucket full of water."
-msgstr ""
+msgstr "搬运工取一桶水需要 %s。"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Well,
 #. part 2
@@ -4578,21 +4578,21 @@ msgstr ""
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "If the water resource is depleted, the carrier needs %s on average."
-msgstr ""
+msgstr "若水源枯竭，搬运工平均需要 %s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Gold
 #. Spinning Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1633
 msgctxt "atlanteans_building"
 msgid "Spins gold thread out of gold."
-msgstr ""
+msgstr "用黄金纺出金线。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Gold Spinning
 #. Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1635
 msgctxt "atlanteans_building"
 msgid "Do not build until you have a steady gold supply."
-msgstr ""
+msgstr "黄金供应稳定之前别建它。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Gold Spinning
 #. Mill
@@ -4601,14 +4601,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "No, we can’t spin gold thread from straw. We need real gold. What kind of "
 "fairy tale did you get that idea from?"
-msgstr ""
+msgstr "不行，我们没法用稻草纺出金线。我们要的是真金。你这念头是从哪个童话里听来的？"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Gold
 #. Spinning Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1639
 msgctxt "atlanteans_building"
 msgid "Painted on a gold spinning mill without supplies"
-msgstr ""
+msgstr "写在一座断了供应的纺金坊墙上"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Gold
 #. Spinning Mill
@@ -4616,7 +4616,7 @@ msgstr ""
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "The gold spinning mill needs %s on average to produce one gold thread."
-msgstr ""
+msgstr "纺金坊产出一根金线平均需要 %s。"
 
 #. TRANSLATORS: Special helptext for an Atlantean production site: Scout's
 #. House without road connection
@@ -4625,7 +4625,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "You need to connect this flag to a scout’s house before you can send a scout"
 " here."
-msgstr ""
+msgstr "把这面旗帜连到侦察兵之家，才能派侦察兵到这里来。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Scout's
 #. House
@@ -4638,13 +4638,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1817
 msgctxt "building"
 msgid "Explores unknown territory."
-msgstr ""
+msgstr "探索未知领土。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Scout's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1652
 msgctxt "atlanteans_building"
 msgid "Will need fish and bread to have his meal the Atlantean way."
-msgstr ""
+msgstr "要按亚特兰蒂斯人的吃法用餐，得有鱼和面包。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site:  Scout's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1654
@@ -4652,21 +4652,21 @@ msgctxt "atlanteans_building"
 msgid ""
 "You do not see everything from your high towers. Sometimes you need someone "
 "to find out in person, that’s me!"
-msgstr ""
+msgstr "站在高塔上可看不见一切。有时候得有人亲自去探个明白，那就是我！"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Scout's House
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1656
 msgctxt "atlanteans_building"
 msgid "A scout answering a soldier"
-msgstr ""
+msgstr "一位侦察兵回答士兵"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Scout's
 #. House, part 1
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1659
 msgctxt "atlanteans_building"
 msgid "One exploration trip of the scout takes between %1$s and %2$s."
-msgstr ""
+msgstr "侦察兵出去探一趟需要 %1$s 到 %2$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Sawmill
 #. TRANSLATORS: Purpose helptext for an Empire production site: Sawmill
@@ -4674,13 +4674,13 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:1482
 msgctxt "building"
 msgid "Saws logs to produce planks."
-msgstr ""
+msgstr "把原木锯成厚木板。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Sawmill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1673
 msgctxt "atlanteans_building"
 msgid "Will need at least four woodcutters for a constant supply of planks."
-msgstr ""
+msgstr "要保证厚木板不断供，至少需要四名樵夫。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site:  Sawmill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1675
@@ -4688,21 +4688,21 @@ msgctxt "atlanteans_building"
 msgid ""
 "The design of our sawmills makes operation simple, yet powerful. Patent "
 "pending."
-msgstr ""
+msgstr "我们锯木厂的设计让操作既简单又强劲。专利申请中。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Sawmill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1677
 msgctxt "atlanteans_building"
 msgid "Askadus, Inventor of the vertical axis windmill"
-msgstr ""
+msgstr "阿斯卡杜斯，立轴风车的发明者"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Sawmill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1679
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "The sawmill needs %s on average to produce one plank."
-msgstr ""
+msgstr "锯木厂产出一块厚木板平均需要 %s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Smokery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1686
@@ -4710,7 +4710,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Smokes meat and fish to feed the scouts and miners and to train soldiers in "
 "the dungeon and labyrinth."
-msgstr ""
+msgstr "熏制肉和鱼，供侦察兵和矿工食用，并供地牢与迷宫里的士兵训练之用。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site:  Smokery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1688
@@ -4718,14 +4718,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "We are using pure logs, no other ingredients! Which drunken foreigner hath "
 "told you that myth?"
-msgstr ""
+msgstr "我们只用纯原木，别的什么都不加！这套鬼话是哪个喝多了的外乡人告诉你的？"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Smokery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1690
 msgctxt "atlanteans_building"
 msgid "A Smoker answering a passer-by"
-msgstr ""
+msgstr "一位熏肉工回答路人"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Smokery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1692
@@ -4736,7 +4736,7 @@ msgid ""
 " takes %2$s on average. If only one kind of food is needed by the economy, "
 "production of one smoked fish takes %3$s and one smoked meat takes %4$s on "
 "average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对各种熏制食物都有需求，平均产出一份熏鱼需要 %1$s，一份烟熏肉需要 %2$s。若经济只需要其中一种，平均产出一份熏鱼需要 %3$s，一份烟熏肉需要 %4$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1700
@@ -4744,7 +4744,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Grinds blackroots and corn to produce blackroot flour and cornmeal, "
 "respectively."
-msgstr ""
+msgstr "碾磨黑根和玉米，分别产出黑根粉和玉米面粉。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1702
@@ -4752,7 +4752,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "When no cornmeal is required, the mill will try to produce blackroot flour "
 "even when there is no demand for it."
-msgstr ""
+msgstr "在不需要玉米面粉时，磨坊即便没有需求，也会试着去产黑根粉。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site:  Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1704
@@ -4760,13 +4760,13 @@ msgctxt "atlanteans_building"
 msgid ""
 "We invented this vertical axis design first, the sawmill just copied our "
 "ideas but never acknowledged our claim."
-msgstr ""
+msgstr "立轴这套设计是我们先想出来的，锯木厂不过是照搬我们的主意，还从不承认我们的首创。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1706
 msgctxt "atlanteans_building"
 msgid "Miller arguing with a sawyer"
-msgstr ""
+msgstr "磨坊师傅在和锯木工争辩"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1708
@@ -4776,19 +4776,19 @@ msgid ""
 " economy, production of one sack of each kind of flour takes %1$s on "
 "average. If only one kind of flour is needed by the economy, its production "
 "takes %2$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对两种面粉都有需求，平均每种面粉各产出一袋需要 %1$s。若经济只需要其中一种面粉，平均产出它需要 %2$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Bakery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1715
 msgctxt "atlanteans_building"
 msgid "Bakes bread to feed the scouts and miners and to train soldiers."
-msgstr ""
+msgstr "烤面包供侦察兵和矿工食用，并供士兵训练之用。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Bakery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1717
 msgctxt "atlanteans_building"
 msgid "Will need cornmeal and blackroot flour."
-msgstr ""
+msgstr "需要玉米面粉和黑根粉。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site:  Bakery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1719
@@ -4798,13 +4798,13 @@ msgid ""
 "recipe was inherited for generations. It is more nutritious than that paper-"
 "like bread you find elsewhere. And it is needed for the personal rite of "
 "preparing one’s meal. May Satul bless you."
-msgstr ""
+msgstr "我们的面包可不是别的部族那些东西比得了的。这方子传了一代又一代。它比你在别处吃到的那种纸片似的面包有营养得多。而且备餐这桩私人仪式里也少不了它。愿萨图尔保佑你。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Bakery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1723
 msgctxt "atlanteans_building"
 msgid "Head of the bakers’ guild"
-msgstr ""
+msgstr "面包师行会的会长"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Bakery
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1725
@@ -4813,7 +4813,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "If all needed wares are delivered in time, this building can produce one "
 "bread in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，这座建筑平均 %s 能烤出一个面包。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Charcoal
 #. Kiln
@@ -4830,7 +4830,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1940
 msgctxt "building"
 msgid "Burns logs into charcoal."
-msgstr ""
+msgstr "把原木烧成木炭。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Charcoal Kiln
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1734
@@ -4838,7 +4838,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Build only if you absolutely must produce some coal, or when you have a very"
 " large amount of logs."
-msgstr ""
+msgstr "除非你非产些煤不可，或者手上原木多得用不完，否则别建它。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Charcoal Kiln
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1736
@@ -4846,14 +4846,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "We must admit that this business is not really the Atlantean way, but in "
 "times of need we do what’s necessary."
-msgstr ""
+msgstr "我们得承认，这行当算不上亚特兰蒂斯人的作风，可到了难处，该做的还是得做。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Charcoal Kiln
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1738
 msgctxt "atlanteans_building"
 msgid "A black voice from inside the charcoal kiln"
-msgstr ""
+msgstr "从煅炭窑里传出的一个黑漆漆的声音"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Charcoal Kiln
@@ -4861,7 +4861,7 @@ msgstr ""
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "The charcoal kiln needs %s on average to produce one coal."
-msgstr ""
+msgstr "煅炭窑产出一份煤平均需要 %s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Smelting
 #. Works
@@ -4873,7 +4873,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:1680
 msgctxt "building"
 msgid "Smelts iron ore into iron and gold ore into gold."
-msgstr ""
+msgstr "把铁矿石熔炼成铁，把金质矿石熔炼成黄金。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Smelting Works
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1749
@@ -4881,14 +4881,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "We learned the smelting from our forefathers, a basic craftsmanship taming "
 "the fire and the ore into pure metals."
-msgstr ""
+msgstr "熔炼是先祖传下来的，一门驯服烈火与矿石、炼出纯金属的基本手艺。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Smelting Works
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1751
 msgctxt "atlanteans_building"
 msgid "A member of the smelters’ guild"
-msgstr ""
+msgstr "熔炼工行会的一名成员"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Smelting Works
@@ -4899,7 +4899,7 @@ msgid ""
 " production of one iron takes %1$s and one gold takes %2$s on average. If "
 "only one kind of metal is needed by the economy, production of one iron "
 "takes %3$s and one gold takes %4$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对两种金属都有需求，平均产出一份铁需要 %1$s，一份黄金需要 %2$s。若经济只需要其中一种金属，平均产出一份铁需要 %3$s，一份黄金需要 %4$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Toolsmithy
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Metal
@@ -4910,20 +4910,20 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:1701
 msgctxt "building"
 msgid "Forges all the tools that your workers need."
-msgstr ""
+msgstr "锻造你的工人所需的全部工具。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Toolsmithy
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1762
 msgctxt "atlanteans_building"
 msgid "People’s power working for the benefit of all"
-msgstr ""
+msgstr "众人之力，为众人所用"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Toolsmithy
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1764
 msgctxt "atlanteans_building"
 msgid "Faded sign found on top of this building"
-msgstr ""
+msgstr "这座建筑顶上找到的一块褪色招牌"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Toolsmithy
@@ -4933,7 +4933,7 @@ msgid ""
 "If this building is fully supplied and all tools are needed by the economy, "
 "production of one of each tool takes %1$s on average. If only one kind of "
 "tool is needed by the economy, its production takes %2$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有工具都有需求，平均每种工具各产出一件需要 %1$s。若经济只需要其中一种工具，平均产出它需要 %2$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Weapon
 #. Smithy
@@ -4942,7 +4942,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Forges tridents to equip the soldiers and to train their attack in the "
 "dungeon."
-msgstr ""
+msgstr "锻造三叉戟，用来装备士兵，并在地牢里训练他们的攻击。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site:  Weapon Smithy
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1775
@@ -4950,7 +4950,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "You hear that sound of metal strident? The weapon smith just forged a "
 "trident!"
-msgstr ""
+msgstr "听见那金属的锐响没有？兵器匠刚锻好一把三叉戟！"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Weapon
 #. Smithy
@@ -4960,7 +4960,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1793
 msgctxt "atlanteans_building"
 msgid "Atlantean nursery rhyme"
-msgstr ""
+msgstr "亚特兰蒂斯童谣"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Weapon
 #. Smithy
@@ -4972,7 +4972,7 @@ msgid ""
 "one kind of trident is needed by the economy, production of one light "
 "trident takes %2$s and one long trident, one steel trident, one double "
 "trident or one heavy double trident takes %3$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有三叉戟都有需求，平均每种三叉戟各产出一把需要 %1$s。若经济只需要其中一种三叉戟，平均产出一把轻型三叉戟需要 %2$s，产出一把长三叉戟、钢三叉戟、双三叉戟或重型双三叉戟需要 %3$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Armor
 #. Smithy
@@ -4981,7 +4981,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Forges shields that are used for training soldiers’ defense in the "
 "labyrinth."
-msgstr ""
+msgstr "锻造在迷宫里用来训练士兵防御的护盾。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Armor Smithy
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1788
@@ -4990,7 +4990,7 @@ msgid ""
 "‘She twists and tweaks the steel with might<br>that soldiers may therewith "
 "once fight<br>most skillful foes, whose lethal lance<br>from this their "
 "armour off will glance!’"
-msgstr ""
+msgstr "「她奋力将钢材扭捏锤打<br>好教士兵有朝一日凭它<br>迎战最狡黠的敌手，那致命的枪尖<br>撞上这身甲胄，只落得一滑而偏！」"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Armor
 #. Smithy
@@ -5001,13 +5001,13 @@ msgid ""
 "the economy, production of one of each kind takes %1$s on average. If only "
 "one kind of shield is needed by the economy, production of one steel shield "
 "takes %2$s and one advanced shield takes %3$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对两种护盾都有需求，平均每种各产出一面需要 %1$s。若经济只需要其中一种护盾，平均产出一面钢盾需要 %2$s，一面高级护盾需要 %3$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Barracks
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1802
 msgctxt "atlanteans_building"
 msgid "Equips recruits and trains them as soldiers."
-msgstr ""
+msgstr "装备新兵，把他们练成士兵。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Barracks
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1804
@@ -5015,14 +5015,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "See these fine silk tabards and those sharp tridents? This is your way to "
 "defend your tribe!"
-msgstr ""
+msgstr "看见这些精致的丝质战袍和锋利的三叉戟了吗？这就是你保卫部族的方式！"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Barracks
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1806
 msgctxt "atlanteans_building"
 msgid "Recruiting poster"
-msgstr ""
+msgstr "征兵海报"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Barracks
@@ -5030,7 +5030,7 @@ msgstr ""
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "The barracks need %s on average to recruit one soldier."
-msgstr ""
+msgstr "步兵营招募一名士兵平均需要 %s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Horse Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1817
@@ -5038,20 +5038,20 @@ msgctxt "atlanteans_building"
 msgid ""
 "Breeds the strong Atlantean horses for adding them to the transportation "
 "system."
-msgstr ""
+msgstr "饲育强壮的亚特兰蒂斯马，把它们并入运输体系。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Horse Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1819
 msgctxt "atlanteans_building"
 msgid "I walk all day just back and forth. I need? I need … I need a horse!"
-msgstr ""
+msgstr "我整天就这么来来回回地走。我需要什么？我需要……我需要一匹马！"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Horse
 #. Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1821
 msgctxt "atlanteans_building"
 msgid "Busy carrier murmuring to himself"
-msgstr ""
+msgstr "忙碌的搬运工自言自语"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Horse
 #. Farm
@@ -5061,25 +5061,25 @@ msgctxt "atlanteans_building"
 msgid ""
 "If all needed wares are delivered in time, this building can produce a horse"
 " in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，这座建筑平均 %s 能产出一匹马。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1830
 msgctxt "atlanteans_building"
 msgid "Sows and harvests corn."
-msgstr ""
+msgstr "播种并收割玉米。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1832
 msgctxt "atlanteans_building"
 msgid "I use my feet, I use my arm, I’m caring for this farm!"
-msgstr ""
+msgstr "我使双脚，我使双臂，这片农场我照料！"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1834
 msgctxt "atlanteans_building"
 msgid "Atlantean harvesting song"
-msgstr ""
+msgstr "亚特兰蒂斯收割歌"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Farm,
 #. part 1
@@ -5088,7 +5088,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "The farmer sows and harvests one sheaf of corn between %1$s and %2$s, "
 "depending on how far he has to walk."
-msgstr ""
+msgstr "农夫播种并收割一捆玉米需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Farm,
 #. part 2; %s is replaced by 'N growing fields'
@@ -5097,14 +5097,14 @@ msgstr ""
 msgctxt "atlanteans_building"
 msgid ""
 "The farm needs at least %s to work at full productivity most of the time."
-msgstr ""
+msgstr "农场需要至少 %s，才能在大多数时候保持满产。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Blackroot
 #. Farm https://en.wikipedia.org/wiki/Scorzonera_hispanica
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1847
 msgctxt "atlanteans_building"
 msgid "Sows and harvests blackroot."
-msgstr ""
+msgstr "播种并收割黑根。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Blackroot Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1849
@@ -5112,14 +5112,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "The secret of Atlantean health and strength is hidden in these roots. It’s "
 "not spinach, it’s not a carrot, it’s … a secret."
-msgstr ""
+msgstr "亚特兰蒂斯人健康又强壮的秘密，就藏在这些根里。它不是菠菜，也不是胡萝卜，它是……秘密。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Blackroot Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1852
 msgctxt "atlanteans_building"
 msgid "Blackroot farmer asked by a foreigner"
-msgstr ""
+msgstr "一位外乡人问黑根种植农夫"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Blackroot Farm, part 1
@@ -5128,7 +5128,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "The blackroot farmer sows and harvests one bundle of blackroot between %1$s "
 "and %2$s, depending on how far he has to walk."
-msgstr ""
+msgstr "黑根种植农夫播种并收割一捆黑根需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Blackroot Farm, part 2; %s is replaced by 'N growing fields'
@@ -5138,13 +5138,13 @@ msgctxt "atlanteans_building"
 msgid ""
 "The blackroot farm needs at least %s to work at full productivity most of "
 "the time."
-msgstr ""
+msgstr "黑根农场需要至少 %s，才能在大多数时候保持满产。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Spider Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1865
 msgctxt "building"
 msgid "Breeds spiders for silk."
-msgstr ""
+msgstr "饲育蜘蛛以取丝。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Spider Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1867
@@ -5155,14 +5155,14 @@ msgid ""
 "gain the spider silk once a day. There is no need to spin this again. The "
 "thread can directly be used by the weaving mill. Oh hello, here is one of "
 "our nice spiders … Hey! Why are you running away?"
-msgstr ""
+msgstr "不对，蜘蛛不吃玉米。我们把玉米喂给肥硕的蚂蚱，再由蜘蛛去消化它们。我们每天把蜘蛛放到一台特制的器械上取一次丝。这丝不用再纺，织坊可以直接拿去用。噢你好，这就是我们一只可爱的蜘蛛……喂！你跑什么？"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Spider
 #. Farm
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1871
 msgctxt "atlanteans_building"
 msgid "A spider breeder showing her farm"
-msgstr ""
+msgstr "一位蜘蛛饲养者在介绍她的农场"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Spider
 #. Farm
@@ -5170,7 +5170,7 @@ msgstr ""
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "The spider farm needs %s on average to produce one spider silk."
-msgstr ""
+msgstr "蜘蛛农场产出一份蜘蛛丝平均需要 %s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Weaving
 #. Mill
@@ -5179,7 +5179,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "Weaves spidercloth for buildings and ships’ sails, and tabards to equip and "
 "train the soldiers."
-msgstr ""
+msgstr "织出供建筑和船帆用的蛛丝布，以及用来装备和训练士兵的战袍。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Weaving Mill
 #. -- listen to that song please
@@ -5188,14 +5188,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "Here are the Wide Lands where people may dwell, walking around caring "
 "everything’s well."
-msgstr ""
+msgstr "此处便是广土，人们可安居其间，四处走动，照看万事周全。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Weaving
 #. Mill
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1886
 msgctxt "atlanteans_building"
 msgid "Part of the silkweavers’ song"
-msgstr ""
+msgstr "织丝人之歌的一段"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Weaving
 #. Mill
@@ -5206,7 +5206,7 @@ msgid ""
 "needed by the economy, production of one of each cloth and tabard takes %1$s"
 " on average. If only one kind of cloth or tabard is needed by the economy, "
 "its production takes %2$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对各种布料和战袍都有需求，平均每种布料和战袍各产出一件需要 %1$s。若经济只需要其中一种，平均产出它需要 %2$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Crystal
 #. Mine
@@ -5214,7 +5214,7 @@ msgstr ""
 msgctxt "atlanteans_building"
 msgid ""
 "Carves precious (and normal) stones out of the rock in mountain terrain."
-msgstr ""
+msgstr "在山地上从岩石中凿出宝石（以及普通石料）。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Crystal Mine
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1899
@@ -5223,14 +5223,14 @@ msgid ""
 "Only the pure, white stones Diamond and Quartz will enlighten our people. "
 "Thus, every major building will need them so the inhabitants may worship "
 "Satul to warm them."
-msgstr ""
+msgstr "唯有钻石与石英这般纯白之石，能照亮我们的族人。因此每座重要建筑都需要它们，好让居住者敬奉萨图尔，得他温暖。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Crystal
 #. Mine
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1902
 msgctxt "atlanteans_building"
 msgid "First part of the Atlantean almanach on architecture"
-msgstr ""
+msgstr "《亚特兰蒂斯建筑年鉴》第一部分"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Crystal
 #. Mine
@@ -5242,7 +5242,7 @@ msgid ""
 " diamond takes %3$s on average. If only one kind of mineral is needed by the"
 " economy, production of one granite takes %4$s, one quartz takes %5$s and "
 "one diamond takes %6$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有矿物都有需求，平均产出一块花岗石需要 %1$s，一块石英需要 %2$s，一颗钻石需要 %3$s。若经济只需要其中一种矿物，平均产出一块花岗石需要 %4$s，一块石英需要 %5$s，一颗钻石需要 %6$s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Coal Mine
 #. TRANSLATORS: Purpose helptext for production site: Coal Mine
@@ -5262,7 +5262,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2129
 msgctxt "building"
 msgid "Digs coal out of the ground in mountain terrain."
-msgstr ""
+msgstr "在山地上从地下挖出煤。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Coal Mine
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Iron Mine
@@ -5272,7 +5272,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "‘Way down here in this deep mine<br>where the sun it dare not shine,<br>I "
 "sweat and toil till day is done,<br>but I’ll be back with morning come.’"
-msgstr ""
+msgstr "「就在这幽深的矿井底下<br>连太阳都不敢照进的地方，<br>我挥汗如雨直到日落，<br>可天一亮我还会再来。」"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:  Coal
 #. Mine
@@ -5282,7 +5282,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1934
 msgctxt "atlanteans_building"
 msgid "Song from the miners’ guild"
-msgstr ""
+msgstr "矿工行会的歌"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Coal
 #. Mine
@@ -5291,7 +5291,7 @@ msgstr ""
 msgctxt "atlanteans_building"
 msgid ""
 "If the food supply is steady, this mine can produce coal in %s on average."
-msgstr ""
+msgstr "若食物供应稳定，这座矿场平均 %s 能产出煤。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Iron Mine
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Iron Mine
@@ -5313,7 +5313,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2147
 msgctxt "building"
 msgid "Digs iron ore out of the ground in mountain terrain."
-msgstr ""
+msgstr "在山地上从地下挖出铁矿石。"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Iron
 #. Mine
@@ -5323,7 +5323,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "If the food supply is steady, this mine can produce iron ore in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，这座矿场平均 %s 能产出铁矿石。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Gold Mine
 #. TRANSLATORS: Purpose helptext for production site: Gold Mine
@@ -5343,7 +5343,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2165
 msgctxt "building"
 msgid "Digs gold ore out of the ground in mountain terrain."
-msgstr ""
+msgstr "在山地上从地下挖出金质矿石。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Gold Mine
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1945
@@ -5352,14 +5352,14 @@ msgid ""
 "‘Way down here in these golden grounds<br>with stones above us the thousand "
 "pounds<br>I dig in the dust until I see the spark;<br>The golden ore I find "
 "in the dark.’"
-msgstr ""
+msgstr "「就在这金子遍地的深处<br>头顶压着千斤重的石头<br>我在尘土里挖到看见那点光；<br>黑暗之中我寻得了金矿。」"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Gold
 #. Mine
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1950
 msgctxt "atlanteans_building"
 msgid "Miner’s prayer"
-msgstr ""
+msgstr "矿工的祷词"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Gold
 #. Mine
@@ -5369,14 +5369,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "If the food supply is steady, this mine can produce gold ore in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，这座矿场平均 %s 能产出金质矿石。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean training site: Dungeon, part
 #. 1
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1962
 msgctxt "atlanteans_building"
 msgid "Trains soldiers in ‘Attack’."
-msgstr ""
+msgstr "训练士兵的「攻击」。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean training site: Dungeon, part
 #. 2
@@ -5386,19 +5386,19 @@ msgstr ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1985
 msgctxt "atlanteans_building"
 msgid "Equips the soldiers with all necessary weapons and armor parts."
-msgstr ""
+msgstr "为士兵配齐所需的全部兵器和甲胄部件。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean training site: Dungeon
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1967
 msgctxt "atlanteans_building"
 msgid "Make our enemies feel the pain, so enter here to gain your train!"
-msgstr ""
+msgstr "要让仇敌尝到痛楚，就进来受你的操练！"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean training site: Dungeon
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1969
 msgctxt "atlanteans_building"
 msgid "Engraving on the entrance to the dungeon"
-msgstr ""
+msgstr "刻在地牢入口上的字"
 
 #. TRANSLATORS: Performance helptext for an Atlantean training site: Dungeon,
 #. part 1
@@ -5408,7 +5408,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "If all needed wares are delivered in time, a dungeon can train one soldier "
 "one level in attack in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，地牢平均 %s 能把一名士兵的攻击提升一级。"
 
 #. TRANSLATORS: Performance helptext for an Atlantean training site: Dungeon,
 #. part 2
@@ -5419,14 +5419,14 @@ msgstr ""
 #, lua-format
 msgctxt "atlanteans_building"
 msgid "Complete training of one soldier takes %s on average."
-msgstr ""
+msgstr "把一名士兵练到头平均需要 %s。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean training site: Labyrinth,
 #. part 1
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1983
 msgctxt "atlanteans_building"
 msgid "Trains soldiers in ‘Defense’, ‘Evade’, and ‘Health’."
-msgstr ""
+msgstr "训练士兵的「防御」「闪避」和「生命」。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean training site: Labyrinth
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1988
@@ -5434,13 +5434,13 @@ msgctxt "atlanteans_building"
 msgid ""
 "Our enemies claim: we have a ruddy twisted way to fight. Check the way we "
 "train, in this labyrinth they may be right."
-msgstr ""
+msgstr "敌人说我们打法邪门得很。看看我们在这迷宫里怎么练兵，这话兴许没说错。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean training site: Labyrinth
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:1991
 msgctxt "atlanteans_building"
 msgid "Atlantean hero after first contact with a real enemy"
-msgstr ""
+msgstr "一位亚特兰蒂斯英雄初次与真正的敌人交手之后"
 
 #. TRANSLATORS: Performance helptext for an Atlantean training site:
 #. Labyrinth, part 1
@@ -5450,7 +5450,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "If all needed wares are delivered in time, a labyrinth can train one soldier"
 " one level in defense, evade or health in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，迷宫平均 %s 能把一名士兵的防御、闪避或生命提升一级。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean military site: Guardhouse
 #. TRANSLATORS: Purpose helptext for an Atlantean military site: Guardhall
@@ -5466,7 +5466,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2077
 msgctxt "atlanteans_building"
 msgid "Garrisons soldiers to expand your territory."
-msgstr ""
+msgstr "驻扎士兵以扩张你的领土。"
 
 #. TRANSLATORS: Note helptext for an Atlantean military site: Guardhouse
 #. TRANSLATORS: Note helptext for an Atlantean military site: Guardhall
@@ -5485,7 +5485,7 @@ msgid ""
 "If you’re low on soldiers to occupy new military sites, use the downward "
 "arrow button to decrease the capacity. You can also click on a soldier to "
 "send him away."
-msgstr ""
+msgstr "如果士兵不够占满新的军事点，可以用向下的箭头按钮把容量调低。你也可以点击某名士兵把他遣走。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Guardhouse
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2011
@@ -5493,27 +5493,27 @@ msgctxt "atlanteans_building"
 msgid ""
 "Hey soldier, even if this is the smallest of our military buildings you "
 "still must not sleep all day!"
-msgstr ""
+msgstr "喂，当兵的，这虽说是我们最小的军事建筑，你也不能整天睡大觉！"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Guardhouse
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2013
 msgctxt "atlanteans_building"
 msgid "Officer visiting a remote guardhouse"
-msgstr ""
+msgstr "军官巡视一座偏远的岗楼"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Guardhall
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2024
 msgctxt "atlanteans_building"
 msgid "In this hall we praise the fight, Satul will warm us day and night."
-msgstr ""
+msgstr "在这厅堂里我们颂扬战斗，萨图尔将日夜温暖我们。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Guardhall
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2026
 msgctxt "atlanteans_building"
 msgid "Scribbling on the wall of a guardhall"
-msgstr ""
+msgstr "涂写在守卫大厅墙上的字"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Small Tower
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2037
@@ -5521,14 +5521,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "With three soldiers we can achieve an optimal balance between military power"
 " and building cost."
-msgstr ""
+msgstr "三名士兵能在战力与造价之间取得最佳平衡。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Small
 #. Tower
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2039
 msgctxt "atlanteans_building"
 msgid "Notes on the building instructions"
-msgstr ""
+msgstr "建造说明上的注记"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Tower
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2051
@@ -5536,13 +5536,13 @@ msgctxt "atlanteans_building"
 msgid ""
 "All the other tribes envy us for our towers, elegant outside, comfortable "
 "inside, still perfect for defense."
-msgstr ""
+msgstr "别的部族都羡慕我们的塔楼：外形雅致，内里舒适，却又完全适合防守。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Tower
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2053
 msgctxt "atlanteans_building"
 msgid "Soldier handing over his duties to a younger one"
-msgstr ""
+msgstr "老兵向年轻人交接职守"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: High Tower
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2066
@@ -5550,14 +5550,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "Beware our mighty high towers! From the topmost spot we can see wide into "
 "the lands and spot the enemy far away."
-msgstr ""
+msgstr "当心我们雄伟的高塔！站在最顶上，我们能望见广袤的土地，远远就发现敌人。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: High
 #. Tower
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2069
 msgctxt "atlanteans_building"
 msgid "Soldier showing off a High Tower"
-msgstr ""
+msgstr "士兵在炫耀一座高塔"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Castle
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2082
@@ -5565,13 +5565,13 @@ msgctxt "atlanteans_building"
 msgid ""
 "Sometimes even we Atlanteans need to use brute force, but we always play it "
 "wisely."
-msgstr ""
+msgstr "有时候连我们亚特兰蒂斯人也得动用蛮力，但我们总是用得明智。"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Castle
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2084
 msgctxt "atlanteans_building"
 msgid "‘Wisdom of the Fight’ by the warriors’ guild"
-msgstr ""
+msgstr "战士行会所著《斗之智慧》"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Ferry Yard
 #. TRANSLATORS: Purpose helptext for production site: Ferry Yard
@@ -5583,7 +5583,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2272
 msgctxt "building"
 msgid "Builds ferries."
-msgstr ""
+msgstr "建造渡船。"
 
 #. TRANSLATORS: Note helptext for an Atlantean production site: Ferry Yard,
 #. part 1
@@ -5599,7 +5599,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2275
 msgctxt "building"
 msgid "Needs water nearby. Be aware ferries carry wares only, no workers."
-msgstr ""
+msgstr "附近需要有水。注意渡船只运物品，不载工人。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Ferry Yard
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2101
@@ -5607,14 +5607,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "‘Row, row, row your boat<br>gently ’long the shore.<br>Steadily steadily "
 "steadily steadily<br>bring the wares ashore.’"
-msgstr ""
+msgstr "「划呀划呀划小船<br>轻轻沿着岸边行。<br>稳稳地稳稳地稳稳地稳稳地<br>把货物送上岸。」"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site: Ferry
 #. Yard
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2106
 msgctxt "atlanteans_building"
 msgid "Traditional song of the ferrymen"
-msgstr ""
+msgstr "船夫们的传统歌谣"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site: Ferry
 #. Yard, part 1
@@ -5623,7 +5623,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "This building can produce one ferry between %1$s and %2$s, depending on how "
 "far the shipwright has to walk."
-msgstr ""
+msgstr "这座建筑造出一艘渡船需要 %1$s 到 %2$s，取决于造船木工要走多远。"
 
 #. TRANSLATORS: Purpose helptext for an Atlantean production site: Shipyard
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Shipyard
@@ -5637,7 +5637,7 @@ msgctxt "building"
 msgid ""
 "Constructs ships that are used for overseas colonization and for trading "
 "between ports."
-msgstr ""
+msgstr "建造用于海外拓殖以及港口间贸易的船只。"
 
 #. TRANSLATORS: Lore helptext for an Atlantean production site: Shipyard
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2127
@@ -5645,14 +5645,14 @@ msgctxt "atlanteans_building"
 msgid ""
 "‘Soon may the wellerman come,<br>to bring us bread and smoked fish.<br>We "
 "set sail for a faraway shore<br>we praise Satul the best we wish.’"
-msgstr ""
+msgstr "「愿补给船早些来到，<br>给我们捎上面包和熏鱼。<br>我们朝着远方的海岸扬帆，<br>尽我们所能颂赞萨图尔。」"
 
 #. TRANSLATORS: Lore author helptext for an Atlantean production site:
 #. Shipyard -- not directly stolen from the wellerman song
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2132
 msgctxt "atlanteans_building"
 msgid "Transcript from oral tradition"
-msgstr ""
+msgstr "口耳相传的记录"
 
 #. TRANSLATORS: Performance helptext for an Atlantean production site:
 #. Shipyard, part 1
@@ -5661,7 +5661,7 @@ msgctxt "atlanteans_building"
 msgid ""
 "This building can produce one ship between %1$s and %2$s, depending on how "
 "far the shipwright has to walk."
-msgstr ""
+msgstr "这座建筑造出一艘船需要 %1$s 到 %2$s，取决于造船木工要走多远。"
 
 #. TRANSLATORS: This Atlantean warehouse is named after a harbour in Greece
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2169
@@ -6118,35 +6118,35 @@ msgstr ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2323
 msgctxt "atlanteans"
 msgid "Worker missing"
-msgstr ""
+msgstr "缺少工人"
 
 #. TRANSLATORS: Productivity label on an Atlantean building if there is 1
 #. worker coming
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2325
 msgctxt "atlanteans"
 msgid "Worker is coming"
-msgstr ""
+msgstr "工人正在赶来"
 
 #. TRANSLATORS: Productivity label on an Atlantean building if there is more
 #. than 1 worker missing. If you need plural forms here, please let us know.
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2327
 msgctxt "atlanteans"
 msgid "Workers missing"
-msgstr ""
+msgstr "缺少工人"
 
 #. TRANSLATORS: Productivity label on an Atlantean building if there is more
 #. than 1 worker coming. If you need plural forms here, please let us know.
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2329
 msgctxt "atlanteans"
 msgid "Workers are coming"
-msgstr ""
+msgstr "工人正在赶来"
 
 #. TRANSLATORS: Productivity label on an Atlantean building if there is 1
 #. experienced worker missing
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2331
 msgctxt "atlanteans"
 msgid "Expert missing"
-msgstr ""
+msgstr "缺少熟练工"
 
 #. TRANSLATORS: Productivity label on an Atlantean building if there is more
 #. than 1 experienced worker missing. If you need plural forms here, please
@@ -6154,7 +6154,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2333
 msgctxt "atlanteans"
 msgid "Experts missing"
-msgstr ""
+msgstr "缺少熟练工"
 
 #. TRANSLATORS: %1% is the number of Atlantean soldiers the plural refers to.
 #. %2% is the maximum number of soldier slots in the building.
@@ -6162,14 +6162,14 @@ msgstr ""
 msgctxt "atlanteans_soldier"
 msgid "%1% soldier (+%2%)"
 msgid_plural "%1% soldiers (+%2%)"
-msgstr[0] ""
+msgstr[0] "%1% 名士兵（+%2%）"
 
 #. TRANSLATORS: Number of Atlantean soldiers stationed at a militarysite.
 #: ../../../../data/tribes/initialization/atlanteans/units.lua:2349
 msgctxt "atlanteans_soldier"
 msgid "%1% soldier"
 msgid_plural "%1% soldiers"
-msgstr[0] ""
+msgstr[0] "%1% 名士兵"
 
 #. TRANSLATORS: %1% is the number of Atlantean soldiers the plural refers to.
 #. %2% are currently open soldier slots in the building. %3% is the maximum
@@ -6178,7 +6178,7 @@ msgstr[0] ""
 msgctxt "atlanteans_soldier"
 msgid "%1%(+%2%) soldier (+%3%)"
 msgid_plural "%1%(+%2%) soldiers (+%3%)"
-msgstr[0] ""
+msgstr[0] "%1%(+%2%) 名士兵（+%3%）"
 
 #. TRANSLATORS: %1% is the number of Atlantean soldiers the plural refers to.
 #. %2% are currently open soldier slots in the building.
@@ -6186,7 +6186,7 @@ msgstr[0] ""
 msgctxt "atlanteans_soldier"
 msgid "%1%(+%2%) soldier"
 msgid_plural "%1%(+%2%) soldiers"
-msgstr[0] ""
+msgstr[0] "%1%(+%2%) 名士兵"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Granite, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:100
