@@ -71,6 +71,9 @@ data/tribes/buildings/militarysites/barbarians/fortress/init.lua:8
 - **不回馈上游**。Widelands 官方译文走 Transifex，直接提交 `.po` 的 PR 通常不被接收。本项目的产出是独立发布的中文版分发。
 - **不改动 C++ 源码、不改动游戏逻辑、不新增 UI 字符串。**
 - **不做繁体中文**（`zh_TW` 当前近乎空白，属未来独立议题）。
+- **试点只产出并验证译文**；是否以及如何制作独立分发包（打包、发布产物、版本锁定、更新流程），在试点验收后决定。
+
+关于分发，有一项风险已核实排除：**向公开 fork 的 `zh-CN` 分支推送不会意外触发上游 CI**。`build.yaml:5-9` 的 push 触发限于 `master` 与 `protected/*`；9 个 `build_*.yaml` 均为 `workflow_call`，无法被 push 触发；`check_vcpkg.yaml` / `clean_prerelease.yaml` 为手动或定时；`i18n.yaml` 虽有 cron，但其任务被 `i18n.yaml:12` 的 `if: github.repository == 'widelands/widelands'` 挡住，不会在 fork 上执行 Transifex 同步。上传产物与发布任务另有 `build.yaml:139,147` 的双重守卫（仓库名 + `refs/heads/master`）。
 
 ## 3. 仓库与分支
 
@@ -220,7 +223,7 @@ widelands.exe --datadir=<repo>/data
 | **fuzzy 标记** | **判为 error，见下** | 全量 |
 | **pot 键集** | **与 `<域名>.pot` 双向比对，兼报 `#~` 废弃条目** | 全量 |
 | 术语符合性 | 命中术语表的原文，其译文须与表一致 | 依术语表 |
-| 富文本标记 | 标签配对 | 见 §7.2 |
+| **富文本标记** | **只按白名单计数，见 §7.2** | 本域 4 处 |
 
 脚本只用 Python 标准库（不依赖 polib——本机既无 gettext 工具链也无 translate-toolkit），对全部 32 个域通用，后续阶段直接复用。
 
@@ -240,6 +243,18 @@ dictionary_manager.cpp:165  调三参版本，其自身的 use_fuzzy 成员是�
 fuzzy 译文是 msgmerge 基于相似旧串的猜测，会被**原样显示给玩家**，比留空回退英文更糟。故判为 error 而非 warning——warning 不影响退出码，会让 fuzzy 条目无声通过验收。
 
 相较之下另两类条目是安全的，无需专门设计：空 msgstr 不入字典，查询时回退英文原文（`dictionary.cpp:126-137`）；`#~` 废弃条目被 `po_parser.cpp:355` 的 `while(prefix("#"))` 当普通注释整块忽略。后者仍作为 warning 报出，因为它是"此文件被合并过"的有用信号。
+
+### 7.2 富文本标记：按白名单计数，不做通用配对
+
+**尖括号构造绝大多数不是标记。** 本域实测 48 处出现在可翻译内容里的尖括号构造中，只有 4 处是真标记（`<br>`），其余 44 处是命令行元变量与占位说明：`<name>` 14、`<reason>` 12、`<msg>` 8、`<user>` 4，以及 `<Widelands Home Directory>`、`<message>`、`<user|game>` 各 2。通用的"标签配对"规则会在这 44 处上全部误报。
+
+因此规则定为：**只有渲染器认识的标签才算标记，其余尖括号构造一律忽略；译文中各类标记的数量必须与原文一致。**
+
+白名单取自渲染器实际注册的处理器——成对标签 `rt` / `div` / `p` / `font` / `link`，空标签 `br` / `space` / `vspace` / `img`（解析见 `src/graphic/text/rt_parse.cc:280-287,341-360,380-407,448-455,505-512,554-594`，注册见 `src/graphic/text/rt_render.cc:1869-1884`）。
+
+结构被破坏的后果是实打实的：`rt_parse.cc:111-121` 抛 `SyntaxError`，未知标签由 `rt_render.cc:1880-1884` 抛 `RenderError`；部分控件会捕获并降级显示，但工具提示等路径不会。
+
+该规则对后续战役剧本阶段同样适用，届时 `<p>` / `<font>` 等成对标签才会大量出现，无需改动实现。
 
 ## 8. 验收标准
 

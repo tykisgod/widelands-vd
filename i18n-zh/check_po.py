@@ -470,6 +470,52 @@ def check_trailing_space(e, path, out):
                                f'msgstr[{i}] 首尾空白与原文不一致', e.msgid))
 
 
+# Widelands 富文本渲染器实际认识的标签。其余尖括号构造（<name>、<reason>、
+# <msg>、<user> 等）是命令行元变量或占位说明，不是标记，必须忽略——否则
+# 通用的"标签配对"规则会在本目录上产生大量误报（实测 48 处尖括号构造里
+# 只有 4 处是真标记）。
+#   成对：rt_parse.cc:280-287,341-360,380-407,448-455,505-512,554-594
+#   注册：rt_render.cc:1869-1884
+RICHTEXT_TAGS = ('rt', 'div', 'p', 'font', 'link', 'br', 'space', 'vspace', 'img')
+TAG_RE = re.compile(r'</?([A-Za-z][A-Za-z0-9_-]*)\b[^>]*>')
+
+
+def check_markup(e, path, out):
+    """真标记的数量必须与原文一致。
+
+    结构被破坏不是小事：rt_parse.cc:111-121 会抛 SyntaxError，未知标签则由
+    rt_render.cc:1880-1884 抛 RenderError；部分控件会捕获并降级，但工具提示
+    等路径不会。
+    """
+    def tally(s):
+        c = Counter()
+        for name in TAG_RE.findall(s):
+            low = name.lower()
+            if low in RICHTEXT_TAGS:
+                c[low] += 1
+        return c
+
+    src = tally(e.msgid)
+    if e.msgid_plural:
+        src |= tally(e.msgid_plural)
+    if not src:
+        return
+
+    for i, got in enumerate(e.msgstrs):
+        if not got.strip():
+            continue
+        dst = tally(got)
+        if dst == src:
+            continue
+        diffs = []
+        for name in sorted(set(src) | set(dst)):
+            if src[name] != dst[name]:
+                diffs.append(f'<{name}> 原文 {src[name]} 处、译文 {dst[name]} 处')
+        out.append(Problem('error', path, e.line, 'markup',
+                           f'msgstr[{i}] 富文本标记数量不符：' + '；'.join(diffs),
+                           e.msgid))
+
+
 def check_fuzzy(e, path, out):
     """fuzzy 译文会被游戏当作正式译文显示给玩家——这与 gettext 的常识相反。
 
@@ -518,7 +564,8 @@ def check_glossary(e, path, terms, out):
 
 
 CHECKS = [check_placeholders, check_escapes, check_plural,
-          check_untranslated, check_punctuation, check_trailing_space, check_fuzzy]
+          check_untranslated, check_punctuation, check_trailing_space,
+          check_markup, check_fuzzy]
 
 
 def count_obsolete(path):
