@@ -1,3 +1,14 @@
+> # 🇨🇳 Widelands 简体中文版
+>
+> 这是 [Widelands](https://github.com/widelands/widelands) 的**简体中文本地化分支**，
+> 不是上游官方仓库。游戏全部 **9,772 条文本已 100% 译为简体中文**——包括
+> 界面、17 个战役与教程剧本，以及 2,339 条的部族百科全书。
+>
+> **👉 [中文说明 / 怎么玩，看这里](README.zh-CN.md)**
+>
+> 下面是上游的英文 README（原样保留）。顶部那几个 CI 徽章指向的是上游仓库的
+> 构建状态，与本分支无关。
+
 # Widelands
 
 [![Build Status AppVeyor](https://ci.appveyor.com/api/projects/status/github/widelands/widelands?branch=master&svg=true)](https://ci.appveyor.com/project/widelands-dev/widelands)
