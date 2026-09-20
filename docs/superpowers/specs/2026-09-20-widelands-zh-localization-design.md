@@ -66,6 +66,12 @@ data/tribes/buildings/militarysites/barbarians/fortress/init.lua:8
 
 其余 31 个域，按优先级：战役与教程剧本（约 2,200 条 / 4.5 万词）、`tribes_encyclopedia`（2,314 条 / 2.18 万词）、零散补漏。
 
+> **进展（2026-09-20）**：试点通过后这一范围已全部完成。32 个域 9,772 条
+> 全部译毕，`check_po.py --all` 报 0 error / 0 warning，端到端加载验证
+> 10/10 通过。本文档的流水线与校验设计未作改动，只新增两类刻意保留原文
+> 的条目（帝国百科的 52 条拉丁语引文、弗里西亚战役二总督的拉丁语台词），
+> 均登记在 `i18n-zh/keep-english.txt` 并注明理由。
+
 ### 非目标
 
 - **不回馈上游**。Widelands 官方译文走 Transifex，直接提交 `.po` 的 PR 通常不被接收。本项目的产出是独立发布的中文版分发。

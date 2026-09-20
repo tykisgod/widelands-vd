@@ -1,10 +1,15 @@
 <#
 .SYNOPSIS
-    简体中文译文端到端加载验证（无头，无需编译）。
+    简体中文译文端到端加载验证（无需编译）。
 
 .DESCRIPTION
     用官方 daily 构建的 widelands.exe 加载本仓库的 data/ 目录，跑 verify_zh.lua，
     确认 .po 译文经 tinygettext 真实加载并返回中文。退出码 0 表示通过。
+
+    判定方式与上游的 regression_test.py 一致：**盯 stdout.txt，不等进程退出**。
+    verify_zh.lua 末尾的 wl.ui.MapView():close() 只是关掉地图视图回到主菜单，
+    游戏进程会停在那儿等输入，永远不会自己退出。上游的回归测试同样是靠在
+    日志里找 "All Tests passed." 然后杀进程来判定的。
 
     三个必需参数的由来：
       --skip_check_datadir_version  源码 checkout 没有构建时生成的 data/datadirversion
@@ -19,7 +24,8 @@
 param(
     [string]$Exe = 'E:\dpp_new\widelands-run\widelands.exe',
     [string]$Repo = (Split-Path -Parent $PSScriptRoot),
-    [string]$HomeDir = (Join-Path $env:TEMP 'widelands-zh-verify')
+    [string]$HomeDir = (Join-Path $env:TEMP 'widelands-zh-verify'),
+    [int]$TimeoutSec = 180
 )
 
 $ErrorActionPreference = 'Stop'
@@ -34,8 +40,9 @@ Write-Host "工作区 HEAD: $head"
 
 if (Test-Path $HomeDir) { Remove-Item -Recurse -Force $HomeDir }
 New-Item -ItemType Directory -Force -Path $HomeDir | Out-Null
+$log = Join-Path $HomeDir 'stdout.txt'
 
-$args = @(
+$gameArgs = @(
     "--datadir=$Repo\data"
     '--skip_check_datadir_version'
     "--datadir_for_testing=$Repo"
@@ -48,20 +55,38 @@ $args = @(
     '--fail-on-errors'
 )
 
-& $Exe @args | Out-Null
-$code = $LASTEXITCODE
+$proc = Start-Process -FilePath $Exe -ArgumentList $gameArgs -PassThru
 
-$log = Join-Path $HomeDir 'stdout.txt'
+$verdict = $null
+$deadline = (Get-Date).AddSeconds($TimeoutSec)
+while ((Get-Date) -lt $deadline) {
+    if (Test-Path $log) {
+        $text = Get-Content $log -Raw -Encoding utf8 -ErrorAction SilentlyContinue
+        if ($text -match '# All Tests passed\.') { $verdict = 'pass'; break }
+        if ($text -match 'LUA:\s+FAIL|译文加载验证失败') { $verdict = 'fail'; break }
+    }
+    if ($proc.HasExited) { $verdict = 'exited'; break }
+    Start-Sleep -Milliseconds 500
+}
+
+# 游戏跑完脚本后会停在主菜单，必须主动收掉
+if (-not $proc.HasExited) { Stop-Process -Id $proc.Id -Force }
+
 if (Test-Path $log) {
     Select-String -Path $log -Pattern 'LUA: ' -Encoding utf8 |
         ForEach-Object { $_.Line -replace '^.*LUA: ', '' }
 }
 
-if ($code -ne 0) {
-    Write-Host ''
-    Write-Host "验证失败（退出码 $code）。完整日志：$log" -ForegroundColor Red
-    exit $code
-}
-
 Write-Host ''
-Write-Host '验证通过。' -ForegroundColor Green
+switch ($verdict) {
+    'pass' { Write-Host '验证通过。' -ForegroundColor Green; exit 0 }
+    'fail' { Write-Host "验证失败。完整日志：$log" -ForegroundColor Red; exit 1 }
+    'exited' {
+        Write-Host "游戏在跑完验证脚本前就退出了（退出码 $($proc.ExitCode)）。完整日志：$log" -ForegroundColor Red
+        exit 1
+    }
+    default {
+        Write-Host "等待 $TimeoutSec 秒仍未见结论，已强制结束。完整日志：$log" -ForegroundColor Red
+        exit 1
+    }
+}
