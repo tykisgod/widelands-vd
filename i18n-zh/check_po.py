@@ -137,10 +137,7 @@ def parse_po(path: str):
 
 # ---------------------------------------------------------------- 检查项
 
-# printf 占位符：%s %d %u %1$s %2.1f %% 等
-PLACEHOLDER = re.compile(r'%(?:\d+\$)?[-+ #0]*[\d*]*(?:\.[\d*]+)?(?:hh|h|ll|l|L|z|j|t)?[diouxXeEfFgGaAcspn%]')
-# Widelands 自有的 bformat 占位符
-BFORMAT = re.compile(r'%\d+\$')
+MSG_FLAGS = '-+0'
 CJK = re.compile(r'[㐀-䶿一-鿿豈-﫿]')
 ASCII_WORD = re.compile(r"[A-Za-z]{2,}")
 # 中文里不该出现的半角标点（占位符与代码标识符旁除外，见 check_punctuation）
@@ -164,36 +161,221 @@ class Problem:
         return head
 
 
+class FormatSpec:
+    """一个格式说明符。kind 为 None 表示 %N% 形式（只声明参数位，不声明类型）。"""
+    __slots__ = ('raw', 'index', 'kind')
+
+    def __init__(self, raw, index, kind):
+        self.raw = raw
+        self.index = index
+        self.kind = kind
+
+
+def parse_format_string(s):
+    """按 Widelands 自有文法解析，返回 (specs, errors)。
+
+    文法见 src/base/format/tree.h:40-75，约束实现在 tree.cc:155-245：
+
+        %N%
+      或
+        % [N$] [flags] [width] [.precision] fmt
+
+    与标准 printf 的差异，每一条都会影响校验：
+      * %N% 是"第 N 个参数"，不是字面百分号。本项目目录里大量使用
+        （%1% 出现 27 次、%2% 23 次、%1%:%2% 10 次）
+      * 编号与不编号的占位符不能混用；编号 1 起，不得有空缺或重复
+      * flags 只有 - + 0，且 - 与 0 不能并用
+      * 支持 %b（布尔）与 %P；不支持 %o %e %E %g %G %a %A %n
+      * 整数、十六进制、指针不得带精度；%c 不得带任何修饰
+    """
+    specs = []
+    errors = []
+    i = 0
+    n = len(s)
+    while True:
+        j = s.find('%', i)
+        if j < 0:
+            break
+        i = j + 1
+        if i >= n:
+            errors.append("以孤立的 '%' 结尾")
+            break
+        if s[i] == '%':          # %% 字面百分号，不占参数
+            i += 1
+            continue
+
+        start = j
+        k = i
+        while k < n and s[k].isdigit():
+            k += 1
+
+        if k > i and k < n and s[k] == '%':      # %N%
+            specs.append(FormatSpec(s[start:k + 1], int(s[i:k]), None))
+            i = k + 1
+            continue
+
+        index = None
+        if k > i and k < n and s[k] == '$':
+            index = int(s[i:k])
+            i = k + 1
+
+        flags = ''
+        while i < n and s[i] in MSG_FLAGS:
+            flags += s[i]
+            i += 1
+        width = ''
+        while i < n and s[i].isdigit():
+            width += s[i]
+            i += 1
+        precision = None
+        if i < n and s[i] == '.':
+            i += 1
+            digits = ''
+            while i < n and s[i].isdigit():
+                digits += s[i]
+                i += 1
+            if not digits:
+                errors.append(f"{s[start:i]!r}：'.' 后缺少数字")
+                continue
+            precision = int(digits)
+
+        ell = 0
+        while i < n and s[i] == 'l':
+            ell += 1
+            i += 1
+        if i >= n:
+            errors.append(f'{s[start:]!r}：格式说明符不完整')
+            break
+
+        ch = s[i]
+        i += 1
+        raw = s[start:i]
+
+        if '-' in flags and '0' in flags:
+            errors.append(f"{raw!r}：'-' 与 '0' 不能并用")
+
+        if ell:
+            if ch not in 'diu':
+                errors.append(f"{raw!r}：'l' 之后只能是 d/i/u")
+                continue
+        if ch == '%':
+            errors.append(f'{raw!r}：字面百分号不接受编号或修饰，应写作 %%')
+            continue
+        if ch == 'c':
+            if flags or width or precision is not None:
+                errors.append(f'{raw!r}：%c 不能带任何修饰')
+            kind = 'c'
+        elif ch in 'sb':
+            if '+' in flags or '0' in flags:
+                errors.append(f"{raw!r}：%{ch} 不能带 '+' 或 '0'")
+            kind = ch
+        elif ch in 'di':
+            if precision is not None:
+                errors.append(f'{raw!r}：整数不能带精度')
+            kind = 'int'
+        elif ch == 'u':
+            if precision is not None:
+                errors.append(f'{raw!r}：整数不能带精度')
+            kind = 'uint'
+        elif ch in 'xX':
+            if precision is not None:
+                errors.append(f'{raw!r}：整数不能带精度')
+            kind = ch
+        elif ch in 'pP':
+            if precision is not None:
+                errors.append(f'{raw!r}：指针不能带精度')
+            kind = ch
+        elif ch == 'f':
+            kind = 'f'
+        else:
+            errors.append(f'{raw!r}：不支持的格式类型字符 {ch!r}')
+            continue
+
+        specs.append(FormatSpec(raw, index, kind))
+
+    numbered = [sp for sp in specs if sp.index is not None]
+    if numbered and len(numbered) != len(specs):
+        errors.append('编号与不编号的占位符不能混用')
+    if numbered:
+        idxs = [sp.index for sp in numbered]
+        uniq = sorted(set(idxs))
+        if len(uniq) != len(idxs):
+            dup = sorted({x for x in idxs if idxs.count(x) > 1})
+            errors.append(f'参数编号重复：{dup}')
+        elif uniq != list(range(1, len(uniq) + 1)):
+            errors.append(f'参数编号有空缺或不从 1 起：{uniq}')
+
+    return specs, errors
+
+
+def mask_specs(s, fill=''):
+    """把格式说明符替换掉，便于判断"剩下的文字"是否像英文、标点是否合规。
+
+    %% 也一并处理：它是字面百分号，不该被当成待翻译的英文内容。
+    """
+    specs, _ = parse_format_string(s)
+    out = s
+    for sp in sorted(specs, key=lambda x: -len(x.raw)):
+        out = out.replace(sp.raw, fill)
+    return out.replace('%%', fill)
+
+
+def arg_signature(specs):
+    """参数位 -> 类型。不编号的按从左到右枚举，使重排序的译文能正确比对。"""
+    sig = {}
+    if any(sp.index is not None for sp in specs):
+        for sp in specs:
+            if sp.index is not None and sig.get(sp.index) is None:
+                sig[sp.index] = sp.kind
+    else:
+        for pos, sp in enumerate(specs, 1):
+            sig[pos] = sp.kind
+    return sig
+
+
 def check_placeholders(e, path, out):
-    """占位符的种类、数量、参数编号必须与原文完全一致。错一个会让游戏崩溃。"""
-    sources = [e.msgid] + ([e.msgid_plural] if e.msgid_plural else [])
-    # 中文 nplurals=1，单复数共用 msgstr[0]，故取原文占位符的并集作为允许集
-    want = Counter()
-    for src in sources:
-        want |= Counter(PLACEHOLDER.findall(src))
+    """占位符必须与原文引用同一组参数，且自身合乎文法。
+
+    损坏的占位符不是"显示错乱"而已：格式引擎记录日志后**重新抛出**
+    （tree.h:346-350），经 lua_globals.cc:172-175 转为 Lua 错误，会中断
+    当前流程。
+    """
+    src_specs, src_errors = parse_format_string(e.msgid)
+    if e.msgid_plural:
+        # 中文 nplurals=1，msgstr[0] 对应的语义取单复数原文的并集
+        pl_specs, _ = parse_format_string(e.msgid_plural)
+        if len(pl_specs) > len(src_specs):
+            src_specs = pl_specs
+    want = arg_signature(src_specs)
 
     for i, got_str in enumerate(e.msgstrs):
         if not got_str.strip():
             continue
-        got = Counter(PLACEHOLDER.findall(got_str))
-        if got == want:
-            continue
-        missing = want - got
-        extra = got - want
-        parts = []
-        if missing:
-            parts.append('缺少 ' + ', '.join(sorted(missing.elements())))
-        if extra:
-            parts.append('多出 ' + ', '.join(sorted(extra.elements())))
-        out.append(Problem('error', path, e.line, 'placeholder',
-                           f'msgstr[{i}] 占位符与原文不符：' + '；'.join(parts), e.msgid))
+        got_specs, errors = parse_format_string(got_str)
+        for msg in errors:
+            out.append(Problem('error', path, e.line, 'placeholder-syntax',
+                               f'msgstr[{i}] {msg}', e.msgid))
+        got = arg_signature(got_specs)
 
-    # 带编号的占位符必须连续覆盖 1..n，否则 bformat 会抛异常
-    for i, got_str in enumerate(e.msgstrs):
-        nums = sorted({int(m[1:-1]) for m in BFORMAT.findall(got_str)})
-        if nums and nums != list(range(1, len(nums) + 1)):
-            out.append(Problem('error', path, e.line, 'placeholder-index',
-                               f'msgstr[{i}] 位置参数编号不连续：{nums}', e.msgid))
+        if set(got) != set(want):
+            missing = sorted(set(want) - set(got))
+            extra = sorted(set(got) - set(want))
+            parts = []
+            if missing:
+                parts.append('缺少参数位 ' + ', '.join(map(str, missing)))
+            if extra:
+                parts.append('多出参数位 ' + ', '.join(map(str, extra)))
+            out.append(Problem('error', path, e.line, 'placeholder',
+                               f'msgstr[{i}] 与原文引用的参数不一致：'
+                               + '；'.join(parts), e.msgid))
+            continue
+
+        for idx in sorted(want):
+            a, b = want[idx], got[idx]
+            if a is not None and b is not None and a != b:
+                out.append(Problem('error', path, e.line, 'placeholder-type',
+                                   f'msgstr[{i}] 参数 {idx} 的类型由 {a} 变为 {b}',
+                                   e.msgid))
 
 
 def check_escapes(e, path, out):
@@ -246,11 +428,11 @@ def check_untranslated(e, path, out):
         if CJK.search(got):
             continue
         # 无 CJK 才继续判断：纯符号/纯占位符/纯数字的条目合法
-        stripped = PLACEHOLDER.sub('', got)
+        stripped = mask_specs(got)
         if not ASCII_WORD.search(stripped):
             continue
         # 原文本身就没有英文单词（如 "%s"）则不算漏译
-        if not ASCII_WORD.search(PLACEHOLDER.sub('', e.msgid)):
+        if not ASCII_WORD.search(mask_specs(e.msgid)):
             continue
         out.append(Problem('error', path, e.line, 'untranslated',
                            f'msgstr[{i}] 无中文字符，疑似漏译：{got!r}', e.msgid))
@@ -261,7 +443,7 @@ def check_punctuation(e, path, out):
     for i, got in enumerate(e.msgstrs):
         if not CJK.search(got):
             continue
-        masked = PLACEHOLDER.sub('\x00', got)
+        masked = mask_specs(got, '\x00')
         for pos, ch in enumerate(masked):
             if ch not in HALFWIDTH:
                 continue
