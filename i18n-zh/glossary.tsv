@@ -291,7 +291,7 @@ Chat’Karuth	查特·卡鲁斯号	shipname	tribes
 Chief Miner	矿长	barbarians_worker	tribes	
 Chisel	凿刀	ware	tribes	
 Chocolate	巧克力	ware	tribes	
-Chocolate Brewery	巧克力酿酒厂	amazons_building	tribes	
+Chocolate Brewery	巧克力熬制坊	amazons_building	corrections	熬的是巧克力饮料，不是酒
 Cicero	西塞罗号	shipname	tribes	
 Ciriquiri	西里基里号	shipname	tribes	
 Cirrus Tree	草海卷须树		world	
@@ -482,7 +482,7 @@ fishing	捕鱼		tribes
 Fishing Net	渔网	ware	tribes	
 Fishing Rod	鱼竿	ware	tribes	
 Flour	面粉	ware	tribes	
-Food Preserver	食品仓库	amazons_building	tribes	
+Food Preserver	食物加工房	amazons_building	corrections	这座建筑做定额口粮，原「食品仓库」既不存货也不是仓库
 Forested Mountain 1	山林 1		world	
 Forested Mountain 2	山林 2		world	
 Forester	护林员	atlanteans_worker	tribes	
@@ -568,7 +568,7 @@ Gold Mine	金矿	barbarians_building	tribes
 Gold Mine	金矿	empire_building	tribes	
 Gold Mine	金矿	frisians_building	tribes	
 Gold Ore	金质矿石	ware	tribes	
-Gold Smelter	黄金冶炼厂	amazons_worker	tribes	
+Gold Smelter	黄金熔炼工	amazons_worker	corrections	这是工人，原「黄金冶炼厂」是厂房
 Gold Spinning Mill	纺金坊	atlanteans_building	tribes	
 Gold Thread	金线	ware	tribes	
 Golden Fur Garment	缀金毛皮衣	ware	corrections	与 Studded 同一构词
@@ -822,7 +822,7 @@ making a hunting bow	制造狩猎弓		tribes
 making a hunting spear	制作狩猎长矛		tribes	
 making a light wooden armor	制造一套轻装木甲		tribes	
 making a machete	打造弯刀		tribes	
-making a padded protector	制造一个衬垫保护		tribes	
+making a padded protector	制造衬垫护具		tribes	
 making a padded vest	制造一件衬垫背心		tribes	
 making a pair of buckets	制造一担水桶		tribes	
 making a pick	打造鹤嘴镐		tribes	
@@ -841,8 +841,8 @@ making hero boots	制造英雄靴		tribes
 making kitchen tools	打造厨房用具		tribes	
 making milking tongs	制造挤奶钳		tribes	
 making needles	制针		tribes	
-making sturdy boots	制造坚固的靴子		tribes	
-making swift boots	制造健步鞋		tribes	
+making sturdy boots	制造坚固靴		tribes	
+making swift boots	制造轻捷靴		tribes	
 making wine	制作葡萄酒		tribes	
 Malachite	孔雀石号	shipname	tribes	
 Mama Killa	玛玛基利亚号	shipname	tribes	
@@ -1024,7 +1024,7 @@ Pachakuti	帕查库提号	shipname	tribes
 Pachamama	帕查玛玛号	shipname	tribes	
 Paciá	帕西亚号	shipname	tribes	
 Padauari	帕道阿里号	shipname	tribes	
-Padded Protector	衬垫保护	ware	tribes	
+Padded Protector	衬垫护具	ware	corrections	原「衬垫保护」不成词
 Padded Vest	衬垫背心	ware	tribes	
 Palm Trees	棕榈树		world	
 Papagaio	帕帕盖奥号	shipname	tribes	
@@ -1349,12 +1349,12 @@ Strawberries (tiny)	草莓(微小的)		tribes
 Strong Beer	高浓度啤酒	ware	tribes	
 Struggling Outpost	艰难前哨		corrections	struggling 指处境艰难，原译"战争中的前哨"无依据
 Studded Fur Garment	缀铁毛皮衣	ware	corrections	studded 指缀铁，原「钉饰皮铠」既不成体系也看不出材质
-Sturdy Boots	坚固的靴子	ware	tribes	
+Sturdy Boots	坚固靴	ware	corrections	三种靴子原作「靴子／鞋／靴」，统一为「靴」
 Sucunduri	苏昆杜里号	shipname	tribes	
 Summer	夏季		world	
 Sunstone	日长石号	shipname	tribes	
 Swamp	沼泽		world	
-Swift Boots	健步鞋	ware	tribes	
+Swift Boots	轻捷靴	ware	corrections	同上
 Sylt	叙尔特号	shipname	tribes	
 Süderaue	苏德劳号	shipname	tribes	
 Süderoog	苏德鲁格号	shipname	tribes	

@@ -136,3 +136,9 @@ Fur Garment	毛皮衣	ware	原「皮装／皮铠／皮衣」三种说法并存
 Studded Fur Garment	缀铁毛皮衣	ware	studded 指缀铁，原「钉饰皮铠」既不成体系也看不出材质
 Golden Fur Garment	缀金毛皮衣	ware	与 Studded 同一构词
 Old Fur Garment	旧毛皮衣	ware	与 Fur Garment 同一构词
+Food Preserver	食物加工房	amazons_building	这座建筑做定额口粮，原「食品仓库」既不存货也不是仓库
+Padded Protector	衬垫护具	ware	原「衬垫保护」不成词
+Sturdy Boots	坚固靴	ware	三种靴子原作「靴子／鞋／靴」，统一为「靴」
+Swift Boots	轻捷靴	ware	同上
+Chocolate Brewery	巧克力熬制坊	amazons_building	熬的是巧克力饮料，不是酒
+Gold Smelter	黄金熔炼工	amazons_worker	这是工人，原「黄金冶炼厂」是厂房

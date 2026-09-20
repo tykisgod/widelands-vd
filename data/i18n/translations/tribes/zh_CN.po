@@ -1340,7 +1340,7 @@ msgstr "生产木炭"
 #: ../../../../data/tribes/buildings/productionsites/amazons/chocolate_brewery/init.lua:8
 msgctxt "amazons_building"
 msgid "Chocolate Brewery"
-msgstr "巧克力酿酒厂"
+msgstr "巧克力熬制坊"
 
 #. TRANSLATORS: Completed/Skipped/Did not start brewing chocolate because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/chocolate_brewery/init.lua:55
@@ -1403,12 +1403,12 @@ msgstr "缝制一件勇士之铠"
 #. ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/dressmakery/init.lua:122
 msgid "making sturdy boots"
-msgstr "制造坚固的靴子"
+msgstr "制造坚固靴"
 
 #. TRANSLATORS: Completed/Skipped/Did not start making swift boots because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/dressmakery/init.lua:134
 msgid "making swift boots"
-msgstr "制造健步鞋"
+msgstr "制造轻捷靴"
 
 #. TRANSLATORS: Completed/Skipped/Did not start making hero boots because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/dressmakery/init.lua:146
@@ -1425,7 +1425,7 @@ msgstr "制造一件衬垫背心"
 #. because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/dressmakery/init.lua:170
 msgid "making a padded protector"
-msgstr "制造一个衬垫保护"
+msgstr "制造衬垫护具"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/amazons/ferry_yard/init.lua:8
@@ -1437,7 +1437,7 @@ msgstr "渡船厂"
 #: ../../../../data/tribes/buildings/productionsites/amazons/food_preserver/init.lua:8
 msgctxt "amazons_building"
 msgid "Food Preserver"
-msgstr "食品仓库"
+msgstr "食物加工房"
 
 #. TRANSLATORS: Completed/Skipped/Did not start preparing a ration because ...
 #: ../../../../data/tribes/buildings/productionsites/amazons/food_preserver/init.lua:59
@@ -8316,13 +8316,13 @@ msgstr "英雄靴"
 #: ../../../../data/tribes/wares/boots_sturdy/init.lua:8
 msgctxt "ware"
 msgid "Sturdy Boots"
-msgstr "坚固的靴子"
+msgstr "坚固靴"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/boots_swift/init.lua:8
 msgctxt "ware"
 msgid "Swift Boots"
-msgstr "健步鞋"
+msgstr "轻捷靴"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/bread_amazons/init.lua:8
@@ -8719,7 +8719,7 @@ msgstr "厚木板"
 #: ../../../../data/tribes/wares/protector_padded/init.lua:8
 msgctxt "ware"
 msgid "Padded Protector"
-msgstr "衬垫保护"
+msgstr "衬垫护具"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/quartz/init.lua:8
@@ -9044,7 +9044,7 @@ msgstr "掘金者"
 #: ../../../../data/tribes/workers/amazons/gold_smelter/init.lua:8
 msgctxt "amazons_worker"
 msgid "Gold Smelter"
-msgstr "黄金冶炼厂"
+msgstr "黄金熔炼工"
 
 #. TRANSLATORS: This is a worker name used in lists of workers
 #: ../../../../data/tribes/workers/amazons/hunter_gatherer/init.lua:8
