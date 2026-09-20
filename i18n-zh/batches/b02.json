@@ -1,0 +1,903 @@
+[
+ {
+  "key": "5c6726e933",
+  "msgid": "World",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "世界"
+ },
+ {
+  "key": "ac6e6f5582",
+  "msgid": "Script",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "脚本"
+ },
+ {
+  "key": "8b399230b7",
+  "msgid": "Map",
+  "zh": "",
+  "ui": "logic/addons, ui/editor, ui/fsmenu",
+  "current": "地图"
+ },
+ {
+  "key": "c51511adb3",
+  "msgid": "Map Set",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "地图设置"
+ },
+ {
+  "key": "bb1bcd40cd",
+  "msgid": "Map Generator",
+  "zh": "",
+  "ui": "logic/addons, ui/editor"
+ },
+ {
+  "key": "e0ed664cab",
+  "msgid": "Campaign",
+  "zh": "",
+  "note": "* TRANSLATORS: Header for campaign name",
+  "ui": "logic/addons, ui/fsmenu",
+  "current": "战役"
+ },
+ {
+  "key": "a8aca2d9d0",
+  "msgid": "Win Condition",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "胜利条件"
+ },
+ {
+  "key": "17d4c1cecf",
+  "msgid": "Starting Condition",
+  "zh": "",
+  "ui": "logic/addons",
+  "current": "起始条件"
+ },
+ {
+  "key": "62eb5da63a",
+  "msgid": "Theme",
+  "zh": "",
+  "ui": "logic/addons, ui/editor",
+  "current": "主题"
+ },
+ {
+  "key": "ba9fe94a83",
+  "msgid": "UI Plugin",
+  "zh": "",
+  "ui": "logic/addons"
+ },
+ {
+  "key": "0efbcf4823",
+  "msgid": "Port space of %1$s discovered at %2$s by %3$s %4$u step %5$s of %6$s",
+  "zh": "",
+  "msgid_plural": "Port space of %1$s discovered at %2$s by %3$s %4$u steps %5$s of %6$s",
+  "note": "* TRANSLATORS: \"Port space of Player1 discovered at 2:22 by Ship3 44 steps | north | of Port6\"",
+  "ui": "logic/detected_port_space",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "c18298cd59",
+  "msgid": "NW",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: Northwest.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "36c5c3d1da",
+  "msgid": "NE",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: Northeast.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "0d7a10396b",
+  "msgid": "SW",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: Southwest.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "b231b16446",
+  "msgid": "SE",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: Southeast.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "dbd5c9331a",
+  "msgid": "N",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: North.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "6a5446d675",
+  "msgid": "S",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: South.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "227bd0a092",
+  "msgid": "W",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: West.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "3778de7583",
+  "msgid": "E",
+  "zh": "",
+  "msgctxt": "direction",
+  "note": "* TRANSLATORS: This is an abbreviated direction: East.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "cc5cdca2d5",
+  "msgid": "Unowned / %1$s / %2$s",
+  "zh": "",
+  "msgctxt": "detected_port_space",
+  "note": "* TRANSLATORS: Placeholders are gametime and shipname. Keep this short.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "90bc3e9880",
+  "msgid": "Unowned / %1$s / %2$s / %3$u %4$s %5$s",
+  "zh": "",
+  "msgctxt": "detected_port_space",
+  "note": "* TRANSLATORS: Placeholders are gametime, shipname, and distance direction | port_name. | *  Keep this short.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "a13d49cc6e",
+  "msgid": "%1$s / %2$s / %3$s",
+  "zh": "",
+  "msgctxt": "detected_port_space",
+  "note": "* TRANSLATORS: Placeholders are owner, gametime, and shipname. Keep this | short.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "99698d33fb",
+  "msgid": "%1$s / %2$s / %3$s / %4$u %5$s %6$s",
+  "zh": "",
+  "msgctxt": "detected_port_space",
+  "note": "* TRANSLATORS: Placeholders are owner, gametime, shipname, and \"distance | direction port_name. | *  Keep this short.",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "471f8003ed",
+  "msgid": "northwest",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps northwest of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "a6015268c7",
+  "msgid": "northeast",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps northeast of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "8699b2a695",
+  "msgid": "southwest",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps southwest of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "b897a340dc",
+  "msgid": "southeast",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps southwest of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "10f77d206b",
+  "msgid": "north",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps north of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "c7efd0f126",
+  "msgid": "south",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps south of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "96bdfd66e7",
+  "msgid": "west",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps west of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "6175d4ac6d",
+  "msgid": "east",
+  "zh": "",
+  "note": "* TRANSLATORS: \"12 steps east of Port1\"",
+  "ui": "logic/detected_port_space"
+ },
+ {
+  "key": "25f029e017",
+  "msgid": "Unowned port space discovered at %1$s by %2$s",
+  "zh": "",
+  "ui": "logic/detected_port_space",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "a8a26512d4",
+  "msgid": "Unowned port space discovered at %1$s by %2$s %3$u step %4$s of %5$s",
+  "zh": "",
+  "msgid_plural": "Unowned port space discovered at %1$s by %2$s %3$u steps %4$s of %5$s",
+  "note": "* TRANSLATORS: \"Unowned port space discovered at 1:11 by Ship2 33 steps | north of | Port5\"",
+  "ui": "logic/detected_port_space",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "9f0b810968",
+  "msgid": "Port space of %1$s discovered at %2$s by %3$s",
+  "zh": "",
+  "ui": "logic/detected_port_space",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "9536c8d5e4",
+  "msgid": "Creating player %d…",
+  "zh": "",
+  "ui": "logic/editor_game_base",
+  "current": "创建玩家 %d…"
+ },
+ {
+  "key": "88e3a24a98",
+  "msgid": "Postloading world and tribes…",
+  "zh": "",
+  "ui": "logic/editor_game_base",
+  "current": "正在加载世界和部落…"
+ },
+ {
+  "key": "e08bbe86d8",
+  "msgid": "Cleaning up for loading: Map objects (1/3)",
+  "zh": "",
+  "ui": "logic/editor_game_base",
+  "current": "清理后加载: 地图对象 (1/3)"
+ },
+ {
+  "key": "372ac7247c",
+  "msgid": "Cleaning up for loading: Players (2/3)",
+  "zh": "",
+  "ui": "logic/editor_game_base",
+  "current": "清理后加载: 玩家 (2/3)"
+ },
+ {
+  "key": "ef9adcb7d9",
+  "msgid": "Cleaning up for loading: Map (3/3)",
+  "zh": "",
+  "ui": "logic/editor_game_base",
+  "current": "清理后加载: 地图 (3/3)"
+ },
+ {
+  "key": "50be8c60cd",
+  "msgid": "Trade Offer",
+  "zh": "",
+  "ui": "logic/game",
+  "current": "交易报价",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "ef5a452eac",
+  "msgid": "New trade offer received",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "ea1dd737d2",
+  "msgid": "You have received a new trade offer from %s.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "ec57625b06",
+  "msgid": "Trade Accepted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "ae0679e932",
+  "msgid": "Trade offer accepted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "80418514b1",
+  "msgid": "%1$s has accepted your trade offer at %2$s.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "d1c9125c12",
+  "msgid": "Trade Rejected",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "531d2913c0",
+  "msgid": "Trade offer rejected",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "8429f2b601",
+  "msgid": "%1$s has rejected your trade offer at %2$s.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "d79dec57df",
+  "msgid": "Trade Retracted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "af958509c1",
+  "msgid": "Trade offer retracted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "f8cb0b3b2e",
+  "msgid": "The trade offer by %s has been retracted.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "a54e2fc0c2",
+  "msgid": "Trade Extension Proposal",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "3129e30e1e",
+  "msgid": "New trade extension proposal received",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "a4a4a42e16",
+  "msgid": "%s has proposed to extend a trade.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "2d61bd9d53",
+  "msgid": "Trade Extension Retracted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "1424418aca",
+  "msgid": "Trade extension proposal retracted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "83803dd182",
+  "msgid": "The proposal by %s to extend a trade has been retracted.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "c00a573c7c",
+  "msgid": "Trade Extension Rejected",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "731e610ea0",
+  "msgid": "Trade extension proposal rejected",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "de2632648a",
+  "msgid": "%s has rejected your proposal to extend a trade.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "30c78feb87",
+  "msgid": "Trade Extension Accepted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "2977e072fc",
+  "msgid": "Trade extension proposal accepted",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "fd64386ca8",
+  "msgid": "%s has accepted your proposal to extend a trade.",
+  "zh": "",
+  "ui": "logic/game",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "7c0b625339",
+  "msgid": "Not set",
+  "zh": "",
+  "note": "* TRANSLATORS: Win condition for this game has not been set.",
+  "ui": "logic/game",
+  "current": "未设定"
+ },
+ {
+  "key": "a42c92d8e5",
+  "msgid": "Preloading map…",
+  "zh": "",
+  "ui": "logic/game",
+  "current": "预加载地图…"
+ },
+ {
+  "key": "4b58374b0c",
+  "msgid": "Initializing game…",
+  "zh": "",
+  "ui": "logic/game",
+  "current": "初始化游戏"
+ },
+ {
+  "key": "0519df784c",
+  "msgid": "Creating player infrastructure…",
+  "zh": "",
+  "note": "* TRANSLATORS: All players (plural)",
+  "ui": "logic/game",
+  "current": "创建玩家基础设施…"
+ },
+ {
+  "key": "c4af99b918",
+  "msgid": "Missing starting position",
+  "zh": "",
+  "ui": "logic/game",
+  "current": "缺少起始位置"
+ },
+ {
+  "key": "42d01a53ec",
+  "msgid": "Widelands could not start the game, because player %u has no starting position.\nYou can manually add a starting position with the Widelands Editor to fix this problem.",
+  "zh": "",
+  "ui": "logic/game",
+  "current": "Widelands不能开始游戏，因为玩家%u缺少起始位置。\n你可以用Widelands编辑器手动添加一个开始位置来解决这个问题。"
+ },
+ {
+  "key": "c8ce9c0a5c",
+  "msgid": "Initializing…",
+  "zh": "",
+  "ui": "logic/game"
+ },
+ {
+  "key": "414c4e35c0",
+  "msgid": "This game was saved using an older version of Widelands and cannot be loaded anymore, or it’s a new version that can’t be handled yet.",
+  "zh": "",
+  "ui": "logic/game_data_error",
+  "current": "这个游戏存档是用一个旧版本的Widelands保存的，所以不能够被加载。此外，更高版本的Widelands创建的游戏存档也不能够被加载。"
+ },
+ {
+  "key": "9eab61b9fd",
+  "msgid": "File successfully saved!",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "文件成功保存！"
+ },
+ {
+  "key": "f6f6fcfaac",
+  "msgid": "Backup file ‘%s’ could not be deleted.",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "备份文件 ‘%s’ 不能被删除。"
+ },
+ {
+  "key": "6e837d85a3",
+  "msgid": "Directory ‘%s’ could not be created!",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "文件夹 ‘%s’ 不能被创建！"
+ },
+ {
+  "key": "874e90cbcf",
+  "msgid": "File ‘%s’ could not be removed!",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "文件 ‘%s’ 不能被移除！"
+ },
+ {
+  "key": "f76d51e939",
+  "msgid": "Try saving under a different name!",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "尝试用其他名称保存！"
+ },
+ {
+  "key": "f6b3da55c6",
+  "msgid": "Error writing data to file ‘%s’!",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "将数据写入文件时出现错误  ‘%s’！"
+ },
+ {
+  "key": "5d13e2d6c2",
+  "msgid": "Saved file may be corrupt!",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "保存的文件可能已损坏！"
+ },
+ {
+  "key": "b9d4a68a28",
+  "msgid": "File ‘%s’ could not be restored!",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "文件 ‘%s’ 无法还原！"
+ },
+ {
+  "key": "846d9b7cf2",
+  "msgid": "Backup file ‘%s’ will be available for some time.",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "备份文件 ‘%s’ 将会有一段时间。"
+ },
+ {
+  "key": "c6f1d65400",
+  "msgid": "File ‘%s’ was restored from backup.",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "文件 ‘%s’  已从备份还原。"
+ },
+ {
+  "key": "b13584db3f",
+  "msgid": "An unexpected error occurred:",
+  "zh": "",
+  "ui": "logic/generic_save_handler",
+  "current": "发生意外错误："
+ },
+ {
+  "key": "87c770a81d",
+  "msgid": "Summer",
+  "zh": "",
+  "note": "* TRANSLATORS: A world name for the random map generator in the editor",
+  "ui": "logic/map",
+  "current": "夏季",
+  "terms": [
+   "Summer = 夏季"
+  ]
+ },
+ {
+  "key": "f24c845490",
+  "msgid": "Winter",
+  "zh": "",
+  "note": "* TRANSLATORS: A world name for the random map generator in the editor",
+  "ui": "logic/map",
+  "current": "冬季",
+  "terms": [
+   "Winter = 冬季"
+  ]
+ },
+ {
+  "key": "4b7e1cb34d",
+  "msgid": "Wasteland",
+  "zh": "",
+  "note": "* TRANSLATORS: A world name for the random map generator in the editor",
+  "ui": "logic/map, ui/editor",
+  "current": "荒地",
+  "terms": [
+   "Wasteland = 荒地"
+  ]
+ },
+ {
+  "key": "c2557d9bdf",
+  "msgid": "Desert",
+  "zh": "",
+  "note": "* TRANSLATORS: A world name for the random map generator in the editor",
+  "ui": "logic/map",
+  "current": "沙漠",
+  "terms": [
+   "Desert = 沙漠"
+  ]
+ },
+ {
+  "key": "fc905c4f27",
+  "msgid": "No Name",
+  "zh": "",
+  "note": "* TRANSLATORS: Default name for new map",
+  "ui": "logic/map, ui/editor, ui/shared",
+  "current": "新地图"
+ },
+ {
+  "key": "4a154c7918",
+  "msgid": "Unknown",
+  "zh": "",
+  "msgctxt": "author_name",
+  "note": "* TRANSLATORS: Map author name when it hasn't been set yet",
+  "ui": "logic/map, ui/editor, ui/fsmenu",
+  "current": "未知"
+ },
+ {
+  "key": "1e0cb8ee86",
+  "msgid": "No description defined",
+  "zh": "",
+  "ui": "logic/map",
+  "current": "未定义描述"
+ },
+ {
+  "key": "e9e95e9d9b",
+  "msgid": "%i%% built",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "%i%% 已建造"
+ },
+ {
+  "key": "c3f95bdcb8",
+  "msgid": "%u%% dismantled",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "current": "%u%% 已拆除"
+ },
+ {
+  "key": "69833e7580",
+  "msgid": "%u trade",
+  "zh": "",
+  "msgid_plural": "%u trades",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "c2f573a1cc",
+  "msgid": "Trade Cancelled",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "019351f7ea",
+  "msgid": "Trade Complete",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "2d73a84d39",
+  "msgid": "Trade agreement cancelled",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "0d9d7a4f0e",
+  "msgid": "Trade agreement complete",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "7596159447",
+  "msgid": "Your trade agreement at %s has been completed.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "65c9b5b35c",
+  "msgid": "Your trade agreement at %s has been cancelled.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "4d0607ab07",
+  "msgid": "Trade Paused",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "dda1bd419a",
+  "msgid": "Trade agreement paused",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "3487baeb2f",
+  "msgid": "%1$s paused the trade with you at %2$s.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "3fde54d1c2",
+  "msgid": "Trade Resumed",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "0a031b1781",
+  "msgid": "Trade agreement resumed",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "4920d070d1",
+  "msgid": "%1$s resumed the trade with you at %2$s.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "14df41e29d",
+  "msgid": "A new market was added to your economy.",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "9fbe7a5615",
+  "msgid": "Trade agreement at %1$s with %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: \"At\" is the market's name, and \"with\" is the receiving | player's name",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "a12d7b674b",
+  "msgid": "Trade offer from %s",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "b993c23f26",
+  "msgid": "Trade offer from %1$s to %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: \"From\" is the market's name, and \"to\" is the receiving | player's name",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ },
+ {
+  "key": "337779dbd3",
+  "msgid": "%d batch",
+  "zh": "",
+  "msgid_plural": "%d batches",
+  "ui": "logic/map_objects"
+ },
+ {
+  "key": "4d375fc828",
+  "msgid": "Trade runs indefinitely",
+  "zh": "",
+  "ui": "logic/map_objects",
+  "terms": [
+   "Trade = 贸易"
+  ]
+ }
+]
