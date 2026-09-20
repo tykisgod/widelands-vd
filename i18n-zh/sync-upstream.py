@@ -101,7 +101,7 @@ def survey():
     print(f'zh-CN 相对 {UPSTREAM}：落后 {behind} 个提交，领先 {ahead} 个')
     if not behind:
         print('已是最新，无需同步。')
-        return 0
+        return 0, set()
 
     base = out('merge-base', 'HEAD', UPSTREAM)
     print(f'\n上游新提交（{behind} 个，最近 15 条）：')
@@ -112,11 +112,14 @@ def survey():
                '--', 'data/i18n').splitlines()
     pots = [f for f in i18n if f.endswith('.pot')]
     print(f'\n其中动到 data/i18n 的文件 {len(i18n)} 个，pot {len(pots)} 个')
+    # 只有 pot 变了的域才需要 key 合并。pot 没变的域碰都不该碰——pot2po
+    # 会顺手改写表头，32 个域全跑就是 32 个文件的无关 diff。
+    changed_domains = {os.path.basename(os.path.dirname(f)) for f in pots}
     if pots:
         print('pot 有变动 —— 需要做 key 级合并，可能有新串要翻译：')
         for f in pots[:10]:
             print('  ' + f)
-    return behind
+    return behind, changed_domains
 
 
 def resolve_conflicts():
