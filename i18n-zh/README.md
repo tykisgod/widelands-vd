@@ -5,9 +5,11 @@
 
 ## 署名
 
-**tyk (Variables Digital)** — 项目发起与主持，术语裁决，最终定稿
+**tyk (Variables Digital)** &lt;tyk@varsdigital.com&gt; — 项目发起与主持，术语裁决，最终定稿
 **Claude Code (Anthropic)** — 译文撰写、工具开发
 **Codex (OpenAI)** — 设计文档与术语表评审
+
+译文有问题或有更好的译法，欢迎提 issue，也可以直接写信到上面的地址。
 
 本项目的译文由 AI 辅助完成，全部经人工裁决与实机验收后定稿。之所以写明，
 是因为公开发布的译文理应让使用者知道它是怎么来的。
