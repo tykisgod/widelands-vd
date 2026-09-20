@@ -51,3 +51,8 @@ Backspace
 Caps Lock
 Scroll Lock
 Numpad Lock
+URI
+IP
+last
+widelands <save.wgf>/<replay.wry>
+[de_DE|sv_SE|...]

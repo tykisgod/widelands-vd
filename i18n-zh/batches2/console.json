@@ -1,0 +1,578 @@
+[
+ {
+  "key": "62ae11492b",
+  "msgid": "Load the replay `%1$s` directly or the last saved replay if `=%2$s` is used.",
+  "zh": "",
+  "note": "* TRANSLATORS: %1 is translation for FILENAME, | %2 is translation for \"last\" for last used file",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "cc8ce97c30",
+  "msgid": "Start the Widelands map editor directly. You can add `=%1$s` to directly load the map `FILENAME` in the editor or `=%2$s` to load the last edited map.",
+  "zh": "",
+  "note": "* TRANSLATORS: %1 is translation for FILENAME, | %2 is translation for \"last\" for last used file"
+ },
+ {
+  "key": "63a9407571",
+  "msgid": "Run the given Lua script after initialization. Only valid with --scenario, --loadgame, or --editor.",
+  "zh": ""
+ },
+ {
+  "key": "9bb3f84f4f",
+  "msgid": "n",
+  "zh": "",
+  "note": "* TRANSLATORS: A placeholder for a numerical value"
+ },
+ {
+  "key": "ab95ec334b",
+  "msgid": "Start the scenario with difficulty `n`. Only valid with --scenario.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder"
+ },
+ {
+  "key": "cf5356ba9c",
+  "msgid": "Start the game with sound disabled.",
+  "zh": ""
+ },
+ {
+  "key": "cf4837884b",
+  "msgid": "Start the game with shuffle mode for playback of songs",
+  "zh": ""
+ },
+ {
+  "key": "d5d263a0b2",
+  "msgid": "[true*|false]",
+  "zh": "",
+  "note": "* TRANSLATORS: You may translate true/false, also as on/off or yes/no, but | * TRANSLATORS: it HAS TO BE CONSISTENT with the translation in the | widelands textdomain. | * TRANSLATORS: * marks the default value"
+ },
+ {
+  "key": "05da3c7571",
+  "msgid": "Play the intro music at startup and show splash image until it ends.",
+  "zh": ""
+ },
+ {
+  "key": "3130f431dc",
+  "msgid": "Force Widelands to crash when a Lua error occurs.",
+  "zh": ""
+ },
+ {
+  "key": "74b088d103",
+  "msgid": "Force Widelands to crash when a game or the editor terminates with an error.",
+  "zh": ""
+ },
+ {
+  "key": "3d3fba4cce",
+  "msgid": "<seconds>",
+  "zh": "",
+  "note": "* TRANSLATORS: Placeholder for a time value in seconds"
+ },
+ {
+  "key": "9cde334453",
+  "msgid": "Automatically close modal message boxes after the given number of seconds time.",
+  "zh": "",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "fe27f9b087",
+  "msgid": "Delete replays automatically after `n` weeks.",
+  "zh": ""
+ },
+ {
+  "key": "b7614a7c54",
+  "msgid": "Enable AI training mode. See https://www.widelands.org/wiki/Ai%20Training/ for a full description of the AI training logic.",
+  "zh": ""
+ },
+ {
+  "key": "faf3f8798d",
+  "msgid": "Constantly adjust the game speed automatically depending on AI delay. Only to be used for AI testing or training (in conjunction with --ai_training).",
+  "zh": ""
+ },
+ {
+  "key": "2fafe15766",
+  "msgid": "Enable the Script Console and Cheating Mode.",
+  "zh": ""
+ },
+ {
+  "key": "693652e54f",
+  "msgid": "Game options:",
+  "zh": ""
+ },
+ {
+  "key": "7fc221632d",
+  "msgid": "Note: New values will be written to the config file.",
+  "zh": ""
+ },
+ {
+  "key": "45f6418a73",
+  "msgid": "Automatically save each `n` minutes.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder"
+ },
+ {
+  "key": "265f4bbb49",
+  "msgid": "Use `n` files for rolling autosaves.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder"
+ },
+ {
+  "key": "f733ddd4b3",
+  "msgid": "Do not create an autosave when the user has been inactive since the last autosave.",
+  "zh": ""
+ },
+ {
+  "key": "dc54e2c3a4",
+  "msgid": "Do not save files as binary zip archives.",
+  "zh": ""
+ },
+ {
+  "key": "8e3ba26968",
+  "msgid": "Save files as binary zip archives.",
+  "zh": ""
+ },
+ {
+  "key": "38e121d989",
+  "msgid": "[true|false*]",
+  "zh": "",
+  "note": "* TRANSLATORS: You may translate true/false, also as on/off or yes/no, but | * TRANSLATORS: it HAS TO BE CONSISTENT with the translation in the | widelands textdomain. | * TRANSLATORS: * marks the default value"
+ },
+ {
+  "key": "676a5045e5",
+  "msgid": "Whether to save the history of sent chat messages to a file.",
+  "zh": ""
+ },
+ {
+  "key": "6388f44af0",
+  "msgid": "Show filenames in the replay screen.",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "47f98d423c",
+  "msgid": "Whether a warning should be shown in the editor if there are too many players.",
+  "zh": ""
+ },
+ {
+  "key": "e6bc047484",
+  "msgid": "Pause the game after `n` minutes of user inactivity.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder"
+ },
+ {
+  "key": "5051837ef5",
+  "msgid": "Start building a road after placing a flag.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "5666f1b4f6",
+  "msgid": "Bitmask of display flags to set for new games.",
+  "zh": ""
+ },
+ {
+  "key": "f659456970",
+  "msgid": "[...]",
+  "zh": "",
+  "note": "* TRANSLATORS: The … character is not used on purpose to increase | readability on monospaced | terminals"
+ },
+ {
+  "key": "f950b0ca53",
+  "msgid": "Scroll when the mouse cursor is near the screen edge.",
+  "zh": ""
+ },
+ {
+  "key": "39696467d5",
+  "msgid": "Invert click-and-drag map movement direction.",
+  "zh": ""
+ },
+ {
+  "key": "72a84f4e8c",
+  "msgid": "Allow diagonal scrolling with the numeric keypad.",
+  "zh": ""
+ },
+ {
+  "key": "b353cdf8a8",
+  "msgid": "Display system time in the info panel.",
+  "zh": ""
+ },
+ {
+  "key": "d926d10f2e",
+  "msgid": "Use single watchwindow mode.",
+  "zh": ""
+ },
+ {
+  "key": "c2b55c35ca",
+  "msgid": "Show in-game chat with transparent background.",
+  "zh": ""
+ },
+ {
+  "key": "27f488f39f",
+  "msgid": "Bitmask to set the toolbar location and mode.",
+  "zh": ""
+ },
+ {
+  "key": "5b0eed40e4",
+  "msgid": "Default pagesize for paginated structures.",
+  "zh": ""
+ },
+ {
+  "key": "9b3286f1a6",
+  "msgid": "Networking:",
+  "zh": ""
+ },
+ {
+  "key": "9f8c5d3a93",
+  "msgid": "URI",
+  "zh": ""
+ },
+ {
+  "key": "7b619ceb58",
+  "msgid": "Connect to a different metaserver for internet gaming.",
+  "zh": "",
+  "terms": [
+   "Metaserver = 元服务器"
+  ]
+ },
+ {
+  "key": "a2a190fb86",
+  "msgid": "Port number `n` of the metaserver for internet gaming.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder",
+  "terms": [
+   "Metaserver = 元服务器",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "8291083f3e",
+  "msgid": "The name of the last hosted game.",
+  "zh": "",
+  "terms": [
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "dfcf43b645",
+  "msgid": "The nickname used for LAN and online games.",
+  "zh": ""
+ },
+ {
+  "key": "e7cbb61df7",
+  "msgid": "Name of map author.",
+  "zh": "",
+  "terms": [
+   "Name = 名称"
+  ]
+ },
+ {
+  "key": "8b4aa27bc2",
+  "msgid": "The last host connected to.",
+  "zh": ""
+ },
+ {
+  "key": "11048d9045",
+  "msgid": "Whether the used metaserver login is for a registered user.",
+  "zh": "",
+  "terms": [
+   "Metaserver = 元服务器"
+  ]
+ },
+ {
+  "key": "a80916f9be",
+  "msgid": "The hashed password for online logins.",
+  "zh": ""
+ },
+ {
+  "key": "ad3b560cc6",
+  "msgid": "IP",
+  "zh": ""
+ },
+ {
+  "key": "445e10cf66",
+  "msgid": "Connect to a different server address from the add-ons manager.",
+  "zh": "",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "607eaa88bf",
+  "msgid": "Connect to a different server port from the add-ons manager.",
+  "zh": "",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容",
+   "Server = 服务器",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "49b471a68a",
+  "msgid": "Create syncstream dump files to help debug network games.",
+  "zh": "",
+  "note": "* TRANSLATORS: A syncstream is a synchronization stream. Syncstreams are | used in | * multiplayer | * TRANSLATORS: games to make sure that there is no mismatch between the | players."
+ },
+ {
+  "key": "aacec85bd2",
+  "msgid": "Graphic options:",
+  "zh": ""
+ },
+ {
+  "key": "24251a6991",
+  "msgid": "Use the whole display for the game screen.",
+  "zh": ""
+ },
+ {
+  "key": "1d14398253",
+  "msgid": "Start the game in a maximized window.",
+  "zh": ""
+ },
+ {
+  "key": "6479b71675",
+  "msgid": "x",
+  "zh": "",
+  "note": "* TRANSLATORS: A placeholder for window width"
+ },
+ {
+  "key": "cc59d73504",
+  "msgid": "Width `x` of the window in pixel.",
+  "zh": "",
+  "note": "* TRANSLATORS: `x` references a window width placeholder"
+ },
+ {
+  "key": "7e16e872fc",
+  "msgid": "y",
+  "zh": "",
+  "note": "* TRANSLATORS: A placeholder for window height"
+ },
+ {
+  "key": "09810f64d3",
+  "msgid": "Height `y` of the window in pixel.",
+  "zh": "",
+  "note": "* TRANSLATORS: `y` references a window height placeholder"
+ },
+ {
+  "key": "c340133f44",
+  "msgid": "Whether to let the system draw the mouse cursor. Disable it only if the cursor doesn't appear right, or if you want it to be visible in screenshots or screencasts.",
+  "zh": ""
+ },
+ {
+  "key": "114ce9a62a",
+  "msgid": "Whether to use sticky tooltips.",
+  "zh": ""
+ },
+ {
+  "key": "ceb6222ee1",
+  "msgid": "The path to the active UI theme, relative to the Widelands home directory.",
+  "zh": "",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "934b61268d",
+  "msgid": "Options for the internal window manager:",
+  "zh": ""
+ },
+ {
+  "key": "213d53347c",
+  "msgid": "Whether automatic map movements should be animated.",
+  "zh": ""
+ },
+ {
+  "key": "7a05a8287c",
+  "msgid": "Move a window to the edge of the screen when the edge of the window comes within a distance `n` from the edge of the screen.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder"
+ },
+ {
+  "key": "3f6f415a70",
+  "msgid": "Eliminate a window’s border towards the edge of the screen when the edge of the window is next to the edge of the screen.",
+  "zh": ""
+ },
+ {
+  "key": "6a74837810",
+  "msgid": "Move a window to the edge of the panel when the edge of the window comes within a distance of `n` from the edge of the panel.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder"
+ },
+ {
+  "key": "bd50172f8c",
+  "msgid": "The factor by which to fractionally scale the Widelands user interface, in quarters.",
+  "zh": "",
+  "note": "* TRANSLATORS: `n` references a numerical placeholder"
+ },
+ {
+  "key": "cf835ae991",
+  "msgid": "Enable verbose debug messages",
+  "zh": ""
+ },
+ {
+  "key": "c4d26ce773",
+  "msgid": "Others:",
+  "zh": ""
+ },
+ {
+  "key": "434719bd5a",
+  "msgid": "Print all strings as they are translated. This helps with tracing down bugs with internationalization.",
+  "zh": ""
+ },
+ {
+  "key": "e990f62a2a",
+  "msgid": "Only print version and exit.",
+  "zh": ""
+ },
+ {
+  "key": "2f3eb070e4",
+  "msgid": "Show this help.",
+  "zh": ""
+ },
+ {
+  "key": "afb0cc7d35",
+  "msgid": "Show this help with all available config options.",
+  "zh": ""
+ },
+ {
+  "key": "b512ea289a",
+  "msgid": "<save.wgf>/<replay.wry>",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "b678b9d207",
+  "msgid": "Load the given savegame or replay directly. Useful for .wgf/.wry file extension association. Does not work with other options. Also see --loadgame/--replay.",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "2da0c4de1c",
+  "msgid": "This is Widelands version %s",
+  "zh": "",
+  "note": "* TRANSLATORS: %s = version information"
+ },
+ {
+  "key": "7e81fd06b7",
+  "msgid": "Bug reports? Suggestions? Check out the project website:\n        https://www.widelands.org/\n\nHope you enjoy this game!",
+  "zh": ""
+ },
+ {
+  "key": "a72ece1f55",
+  "msgid": "%1$s|%2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Separator for alternative values for command line parameters"
+ },
+ {
+  "key": "6c6638b48e",
+  "msgid": "FILENAME",
+  "zh": ""
+ },
+ {
+  "key": "7cb49cc3e6",
+  "msgid": "last",
+  "zh": "",
+  "note": "* TRANSLATORS: Used instead of a file name indicating last savegame, replay | or map. | Use '_' instead of spaces if you need multiple words and don't use | punctuation marks"
+ },
+ {
+  "key": "42037e229e",
+  "msgid": "Usage:",
+  "zh": ""
+ },
+ {
+  "key": "21c7dde67e",
+  "msgid": "widelands <option0>=<value0> ... <optionN>=<valueN>",
+  "zh": ""
+ },
+ {
+  "key": "7c55a4fbf2",
+  "msgid": "widelands <save.wgf>/<replay.wry>",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "090d7b3410",
+  "msgid": "DIRNAME",
+  "zh": ""
+ },
+ {
+  "key": "096afac9f5",
+  "msgid": "Options:",
+  "zh": ""
+ },
+ {
+  "key": "26f4d3c0a8",
+  "msgid": "Use the specified directory for the Widelands data files.",
+  "zh": "",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "f5fcc2bfa7",
+  "msgid": "Use the specified directory for Widelands config files, savegames, and replays. Default is `%s`.",
+  "zh": "",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "9675c730d3",
+  "msgid": "Use the specified directory for the Widelands locale files.",
+  "zh": "",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "803ccbf518",
+  "msgid": "Use the specified locale.",
+  "zh": ""
+ },
+ {
+  "key": "eb372bc74a",
+  "msgid": "[de_DE|sv_SE|...]",
+  "zh": "",
+  "note": "* TRANSLATORS: The … is not used on purpose to increase readability on | monospaced terminals"
+ },
+ {
+  "key": "44fd51199a",
+  "msgid": "Do not check whether the data directory to use is compatible with this Widelands version.",
+  "zh": "",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "6900e86eeb",
+  "msgid": "Create a new game directly with the settings configured in the given file. An example can be found in `%s`.",
+  "zh": ""
+ },
+ {
+  "key": "216f4e5f88",
+  "msgid": "Start the map `FILENAME` directly as a singleplayer scenario.",
+  "zh": ""
+ },
+ {
+  "key": "681b3d2e6b",
+  "msgid": "Load the savegame `%1$s` directly or the last saved game if `=%2$s` is used.",
+  "zh": "",
+  "note": "* TRANSLATORS: %1 is translation for FILENAME, | %2 is translation for \"last\" for last used file",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ }
+]
