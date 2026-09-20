@@ -59,6 +59,11 @@ class Entry:
     def translated(self) -> bool:
         return any(s.strip() for s in self.msgstrs)
 
+    @property
+    def key(self) -> tuple:
+        """gettext 的条目身份：上下文 + 单数原文 + 复数原文。"""
+        return (self.ctxt, self.msgid, self.msgid_plural)
+
 
 def parse_po(path: str):
     """按空行切分条目，返回 Entry 列表。容忍 CRLF。"""
@@ -334,10 +339,67 @@ CHECKS = [check_placeholders, check_escapes, check_plural,
           check_untranslated, check_punctuation, check_trailing_space, check_fuzzy]
 
 
-def check_file(path, terms, require_complete):
+def count_obsolete(path):
+    """'#~' 废弃条目。运行时无风险（tinygettext 当普通注释整块忽略，
+    po_parser.cpp:355），但它是"上游删过串、此 po 被合并过"的信号。"""
+    n = 0
+    with open(path, encoding='utf-8') as fh:
+        for line in fh:
+            if line.lstrip().startswith('#~'):
+                n += 1
+    return n
+
+
+def check_pot_sync(po_path, pot_path, po_entries, out):
+    """po 与 pot 的键集必须双向一致。
+
+    这取代了"条目数等于某个固定数字"的验收方式。固定数字只能抓住四种
+    失效里的一种：上游增删串而未做 key 级合并时，po 的条目数和非空率都
+    不变，验收静默通过，但新串在运行时全部回退英文。
+    """
+    if not os.path.exists(pot_path):
+        out.append(Problem('error', po_path, 0, 'pot-missing',
+                           f'找不到 pot 文件：{pot_path}'))
+        return
+
+    pot_keys = {e.key for e in parse_po(pot_path) if not e.is_header}
+    po_keys = {e.key for e in po_entries if not e.is_header}
+
+    only_pot = pot_keys - po_keys
+    only_po = po_keys - pot_keys
+
+    for key in sorted(only_pot)[:20]:
+        out.append(Problem('error', po_path, 0, 'pot-sync',
+                           f'pot 中存在但 po 缺失（运行时会回退英文）：'
+                           f'ctxt={key[0]!r}', key[1]))
+    if len(only_pot) > 20:
+        out.append(Problem('error', po_path, 0, 'pot-sync',
+                           f'……另有 {len(only_pot) - 20} 条 pot 独有键未列出'))
+
+    for key in sorted(only_po)[:20]:
+        out.append(Problem('error', po_path, 0, 'pot-sync',
+                           f'po 中存在但 pot 已无（死键，上游已删除）：'
+                           f'ctxt={key[0]!r}', key[1]))
+    if len(only_po) > 20:
+        out.append(Problem('error', po_path, 0, 'pot-sync',
+                           f'……另有 {len(only_po) - 20} 条 po 独有键未列出'))
+
+    n = count_obsolete(po_path)
+    if n:
+        out.append(Problem('warning', po_path, 0, 'obsolete',
+                           f'存在 {n} 行 "#~" 废弃条目；运行时被忽略，'
+                           f'但说明此文件被合并过，建议清理'))
+
+    if not only_pot and not only_po:
+        print(f'  pot 键集比对通过：{len(pot_keys)} 条，双向无差集')
+
+
+def check_file(path, terms, require_complete, pot_path=''):
     out = []
     entries = parse_po(path)
     checked = 0
+    if pot_path:
+        check_pot_sync(path, pot_path, entries, out)
     for e in entries:
         if e.is_header:
             continue
@@ -358,6 +420,9 @@ def main():
     ap.add_argument('--keep-english', default=os.path.join(
         os.path.dirname(os.path.abspath(__file__)), 'keep-english.txt'),
         help='合法保持英文的 msgid 清单')
+    ap.add_argument('--pot', default='',
+                    help='对应的 .pot 文件；比对 (msgctxt, msgid, msgid_plural) '
+                         '键集是否双向一致。--all 时自动按同目录推导')
     ap.add_argument('--require-complete', action='store_true',
                     help='把未译条目也算作 error（验收阶段用）')
     ap.add_argument('--quiet', action='store_true', help='只输出汇总')
@@ -380,14 +445,21 @@ def main():
         print(f'保持英文清单载入 {len(KEEP_ENGLISH)} 条')
     print()
 
-    total_err = total_warn = total_entries = total_checked = 0
+    total_err = total_warn = total_entries = total_checked = total_translated = 0
     for path in files:
-        entries, checked, problems = check_file(path, terms, args.require_complete)
+        pot = args.pot
+        if not pot and args.all:
+            # 同目录下的 <域名>.pot
+            domain = os.path.basename(os.path.dirname(path))
+            candidate = os.path.join(os.path.dirname(path), domain + '.pot')
+            pot = candidate if os.path.exists(candidate) else ''
+        entries, checked, problems = check_file(path, terms, args.require_complete, pot)
         errs = [p for p in problems if p.level == 'error']
         warns = [p for p in problems if p.level == 'warning']
         total_err += len(errs)
         total_warn += len(warns)
         total_entries += sum(1 for e in entries if not e.is_header)
+        total_translated += sum(1 for e in entries if not e.is_header and e.translated)
         total_checked += checked
 
         if not args.quiet:
@@ -398,7 +470,9 @@ def main():
             print(f'  -> {rel}: {len(errs)} error, {len(warns)} warning '
                   f'（已检查 {checked} 条译文）\n')
 
-    print(f'=== 共 {len(files)} 个文件，{total_entries} 条，已译 {total_checked} 条 '
+    pct = 100 * total_translated / total_entries if total_entries else 0
+    print(f'=== 共 {len(files)} 个文件，{total_entries} 条，已译 {total_translated} 条 '
+          f'({pct:.1f}%)，已检查 {total_checked} 条 '
           f'| {total_err} error, {total_warn} warning ===')
     return 1 if total_err else 0
 
