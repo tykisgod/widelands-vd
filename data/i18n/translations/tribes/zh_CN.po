@@ -4142,7 +4142,7 @@ msgstr "缝纫坊"
 #. TRANSLATORS: Completed/Skipped/Did not start sewing fur garment because ...
 #: ../../../../data/tribes/buildings/productionsites/frisians/sewing_room/init.lua:81
 msgid "sewing fur garment"
-msgstr "缝制皮装"
+msgstr "缝制毛皮衣"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/shipyard/init.lua:8
@@ -4166,13 +4166,13 @@ msgstr "裁缝店"
 #. because ...
 #: ../../../../data/tribes/buildings/productionsites/frisians/tailors_shop/init.lua:64
 msgid "sewing studded fur garment"
-msgstr "缝制钉饰皮铠"
+msgstr "缝制缀铁毛皮衣"
 
 #. TRANSLATORS: Completed/Skipped/Did not start sewing golden fur garment
 #. because ...
 #: ../../../../data/tribes/buildings/productionsites/frisians/tailors_shop/init.lua:76
 msgid "sewing golden fur garment"
-msgstr "缝制金缕皮铠"
+msgstr "缝制缀金毛皮衣"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/frisians/tavern/init.lua:8
@@ -8490,25 +8490,25 @@ msgstr "毛皮"
 #: ../../../../data/tribes/wares/fur_garment/init.lua:8
 msgctxt "ware"
 msgid "Fur Garment"
-msgstr "皮装"
+msgstr "毛皮衣"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/fur_garment_golden/init.lua:8
 msgctxt "ware"
 msgid "Golden Fur Garment"
-msgstr "金缕皮铠"
+msgstr "缀金毛皮衣"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/fur_garment_old/init.lua:8
 msgctxt "ware"
 msgid "Old Fur Garment"
-msgstr "旧皮衣"
+msgstr "旧毛皮衣"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/fur_garment_studded/init.lua:8
 msgctxt "ware"
 msgid "Studded Fur Garment"
-msgstr "钉饰皮铠"
+msgstr "缀铁毛皮衣"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/gold/init.lua:8

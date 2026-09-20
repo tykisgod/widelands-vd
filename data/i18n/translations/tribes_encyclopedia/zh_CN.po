@@ -13978,7 +13978,7 @@ msgid ""
 " are also used in the blacksmithy to build basic tools, and in the charcoal "
 "kiln for the production of coal. Smokeries use logs as fuel for smoking meat"
 " and fish."
-msgstr ""
+msgstr "樵夫伐树，护林员照料树木的供应。原木还用于铁匠铺打造基础工具，以及煅炭窑产煤。熏肉铺则拿原木作燃料来熏制肉和鱼。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Granite, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:112
@@ -13986,7 +13986,7 @@ msgctxt "frisians_ware"
 msgid ""
 "The Frisians produce granite blocks in quarries and rock mines. They can be "
 "refined in a brick kiln."
-msgstr ""
+msgstr "弗里西亚人在采石场和岩石矿里产出花岗石块。它们可以在砖窑里进一步加工。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Clay
 #: ../../../../data/tribes/initialization/frisians/units.lua:122
@@ -13994,7 +13994,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Clay is made out of water and mud to be turned into bricks, used in ship "
 "construction and to improve the charcoal kiln."
-msgstr ""
+msgstr "黏土由水和泥土做成，用来烧砖，也用于造船和改良煅炭窑。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Brick
 #: ../../../../data/tribes/initialization/frisians/units.lua:131
@@ -14002,7 +14002,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Bricks are the best and most important building material. They are made out "
 "of a mix of clay and granite dried in a coal fire."
-msgstr ""
+msgstr "砖是最好也最重要的建材。它由黏土和花岗石的混合物在煤火中烘干而成。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Reed
 #: ../../../../data/tribes/initialization/frisians/units.lua:139
@@ -14011,7 +14011,7 @@ msgid ""
 "Reed is grown in a reed farm. Nothing is better suited to make roofs "
 "waterproof. It is also used to make baskets and fishing nets as well as "
 "cloth."
-msgstr ""
+msgstr "芦苇在芦苇场里栽种。要让屋顶防水，再没有比它更合适的。它还用来做篮子、渔网以及布料。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Fur
 #: ../../../../data/tribes/initialization/frisians/units.lua:148
@@ -14019,14 +14019,14 @@ msgctxt "frisians_ware"
 msgid ""
 "Fur is won from reindeer in a reindeer farm. It is woven into cloth or "
 "turned into fur garments for soldiers."
-msgstr ""
+msgstr "毛皮在驯鹿场里从驯鹿身上取得。它可以织成布料，也可以做成给士兵穿的毛皮衣。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Cloth
 #: ../../../../data/tribes/initialization/frisians/units.lua:157
 msgctxt "frisians_ware"
 msgid ""
 "Cloth is needed for ships. It is produced out of reindeer fur and reed."
-msgstr ""
+msgstr "船只需要布料。它由驯鹿毛皮和芦苇织成。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Fruit
 #: ../../../../data/tribes/initialization/frisians/units.lua:168
@@ -14034,7 +14034,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Fruit are berries gathered from berry bushes by a fruit collector. They are "
 "used for rations and for feeding the fish at the aqua farms."
-msgstr ""
+msgstr "水果是摘果人从浆果丛上采来的浆果。它用来做定额口粮，也用来在水产养殖场里喂鱼。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Water, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:179
@@ -14042,7 +14042,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Water is used to bake bread and brew beer. Reindeer farms and aqua farms "
 "also consume it."
-msgstr ""
+msgstr "水用来烤面包和酿啤酒。驯鹿场和水产养殖场也要消耗它。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Barley
 #: ../../../../data/tribes/initialization/frisians/units.lua:188
@@ -14050,7 +14050,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Barley is a slow-growing grain that is used for baking bread and brewing "
 "beer. It is also eaten by reindeer."
-msgstr ""
+msgstr "大麦是一种生长缓慢的谷物，用来烤面包和酿啤酒。驯鹿也吃它。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Honey
 #: ../../../../data/tribes/initialization/frisians/units.lua:196
@@ -14058,7 +14058,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Honey is produced by bees belonging to a beekeeper. It is used to bake honey"
 " bread and brew mead."
-msgstr ""
+msgstr "蜂蜜由养蜂人的蜜蜂产出。它用来烤蜂蜜面包和酿蜂蜜酒。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Bread
 #: ../../../../data/tribes/initialization/frisians/units.lua:205
@@ -14066,7 +14066,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Bread is made out of barley and water and is used in the taverns to prepare "
 "rations. It is also consumed by training soldiers."
-msgstr ""
+msgstr "面包由大麦和水做成，在小酒馆里用来做定额口粮。受训的士兵也要消耗它。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Honey Bread
 #: ../../../../data/tribes/initialization/frisians/units.lua:214
@@ -14074,7 +14074,7 @@ msgctxt "frisians_ware"
 msgid ""
 "This bread is sweetened with honey. It is consumed by the most experienced "
 "miners and in advanced soldier training."
-msgstr ""
+msgstr "这种面包用蜂蜜加了甜味。经验最丰富的矿工，以及高阶士兵训练，都要消耗它。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Beer
 #: ../../../../data/tribes/initialization/frisians/units.lua:223
@@ -14082,7 +14082,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Beer is produced in breweries and used in drinking halls to produce meals. "
 "Soldiers drink beer while receiving basic training."
-msgstr ""
+msgstr "啤酒在啤酒坊里酿造，在酒馆里用来做膳食。士兵接受基础训练时也要喝啤酒。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Mead
 #: ../../../../data/tribes/initialization/frisians/units.lua:232
@@ -14090,7 +14090,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Mead is produced by mead breweries. Soldiers drink mead during advanced "
 "training."
-msgstr ""
+msgstr "蜂蜜酒由蜂蜜酿酒厂酿造。士兵在高阶训练中要喝蜂蜜酒。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Fish
 #: ../../../../data/tribes/initialization/frisians/units.lua:241
@@ -14098,7 +14098,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Fish is a very important food resource for the Frisians. It is fished from "
 "the shore or reared in aqua farms."
-msgstr ""
+msgstr "鱼是弗里西亚人极为重要的食物来源。它从岸边捕获，或在水产养殖场里养成。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Meat, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:252
@@ -14106,7 +14106,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Meat has to be smoked in a smokery before being delivered to taverns, "
 "drinking halls and training sites."
-msgstr ""
+msgstr "肉必须先在熏肉铺里熏过，才能送往小酒馆、酒馆和训练场。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Smoked Fish
 #: ../../../../data/tribes/initialization/frisians/units.lua:262
@@ -14114,7 +14114,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Fish is smoked in a smokery. Smoked fish is then consumed by soldiers in "
 "training or turned into rations and meals for miners and scouts."
-msgstr ""
+msgstr "鱼在熏肉铺里熏制。熏鱼随后供受训的士兵食用，或做成定额口粮和膳食，供矿工和侦察兵享用。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Smoked Meat
 #: ../../../../data/tribes/initialization/frisians/units.lua:271
@@ -14122,7 +14122,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Meat is smoked in a smokery. Smoked meat is then consumed by soldiers in "
 "training or turned into rations and meals for miners and scouts."
-msgstr ""
+msgstr "肉在熏肉铺里熏制。烟熏肉随后供受训的士兵食用，或做成定额口粮和膳食，供矿工和侦察兵享用。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Ration, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:283
@@ -14130,7 +14130,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Rations are produced in taverns and drinking halls out of something to eat: "
 "Fruit, bread or smoked meat or fish."
-msgstr ""
+msgstr "定额口粮在小酒馆和酒馆里用能吃的东西做成：水果、面包，或者熏鱼、烟熏肉。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Meal
 #: ../../../../data/tribes/initialization/frisians/units.lua:293
@@ -14138,7 +14138,7 @@ msgctxt "frisians_ware"
 msgid ""
 "A meal is made out of honey bread and beer and either smoked fish or meat. "
 "It is consumed by miners in deep mines."
-msgstr ""
+msgstr "一份膳食由蜂蜜面包、啤酒，外加熏鱼或烟熏肉做成。井下矿场的矿工要消耗它。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Coal, part 1
 #: ../../../../data/tribes/initialization/frisians/units.lua:306
@@ -14146,7 +14146,7 @@ msgctxt "ware"
 msgid ""
 "Coal is mined in coal mines or produced out of logs by a charcoal burner in "
 "a charcoal kiln or charcoal burner’s house."
-msgstr ""
+msgstr "煤在煤矿里开采，也可由烧炭工在煅炭窑或煅炭厂里用原木烧制。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Coal, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:308
@@ -14154,13 +14154,13 @@ msgctxt "frisians_ware"
 msgid ""
 "The fires of the brick kilns, furnaces, armor smithies and recycling centers"
 " are fed with coal."
-msgstr ""
+msgstr "砖窑、熔炉、盔甲铺和再生中心的炉火都用煤来烧。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Iron Ore, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:321
 msgctxt "frisians_ware"
 msgid "It is smelted in a furnace to retrieve the iron."
-msgstr ""
+msgstr "它在熔炉里熔炼，以取得铁。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Iron, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:334
@@ -14168,7 +14168,7 @@ msgctxt "frisians_ware"
 msgid ""
 "It is produced by the furnace. Tools and weapons are made of iron. It is "
 "also used as jewellery for fur garment armor to give it a silver shine."
-msgstr ""
+msgstr "它由熔炉产出。工具和兵器都用铁打造。它还用作毛皮衣甲胄上的饰件，让其泛出银光。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Gold Ore, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:347
@@ -14176,7 +14176,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Smelted in a furnace, it turns into gold which is used as a precious "
 "building material and to produce weapons and armor."
-msgstr ""
+msgstr "在熔炉里熔炼后，它变成黄金——一种贵重的建材，也用来制造兵器和甲胄。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Gold, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:360
@@ -14185,7 +14185,7 @@ msgid ""
 "Only very important things are embellished with gold. It is produced by the "
 "furnace and is used to produce better swords and the best helmets. The best "
 "armor is also decorated with gold."
-msgstr ""
+msgstr "只有最要紧的东西才用黄金装点。它由熔炉产出，用来制造更好的剑和最好的头盔。最好的甲胄也用黄金装饰。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Scrap Iron
 #. TRANSLATORS: Helptext for a Frisian ware: Scrap metal (mixed)
@@ -14195,25 +14195,25 @@ msgctxt "frisians_ware"
 msgid ""
 "Discarded weapons and armor can be recycled in a recycling center to produce"
 " new tools, weapon and armor."
-msgstr ""
+msgstr "丢弃的兵器和甲胄可以在再生中心回收，用来制造新的工具、兵器和甲胄。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Old Fur Garment
 #: ../../../../data/tribes/initialization/frisians/units.lua:385
 msgctxt "frisians_ware"
 msgid "Old garments can be turned into fur in a recycling center."
-msgstr ""
+msgstr "旧衣物可以在再生中心变回毛皮。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Pick
 #: ../../../../data/tribes/initialization/frisians/units.lua:397
 msgctxt "frisians_ware"
 msgid "Picks are used by stonemasons and miners."
-msgstr ""
+msgstr "鹤嘴镐由石匠和矿工使用。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Felling Ax, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:409
 msgctxt "frisians_ware"
 msgid "Felling axes are used by woodcutters and produced by the blacksmithy."
-msgstr ""
+msgstr "伐木斧由樵夫使用，在铁匠铺里打造。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Shovel, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:422
@@ -14221,7 +14221,7 @@ msgctxt "frisians_ware"
 msgid ""
 "They are used by berry and reed farmers as well as foresters. Clay diggers "
 "also need them to dig mud out of hard soil."
-msgstr ""
+msgstr "浆果种植农夫、芦苇种植农夫和护林员都要用到它。挖泥工也需要它来从硬土里挖泥。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Hammer, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:435
@@ -14230,31 +14230,31 @@ msgid ""
 "Geologists, builders, blacksmiths and shipwrights all need a hammer. Make "
 "sure you’ve always got some in reserve! They are produced by the "
 "blacksmithy."
-msgstr ""
+msgstr "地质专家、建筑工人、铁匠和造船木工都需要锤子。记得随时留些备用！它们由铁匠铺打造。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Fishing Net
 #: ../../../../data/tribes/initialization/frisians/units.lua:445
 msgctxt "frisians_ware"
 msgid "Fishing nets are the tool used by fishers."
-msgstr ""
+msgstr "渔网是渔夫使用的工具。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Hunting Spear, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:457
 msgctxt "frisians_ware"
 msgid "Hunting spears are produced by the blacksmithy"
-msgstr ""
+msgstr "狩猎长矛由铁匠铺打造"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Scythe, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:470
 msgctxt "frisians_ware"
 msgid "Scythes are produced by the blacksmithy."
-msgstr ""
+msgstr "镰刀由铁匠铺打造。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Bread Paddle, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:483
 msgctxt "frisians_ware"
 msgid "Bread paddles are produced by the blacksmithy."
-msgstr ""
+msgstr "面包桨由铁匠铺打造。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Kitchen Tools
 #: ../../../../data/tribes/initialization/frisians/units.lua:493
@@ -14262,7 +14262,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Kitchen tools are needed for preparing rations and meals. The smoker also "
 "needs them."
-msgstr ""
+msgstr "备制定额口粮和膳食少不了厨房用具。熏肉工也需要它们。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Fire Tongs, part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:505
@@ -14270,7 +14270,7 @@ msgctxt "frisians_ware"
 msgid ""
 "They are used in the furnace and the brick kiln and produced by the "
 "blacksmithy."
-msgstr ""
+msgstr "它们用于熔炉和砖窑，由铁匠铺打造。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Basket
 #: ../../../../data/tribes/initialization/frisians/units.lua:515
@@ -14278,13 +14278,13 @@ msgctxt "frisians_ware"
 msgid ""
 "Baskets are needed by the fruit collector to gather berries. They are woven "
 "from reed and wood by the blacksmith."
-msgstr ""
+msgstr "摘果人采浆果需要篮子。它们由铁匠用芦苇和木头编成。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Needles
 #: ../../../../data/tribes/initialization/frisians/units.lua:524
 msgctxt "frisians_ware"
 msgid "Needles are used by seamstresses to sew cloth and fur garments."
-msgstr ""
+msgstr "针由女裁缝用来缝制布料和毛皮衣。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Short sword
 #: ../../../../data/tribes/initialization/frisians/units.lua:536
@@ -14293,7 +14293,7 @@ msgid ""
 "This is the basic weapon of the Frisian soldiers. Together with a fur "
 "garment, it makes up the equipment of young soldiers. Short swords are "
 "produced by the small armor smithy."
-msgstr ""
+msgstr "这是弗里西亚士兵的基础兵器。它和毛皮衣一起构成新兵的装备。短剑由轻装盔甲铺打造。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Long Sword
 #: ../../../../data/tribes/initialization/frisians/units.lua:545
@@ -14301,7 +14301,7 @@ msgctxt "frisians_ware"
 msgid ""
 "The long sword is the weapon used by level 1 soldiers. Level 4 soldiers are "
 "equipped with a long and a double-edged sword."
-msgstr ""
+msgstr "长剑是 1 级士兵使用的兵器。4 级士兵配备一把长剑和一把双刃剑。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Broadsword
 #: ../../../../data/tribes/initialization/frisians/units.lua:554
@@ -14309,7 +14309,7 @@ msgctxt "frisians_ware"
 msgid ""
 "The broadsword is the weapon used by level 2 soldiers. Level 5 soldiers are "
 "equipped with a broadsword and a double-edged sword."
-msgstr ""
+msgstr "阔剑是 2 级士兵使用的兵器。5 级士兵配备一把阔剑和一把双刃剑。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Double-edged Sword
 #: ../../../../data/tribes/initialization/frisians/units.lua:563
@@ -14317,7 +14317,7 @@ msgctxt "frisians_ware"
 msgid ""
 "The double-edged sword is the weapon used by level 3 soldiers. Level 6 "
 "soldiers are equipped with two of these ferocious swords."
-msgstr ""
+msgstr "双刃剑是 3 级士兵使用的兵器。6 级士兵配备两把这种凶狠的剑。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Fur Garment
 #: ../../../../data/tribes/initialization/frisians/units.lua:572
@@ -14325,7 +14325,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Fur can be sewn into garments. They are used as basic armor. All new "
 "soldiers are clothed in a fur garment."
-msgstr ""
+msgstr "毛皮可以缝成衣物，用作基础甲胄。所有新兵都穿毛皮衣。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Studded Fur Garment
 #: ../../../../data/tribes/initialization/frisians/units.lua:581
@@ -14333,7 +14333,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Ordinary fur garments can be decorated with iron to give them a silvery "
 "shine. These clothes make good armor."
-msgstr ""
+msgstr "普通的毛皮衣可以缀上铁，让它泛出银光。这样的衣物是不错的甲胄。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Golden Fur Garment
 #: ../../../../data/tribes/initialization/frisians/units.lua:590
@@ -14341,7 +14341,7 @@ msgctxt "frisians_ware"
 msgid ""
 "Ordinary fur garments can be decorated with iron and gold. Such clothes are "
 "the best armor."
-msgstr ""
+msgstr "普通的毛皮衣可以缀上铁和黄金。这样的衣物是最好的甲胄。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Helmet
 #: ../../../../data/tribes/initialization/frisians/units.lua:599
@@ -14349,7 +14349,7 @@ msgctxt "frisians_ware"
 msgid ""
 "A helmet is a basic tool to protect soldiers. It is produced in the small "
 "armor smithy and used to train soldiers from health level 0 to level 1."
-msgstr ""
+msgstr "头盔是保护士兵的基础装备。它在轻装盔甲铺里制造，用于把士兵的生命从 0 级练到 1 级。"
 
 #. TRANSLATORS: Helptext for a Frisian ware: Golden Helmet
 #: ../../../../data/tribes/initialization/frisians/units.lua:608
@@ -14357,19 +14357,19 @@ msgctxt "frisians_ware"
 msgid ""
 "A golden helmet protects soldiers. It is produced in the large armor smithy "
 "and used to train soldiers from health level 1 to level 2."
-msgstr ""
+msgstr "黄金头盔保护士兵。它在重装盔甲铺里制造，用于把士兵的生命从 1 级练到 2 级。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Carrier
 #: ../../../../data/tribes/initialization/frisians/units.lua:624
 msgctxt "frisians_worker"
 msgid "Carries items along your roads."
-msgstr ""
+msgstr "沿着你的道路搬运物品。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Ferry
 #: ../../../../data/tribes/initialization/frisians/units.lua:631
 msgctxt "frisians_worker"
 msgid "Ships wares across narrow rivers."
-msgstr ""
+msgstr "把物品运过狭窄的河道。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Reindeer
 #: ../../../../data/tribes/initialization/frisians/units.lua:640
@@ -14377,157 +14377,157 @@ msgctxt "frisians_worker"
 msgid ""
 "Reindeer help to carry items along busy roads. They are reared in a reindeer"
 " farm."
-msgstr ""
+msgstr "驯鹿帮着在繁忙的道路上搬运物品。它们在驯鹿场里饲育。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Reindeer Breeder
 #: ../../../../data/tribes/initialization/frisians/units.lua:647
 msgctxt "frisians_worker"
 msgid "Breeds reindeer as carriers and for their fur."
-msgstr ""
+msgstr "饲育驯鹿，既用作搬运，也为取毛皮。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Stonemason
 #: ../../../../data/tribes/initialization/frisians/units.lua:657
 msgctxt "frisians_worker"
 msgid "Cuts raw pieces of granite out of rocks in the vicinity."
-msgstr ""
+msgstr "从附近的岩石上凿下花岗石毛料。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Woodcutter
 #: ../../../../data/tribes/initialization/frisians/units.lua:664
 msgctxt "frisians_worker"
 msgid "Fells trees."
-msgstr ""
+msgstr "砍伐树木。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Forester
 #: ../../../../data/tribes/initialization/frisians/units.lua:671
 msgctxt "frisians_worker"
 msgid "Plants trees."
-msgstr ""
+msgstr "种植树木。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Clay Digger
 #: ../../../../data/tribes/initialization/frisians/units.lua:678
 msgctxt "frisians_worker"
 msgid "Makes clay out of mud and water."
-msgstr ""
+msgstr "用泥土和水制作黏土。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Brickmaker
 #: ../../../../data/tribes/initialization/frisians/units.lua:685
 msgctxt "frisians_worker"
 msgid "Burns bricks out of clay and granite."
-msgstr ""
+msgstr "用黏土和花岗石烧砖。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Builder
 #: ../../../../data/tribes/initialization/frisians/units.lua:692
 msgctxt "frisians_worker"
 msgid "Works at construction sites to raise new buildings."
-msgstr ""
+msgstr "在工地上干活，把新建筑盖起来。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Gardener
 #: ../../../../data/tribes/initialization/frisians/units.lua:699
 msgctxt "frisians_worker"
 msgid "Plants and harvests reed fields."
-msgstr ""
+msgstr "种植并收割芦苇田。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Seamstress
 #: ../../../../data/tribes/initialization/frisians/units.lua:706
 msgctxt "frisians_worker"
 msgid "Produces cloth and sews fur garments."
-msgstr ""
+msgstr "生产布料，缝制毛皮衣。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Master Seamstress
 #: ../../../../data/tribes/initialization/frisians/units.lua:713
 msgctxt "frisians_worker"
 msgid "Sews armor out of fur garments and metal."
-msgstr ""
+msgstr "用毛皮衣和金属缝制甲胄。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Shipwright
 #: ../../../../data/tribes/initialization/frisians/units.lua:720
 msgctxt "frisians_worker"
 msgid "Works at the shipyard and constructs new ships."
-msgstr ""
+msgstr "在造船厂干活，建造新船。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian worker: Diker
 #: ../../../../data/tribes/initialization/frisians/units.lua:727
 msgctxt "frisians_worker"
 msgid "Constructs breakwaters to gain new land from the sea."
-msgstr ""
+msgstr "修筑防波堤，向海要地。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Fisher
 #: ../../../../data/tribes/initialization/frisians/units.lua:737
 msgctxt "frisians_worker"
 msgid "Catches fish in the sea."
-msgstr ""
+msgstr "在海里捕鱼。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Hunter
 #: ../../../../data/tribes/initialization/frisians/units.lua:744
 msgctxt "frisians_worker"
 msgid "The hunter brings fresh, raw meat to the colonists."
-msgstr ""
+msgstr "猎人给拓荒者带来新鲜的生肉。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Farmer
 #: ../../../../data/tribes/initialization/frisians/units.lua:751
 msgctxt "frisians_worker"
 msgid "Plants fields."
-msgstr ""
+msgstr "种植田地。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Berry Farmer
 #: ../../../../data/tribes/initialization/frisians/units.lua:758
 msgctxt "frisians_worker"
 msgid "Plants berry bushes."
-msgstr ""
+msgstr "栽种浆果丛。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Fruit Collector
 #: ../../../../data/tribes/initialization/frisians/units.lua:765
 msgctxt "frisians_worker"
 msgid "Gathers berries."
-msgstr ""
+msgstr "采集浆果。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Smoker
 #: ../../../../data/tribes/initialization/frisians/units.lua:772
 msgctxt "frisians_worker"
 msgid "Refines meat and fish by smoking them."
-msgstr ""
+msgstr "把肉和鱼熏制加工。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Beekeeper
 #: ../../../../data/tribes/initialization/frisians/units.lua:779
 msgctxt "frisians_worker"
 msgid "Lets bees swarm over flowers, then gathers the honey."
-msgstr ""
+msgstr "让蜜蜂在花上飞舞，然后收取蜂蜜。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Baker
 #: ../../../../data/tribes/initialization/frisians/units.lua:786
 msgctxt "frisians_worker"
 msgid "Bakes bread for miners and soldiers."
-msgstr ""
+msgstr "为矿工和士兵烤面包。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Master Baker
 #: ../../../../data/tribes/initialization/frisians/units.lua:793
 msgctxt "frisians_worker"
 msgid "This baker is skilled enough to bake bread sweetened with honey."
-msgstr ""
+msgstr "这位面包师手艺够好，能烤出用蜂蜜加甜的面包。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Brewer
 #: ../../../../data/tribes/initialization/frisians/units.lua:800
 msgctxt "frisians_worker"
 msgid "Brews beer."
-msgstr ""
+msgstr "酿造啤酒。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Master Brewer
 #: ../../../../data/tribes/initialization/frisians/units.lua:807
 msgctxt "frisians_worker"
 msgid "Brews beer and mead."
-msgstr ""
+msgstr "酿造啤酒和蜂蜜酒。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Landlady
 #: ../../../../data/tribes/initialization/frisians/units.lua:814
 msgctxt "frisians_worker"
 msgid "Prepares rations and meals for miners and scouts."
-msgstr ""
+msgstr "为矿工和侦察兵备制定额口粮和膳食。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Geologist
 #: ../../../../data/tribes/initialization/frisians/units.lua:824
 msgctxt "frisians_worker"
 msgid "Discovers resources for mining."
-msgstr ""
+msgstr "探明可供开采的资源。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Miner
 #. TRANSLATORS: Helptext for a Frisian worker: Master Miner
@@ -14535,50 +14535,50 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:838
 msgctxt "frisians_worker"
 msgid "Works deep in the mines to obtain coal, iron, gold or granite."
-msgstr ""
+msgstr "在矿井深处干活，取得煤、铁、黄金或花岗石。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Charcoal Burner
 #: ../../../../data/tribes/initialization/frisians/units.lua:845
 msgctxt "frisians_worker"
 msgid "Burns logs and clay to produce coal."
-msgstr ""
+msgstr "烧制原木和黏土来产煤。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Smelter
 #: ../../../../data/tribes/initialization/frisians/units.lua:852
 msgctxt "frisians_worker"
 msgid "Smelts iron and gold at furnaces or recycling centers."
-msgstr ""
+msgstr "在熔炉或再生中心熔炼铁和黄金。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Blacksmith
 #: ../../../../data/tribes/initialization/frisians/units.lua:859
 msgctxt "frisians_worker"
 msgid "Produces weapons and armor for soldiers and tools for workers."
-msgstr ""
+msgstr "为士兵制造兵器与甲胄，为工人制造工具。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Master Blacksmith
 #: ../../../../data/tribes/initialization/frisians/units.lua:866
 msgctxt "frisians_worker"
 msgid ""
 "Produces the best weapons and armor for soldiers and tools for workers."
-msgstr ""
+msgstr "为士兵制造最好的兵器与甲胄，为工人制造工具。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Soldier
 #: ../../../../data/tribes/initialization/frisians/units.lua:878
 msgctxt "frisians_worker"
 msgid "Defend and Conquer!"
-msgstr ""
+msgstr "守土开疆！"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Trainer
 #: ../../../../data/tribes/initialization/frisians/units.lua:885
 msgctxt "frisians_worker"
 msgid "Trains the soldiers."
-msgstr ""
+msgstr "训练士兵。"
 
 #. TRANSLATORS: Helptext for a Frisian worker: Scout
 #: ../../../../data/tribes/initialization/frisians/units.lua:892
 msgctxt "frisians_worker"
 msgid "Explores unknown territory."
-msgstr ""
+msgstr "探索未知领土。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: One of the berry bushes
 #: ../../../../data/tribes/initialization/frisians/units.lua:917
@@ -14591,7 +14591,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1113
 #: ../../../../data/tribes/initialization/frisians/units.lua:1141
 msgid "This berry bush has just been planted."
-msgstr ""
+msgstr "这丛浆果刚刚栽下。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: One of the berry bushes
 #: ../../../../data/tribes/initialization/frisians/units.lua:924
@@ -14604,7 +14604,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1120
 #: ../../../../data/tribes/initialization/frisians/units.lua:1148
 msgid "This berry bush is growing."
-msgstr ""
+msgstr "这丛浆果正在生长。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: One of the berry bushes
 #: ../../../../data/tribes/initialization/frisians/units.lua:931
@@ -14618,7 +14618,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1155
 msgid ""
 "This berry bush is flowering. Honey can be produced from it by a beekeeper."
-msgstr ""
+msgstr "这丛浆果正在开花。养蜂人可以从中产出蜂蜜。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: One of the berry bushes
 #: ../../../../data/tribes/initialization/frisians/units.lua:938
@@ -14631,7 +14631,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1134
 #: ../../../../data/tribes/initialization/frisians/units.lua:1162
 msgid "This berry bush is ready for harvesting."
-msgstr ""
+msgstr "这丛浆果可以采收了。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Barley Field
 #. TRANSLATORS: Helptext for an Empire/Barbarian immovable usable by Frisians:
@@ -14648,7 +14648,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1401
 #: ../../../../data/tribes/initialization/frisians/units.lua:1415
 msgid "This field is flowering. Honey can be produced from it by a beekeeper."
-msgstr ""
+msgstr "这块田正在开花。养蜂人可以从中产出蜂蜜。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Pond
 #: ../../../../data/tribes/initialization/frisians/units.lua:1204
@@ -14656,40 +14656,40 @@ msgid ""
 "When claydiggers dig up earth, they leave holes in the ground. These holes "
 "vanish after a while. Aqua farms can use them as ponds to grow fish in them,"
 " whereas charcoal burners erect their charcoal stacks in them."
-msgstr ""
+msgstr "挖泥工挖土时会在地上留下坑洞。这些坑洞过一阵子就会消失。水产养殖场可以拿它们当池塘养鱼，而烧炭工则在里面垒起炭堆。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Pond
 #: ../../../../data/tribes/initialization/frisians/units.lua:1211
 msgid ""
 "Fish are maturing in this pond. A fisher working from an aqua farm will be "
 "able to catch them when they are bigger."
-msgstr ""
+msgstr "鱼正在这口池塘里长大。等它们长大些，在水产养殖场干活的渔夫就能把它们捕上来。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Pond
 #: ../../../../data/tribes/initialization/frisians/units.lua:1218
 msgid ""
 "Fish are living in this pond. A fisher working from an aqua farm can catch "
 "them as food."
-msgstr ""
+msgstr "这口池塘里有鱼。在水产养殖场干活的渔夫可以把它们捕来当食物。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Pond
 #: ../../../../data/tribes/initialization/frisians/units.lua:1225
 msgid ""
 "A charcoal stack is burning in this earthen hole. When it has burnt down, a "
 "charcoal burner will be able to gather coal from it."
-msgstr ""
+msgstr "这个土坑里有一垛炭堆正在燃烧。烧完之后，烧炭工就能从中收取煤。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Pond
 #: ../../../../data/tribes/initialization/frisians/units.lua:1232
 msgid ""
 "A charcoal stack, which had been erected in this earthen hole, is ready for "
 "a charcoal burner to gather coal from it."
-msgstr ""
+msgstr "这个土坑里垒的炭堆已经烧好，等着烧炭工来收取煤。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Dike
 #: ../../../../data/tribes/initialization/frisians/units.lua:1239
 msgid "A breakwater erected by a diker to gain new land from the sea."
-msgstr ""
+msgstr "筑堤工修起的一道防波堤，用来向海要地。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Diker's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1241
@@ -14697,37 +14697,37 @@ msgid ""
 "You can manually remove the dike when the land is sufficiently secured to "
 "prevent wasting resources. To do so, build a flag, road, or building in its "
 "place."
-msgstr ""
+msgstr "等土地固定得差不多了，你可以手动把堤拆掉，免得浪费资源。做法是在它的位置上建一面旗帜、一条路或一座建筑。"
 
 #. TRANSLATORS: Helptext for a Frisian immovable: Reed Field
 #: ../../../../data/tribes/initialization/frisians/units.lua:1262
 msgid ""
 "This reed field is flowering. Honey can be produced from it by a beekeeper."
-msgstr ""
+msgstr "这块芦苇田正在开花。养蜂人可以从中产出蜂蜜。"
 
 #. TRANSLATORS: Helptext for a Frisian resource indicator: Stones, part 1
 #: ../../../../data/tribes/initialization/frisians/units.lua:1324
 #: ../../../../data/tribes/initialization/frisians/units.lua:1368
 msgid "Granite is a basic building material and can be dug up by a rock mine."
-msgstr ""
+msgstr "花岗石是一种基础建材，可以由岩石矿挖出。"
 
 #. TRANSLATORS: Helptext for an Empire immovable usable by Frisians: Grapevine
 #: ../../../../data/tribes/initialization/frisians/units.lua:1408
 msgid ""
 "This grapevine is flowering. Honey can be produced from it by a beekeeper."
-msgstr ""
+msgstr "这株葡萄藤正在开花。养蜂人可以从中产出蜂蜜。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian warehouse: Headquarters
 #: ../../../../data/tribes/initialization/frisians/units.lua:1527
 msgctxt "frisians_building"
 msgid "Accommodation for your people. Also stores your wares and tools."
-msgstr ""
+msgstr "供你的族人栖身。也存放你的物品和工具。"
 
 #. TRANSLATORS: Note helptext for a Frisian warehouse: Headquarters
 #: ../../../../data/tribes/initialization/frisians/units.lua:1529
 msgctxt "frisians_building"
 msgid "The headquarters is your main building."
-msgstr ""
+msgstr "总部是你的主建筑。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian warehouse: Warehouse
 #: ../../../../data/tribes/initialization/frisians/units.lua:1536
@@ -14735,7 +14735,7 @@ msgctxt "frisians_building"
 msgid ""
 "Your workers and soldiers will find shelter here. Also stores your wares and"
 " tools."
-msgstr ""
+msgstr "你的工人和士兵可以在这里栖身。也存放你的物品和工具。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian warehouse: Port
 #: ../../../../data/tribes/initialization/frisians/units.lua:1543
@@ -14743,7 +14743,7 @@ msgctxt "frisians_building"
 msgid ""
 "Serves as a base for overseas colonization and trade. Also stores your "
 "soldiers, wares and tools."
-msgstr ""
+msgstr "作为海外拓殖与贸易的据点。同时存放你的士兵、物品和工具。"
 
 #. TRANSLATORS: Note helptext for a Frisian warehouse: Port
 #: ../../../../data/tribes/initialization/frisians/units.lua:1545
@@ -14751,7 +14751,7 @@ msgctxt "frisians_building"
 msgid ""
 "Similar to the Headquarters a Port can be attacked and destroyed by an "
 "enemy. It is recommendable to send soldiers to defend it."
-msgstr ""
+msgstr "和总部一样，港口也会被敌人攻击和摧毁。建议派士兵去守卫它。"
 
 #. TRANSLATORS: Lore helptext for a Frisian market: Market
 #: ../../../../data/tribes/initialization/frisians/units.lua:1554
@@ -14760,43 +14760,43 @@ msgid ""
 "Tradecraft is the fine art of getting others to give you the wares that you "
 "want in exchange for wares you don’t want; excuse me, I mean, for wares you "
 "convince them to think that they need."
-msgstr ""
+msgstr "行商之道，讲的是让别人把你想要的物品给你，换走你不想要的物品；失礼失礼，我是说，换走你说服他们相信自己需要的物品。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian market: Market
 #: ../../../../data/tribes/initialization/frisians/units.lua:1556
 msgctxt "frisians_building"
 msgid "A trader explaining his diplomacy"
-msgstr ""
+msgstr "一位行商在阐释他的外交之道"
 
 #. TRANSLATORS: Purpose helptext for a Frisian market: Market
 #: ../../../../data/tribes/initialization/frisians/units.lua:1558
 msgctxt "frisians_building"
 msgid "A market enables trading with other tribes."
-msgstr ""
+msgstr "市场让你能与其他部族通商。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Quarry
 #: ../../../../data/tribes/initialization/frisians/units.lua:1567
 msgctxt "frisians_building"
 msgid "When I swing my pick, whole mountains fall before me!"
-msgstr ""
+msgstr "我这镐一抡，整座山都在我面前倒下！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Quarry
 #: ../../../../data/tribes/initialization/frisians/units.lua:1569
 msgctxt "frisians_building"
 msgid "A stonemason"
-msgstr ""
+msgstr "一位石匠"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Quarry
 #: ../../../../data/tribes/initialization/frisians/units.lua:1571
 msgctxt "frisians_building"
 msgid "Cuts raw pieces of granite out of rocks in the vicinity."
-msgstr ""
+msgstr "从附近的岩石上凿下花岗石毛料。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Quarry
 #: ../../../../data/tribes/initialization/frisians/units.lua:1573
 msgctxt "frisians_building"
 msgid "The quarry needs rocks to cut within the work area."
-msgstr ""
+msgstr "采石场的工作范围内需要有可凿的岩石。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Quarry,
 #. part 1
@@ -14805,7 +14805,7 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one granite between %1$s and %2$s, depending on "
 "how far the stonemason has to walk."
-msgstr ""
+msgstr "这座建筑产出一块花岗石需要 %1$s 到 %2$s，取决于石匠要走多远。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Quarry,
 #. part 2
@@ -14851,7 +14851,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2306
 msgctxt "frisians_building"
 msgid "In case of slopes or obstacles in the way, the time is increased."
-msgstr ""
+msgstr "若途中有坡地或障碍，所需时间会更长。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Woodcutter's
 #. House
@@ -14860,21 +14860,21 @@ msgctxt "frisians_building"
 msgid ""
 "I cannot see a tree without imagining what it would look like in terms of "
 "furniture."
-msgstr ""
+msgstr "我看见一棵树，就忍不住想象它做成家具是什么模样。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site:
 #. Woodcutter's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1588
 msgctxt "frisians_building"
 msgid "An over-enthusiastic woodcutter"
-msgstr ""
+msgstr "一位热情过头的樵夫"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Woodcutter's
 #. House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1592
 msgctxt "frisians_building"
 msgid "The woodcutter’s house needs trees to fell within the work area."
-msgstr ""
+msgstr "樵夫之屋的工作范围内需要有可砍的树。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site:
 #. Woodcutter's House, part 1
@@ -14883,7 +14883,7 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one log between %1$s and %2$s, depending on how "
 "far the woodcutter has to walk."
-msgstr ""
+msgstr "这座建筑产出一根原木需要 %1$s 到 %2$s，取决于樵夫要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Forester's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1605
@@ -14891,14 +14891,14 @@ msgctxt "frisians_building"
 msgid ""
 "What can ever be more beautiful than the brilliant sun’s beams shining "
 "through the glistering canopy of leaves?"
-msgstr ""
+msgstr "还有什么比灿烂的阳光穿过闪亮的叶冠更美的呢？"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Forester's
 #. House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1607
 msgctxt "frisians_building"
 msgid "A forester explaining his choice of profession"
-msgstr ""
+msgstr "一位护林员在解释自己为何择此为业"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Forester's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1611
@@ -14906,7 +14906,7 @@ msgctxt "frisians_building"
 msgid ""
 "The forester’s house needs free space within the work area to plant the "
 "trees."
-msgstr ""
+msgstr "护林员之屋的工作范围内需要有空地才能种树。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Forester's
 #. House, part 1
@@ -14915,13 +14915,13 @@ msgctxt "frisians_building"
 msgid ""
 "The forester plants one tree between %1$s and %2$s, depending on how far he "
 "has to walk."
-msgstr ""
+msgstr "护林员种下一棵树需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Hunter's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1626
 msgctxt "frisians_building"
 msgid "The hunter’s house needs animals to hunt within the work area."
-msgstr ""
+msgstr "猎人之屋的工作范围内需要有可猎的动物。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Hunter's
 #. House, part 1
@@ -14930,14 +14930,14 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one meat between %1$s and %2$s, depending on how "
 "far the hunter has to walk."
-msgstr ""
+msgstr "这座建筑产出一块肉需要 %1$s 到 %2$s，取决于猎人要走多远。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Hunter's
 #. House, part 3
 #: ../../../../data/tribes/initialization/frisians/units.lua:1633
 msgctxt "frisians_building"
 msgid "The hunter produces one fur after he has produced five pieces of meat."
-msgstr ""
+msgstr "猎人每产出五块肉，就会产出一张毛皮。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Fisher's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1641
@@ -14945,34 +14945,34 @@ msgctxt "frisians_building"
 msgid ""
 "Hunters can’t sell anything on a Friday, but fishers don’t have such "
 "problems."
-msgstr ""
+msgstr "猎人周五什么都卖不出去，渔夫可没这烦恼。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Fisher's
 #. House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1643
 msgctxt "frisians_building"
 msgid "A hunter admiring a fisher"
-msgstr ""
+msgstr "一位猎人对渔夫心生羡慕"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Fisher's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1645
 msgctxt "frisians_building"
 msgid "Fishes on the coast near the fisher’s house."
-msgstr ""
+msgstr "在渔夫之屋附近的海岸捕鱼。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Fisher's House,
 #. part 1
 #: ../../../../data/tribes/initialization/frisians/units.lua:1648
 msgctxt "frisians_building"
 msgid "The fisher’s house needs water full of fish within the work area."
-msgstr ""
+msgstr "渔夫之屋的工作范围内需要有鱼群丰富的水域。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Fisher's House,
 #. part 2
 #: ../../../../data/tribes/initialization/frisians/units.lua:1650
 msgctxt "frisians_building"
 msgid "Roads and trees along the shoreline block fishing."
-msgstr ""
+msgstr "岸线上的道路和树木会妨碍捕鱼。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Fisher's
 #. House, part 1
@@ -14984,26 +14984,26 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one fish between %1$s and %2$s, depending on how "
 "far the fisher has to walk."
-msgstr ""
+msgstr "这座建筑产出一条鱼需要 %1$s 到 %2$s，取决于渔夫要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Reed Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1664
 msgctxt "frisians_building"
 msgid ""
 "No worse fortune can befall a reed farmer than to see his roof leaking."
-msgstr ""
+msgstr "对芦苇种植农夫来说，再没有比看见自家屋顶漏雨更倒霉的事了。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Reed Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1666
 msgctxt "frisians_building"
 msgid "Anonymous reed farmer"
-msgstr ""
+msgstr "一位无名的芦苇种植农夫"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Reed Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1668
 msgctxt "frisians_building"
 msgid "Cultivates reed that serves three different purposes for the Frisians."
-msgstr ""
+msgstr "栽种芦苇，它对弗里西亚人有三种不同的用处。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Reed Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1670
@@ -15012,7 +15012,7 @@ msgid ""
 "Reed is the traditional material for roofing. It is also needed to produce "
 "baskets and fishing nets, and it is woven – together with reindeer fur – "
 "into the cloth used for ships’ sails."
-msgstr ""
+msgstr "芦苇是苫屋顶的传统材料。它还用来做篮子和渔网，并与驯鹿毛皮一同织成做船帆的布料。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Reed Farm,
 #. part 1
@@ -15021,7 +15021,7 @@ msgctxt "frisians_building"
 msgid ""
 "The reed farmer sows and harvests one sheaf of reed between %1$s and %2$s, "
 "depending on how far he has to walk."
-msgstr ""
+msgstr "芦苇种植农夫播种并收割一捆芦苇需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Reed Farm,
 #. part 2; %s is replaced by 'N growing fields'
@@ -15031,13 +15031,13 @@ msgctxt "frisians_building"
 msgid ""
 "The reed farm needs at least %s to work at full productivity most of the "
 "time."
-msgstr ""
+msgstr "芦苇场需要至少 %s，才能在大多数时候保持满产。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Well
 #: ../../../../data/tribes/initialization/frisians/units.lua:1683
 msgctxt "frisians_building"
 msgid "We love the sea so much that we don’t want to drink it empty!"
-msgstr ""
+msgstr "我们太爱大海了，可不想把它喝干！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Well
 #: ../../../../data/tribes/initialization/frisians/units.lua:1685
@@ -15045,7 +15045,7 @@ msgctxt "frisians_building"
 msgid ""
 "Chieftain Arldor’s retort when he was asked why his tribe can’t drink salt "
 "water"
-msgstr ""
+msgstr "有人问阿尔多首领为何他的族人不能喝海水，这是他的回敬"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Well, part
 #. 1
@@ -15053,7 +15053,7 @@ msgstr ""
 #, lua-format
 msgctxt "frisians_building"
 msgid "The carrier needs %s to get one bucket full of water."
-msgstr ""
+msgstr "搬运工取一桶水需要 %s。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Well, part
 #. 2
@@ -15061,19 +15061,19 @@ msgstr ""
 #, lua-format
 msgctxt "frisians_building"
 msgid "If the water resource is depleted, the carrier needs %s on average."
-msgstr ""
+msgstr "若水源枯竭，搬运工平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Clay Pit
 #: ../../../../data/tribes/initialization/frisians/units.lua:1700
 msgctxt "frisians_building"
 msgid "You think you can build a house without my help?"
-msgstr ""
+msgstr "你以为没有我帮忙，你盖得起房子？"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Clay Pit
 #: ../../../../data/tribes/initialization/frisians/units.lua:1702
 msgctxt "frisians_building"
 msgid "A clay digger arguing with a builder"
-msgstr ""
+msgstr "一位挖泥工在和建筑工人争辩"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Clay Pit
 #: ../../../../data/tribes/initialization/frisians/units.lua:1704
@@ -15081,7 +15081,7 @@ msgctxt "building"
 msgid ""
 "Digs up mud from the ground and uses water to turn it into clay. Clay is "
 "used to make bricks, reinforce the charcoal kiln and to build ships."
-msgstr ""
+msgstr "从地里挖出泥土，用水把它做成黏土。黏土用来烧砖、加固煅炭窑，以及造船。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Clay Pit,
 #. part 1
@@ -15090,7 +15090,7 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one clay between %1$s and %2$s, depending on how "
 "far the clay digger has to walk."
-msgstr ""
+msgstr "这座建筑产出一份黏土需要 %1$s 到 %2$s，取决于挖泥工要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Charcoal Burner's
 #. House
@@ -15100,7 +15100,7 @@ msgstr ""
 msgctxt "frisians_building"
 msgid ""
 "No other tribe has ever mastered the art of charcoal burning as we have!"
-msgstr ""
+msgstr "论烧炭的本事，从来没有哪个部族比得上我们！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Charcoal
 #. Burner's House
@@ -15110,7 +15110,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:1938
 msgctxt "frisians_building"
 msgid "The inventor of the Frisian charcoal kiln"
-msgstr ""
+msgstr "弗里西亚煅炭窑的发明者"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Charcoal Burner's
 #. House
@@ -15119,7 +15119,7 @@ msgctxt "building"
 msgid ""
 "The charcoal burner’s house needs holes in the ground that were dug by a "
 "clay pit’s worker nearby to erect charcoal stacks in them."
-msgstr ""
+msgstr "煅炭厂需要附近有黏土坑工人挖出的坑洞，好在里面垒炭堆。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Charcoal
 #. Burner's House, part 1
@@ -15128,7 +15128,7 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one coal between %1$s and %2$s, depending on how "
 "far the charcoal burner has to walk."
-msgstr ""
+msgstr "这座建筑产出一份煤需要 %1$s 到 %2$s，取决于烧炭工要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Berry Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1736
@@ -15136,26 +15136,26 @@ msgctxt "frisians_building"
 msgid ""
 "My bushes may not be as tall as your trees, but I don’t know anybody who "
 "likes to eat bark!"
-msgstr ""
+msgstr "我的灌木也许没你的树高，可我没见过谁爱啃树皮！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Berry Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1738
 msgctxt "frisians_building"
 msgid "A berry farmer to a forester"
-msgstr ""
+msgstr "一位浆果种植农夫对护林员说"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Berry Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1740
 msgctxt "building"
 msgid "Plants berry bushes in the surrounding area."
-msgstr ""
+msgstr "在周边区域栽种浆果丛。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Berry Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1742
 msgctxt "frisians_building"
 msgid ""
 "The berry farm needs free space within the work area to plant the bushes."
-msgstr ""
+msgstr "浆果园的工作范围内需要有空地才能栽灌木。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Berry
 #. Farm, part 1
@@ -15164,35 +15164,35 @@ msgctxt "frisians_building"
 msgid ""
 "The berry farmer plants one bush between %1$s and %2$s, depending on how far"
 " he has to walk."
-msgstr ""
+msgstr "浆果种植农夫栽下一丛灌木需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Fruit Collector's
 #. House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1755
 msgctxt "frisians_building"
 msgid "Meat doesn’t grow on bushes. Fruit does."
-msgstr ""
+msgstr "肉可不长在灌木上，水果才长。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Fruit
 #. Collector's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1757
 msgctxt "frisians_building"
 msgid "A fruit collector advertising his harvest to a landlady"
-msgstr ""
+msgstr "一位摘果人向女掌柜推销自己的收成"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Fruit
 #. Collector's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1759
 msgctxt "building"
 msgid "Collects berries from nearby bushes."
-msgstr ""
+msgstr "从附近的灌木上采集浆果。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Fruit Collector's
 #. House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1761
 msgctxt "frisians_building"
 msgid "The fruit collector needs bushes full of berries within the work area."
-msgstr ""
+msgstr "摘果人的工作范围内需要有结满浆果的灌木。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Fruit
 #. Collector's House, part 1
@@ -15201,7 +15201,7 @@ msgctxt "frisians_building"
 msgid ""
 "The fruit collector harvests one bush between %1$s and %2$s, depending on "
 "how far he has to walk."
-msgstr ""
+msgstr "摘果人采完一丛灌木需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Beekeeper's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1774
@@ -15209,21 +15209,21 @@ msgctxt "frisians_building"
 msgid ""
 "If my honey tastes bitter, I must have left some bee stings in it. There are"
 " never any bee stings in my honey, therefore, it is not bitter."
-msgstr ""
+msgstr "我的蜂蜜要是发苦，那一定是我把蜂刺留在里头了。我的蜂蜜里从来没有蜂刺，所以它不苦。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site:
 #. Beekeeper's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1776
 msgctxt "frisians_building"
 msgid "A beekeeper ignoring a customer’s complaint"
-msgstr ""
+msgstr "一位养蜂人对顾客的抱怨置若罔闻"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Beekeeper's
 #. House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1778
 msgctxt "frisians_building"
 msgid "Keeps bees and lets them swarm over flowering fields to produce honey."
-msgstr ""
+msgstr "养蜂，并让蜜蜂在开花的田地上飞舞以产出蜂蜜。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Beekeeper's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1780
@@ -15231,7 +15231,7 @@ msgctxt "frisians_building"
 msgid ""
 "Needs medium-sized fields (barley, wheat, reed, corn or blackroot) or bushes"
 " (berry bushes or grapevines) nearby."
-msgstr ""
+msgstr "附近需要有中等大小的田地（大麦、小麦、芦苇、玉米或黑根）或灌木（浆果丛或葡萄藤）。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site:
 #. Beekeeper's House, part 1
@@ -15240,25 +15240,25 @@ msgctxt "frisians_building"
 msgid ""
 "The beekeeper collects one honey between %1$s and %2$s, depending on how far"
 " he has to walk."
-msgstr ""
+msgstr "养蜂人收取一份蜂蜜需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Aqua Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1793
 msgctxt "frisians_building"
 msgid "Why on earth shouldn’t we be able to catch fish even in the desert?"
-msgstr ""
+msgstr "凭什么我们在沙漠里就捕不着鱼？"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Aqua Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1795
 msgctxt "frisians_building"
 msgid "The fisherman who invented aqua farming"
-msgstr ""
+msgstr "发明水产养殖的那位渔夫"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Aqua Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1797
 msgctxt "frisians_building"
 msgid "Breeds fish as food for soldiers and miners."
-msgstr ""
+msgstr "养鱼，供士兵和矿工食用。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Aqua Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:1799
@@ -15266,7 +15266,7 @@ msgctxt "building"
 msgid ""
 "The aqua farm needs holes in the ground that were dug by a clay pit’s worker"
 " nearby to use as fishing ponds."
-msgstr ""
+msgstr "水产养殖场需要附近有黏土坑工人挖出的坑洞，好当作养鱼的池塘。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Scout's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1812
@@ -15275,28 +15275,28 @@ msgid ""
 "Everyone has their own ideas on how exactly we should explore the enemy’s "
 "territory… One more ‘improvement’ suggestion and we’ll demand meals instead "
 "of rations!"
-msgstr ""
+msgstr "该怎么侦察敌方领地，人人都有自己的一套主意……再来一条「改进」建议，我们就要求把定额口粮换成膳食！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Scout's
 #. House
 #: ../../../../data/tribes/initialization/frisians/units.lua:1814
 msgctxt "frisians_building"
 msgid "The spokesman of the scouts’ labor union"
-msgstr ""
+msgstr "侦察兵工会的发言人"
 
 #: ../../../../data/tribes/initialization/frisians/units.lua:1815
 msgctxt "frisians_building"
 msgid ""
 "You need to connect this flag to a scout’s house before you can send a scout"
 " here."
-msgstr ""
+msgstr "把这面旗帜连到侦察兵之家，才能派侦察兵到这里来。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Scout's
 #. House, part 1
 #: ../../../../data/tribes/initialization/frisians/units.lua:1820
 msgctxt "frisians_building"
 msgid "One exploration trip of the scout takes between %1$s and %2$s."
-msgstr ""
+msgstr "侦察兵出去探一趟需要 %1$s 到 %2$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Brick Kiln
 #: ../../../../data/tribes/initialization/frisians/units.lua:1832
@@ -15304,13 +15304,13 @@ msgctxt "frisians_building"
 msgid ""
 "If there is not enough coal, only the most foolish of leaders would deprive "
 "his brick kilns of it first."
-msgstr ""
+msgstr "要是煤不够用，只有最糊涂的首领才会先断了砖窑的煤。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Brick Kiln
 #: ../../../../data/tribes/initialization/frisians/units.lua:1834
 msgctxt "frisians_building"
 msgid "A brickmaker arguing with his chieftain who was doing just that"
-msgstr ""
+msgstr "一位烧砖工人在和正干着这蠢事的首领争辩"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Brick Kiln
 #: ../../../../data/tribes/initialization/frisians/units.lua:1836
@@ -15318,14 +15318,14 @@ msgctxt "building"
 msgid ""
 "Burns bricks using granite and clay, and coal as fuel. Bricks are the most "
 "important building material."
-msgstr ""
+msgstr "用花岗石和黏土烧砖，以煤为燃料。砖是最重要的建材。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Brick Kiln
 #: ../../../../data/tribes/initialization/frisians/units.lua:1838
 #, lua-format
 msgctxt "frisians_building"
 msgid "The brick kiln needs %s on average to produce one brick."
-msgstr ""
+msgstr "砖窑烧出一块砖平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Furnace
 #: ../../../../data/tribes/initialization/frisians/units.lua:1845
@@ -15333,19 +15333,19 @@ msgctxt "frisians_building"
 msgid ""
 "Miners get ores from the depths of the hills; but without our work, their "
 "labour is in vain."
-msgstr ""
+msgstr "矿工从山的深处取来矿石；可没有我们这道工序，他们的辛苦就白费了。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Furnace
 #: ../../../../data/tribes/initialization/frisians/units.lua:1847
 msgctxt "frisians_building"
 msgid "Slogan of the Smelters’ Guild"
-msgstr ""
+msgstr "熔炼工行会的口号"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Furnace
 #: ../../../../data/tribes/initialization/frisians/units.lua:1849
 msgctxt "building"
 msgid "Smelts iron ore and gold ore into iron and gold ingots using coal."
-msgstr ""
+msgstr "用煤把铁矿石和金质矿石熔炼成铁锭和金锭。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Furnace
 #: ../../../../data/tribes/initialization/frisians/units.lua:1851
@@ -15355,7 +15355,7 @@ msgid ""
 " production of one iron takes %1$s and one gold takes %2$s on average. If "
 "only one kind of metal is needed by the economy, production of one iron "
 "takes %3$s and one gold takes %4$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对两种金属都有需求，平均产出一份铁需要 %1$s，一份黄金需要 %2$s。若经济只需要其中一种金属，平均产出一份铁需要 %3$s，一份黄金需要 %4$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Recycling Center
 #: ../../../../data/tribes/initialization/frisians/units.lua:1858
@@ -15364,14 +15364,14 @@ msgid ""
 "Of course these weapons could be used by other soldiers again without being "
 "smelted down first! The only drawback is that they’d break in two at the "
 "first blow."
-msgstr ""
+msgstr "这些兵器当然不用先熔掉，别的士兵也能接着用！唯一的毛病是，头一下就会断成两截。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Recycling
 #. Center
 #: ../../../../data/tribes/initialization/frisians/units.lua:1860
 msgctxt "frisians_building"
 msgid "A smelter explaining the need for recycling to his impatient chieftain"
-msgstr ""
+msgstr "一位熔炼工在向没耐心的首领解释回收的必要"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Recycling
 #. Center
@@ -15380,7 +15380,7 @@ msgctxt "frisians_building"
 msgid ""
 "Recycles old armor and weapon parts that have been discarded by training "
 "sites into fur, iron and gold."
-msgstr ""
+msgstr "把训练场丢弃的旧甲胄和兵器残件回收成毛皮、铁和黄金。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Recycling
 #. Center
@@ -15392,26 +15392,26 @@ msgid ""
 "takes %3$s on average. If only one kind of material is needed by the "
 "economy, production of one fur takes %4$s, one iron takes %5$s and one gold "
 "takes %6$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有材料都有需求，平均产出一份毛皮需要 %1$s，一份铁需要 %2$s，一份黄金需要 %3$s。若经济只需要其中一种材料，平均产出一份毛皮需要 %4$s，一份铁需要 %5$s，一份黄金需要 %6$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Blacksmithy
 #: ../../../../data/tribes/initialization/frisians/units.lua:1871
 msgctxt "frisians_building"
 msgid "If you don’t have iron, change your name from blacksmith to lacksmith!"
-msgstr ""
+msgstr "没有铁的话，你这铁匠就该改名叫「没铁匠」！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site:
 #. Blacksmithy
 #: ../../../../data/tribes/initialization/frisians/units.lua:1873
 msgctxt "frisians_building"
 msgid "Irritated chieftain during a metal shortage"
-msgstr ""
+msgstr "金属短缺时恼火的首领"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Blacksmithy
 #: ../../../../data/tribes/initialization/frisians/units.lua:1875
 msgctxt "building"
 msgid "Forges tools to equip new workers."
-msgstr ""
+msgstr "锻造工具，装备新工人。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site:
 #. Blacksmithy
@@ -15423,7 +15423,7 @@ msgid ""
 "tool is needed by the economy, its production takes %2$s on average. Needles"
 " are an exception – in the time to produce one tool two needles are "
 "produced."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有工具都有需求，平均每种工具各产出一件需要 %1$s。若经济只需要其中一种工具，平均产出它需要 %2$s。针是例外——产出一件工具的时间里能做出两根针。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Small Armor
 #. Smithy
@@ -15432,21 +15432,21 @@ msgctxt "frisians_building"
 msgid ""
 "I don’t forge swords because soldiers need ’em, but soldiers get ’em because"
 " I forge ’em."
-msgstr ""
+msgstr "我不是因为士兵需要才锻剑，而是因为我锻了剑，士兵才有剑。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Small
 #. Armor Smithy
 #: ../../../../data/tribes/initialization/frisians/units.lua:1886
 msgctxt "frisians_building"
 msgid "A blacksmith pointing out his influence on soldier training"
-msgstr ""
+msgstr "一位铁匠在强调自己对士兵训练的影响"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Small Armor
 #. Smithy
 #: ../../../../data/tribes/initialization/frisians/units.lua:1888
 msgctxt "frisians_building"
 msgid "Produces basic weapons and helmets for the soldiers."
-msgstr ""
+msgstr "为士兵生产基础兵器和头盔。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Small
 #. Armor Smithy
@@ -15458,7 +15458,7 @@ msgid ""
 "%2$s and one helmet takes %3$s on average. If only one kind of sword or "
 "helmet is needed by the economy, production of one short sword takes %4$s, "
 "one long sword takes %5$s and one helmet takes %6$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有剑和头盔都有需求，平均产出一把短剑需要 %1$s，一把长剑需要 %2$s，一顶头盔需要 %3$s。若经济只需要其中一种剑或头盔，平均产出一把短剑需要 %4$s，一把长剑需要 %5$s，一顶头盔需要 %6$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Large Armor
 #. Smithy
@@ -15467,7 +15467,7 @@ msgctxt "frisians_building"
 msgid ""
 "Of course I could still forge short and long swords, but it is beneath my "
 "honor to bother with such basic equipment now."
-msgstr ""
+msgstr "我当然还锻得出短剑和长剑，可如今为这种基础货色费神，有失我的体面。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Large
 #. Armor Smithy
@@ -15476,14 +15476,14 @@ msgctxt "frisians_building"
 msgid ""
 "A master blacksmith refusing to forge anything but the most sophisticated "
 "helmets and weapons"
-msgstr ""
+msgstr "一位铸造大师拒绝锻造除最精良的头盔和兵器之外的任何东西"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Large Armor
 #. Smithy
 #: ../../../../data/tribes/initialization/frisians/units.lua:1901
 msgctxt "frisians_building"
 msgid "Produces advanced weapons and golden helmets for the soldiers."
-msgstr ""
+msgstr "为士兵生产高阶兵器和黄金头盔。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Large
 #. Armor Smithy
@@ -15496,7 +15496,7 @@ msgid ""
 " sword or helmet is needed by the economy, production of one broadsword "
 "takes %4$s, one double-edged sword takes %5$s and one golden helmet takes "
 "%6$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有剑和头盔都有需求，平均产出一把阔剑需要 %1$s，一把双刃剑需要 %2$s，一顶黄金头盔需要 %3$s。若经济只需要其中一种剑或头盔，平均产出一把阔剑需要 %4$s，一把双刃剑需要 %5$s，一顶黄金头盔需要 %6$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Sewing Room
 #: ../../../../data/tribes/initialization/frisians/units.lua:1910
@@ -15504,20 +15504,20 @@ msgctxt "frisians_building"
 msgid ""
 "You soldiers think a good sword is everything, but where would you be if you"
 " had no garments?"
-msgstr ""
+msgstr "你们当兵的以为有把好剑就够了，可要是没有衣物，你们能落得什么下场？"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Sewing
 #. Room
 #: ../../../../data/tribes/initialization/frisians/units.lua:1912
 msgctxt "frisians_building"
 msgid "A seamstress scolding a soldier for disrespecting her profession"
-msgstr ""
+msgstr "一位女裁缝在斥责轻视她这行的士兵"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Sewing Room
 #: ../../../../data/tribes/initialization/frisians/units.lua:1914
 msgctxt "building"
 msgid "Sews fur garments out of reindeer fur."
-msgstr ""
+msgstr "用驯鹿毛皮缝制毛皮衣。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Sewing
 #. Room
@@ -15525,7 +15525,7 @@ msgstr ""
 #, lua-format
 msgctxt "frisians_building"
 msgid "The sewing room needs %s on average to produce one fur garment."
-msgstr ""
+msgstr "缝纫坊缝出一件毛皮衣平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Tailor's Shop
 #: ../../../../data/tribes/initialization/frisians/units.lua:1923
@@ -15533,20 +15533,20 @@ msgctxt "frisians_building"
 msgid ""
 "Don’t complain if these garments are too heavy – they’re not supposed to be "
 "light but to keep you alive a bit longer!"
-msgstr ""
+msgstr "别嫌这些衣物太重——它们本就不图轻便，图的是让你多活一阵子！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Tailor's
 #. Shop
 #: ../../../../data/tribes/initialization/frisians/units.lua:1925
 msgctxt "frisians_building"
 msgid "A trainer scolding a soldier"
-msgstr ""
+msgstr "一位教练员在斥责士兵"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Tailor's Shop
 #: ../../../../data/tribes/initialization/frisians/units.lua:1927
 msgctxt "building"
 msgid "Equips fur garments with iron or gold to produce good armor."
-msgstr ""
+msgstr "给毛皮衣缀上铁或黄金，做成好甲胄。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Tailor's
 #. Shop
@@ -15557,7 +15557,7 @@ msgid ""
 "economy, production of one of each garment takes %1$s on average. If only "
 "one kind of garment is needed by the economy, its production takes %2$s on "
 "average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有衣物都有需求，平均每种衣物各产出一件需要 %1$s。若经济只需要其中一种衣物，平均产出它需要 %2$s。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Charcoal
 #. Kiln
@@ -15565,7 +15565,7 @@ msgstr ""
 #, lua-format
 msgctxt "frisians_building"
 msgid "The charcoal kiln needs %s on average to produce one coal."
-msgstr ""
+msgstr "煅炭窑产出一份煤平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Smokery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1949
@@ -15573,13 +15573,13 @@ msgctxt "frisians_building"
 msgid ""
 "Miners and soldiers are so picky… But who am I to complain, as I make my "
 "living from it?"
-msgstr ""
+msgstr "矿工和士兵都这么挑嘴……不过我靠这个吃饭，又有什么好抱怨的呢？"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Smokery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1951
 msgctxt "frisians_building"
 msgid "A smoker explaining his profession"
-msgstr ""
+msgstr "一位熏肉工在解释自己这一行"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Smokery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1953
@@ -15587,7 +15587,7 @@ msgctxt "frisians_building"
 msgid ""
 "Smokes fish and meat using logs. Only smoked meat and fish are good enough "
 "to be eaten by miners and soldiers."
-msgstr ""
+msgstr "用原木熏制鱼和肉。只有熏过的肉和鱼才够格给矿工和士兵吃。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Smokery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1955
@@ -15596,32 +15596,32 @@ msgctxt "frisians_building"
 msgid ""
 "If this building is fully supplied, production of one of each smoked food "
 "takes %s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，平均每种熏制食物各产出一份需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Bakery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1962
 msgctxt "frisians_building"
 msgid "Why shouldn’t my bread taste good? It’s only barley and water!"
-msgstr ""
+msgstr "我的面包凭什么会不好吃？它不过是大麦加水而已！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Bakery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1964
 msgctxt "frisians_building"
 msgid "A baker"
-msgstr ""
+msgstr "一位面包师"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Bakery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1966
 msgctxt "frisians_building"
 msgid "Bakes bread out of barley and water to feed miners and soldiers."
-msgstr ""
+msgstr "用大麦和水烤面包，供矿工和士兵食用。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Bakery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1968
 #, lua-format
 msgctxt "frisians_building"
 msgid "The bakery needs %s on average to produce one loaf of bread."
-msgstr ""
+msgstr "面包房烤出一个面包平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Honey Bread
 #. Bakery
@@ -15630,14 +15630,14 @@ msgctxt "frisians_building"
 msgid ""
 "Rookies will say that vengeance is sweet. Heroes will say that honey bread "
 "is sweeter."
-msgstr ""
+msgstr "新兵会说复仇是甜的。老兵会说蜂蜜面包更甜。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Honey
 #. Bread Bakery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1977
 msgctxt "frisians_building"
 msgid "A trainer in conversation with a baker"
-msgstr ""
+msgstr "一位教练员与面包师的对话"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Honey Bread
 #. Bakery
@@ -15646,7 +15646,7 @@ msgctxt "frisians_building"
 msgid ""
 "Bakes honey bread out of barley, water and honey to feed miners in deep "
 "mines and soldiers in advanced training."
-msgstr ""
+msgstr "用大麦、水和蜂蜜烤蜂蜜面包，供井下矿场的矿工和接受高阶训练的士兵食用。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Honey
 #. Bread Bakery
@@ -15657,46 +15657,46 @@ msgid ""
 " production of one bread takes %1$s and one honey bread takes %2$s on "
 "average. If only one kind of bread is needed by the economy, production of "
 "one bread or one honey bread takes %3$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对两种面包都有需求，平均产出一个面包需要 %1$s，一个蜂蜜面包需要 %2$s。若经济只需要其中一种面包，平均产出一个面包或一个蜂蜜面包需要 %3$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Brewery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1988
 msgctxt "frisians_building"
 msgid ""
 "I know no single master miner who’ll ever work without a nice pint of beer!"
-msgstr ""
+msgstr "我还没见过哪个采矿大师肯不来上一大杯啤酒就开工的！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Brewery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1990
 msgctxt "frisians_building"
 msgid "A brewer boasting about the importance of his profession"
-msgstr ""
+msgstr "一位酿酒师在夸耀自己这行有多要紧"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Brewery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1992
 msgctxt "frisians_building"
 msgid "Brews beer for miners and soldier training."
-msgstr ""
+msgstr "为矿工和士兵训练酿造啤酒。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Brewery
 #: ../../../../data/tribes/initialization/frisians/units.lua:1994
 #, lua-format
 msgctxt "frisians_building"
 msgid "The brewery needs %s on average to brew one mug of beer."
-msgstr ""
+msgstr "啤酒坊酿出一杯啤酒平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Mead Brewery
 #: ../../../../data/tribes/initialization/frisians/units.lua:2001
 msgctxt "frisians_building"
 msgid "If you like beer, you’ve never tasted mead."
-msgstr ""
+msgstr "你要是喜欢啤酒，那说明你还没尝过蜂蜜酒。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Mead
 #. Brewery
 #: ../../../../data/tribes/initialization/frisians/units.lua:2003
 msgctxt "frisians_building"
 msgid "Slogan over a mead brewery"
-msgstr ""
+msgstr "某座蜂蜜酿酒厂门楣上的标语"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Mead Brewery
 #: ../../../../data/tribes/initialization/frisians/units.lua:2005
@@ -15704,7 +15704,7 @@ msgctxt "frisians_building"
 msgid ""
 "Brews beer out of barley and water. It also brews mead, which is beer "
 "refined with honey. Mead is consumed by experienced soldiers."
-msgstr ""
+msgstr "用大麦和水酿造啤酒。它也酿蜂蜜酒——用蜂蜜提味的啤酒。蜂蜜酒供经验丰富的士兵饮用。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Mead
 #. Brewery
@@ -15715,19 +15715,19 @@ msgid ""
 " production of one beer takes %1$s and one mead takes %2$s on average. If "
 "only one kind of drink is needed by the economy, production of one beer or "
 "one mead takes %3$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对两种饮品都有需求，平均产出一份啤酒需要 %1$s，一份蜂蜜酒需要 %2$s。若经济只需要其中一种饮品，平均产出一份啤酒或一份蜂蜜酒需要 %3$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Tavern
 #: ../../../../data/tribes/initialization/frisians/units.lua:2014
 msgctxt "frisians_building"
 msgid "Nothing but fruit all day… Couldn’t you hurry up a bit?"
-msgstr ""
+msgstr "成天光有水果……你就不能快点儿？"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Tavern
 #: ../../../../data/tribes/initialization/frisians/units.lua:2016
 msgctxt "frisians_building"
 msgid "Hungry customers in times of a shortage of smoked fish and meat"
-msgstr ""
+msgstr "熏鱼和烟熏肉短缺时饥肠辘辘的客人"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Tavern
 #: ../../../../data/tribes/initialization/frisians/units.lua:2020
@@ -15736,7 +15736,7 @@ msgid ""
 "If the tavern is fully supplied, it can produce one ration in %1$s on "
 "average, using two kinds of ingredients. If it can only use one kind of "
 "ingredient, it can produce one ration in %2$s on average."
-msgstr ""
+msgstr "若小酒馆供应充足，用两种食材时平均 %1$s 能做出一份定额口粮。若只能用一种食材，平均 %2$s 能做出一份。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Drinking Hall
 #: ../../../../data/tribes/initialization/frisians/units.lua:2027
@@ -15744,14 +15744,14 @@ msgctxt "frisians_building"
 msgid ""
 "All I need to be happy is a slice of honey bread with some smoked meat and a"
 " beer."
-msgstr ""
+msgstr "我要的快活很简单：一片蜂蜜面包配点烟熏肉，再来杯啤酒。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Drinking
 #. Hall
 #: ../../../../data/tribes/initialization/frisians/units.lua:2029
 msgctxt "frisians_building"
 msgid "A master miner to the landlady"
-msgstr ""
+msgstr "一位采矿大师对女掌柜说"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Drinking Hall
 #: ../../../../data/tribes/initialization/frisians/units.lua:2031
@@ -15759,7 +15759,7 @@ msgctxt "frisians_building"
 msgid ""
 "Prepares rations for scouts and rations and meals to feed the miners in all "
 "mines."
-msgstr ""
+msgstr "为侦察兵备制定额口粮，并备制定额口粮和膳食供所有矿场的矿工食用。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Drinking
 #. Hall
@@ -15770,7 +15770,7 @@ msgid ""
 "economy, production of one of each food takes %1$s on average. If only one "
 "kind of food is needed by the economy, production of one ration takes %2$s "
 "and one meal takes %3$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对各种食物都有需求，平均每种食物各产出一份需要 %1$s。若经济只需要其中一种食物，平均产出一份定额口粮需要 %2$s，一份膳食需要 %3$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Barracks
 #: ../../../../data/tribes/initialization/frisians/units.lua:2040
@@ -15781,33 +15781,33 @@ msgid ""
 "alone! You’d better pay close attention to me in order to make the most of "
 "it. Now here is your new short sword, forged just for you by our best "
 "blacksmiths. Time’s up everyone, now go occupy your sentinels!"
-msgstr ""
+msgstr "给你们三十秒，学会剑术的基本功和怎么在战场上活下来。光是开场白就用掉了三分之一！你们最好听仔细点，把剩下的时间用足。来，这是你们的新短剑，我们最好的铁匠专为你们锻的。时间到，各位，去守你们的边哨吧！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Barracks
 #: ../../../../data/tribes/initialization/frisians/units.lua:2042
 msgctxt "frisians_building"
 msgid "A trainer greeting the new recruits"
-msgstr ""
+msgstr "一位教练员在迎接新兵"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Barracks
 #: ../../../../data/tribes/initialization/frisians/units.lua:2044
 msgctxt "frisians_building"
 msgid "Equips recruits and trains them as soldiers."
-msgstr ""
+msgstr "装备新兵，把他们练成士兵。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Barracks
 #: ../../../../data/tribes/initialization/frisians/units.lua:2046
 #, lua-format
 msgctxt "frisians_building"
 msgid "The barracks need %s on average to recruit one soldier."
-msgstr ""
+msgstr "步兵营招募一名士兵平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Reindeer Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:2055
 msgctxt "frisians_building"
 msgid ""
 "Who says a beast of burden cannot be useful for other things than transport?"
-msgstr ""
+msgstr "谁说驮畜除了运东西就没别的用处了？"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Reindeer
 #. Farm
@@ -15815,7 +15815,7 @@ msgstr ""
 msgctxt "frisians_building"
 msgid ""
 "The reindeer breeder who first proposed using reindeer fur for clothing"
-msgstr ""
+msgstr "最早提出用驯鹿毛皮做衣物的那位驯鹿饲育员"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Reindeer Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:2059
@@ -15823,7 +15823,7 @@ msgctxt "frisians_building"
 msgid ""
 "Breeds strong reindeer for adding them to the transportation system. Also "
 "keeps them for their fur, which is turned into armor and cloth."
-msgstr ""
+msgstr "饲育强壮的驯鹿，把它们并入运输体系。也为取毛皮而养它们，毛皮可做成甲胄和布料。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Reindeer Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:2061
@@ -15831,7 +15831,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the supply is steady and there is continuous demand for fur, then the "
 "reindeer farm produces one meat after producing three pieces of fur."
-msgstr ""
+msgstr "若供应稳定且对毛皮持续有需求，驯鹿场每产出三张毛皮就会产出一块肉。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Reindeer
 #. Farm
@@ -15843,7 +15843,7 @@ msgid ""
 "on average. If only reindeers are needed by the economy, their production "
 "takes %3$s on average. If only fur is needed by the economy, its production "
 "takes %4$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对驯鹿和毛皮都有需求，平均产出一头驯鹿需要 %1$s，一张毛皮需要 %2$s。若经济只需要驯鹿，平均产出它需要 %3$s。若经济只需要毛皮，平均产出它需要 %4$s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:2070
@@ -15851,7 +15851,7 @@ msgctxt "frisians_building"
 msgid ""
 "No frost, no heat; no rain, no drought; no rats, no locusts; naught can "
 "destroy my harvest."
-msgstr ""
+msgstr "无霜无暑，无雨无旱，无鼠无蝗；没有什么能毁掉我的收成。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:2072
@@ -15859,19 +15859,19 @@ msgctxt "frisians_building"
 msgid ""
 "A farmer’s reply when asked by his chieftain why he was planting such a "
 "slow-growing grain."
-msgstr ""
+msgstr "首领问一位农夫为何要种这么慢长的谷物，这是他的回答。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:2074
 msgctxt "building"
 msgid "Sows and harvests barley."
-msgstr ""
+msgstr "播种并收割大麦。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Farm
 #: ../../../../data/tribes/initialization/frisians/units.lua:2076
 msgctxt "frisians_building"
 msgid "The farm needs free space within the work area to plant seeds."
-msgstr ""
+msgstr "农场的工作范围内需要有空地才能下种。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Farm, part
 #. 1
@@ -15880,7 +15880,7 @@ msgctxt "frisians_building"
 msgid ""
 "The farmer sows and harvests one sheaf of barley between %1$s and %2$s, "
 "depending on how far he has to walk."
-msgstr ""
+msgstr "农夫播种并收割一捆大麦需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Farm, part
 #. 2; %s is replaced by 'N growing fields'
@@ -15889,13 +15889,13 @@ msgstr ""
 msgctxt "frisians_building"
 msgid ""
 "The farm needs at least %s to work at full productivity most of the time."
-msgstr ""
+msgstr "农场需要至少 %s，才能在大多数时候保持满产。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Diker's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:2089
 msgctxt "frisians_building"
 msgid "Constructs breakwaters nearby to gain new land from the sea."
-msgstr ""
+msgstr "在附近修筑防波堤，向海要地。"
 
 #. TRANSLATORS: Note helptext for a Frisian production site: Diker's House
 #: ../../../../data/tribes/initialization/frisians/units.lua:2091
@@ -15905,7 +15905,7 @@ msgid ""
 "times. You can manually remove breakwaters when the land is sufficiently "
 "secured to prevent wasting resources; to do so, build a flag, road, or "
 "building in the dike’s place."
-msgstr ""
+msgstr "筑堤工每修一道防波堤，都会把周围的土地整治好几遍。等土地固定得差不多了，你可以手动拆掉防波堤，免得浪费资源；做法是在堤的位置上建一面旗帜、一条路或一座建筑。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Diker's
 #. House
@@ -15914,7 +15914,7 @@ msgctxt "frisians_building"
 msgid ""
 "If this building is fully supplied, the diker can perform one terraform "
 "between %1$s and %2$s, depending on how far he has to walk."
-msgstr ""
+msgstr "若这座建筑供应充足，筑堤工整治一次土地需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Rock Mine
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Deep Rock Mine
@@ -15922,7 +15922,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2111
 msgctxt "building"
 msgid "Digs granite out of the ground in mountain terrain."
-msgstr ""
+msgstr "在山地上从地下挖出花岗石。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Rock Mine
 #: ../../../../data/tribes/initialization/frisians/units.lua:2104
@@ -15931,7 +15931,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the rock mine can produce granite in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，岩石矿平均 %s 能产出花岗石。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Deep Rock
 #. Mine
@@ -15941,7 +15941,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the deep rock mine can produce granite in %s "
 "on average."
-msgstr ""
+msgstr "若食物供应稳定，井下岩石矿平均 %s 能产出花岗石。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Coal Mine
 #: ../../../../data/tribes/initialization/frisians/units.lua:2122
@@ -15950,7 +15950,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the coal mine can produce coal in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，煤矿平均 %s 能产出煤。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Deep Coal
 #. Mine
@@ -15960,7 +15960,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the deep coal mine can produce coal in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，井下煤矿平均 %s 能产出煤。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Iron Mine
 #: ../../../../data/tribes/initialization/frisians/units.lua:2140
@@ -15969,7 +15969,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the iron mine can produce one piece of iron "
 "ore in %s on average."
-msgstr ""
+msgstr "若食物供应稳定，铁矿平均 %s 能产出一块铁矿石。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Deep Iron
 #. Mine
@@ -15979,7 +15979,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the deep iron mine can produce iron ore in %s "
 "on average."
-msgstr ""
+msgstr "若食物供应稳定，井下铁矿平均 %s 能产出铁矿石。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Gold Mine
 #: ../../../../data/tribes/initialization/frisians/units.lua:2158
@@ -15988,7 +15988,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the gold mine can produce one piece of gold "
 "ore in %s on average."
-msgstr ""
+msgstr "若食物供应稳定，金矿平均 %s 能产出一块金质矿石。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Deep Gold
 #. Mine
@@ -15998,7 +15998,7 @@ msgctxt "frisians_building"
 msgid ""
 "If the food supply is steady, the deep gold mine can produce gold ore in %s "
 "on average."
-msgstr ""
+msgstr "若食物供应稳定，井下金矿平均 %s 能产出金质矿石。"
 
 #. TRANSLATORS: Lore helptext for a Frisian training site: Training Camp
 #: ../../../../data/tribes/initialization/frisians/units.lua:2176
@@ -16006,7 +16006,7 @@ msgctxt "frisians_building"
 msgid ""
 "Just be quiet, listen carefully, and do try not to stab yourself until I’ve "
 "explained to you how to hold a broadsword."
-msgstr ""
+msgstr "都给我安静，听仔细了；在我教会你们怎么握阔剑之前，可别把自己捅了。"
 
 #. TRANSLATORS: Lore author helptext for a Frisian training site: Training
 #. Camp
@@ -16016,7 +16016,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2197
 msgctxt "frisians_building"
 msgid "A trainer training a soldier"
-msgstr ""
+msgstr "一位教练员在训练士兵"
 
 #. TRANSLATORS: Purpose helptext for a Frisian training site: Training Camp
 #: ../../../../data/tribes/initialization/frisians/units.lua:2180
@@ -16024,7 +16024,7 @@ msgctxt "frisians_building"
 msgid ""
 "Trains soldiers in Attack up to level 3 as well as in Defense and Health to "
 "level 1. Equips the soldiers with all necessary weapons and armor parts."
-msgstr ""
+msgstr "把士兵的攻击练到 3 级，把防御和生命练到 1 级。并为士兵配齐所需的全部兵器和甲胄部件。"
 
 #. TRANSLATORS: Note helptext for a Frisian training site: Training Camp
 #: ../../../../data/tribes/initialization/frisians/units.lua:2182
@@ -16032,7 +16032,7 @@ msgctxt "frisians_building"
 msgid ""
 "Frisian soldiers cannot train in Evade and will remain at their initial "
 "level."
-msgstr ""
+msgstr "弗里西亚士兵无法训练闪避，会一直停留在初始等级。"
 
 #. TRANSLATORS: Performance helptext for a Frisian training site: Training
 #. Camp, part 1
@@ -16042,7 +16042,7 @@ msgctxt "frisians_building"
 msgid ""
 "If all needed wares are delivered in time, a training camp can train one "
 "soldier one level in attack, defense or health in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，训练营平均 %s 能把一名士兵的攻击、防御或生命提升一级。"
 
 #. TRANSLATORS: Performance helptext for a Frisian training site: Training
 #. Camp, part 2
@@ -16053,7 +16053,7 @@ msgstr ""
 #, lua-format
 msgctxt "frisians_building"
 msgid "Complete training of one soldier takes %s on average."
-msgstr ""
+msgstr "把一名士兵练到头平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Frisian training site: Training Arena
 #: ../../../../data/tribes/initialization/frisians/units.lua:2195
@@ -16062,7 +16062,7 @@ msgid ""
 "Now that you have two swords, there’s more of a risk you’ll accidentally "
 "stab yourself, but if you got this far, you’ll likely master this challenge "
 "as well."
-msgstr ""
+msgstr "现在你手上有两把剑了，不小心捅到自己的风险也大了些；不过既然都练到这一步，这道坎你多半也过得去。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian training site: Training Arena
 #: ../../../../data/tribes/initialization/frisians/units.lua:2199
@@ -16070,7 +16070,7 @@ msgctxt "frisians_building"
 msgid ""
 "Trains soldiers in Attack, Defense and Health to the final level. Equips the"
 " soldiers with all necessary weapons and armor parts."
-msgstr ""
+msgstr "把士兵的攻击、防御和生命都练到最高一级。并为士兵配齐所需的全部兵器和甲胄部件。"
 
 #. TRANSLATORS: Note helptext for a Frisian training site: Training Arena
 #: ../../../../data/tribes/initialization/frisians/units.lua:2201
@@ -16078,7 +16078,7 @@ msgctxt "frisians_building"
 msgid ""
 "Trains only soldiers who have been trained to the maximum level by the "
 "Training Camp."
-msgstr ""
+msgstr "只训练已经在训练营里练到顶的士兵。"
 
 #. TRANSLATORS: Performance helptext for a Frisian training site: Training
 #. Arena, part 1
@@ -16088,7 +16088,7 @@ msgid ""
 "If all needed wares are delivered in time, a training arena can train one "
 "soldier one level in attack in %1$s, one level in defense in %2$s and one "
 "level in health in %3$s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，训练场平均 %1$s 能把一名士兵的攻击提升一级，%2$s 能把防御提升一级，%3$s 能把生命提升一级。"
 
 #. TRANSLATORS: Purpose helptext for a Frisian military site: Wooden Tower
 #. TRANSLATORS: Purpose helptext for a Frisian military site: High Wooden
@@ -16105,7 +16105,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2261
 msgctxt "frisians_building"
 msgid "Garrisons soldiers to expand your territory."
-msgstr ""
+msgstr "驻扎士兵以扩张你的领土。"
 
 #. TRANSLATORS: Note helptext for a Frisian military site: Wooden Tower
 #. TRANSLATORS: Note helptext for a Frisian military site: High Wooden Tower
@@ -16124,7 +16124,7 @@ msgid ""
 "If you’re low on soldiers to occupy new military sites, use the downward "
 "arrow button to decrease the capacity. You can also click on a soldier to "
 "send him away."
-msgstr ""
+msgstr "如果士兵不够占满新的军事点，可以用向下的箭头按钮把容量调低。你也可以点击某名士兵把他遣走。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Ferry
 #. Yard, part 1
@@ -16133,7 +16133,7 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one ferry between %1$s and %2$s, depending on how "
 "far the shipwright has to walk."
-msgstr ""
+msgstr "这座建筑造出一艘渡船需要 %1$s 到 %2$s，取决于造船木工要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Shipyard
 #: ../../../../data/tribes/initialization/frisians/units.lua:2291
@@ -16141,7 +16141,7 @@ msgctxt "frisians_building"
 msgid ""
 "This house may be called a shipyard, but my ships are rather longer than one"
 " yard!"
-msgstr ""
+msgstr "这屋子虽叫造船厂，我造的船可比一码长得多！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Shipyard
 #: ../../../../data/tribes/initialization/frisians/units.lua:2293
@@ -16149,7 +16149,7 @@ msgctxt "frisians_building"
 msgid ""
 "A shipwright who only constructed toy ships after being chid that his ships "
 "were too small"
-msgstr ""
+msgstr "一位造船木工因被讥讽船造得太小，此后只肯造玩具船"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Shipyard,
 #. part 1
@@ -16158,7 +16158,7 @@ msgctxt "frisians_building"
 msgid ""
 "This building can produce one ship between %1$s and %2$s, depending on how "
 "far the shipwright has to walk."
-msgstr ""
+msgstr "这座建筑造出一艘船需要 %1$s 到 %2$s，取决于造船木工要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Frisian production site: Weaving Mill
 #: ../../../../data/tribes/initialization/frisians/units.lua:2314
@@ -16166,20 +16166,20 @@ msgctxt "frisians_building"
 msgid ""
 "Reindeer’s fur and roofing reed<br>These items two make up the seed<br>For "
 "ships of wood to chain the gales<br>In sturdy, beautious, blowing sails!"
-msgstr ""
+msgstr "驯鹿毛皮与苫顶芦苇<br>这两样便是那颗种子<br>叫木造的船儿锁住狂风<br>化作结实、漂亮、鼓胀的帆！"
 
 #. TRANSLATORS: Lore author helptext for a Frisian production site: Weaving
 #. Mill
 #: ../../../../data/tribes/initialization/frisians/units.lua:2316
 msgctxt "frisians_building"
 msgid "A seamstress’ work song"
-msgstr ""
+msgstr "一支女裁缝的劳动号子"
 
 #. TRANSLATORS: Purpose helptext for a Frisian production site: Weaving Mill
 #: ../../../../data/tribes/initialization/frisians/units.lua:2318
 msgctxt "building"
 msgid "Sews cloth for ship sails out of reed and reindeer fur."
-msgstr ""
+msgstr "用芦苇和驯鹿毛皮缝制做船帆的布料。"
 
 #. TRANSLATORS: Performance helptext for a Frisian production site: Weaving
 #. Mill
@@ -16187,7 +16187,7 @@ msgstr ""
 #, lua-format
 msgctxt "frisians_building"
 msgid "The weaving mill needs %s on average to produce one piece of cloth."
-msgstr ""
+msgstr "织坊产出一块布料平均需要 %s。"
 
 #. TRANSLATORS: This Frisian warehouse is named after a town in Northern
 #. Frisia
@@ -16635,35 +16635,35 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2481
 msgctxt "frisians"
 msgid "Worker missing"
-msgstr ""
+msgstr "缺少工人"
 
 #. TRANSLATORS: Productivity label on a Frisian building if there is 1 worker
 #. coming
 #: ../../../../data/tribes/initialization/frisians/units.lua:2483
 msgctxt "frisians"
 msgid "Worker is coming"
-msgstr ""
+msgstr "工人正在赶来"
 
 #. TRANSLATORS: Productivity label on a Frisian building if there is more than
 #. 1 worker missing. If you need plural forms here, please let us know.
 #: ../../../../data/tribes/initialization/frisians/units.lua:2485
 msgctxt "frisians"
 msgid "Workers missing"
-msgstr ""
+msgstr "缺少工人"
 
 #. TRANSLATORS: Productivity label on a Frisian building if there is more than
 #. 1 worker coming. If you need plural forms here, please let us know.
 #: ../../../../data/tribes/initialization/frisians/units.lua:2487
 msgctxt "frisians"
 msgid "Workers are coming"
-msgstr ""
+msgstr "工人正在赶来"
 
 #. TRANSLATORS: Productivity label on a Frisian building if there is 1
 #. experienced worker missing
 #: ../../../../data/tribes/initialization/frisians/units.lua:2489
 msgctxt "frisians"
 msgid "Expert missing"
-msgstr ""
+msgstr "缺少熟练工"
 
 #. TRANSLATORS: Productivity label on a Frisian building if there is more than
 #. 1 experienced worker missing. If you need plural forms here, please let us
@@ -16671,7 +16671,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2491
 msgctxt "frisians"
 msgid "Experts missing"
-msgstr ""
+msgstr "缺少熟练工"
 
 #. TRANSLATORS: %1% is the number of Frisian soldiers the plural refers to.
 #. %2% is the maximum number of soldier slots in the building.
@@ -16679,14 +16679,14 @@ msgstr ""
 msgctxt "frisians_soldier"
 msgid "%1% soldier (+%2%)"
 msgid_plural "%1% soldiers (+%2%)"
-msgstr[0] ""
+msgstr[0] "%1% 名士兵（+%2%）"
 
 #. TRANSLATORS: Number of Frisian soldiers stationed at a militarysite.
 #: ../../../../data/tribes/initialization/frisians/units.lua:2507
 msgctxt "frisians_soldier"
 msgid "%1% soldier"
 msgid_plural "%1% soldiers"
-msgstr[0] ""
+msgstr[0] "%1% 名士兵"
 
 #. TRANSLATORS: %1% is the number of Frisian soldiers the plural refers to.
 #. %2% are currently open soldier slots in the building. %3% is the maximum
@@ -16695,7 +16695,7 @@ msgstr[0] ""
 msgctxt "frisians_soldier"
 msgid "%1%(+%2%) soldier (+%3%)"
 msgid_plural "%1%(+%2%) soldiers (+%3%)"
-msgstr[0] ""
+msgstr[0] "%1%(+%2%) 名士兵（+%3%）"
 
 #. TRANSLATORS: %1% is the number of Frisian soldiers the plural refers to.
 #. %2% are currently open soldier slots in the building.
@@ -16703,7 +16703,7 @@ msgstr[0] ""
 msgctxt "frisians_soldier"
 msgid "%1%(+%2%) soldier"
 msgid_plural "%1%(+%2%) soldiers"
-msgstr[0] ""
+msgstr[0] "%1%(+%2%) 名士兵"
 
 #. TRANSLATORS: Lore helptext for a building - it hasn't been written yet.
 #. TRANSLATORS: Purpose helptext for a building - it hasn't been written yet.

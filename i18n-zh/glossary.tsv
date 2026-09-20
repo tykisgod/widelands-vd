@@ -535,7 +535,7 @@ Fruit Collector	摘果人	frisians_worker	tribes
 Fruit Collector’s House	摘果人之屋	frisians_building	tribes	
 Fulla	芙拉号	shipname	tribes	
 Fur	毛皮	ware	tribes	
-Fur Garment	皮装	ware	tribes	
+Fur Garment	毛皮衣	ware	corrections	原「皮装／皮铠／皮衣」三种说法并存
 Furnace	熔炉	amazons_building	tribes	
 Furnace	熔炉	frisians_building	tribes	
 Föhr	弗尔号	shipname	tribes	
@@ -571,7 +571,7 @@ Gold Ore	金质矿石	ware	tribes
 Gold Smelter	黄金冶炼厂	amazons_worker	tribes	
 Gold Spinning Mill	纺金坊	atlanteans_building	tribes	
 Gold Thread	金线	ware	tribes	
-Golden Fur Garment	金缕皮铠	ware	tribes	
+Golden Fur Garment	缀金毛皮衣	ware	corrections	与 Studded 同一构词
 Golden Helmet	黄金头盔	frisians_ware	tribes	
 Golden Tabard	黄金战袍	ware	tribes	
 Granite	花岗石	ware	tribes	
@@ -999,7 +999,7 @@ Oil Palm (Old)	油棕榈树(老树)		world
 Oil Palm (Pole)	油棕榈树(树干)		world	
 Oil Palm (Sapling)	油棕榈树(树苗)		world	
 Oland	厄兰号	shipname	tribes	
-Old Fur Garment	旧皮衣	ware	tribes	
+Old Fur Garment	旧毛皮衣	ware	corrections	与 Fur Garment 同一构词
 Onyx	玛瑙号	shipname	tribes	
 Opol	奥波尔号	shipname	tribes	
 Orchila	奥契拉号	shipname	tribes	
@@ -1234,10 +1234,10 @@ Seruini	塞鲁伊尼号	shipname	tribes
 Server	服务器		corrections	
 sewing a tunic	缝制一件紧身上衣		tribes	
 sewing a warrior’s coat	缝制一件勇士之铠		tribes	
-sewing fur garment	缝制皮装		tribes	
-sewing golden fur garment	缝制金缕皮铠		tribes	
+sewing fur garment	缝制毛皮衣		tribes	
+sewing golden fur garment	缝制缀金毛皮衣		tribes	
 Sewing Room	缝纫坊	frisians_building	corrections	原"裁缝铺"与 Tailor's Shop"裁缝店"几乎同形
-sewing studded fur garment	缝制钉饰皮铠		tribes	
+sewing studded fur garment	缝制缀铁毛皮衣		tribes	
 Sharp Ax	锋利的斧头	ware	tribes	
 Sheep	绵羊		world	
 Sheep Farm	牧羊场	empire_building	tribes	
@@ -1348,7 +1348,7 @@ Strawberries (small)	草莓(小的)		tribes
 Strawberries (tiny)	草莓(微小的)		tribes	
 Strong Beer	高浓度啤酒	ware	tribes	
 Struggling Outpost	艰难前哨		corrections	struggling 指处境艰难，原译"战争中的前哨"无依据
-Studded Fur Garment	钉饰皮铠	ware	tribes	
+Studded Fur Garment	缀铁毛皮衣	ware	corrections	studded 指缀铁，原「钉饰皮铠」既不成体系也看不出材质
 Sturdy Boots	坚固的靴子	ware	tribes	
 Sucunduri	苏昆杜里号	shipname	tribes	
 Summer	夏季		world	
