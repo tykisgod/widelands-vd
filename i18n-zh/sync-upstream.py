@@ -37,6 +37,7 @@ fork 拿不到这一步，所以必须自己补做 **key 级合并**：
 from __future__ import annotations
 
 import argparse
+import io
 import os
 import shutil
 import subprocess
@@ -152,6 +153,40 @@ def resolve_conflicts():
         raise SystemExit(2)
 
 
+def untranslated_map():
+    """每个域的未译 msgid 集合。用来算出上游这次新加了哪些串。"""
+    sys.path.insert(0, HERE)
+    import importlib
+    cp = importlib.import_module('check_po')
+    importlib.reload(cp)
+    result = {}
+    for name, _pot, po in domains():
+        if not os.path.exists(po):
+            continue
+        miss = set()
+        for e in cp.parse_po(po):
+            if e.is_header:
+                continue
+            if not (e.msgstrs and e.msgstrs[0].strip()):
+                miss.add((e.ctxt or '', e.msgid))
+        result[name] = miss
+    return result
+
+
+def drop_obsolete(po):
+    """删掉 "#~" 废弃条目。pot2po 会把上游删掉的串留成注释，运行时被忽略，
+    但会一次次累积下去，本仓库原本一条都没有。"""
+    text = io.open(po, encoding='utf-8').read()
+    blocks = text.split('\n\n')
+    kept = [b for b in blocks
+            if not any(l.startswith('#~') for l in b.splitlines())]
+    if len(kept) == len(blocks):
+        return 0
+    io.open(po, 'w', encoding='utf-8', newline='\n').write(
+        '\n\n'.join(kept).rstrip('\n') + '\n')
+    return len(blocks) - len(kept)
+
+
 def key_merge(pot2po):
     """用新 pot 的键集重建每个域的 zh_CN.po，保留本方译文。"""
     print('\nkey 级合并（新 pot 键集 + 本方译文）：')
@@ -179,6 +214,11 @@ def key_merge(pot2po):
                 changed.append(name)
     print(f'  {len(changed)} 个域的 {LOCALE}.po 有变化'
           + ('：' + ', '.join(changed) if changed else ''))
+
+    dropped = sum(drop_obsolete(po) for _n, _p, po in domains()
+                  if os.path.exists(po))
+    if dropped:
+        print(f'  清掉 {dropped} 条 "#~" 废弃条目（上游已删除的串）')
     return changed
 
 
@@ -205,6 +245,7 @@ def main():
         raise SystemExit('工作区不干净，先提交或清理再同步。')
 
     pot2po = find_pot2po()
+    before_missing = untranslated_map()
 
     print(f'\n合并 {UPSTREAM} …')
     r = git('merge', '--no-commit', '--no-ff', UPSTREAM, check=False)
@@ -223,16 +264,35 @@ def main():
     subprocess.run([sys.executable, os.path.join(HERE, 'update_stats.py')],
                    cwd=REPO, check=False)
 
+    after_missing = untranslated_map()
+    new_strings = []
+    for name, miss in after_missing.items():
+        for key in sorted(miss - before_missing.get(name, set())):
+            new_strings.append((name, key))
+    if new_strings:
+        print(f'\n上游新增了 {len(new_strings)} 条待翻译的串：')
+        for name, (ctxt, msgid) in new_strings[:20]:
+            tag = f'[{ctxt}] ' if ctxt else ''
+            print(f'  {name}: {tag}{msgid[:70]}')
+        if len(new_strings) > 20:
+            print(f'  …… 另有 {len(new_strings) - 20} 条')
+    else:
+        print('\n上游没有新增待翻译的串。')
+
     print('\n校验 …')
+    # 必须带 --require-complete：check_po.py 默认跳过未译条目，
+    # 不带这个开关的话上游新增的空条目会静默通过。
     check = subprocess.run(
-        [sys.executable, os.path.join(HERE, 'check_po.py'), '--all', '--quiet'],
+        [sys.executable, os.path.join(HERE, 'check_po.py'),
+         '--all', '--require-complete', '--quiet'],
         cwd=REPO, capture_output=True, text=True, encoding='utf-8', errors='replace')
     print(check.stdout.strip()[-800:])
 
     git('add', '-A')
     if check.returncode != 0:
-        print('\n校验没过 —— 多半是上游新增了串、现在是空条目，需要翻译。')
-        print('改动已 git add，翻完再提交。')
+        print('\n校验没过。若只是上面列出的新串没翻，翻完再提交即可；'
+              '若是别的 error，先看具体报告。')
+        print('改动已 git add。')
         return 1
 
     if args.commit:
