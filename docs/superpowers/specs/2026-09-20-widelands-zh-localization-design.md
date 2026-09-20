@@ -302,8 +302,8 @@ fuzzy 译文是 msgmerge 基于相似旧串的猜测，会被**原样显示给�
 
 fork 拿不到这一步。于是 rebase 时，上游会同时带来新 `widelands.pot` 和已被 Transifex 合并过的新 `zh_CN.po`，而本 fork 也重写了同一个 378 KB 文件，必然大面积冲突，且三种常规解法都错：
 
-- `--ours`（保住译文）→ 键集停留在旧 pot，上游新增串在 po 里没有条目，运行时全部回退英文；而文件本身条目数与非空率均未变，**验收静默通过，覆盖率却已下降**。最危险，因为毫无信号。
-- `--theirs`（接受上游）→ 键集正确，但 msgstr 变回上游旧译文，**本 fork 全部译文成果丢失**。
+- **`--ours` / `--theirs` 在 rebase 期间的含义与普通 merge 相反**：ours 是被 rebase 到的上游，theirs 才是本方提交。已用最小复现验证。因此 `git checkout --ours <po>` 取到的是上游版本，会**直接销毁本 fork 的全部译文**。不要依赖对这两个标志的记忆，改用步骤 0 的副本。
+- 即便取对了本方版本，键集仍停留在旧 pot：上游新增串在 po 里没有条目，运行时全部回退英文；而文件条目数与非空率均未变，**验收静默通过，覆盖率却已下降**。这是必须补做 key 级合并的原因。
 - 手工逐块解冲突 → 2,378 条目、378 KB，冲突块覆盖大半个文件，既不可行也不可靠。
 
 根因是把 `.po` 当普通文本做行级三方合并。`.po` 是按 key 索引的数据文件，正确操作是 **key 级合并**。
@@ -311,25 +311,31 @@ fork 拿不到这一步。于是 rebase 时，上游会同时带来新 `wideland
 正确步骤：
 
 ```bash
+# 0. 先把本方译文复制到 rebase 碰不到的地方。
+#    rebase 期间 --ours 指的是被 rebase 到的上游、--theirs 才是本方提交，
+#    与普通 merge 相反。靠记忆选错会直接丢掉全部译文，故不依赖它。
+cp data/i18n/translations/widelands/zh_CN.po /tmp/mine.po
+
 git fetch upstream
 git rebase upstream/master
-#   zh_CN.po 冲突一律取 ours，不要手工解
-git checkout --ours data/i18n/translations/widelands/zh_CN.po
+#   zh_CN.po 冲突时用副本覆盖，不做行级解冲突
+cp /tmp/mine.po data/i18n/translations/widelands/zh_CN.po
 git add    data/i18n/translations/widelands/zh_CN.po
 git rebase --continue
 
 # pot 是 buildcat.py 从源码自动生成的产物，本 fork 从不修改，直接取上游
 git checkout upstream/master -- data/i18n/translations/widelands/widelands.pot
 
-# 关键一步：补做 Transifex 没帮我们做的 key 级合并
+# 关键一步：补做 Transifex 没帮我们做的 key 级合并。
+# 输出到新文件，校验通过后再替换——不要原地读写同一个 .po
 pot2po --nofuzzymatching \
-  -t data/i18n/translations/widelands/zh_CN.po \
+  -t /tmp/mine.po \
   -i data/i18n/translations/widelands/widelands.pot \
-  -o data/i18n/translations/widelands/zh_CN.po
+  -o /tmp/updated.po
 
-# 门禁
-python i18n-zh/check_po.py data/i18n/translations/widelands/zh_CN.po \
+python i18n-zh/check_po.py /tmp/updated.po \
   --pot data/i18n/translations/widelands/widelands.pot --require-complete
+mv /tmp/updated.po data/i18n/translations/widelands/zh_CN.po
 ```
 
 选 `pot2po`（translate-toolkit）而非 `msgmerge` 的理由：纯 Python，`pip install translate-toolkit` 即可；本机实测 `msgmerge` / `msgfmt` / `msgattrib` / `xgettext` **全部未安装**，在 Windows 上部署 gettext 二进制是额外负担；translate-toolkit 已是上游开发依赖（`utils/validate_translations.sh:60` 的 `pofilter` 同属该包）。`--nofuzzymatching` 让变更串以**空 msgstr** 返回而非 fuzzy 猜测，从源头消掉 §7.1 的风险。
