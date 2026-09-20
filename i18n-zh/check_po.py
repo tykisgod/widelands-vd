@@ -284,9 +284,21 @@ def check_trailing_space(e, path, out):
 
 
 def check_fuzzy(e, path, out):
+    """fuzzy 译文会被游戏当作正式译文显示给玩家——这与 gettext 的常识相反。
+
+    Widelands 运行时直接解析 .po，没有 msgfmt 那一步，所以"msgfmt 默认丢弃
+    fuzzy"的保护在这里不存在：
+      po_parser.hpp:48       POParser(..., bool use_fuzzy = true)
+      po_parser.cpp:41-45    静态 parse() 用三参构造，use_fuzzy 恒为 true
+      po_parser.cpp:418,459  if (use_fuzzy || !fuzzy) —— 短路，fuzzy 标记失效
+      dictionary_manager.cpp:165  调三参版本，其 use_fuzzy 成员是死字段
+    fuzzy 是 msgmerge basedon 相似旧串的猜测，原样显示比留空回退英文更糟，
+    因此定为 error 而非 warning。
+    """
     if 'fuzzy' in e.flags:
-        out.append(Problem('warning', path, e.line, 'fuzzy',
-                           'fuzzy 标记未清除，游戏不会使用该译文', e.msgid))
+        out.append(Problem('error', path, e.line, 'fuzzy',
+                           'fuzzy 译文会被游戏原样显示（tinygettext use_fuzzy '
+                           '默认 true），必须核对后清除该标记', e.msgid))
 
 
 def load_glossary(path):
