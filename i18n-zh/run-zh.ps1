@@ -14,20 +14,22 @@
 .PARAMETER Lang
     语言代码，默认 zh_CN。传 en 可对照英文原文。
 
-.PARAMETER Windowed
-    窗口模式启动，便于与编辑器并排对照。
+.PARAMETER Fullscreen
+    全屏启动。默认窗口模式，便于与编辑器并排对照译文。
+    注意 --fullscreen 是"存在即生效"的开关，不能写成 --fullscreen=false，
+    那样会被判为非法参数导致游戏静默早退（src/wlapplication.cc:1934）。
 
 .EXAMPLE
     .\i18n-zh\run-zh.ps1
     .\i18n-zh\run-zh.ps1 -Lang en          # 对照英文
-    .\i18n-zh\run-zh.ps1 -Windowed
+    .\i18n-zh\run-zh.ps1 -Fullscreen
 #>
 [CmdletBinding()]
 param(
     [string]$Lang = 'zh_CN',
     [string]$Exe = 'E:\dpp_new\widelands-run\widelands.exe',
     [string]$Repo = (Split-Path -Parent $PSScriptRoot),
-    [switch]$Windowed
+    [switch]$Fullscreen
 )
 
 $ErrorActionPreference = 'Stop'
@@ -60,7 +62,7 @@ $wlArgs = @(
     '--skip_check_datadir_version'   # 源码 checkout 无构建期生成的 data/datadirversion
     "--language=$Lang"
 )
-if ($Windowed) { $wlArgs += '--fullscreen=false' }
+if ($Fullscreen) { $wlArgs += '--fullscreen' }
 
 & $Exe @wlArgs
 exit $LASTEXITCODE
