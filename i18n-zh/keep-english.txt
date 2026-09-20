@@ -65,3 +65,59 @@ Salvete peregrini! Murilius Proconsul Terrae Septentrionalis provinciae ego sum.
 Hostes Imperii estis!
 Salvete amici Imperii!
 Amici Imperii
+
+# --- 帝国百科的拉丁语引文：原文注释明写 “DO NOT TRANSLATE, but you
+#     may transliterate into non-latin fonts.”，游戏里紧跟其后就是
+#     这句拉丁文的译文，保留原文才是设计意图。 ---
+Omnes viæ ducunt Fremilem.
+Commune naufragium omnibus est consolatio.
+Bis dat, qui cito dat, nil dat, qui munera tardat.
+Navigare necesse est.
+Clara pacta, boni amici.
+Non relinquetur hic lapis super lapidem qui non destruatur.
+In silvam non ligna feras.
+Vivat, crescat, floreat!
+Piscis primum a capite foetet.
+Venator venatus insidiatur.
+Gratius ex ipso fonte bibuntur aquæ.
+Ciatkaruthus ante portas!
+Mens agitat molem.
+Nihil agit serra nisi mota ab arte.
+Sero molunt deorum molæ.
+Non est de sacco tanta farina tuo.
+Nunc est bibendum, nunc pede libero pulsanda tellus!
+Vino vendibili hedera non opus est.
+In vino veritas.
+Esse oportet ut vivas, non vivere ut edas.
+In cena dapibus plena te mente refrena.
+Creta an carbone notandi?
+Video ferrum ex isdem tenebris esse prolatum, quibus aurum.
+Faber est suæ quisque fortunæ.
+Hi loricarum vasto sub tegmine gaudent, intexit creber sibimet quas circulus hærens, atque catenosi crepitant per corpora panni.
+Non muri, sed viri sunt præsidium oppidorum.
+Asinus stramen mavult quam aurum.
+Lutius iam a publicis negotiis se removerat, ruri vivebat et senatus legati eum invenerunt dum agellum suum arat.
+Sus vero quid habet præter escam?
+Conari agnum eripere lupo.
+Vestis virum reddit.
+Ignis calorem suum etiam in ferro tenet.
+In vento scribit lædens, in marmore læsus.
+Urbem lateritiam invenit, marmoream reliquit.
+Carbo de mortuo reviviscit, de nigro in ruborem vertitur, favillas generat, et dum resolvitur, cinerea.
+Non enim est una species ignis: nam diversum est carbo et flamma, et lux specie, cum unumquodque horum sit ignis.
+Ferrum ferro acuitur.
+Ferreus assiduo consumitur annulus usu.
+Aurum irrepertum et sic melius situm.
+Formidinem mortis vicit aurum.
+Qui dabat olim […] omnia, nunc se continet atque duas tantum res anxius optat, panem et circenses.
+Ave Cæsar! Morituri te salutant!
+Fortes fortuna adiuvat.
+Aquila non captat muscas.
+Quis custodiet ipsos custodes?
+Binæ contra urbem a castris station erant, una ultra flumen, altera eis flumen supra castra.
+Alea iacta est!
+Veni, Vidi, Vici!
+Si vis pacem, para bellum.
+Ceterum autem censeo Althunranam esse delendam!
+Non terretur fluminibus, qui maria transiit.
+Uni navi ne committas omnia.
