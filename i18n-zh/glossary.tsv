@@ -215,7 +215,7 @@ Brewery	啤酒坊	frisians_building	tribes
 brewing beer	酿造啤酒		tribes	
 brewing chocolate	酿制巧克力		tribes	
 brewing mead	酿造蜂蜜酒		tribes	
-brewing strong beer	酿造高浓度啤酒		tribes	
+brewing strong beer	酿造烈啤酒		tribes	
 Brick	砖	ware	tribes	
 Brick Kiln	砖窑	frisians_building	tribes	
 Brickmaker	烧砖工人	frisians_worker	tribes	
@@ -507,7 +507,7 @@ forging a long sword	锻造长剑		tribes
 forging a long trident	锻造长三叉戟		tribes	
 forging a mask	锻造面具		tribes	
 forging a pick	锻造鹤嘴镐		tribes	
-forging a sharp ax	锻造锋利的斧头		tribes	
+forging a sharp ax	锻造利斧		tribes	
 forging a short sword	锻造短剑		tribes	
 forging a spear	锻造长矛		tribes	
 forging a steel shield	锻造钢盾		tribes	
@@ -1238,7 +1238,7 @@ sewing fur garment	缝制毛皮衣		tribes
 sewing golden fur garment	缝制缀金毛皮衣		tribes	
 Sewing Room	缝纫坊	frisians_building	corrections	原"裁缝铺"与 Tailor's Shop"裁缝店"几乎同形
 sewing studded fur garment	缝制缀铁毛皮衣		tribes	
-Sharp Ax	锋利的斧头	ware	tribes	
+Sharp Ax	利斧	ware	corrections	与斧／战斧／板斧／青铜斧／勇士之斧同为二字，原「锋利的斧头」不成体系
 Sheep	绵羊		world	
 Sheep Farm	牧羊场	empire_building	tribes	
 Shepherd	牧羊倌	empire_worker	tribes	
@@ -1346,7 +1346,7 @@ Strawberries (medium)	草莓(半熟的)		tribes
 Strawberries (ripe)	草莓(成熟的)		tribes	
 Strawberries (small)	草莓(小的)		tribes	
 Strawberries (tiny)	草莓(微小的)		tribes	
-Strong Beer	高浓度啤酒	ware	tribes	
+Strong Beer	烈啤酒	ware	corrections	原「高浓度啤酒」像化验报告，不像酒名
 Struggling Outpost	艰难前哨		corrections	struggling 指处境艰难，原译"战争中的前哨"无依据
 Studded Fur Garment	缀铁毛皮衣	ware	corrections	studded 指缀铁，原「钉饰皮铠」既不成体系也看不出材质
 Sturdy Boots	坚固靴	ware	corrections	三种靴子原作「靴子／鞋／靴」，统一为「靴」

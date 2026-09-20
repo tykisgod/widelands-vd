@@ -6192,7 +6192,7 @@ msgstr[0] "%1%(+%2%) 名士兵"
 #: ../../../../data/tribes/initialization/barbarians/units.lua:100
 msgctxt "barbarians_ware"
 msgid "The Barbarians produce granite blocks in quarries and granite mines."
-msgstr ""
+msgstr "蛮族在采石场和花岗石矿里产出花岗石块。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Log, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:112
@@ -6202,7 +6202,7 @@ msgid ""
 "trees. Logs are also used in the metal workshop to build basic tools, and in"
 " the charcoal kiln for the production of coal. The wood hardener refines "
 "logs into blackwood by hardening them with fire."
-msgstr ""
+msgstr "蛮族的伐木工砍树，护林员照料树木的供应。原木还用于五金车间打造基础工具，以及煅炭窑产煤。木材硬化厂用火把原木炙硬，加工成黑檀木。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Blackwood
 #: ../../../../data/tribes/initialization/barbarians/units.lua:122
@@ -6210,7 +6210,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "This fire-hardened wood is as hard as iron and it is used for several "
 "buildings. It is produced out of logs in the wood hardener."
-msgstr ""
+msgstr "这种经火炙硬的木头坚硬如铁，用于若干建筑。它在木材硬化厂里用原木做成。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Grout
 #: ../../../../data/tribes/initialization/barbarians/units.lua:131
@@ -6218,7 +6218,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Granite can be processed into grout which provides a solid, non burning "
 "building material. Grout is produced in a lime kiln."
-msgstr ""
+msgstr "花岗石可以加工成泥浆，那是一种结实又不燃的建材。泥浆在石灰窑里产出。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Reed
 #: ../../../../data/tribes/initialization/barbarians/units.lua:139
@@ -6226,13 +6226,13 @@ msgctxt "barbarians_ware"
 msgid ""
 "Reed is produced in a reed yard and used to make the roofs of buildings "
 "waterproof."
-msgstr ""
+msgstr "芦苇在芦苇苑里产出，用来让建筑的屋顶防水。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Cloth
 #: ../../../../data/tribes/initialization/barbarians/units.lua:148
 msgctxt "barbarians_ware"
 msgid "Cloth is needed for Barbarian ships. It is produced out of reed."
-msgstr ""
+msgstr "蛮族的船只需要布料。它由芦苇织成。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Fish
 #: ../../../../data/tribes/initialization/barbarians/units.lua:159
@@ -6241,7 +6241,7 @@ msgid ""
 "Besides pitta bread and meat, fish is also a foodstuff for the Barbarians. "
 "It is used in the taverns, inns and big inns and at the training sites "
 "(training camp and battle arena)."
-msgstr ""
+msgstr "除了皮塔饼和肉，鱼也是蛮族的一种食物。它用于小酒馆、客栈和大客栈，以及训练场（训练营与搏击场）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Meat, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:170
@@ -6250,7 +6250,7 @@ msgid ""
 "Meat is used in the taverns, inns and big inns to prepare rations, snacks "
 "and meals for the miners. It is also consumed at the training sites "
 "(training camp and battle arena)."
-msgstr ""
+msgstr "肉在小酒馆、客栈和大客栈里用来为矿工备制定额口粮、点心和膳食。训练场（训练营与搏击场）也要消耗它。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Water, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:182
@@ -6258,7 +6258,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Water is used in the bakery, the micro brewery and the brewery. The lime "
 "kiln and the cattle farm also need to be supplied with water."
-msgstr ""
+msgstr "水用于面包房、小型酿酒厂和啤酒坊。石灰窑和养牛场也得供上水。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Wheat, part 1
 #. TRANSLATORS: Helptext for an Empire ware: Wheat, part 1
@@ -6266,7 +6266,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:204
 msgctxt "ware"
 msgid "Wheat is essential for survival."
-msgstr ""
+msgstr "小麦是活命的根本。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Wheat, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:194
@@ -6274,7 +6274,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Wheat is produced by farms and consumed by bakeries, micro breweries and "
 "breweries. Cattle farms also need to be supplied with wheat."
-msgstr ""
+msgstr "小麦由农场产出，供面包房、小型酿酒厂和啤酒坊消耗。养牛场也得供上小麦。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Pitta Bread
 #: ../../../../data/tribes/initialization/barbarians/units.lua:204
@@ -6284,7 +6284,7 @@ msgid ""
 "is made out of wheat and water following a secret recipe. Pitta bread is "
 "used in the taverns, inns and big inns to prepare rations, snacks and meals."
 " It is also consumed at training sites (training camp and battle arena)."
-msgstr ""
+msgstr "蛮族的面包师最擅长做这种又扁又香的皮塔饼。它按一份秘方用小麦和水做成。皮塔饼在小酒馆、客栈和大客栈里用来备制定额口粮、点心和膳食。训练场（训练营与搏击场）也要消耗它。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Beer
 #: ../../../../data/tribes/initialization/barbarians/units.lua:213
@@ -6292,7 +6292,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Beer is produced in micro breweries and used in inns and big inns to produce"
 " snacks."
-msgstr ""
+msgstr "啤酒在小型酿酒厂里酿造，在客栈和大客栈里用来做点心。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Strong Beer
 #: ../../../../data/tribes/initialization/barbarians/units.lua:222
@@ -6302,7 +6302,7 @@ msgid ""
 "that the whole power of the Barbarians lies in this ale. It helps to train "
 "the soldiers’ evade level from 0 to 1 to 2. Strong beer is also used in big "
 "inns to prepare meals."
-msgstr ""
+msgstr "搏击场里的士兵只认这种啤酒。有人说蛮族的全部力量就在这杯烈酒里。它能帮着把士兵的闪避从 0 级练到 1 级，再到 2 级。大客栈做膳食时也要用烈啤酒。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Ration, part 1
 #. TRANSLATORS: Helptext for an Empire ware: Ration, part 1
@@ -6314,7 +6314,7 @@ msgctxt "ware"
 msgid ""
 "A small bite to keep miners strong and working. The scout also consumes "
 "rations on his scouting trips."
-msgstr ""
+msgstr "一点小食，让矿工保持体力、不停干活。侦察兵出外探路时也要消耗定额口粮。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Ration, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:234
@@ -6322,7 +6322,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Rations are produced in a tavern, an inn or a big inn out of fish or meat or"
 " pitta bread."
-msgstr ""
+msgstr "定额口粮在小酒馆、客栈或大客栈里用鱼、肉或皮塔饼做成。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Snack
 #: ../../../../data/tribes/initialization/barbarians/units.lua:244
@@ -6330,7 +6330,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "A bigger morsel than the ration to provide miners in deep mines. It is "
 "produced in an inn or a big inn out of fish/meat, pitta bread and beer."
-msgstr ""
+msgstr "比定额口粮更大的一份吃食，供给井下矿场的矿工。它在客栈或大客栈里用鱼／肉、皮塔饼和啤酒做成。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Meal
 #: ../../../../data/tribes/initialization/barbarians/units.lua:253
@@ -6338,7 +6338,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "A meal is made out of pitta bread, strong beer and fish/meat in a big inn. "
 "This substantial food is exactly what workers in a deeper mine need."
-msgstr ""
+msgstr "一份膳食在大客栈里用皮塔饼、烈啤酒和鱼／肉做成。这份扎实的吃食，正是更深矿井里的工人所需要的。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Coal, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:268
@@ -6347,13 +6347,13 @@ msgid ""
 "The fires of the Barbarians are usually fed with coal. Consumers are several"
 " buildings: lime kiln, smelting works, ax workshop, war mill, and helm "
 "smithy."
-msgstr ""
+msgstr "蛮族的炉火通常都用煤来烧。消耗它的建筑有好几种：石灰窑、冶炼厂、斧头厂、战争磨坊和铠甲铺。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Iron Ore, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:281
 msgctxt "barbarians_ware"
 msgid "It is smelted in a smelting works to retrieve the iron."
-msgstr ""
+msgstr "它在冶炼厂里熔炼，以取得铁。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Iron, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:294
@@ -6361,7 +6361,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "It is produced by the smelting works and used to produce weapons and tools "
 "in the metal workshop, ax workshop, war mill and helm smithy."
-msgstr ""
+msgstr "它由冶炼厂产出，用于五金车间、斧头厂、战争磨坊和铠甲铺制造兵器与工具。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Gold Ore, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:307
@@ -6369,7 +6369,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Smelted in a smelting works, it turns into gold which is used as a precious "
 "building material and to produce weapons and armor."
-msgstr ""
+msgstr "在冶炼厂里熔炼后，它变成黄金——一种贵重的建材，也用来制造兵器和甲胄。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Gold, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:320
@@ -6379,7 +6379,7 @@ msgid ""
 "smelting works and used as a precious building material and to produce "
 "different axes (in the war mill) and different parts of armor (in the helm "
 "smithy)."
-msgstr ""
+msgstr "只有最要紧的东西才用黄金装点。它由冶炼厂产出，既是贵重的建材，也用于（在战争磨坊里）制造各式斧头，以及（在铠甲铺里）制造各类甲胄部件。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Pick
 #: ../../../../data/tribes/initialization/barbarians/units.lua:333
@@ -6388,7 +6388,7 @@ msgid ""
 "Picks are used by stonemasons and miners. They are produced in the metal "
 "workshop (but cease to be produced by the building if it is enhanced to an "
 "ax workshop and war mill)."
-msgstr ""
+msgstr "鹤嘴镐由石匠和矿工使用。它们在五金车间里制造（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Felling Ax, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:345
@@ -6397,7 +6397,7 @@ msgid ""
 "Felling axes are used by lumberjacks and produced in the metal workshop (but"
 " cease to be produced by the building if it is enhanced to an ax workshop "
 "and war mill)."
-msgstr ""
+msgstr "伐木斧由伐木工使用，在五金车间里制造（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Shovel, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:358
@@ -6406,7 +6406,7 @@ msgid ""
 "Therefore the gardener and the ranger use them. Produced at the metal "
 "workshop (but cease to be produced by the building if it is enhanced to an "
 "ax workshop and war mill)."
-msgstr ""
+msgstr "因此园丁和护林员要用到它们。它们在五金车间里制造（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Hammer, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:371
@@ -6416,7 +6416,7 @@ msgid ""
 "hammer. Make sure you’ve always got some in reserve! They are one of the "
 "basic tools produced at the metal workshop (but cease to be produced by the "
 "building if it is enhanced to an ax workshop and war mill)."
-msgstr ""
+msgstr "地质专家、建筑工人、铁匠、铠甲匠和造船木工都需要锤子。记得随时留些备用！它们是五金车间产出的基础工具之一（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Fishing Rod, part 1
 #. TRANSLATORS: Helptext for an Empire ware: Fishing Rod, part 1
@@ -6424,7 +6424,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:428
 msgctxt "ware"
 msgid "Fishing rods are needed by fishers to catch fish."
-msgstr ""
+msgstr "渔夫捕鱼需要鱼竿。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Fishing Rod, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:384
@@ -6433,7 +6433,7 @@ msgid ""
 "They are one of the basic tools produced in a metal workshop (but cease to "
 "be produced by the building if it is enhanced to an ax workshop and war "
 "mill)."
-msgstr ""
+msgstr "它们是五金车间产出的基础工具之一（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Hunting Spear, part 1
 #. TRANSLATORS: Helptext for an Empire ware: Hunting Spear, part 1
@@ -6445,7 +6445,7 @@ msgctxt "ware"
 msgid ""
 "This spear is light enough to be thrown, but heavy enough to kill any animal"
 " in one blow. It is only used by hunters."
-msgstr ""
+msgstr "这支长矛轻得能投掷，又重得足以一击毙命。它只由猎人使用。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Hunting Spear, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:397
@@ -6453,7 +6453,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Hunting spears are produced in the metal workshop (but cease to be produced "
 "by the building if it is enhanced to an ax workshop and war mill)."
-msgstr ""
+msgstr "狩猎长矛在五金车间里制造（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Scythe, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:410
@@ -6461,7 +6461,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "Scythes are produced by the metal workshop (but cease to be produced by the "
 "building if it is enhanced to an ax workshop and war mill)."
-msgstr ""
+msgstr "镰刀由五金车间制造（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Bread Paddle, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:423
@@ -6470,7 +6470,7 @@ msgid ""
 "Bread paddles are produced in the metal workshop like all other tools (but "
 "cease to be produced by the building if it is enhanced to an ax workshop and"
 " war mill)."
-msgstr ""
+msgstr "面包桨和其他工具一样，都在五金车间里制造（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Kitchen Tools
 #: ../../../../data/tribes/initialization/barbarians/units.lua:433
@@ -6479,7 +6479,7 @@ msgid ""
 "Kitchen tools are needed for preparing rations, snacks and meals. Be sure to"
 " have a metal workshop to produce this basic tool (but it ceases to be "
 "produced by the building if it is enhanced to an ax workshop and war mill)."
-msgstr ""
+msgstr "备制定额口粮、点心和膳食都少不了厨房用具。记得留一座五金车间来产这件基础工具（不过该建筑一旦升级为斧头厂和战争磨坊，就不再生产它了）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Fire Tongs, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:445
@@ -6488,7 +6488,7 @@ msgid ""
 "They are used in the smelting works and produced by the metal workshop (but "
 "they cease to be produced by the building if it is enhanced to an ax "
 "workshop and war mill)."
-msgstr ""
+msgstr "它们用于冶炼厂，由五金车间制造（但该建筑一旦升级为斧头厂和战争磨坊，就不再生产它们）。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Ax
 #: ../../../../data/tribes/initialization/barbarians/units.lua:458
@@ -6496,7 +6496,7 @@ msgctxt "barbarians_ware"
 msgid ""
 "The ax is the basic weapon of the Barbarians. All young soldiers are "
 "equipped with it."
-msgstr ""
+msgstr "斧是蛮族的基础兵器。所有新兵都配备它。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Sharp Ax
 #: ../../../../data/tribes/initialization/barbarians/units.lua:467
@@ -6506,7 +6506,7 @@ msgid ""
 "heavier and sharper than the ordinary ax. It is produced in ax workshops and"
 " war mills. In training camps, it is used – together with food – to train "
 "soldiers from attack level 0 to level 1."
-msgstr ""
+msgstr "新兵以能学着使这件强力兵器为荣。它比普通的斧更重、更利。它在斧头厂和战争磨坊里制造。在训练营里，它与食物一同用来把士兵的攻击从 0 级练到 1 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Broad Ax
 #: ../../../../data/tribes/initialization/barbarians/units.lua:476
@@ -6515,7 +6515,7 @@ msgid ""
 "The broad ax is produced by the ax workshop and the war mill. It is used in "
 "the training camp – together with food – to train soldiers with a "
 "fundamental fighting knowledge from attack level 1 to attack level 2."
-msgstr ""
+msgstr "板斧由斧头厂和战争磨坊制造。它在训练营里与食物一同使用，把已掌握基本战技的士兵的攻击从 1 级练到 2 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Bronze Ax
 #: ../../../../data/tribes/initialization/barbarians/units.lua:485
@@ -6525,7 +6525,7 @@ msgid ""
 "soldiers can use it. It is produced at the war mill and used in the training"
 " camp – together with food – to train soldiers from attack level 2 to level "
 "3."
-msgstr ""
+msgstr "青铜斧被视为一件难以驾驭的兵器。只有熟练的士兵才使得了。它在战争磨坊里制造，在训练营里与食物一同用来把士兵的攻击从 2 级练到 3 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Battle Ax
 #: ../../../../data/tribes/initialization/barbarians/units.lua:494
@@ -6535,7 +6535,7 @@ msgid ""
 "produced in the war mill. Only trained soldiers are able to wield such a "
 "weapon. It is used – together with food – in the training camp to train "
 "soldiers from attack level 3 to 4."
-msgstr ""
+msgstr "这是蛮族造得出的一件凶险兵器。它在战争磨坊里制造。只有受过训练的士兵才挥得动这样的家伙。它在训练营里与食物一同用来把士兵的攻击从 3 级练到 4 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Warrior’s Ax
 #: ../../../../data/tribes/initialization/barbarians/units.lua:503
@@ -6545,7 +6545,7 @@ msgid ""
 "soldiers ever were able to handle this huge and powerful ax. It is produced "
 "in a war mill and used – together with food – in a training camp to train "
 "soldiers from attack level 4 to level 5."
-msgstr ""
+msgstr "勇士之斧是所有蛮族兵器中最凶险的。历来只有寥寥数名士兵驾驭得了这把又大又沉的斧头。它在战争磨坊里制造，在训练营里与食物一同用来把士兵的攻击从 4 级练到 5 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Helmet
 #: ../../../../data/tribes/initialization/barbarians/units.lua:512
@@ -6554,7 +6554,7 @@ msgid ""
 "A helmet is a basic tool to protect soldiers. It is produced in the helm "
 "smithy and used in the training camp – together with food – to train "
 "soldiers from health level 0 to level 1."
-msgstr ""
+msgstr "头盔是保护士兵的基础装备。它在铠甲铺里制造，在训练营里与食物一同用来把士兵的生命从 0 级练到 1 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Mask
 #: ../../../../data/tribes/initialization/barbarians/units.lua:521
@@ -6563,7 +6563,7 @@ msgid ""
 "A mask is an enhanced armor for Barbarian soldiers. It is produced in the "
 "helm smithy and used in the training camp – together with food – to train "
 "soldiers from health level 1 to level 2."
-msgstr ""
+msgstr "面具是蛮族士兵的进阶护具。它在铠甲铺里制造，在训练营里与食物一同用来把士兵的生命从 1 级练到 2 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian ware: Warhelm
 #: ../../../../data/tribes/initialization/barbarians/units.lua:530
@@ -6572,92 +6572,92 @@ msgid ""
 "This is the most enhanced Barbarian armor. It is produced in a helm smithy "
 "and used in a training camp – together with food – to train soldiers from "
 "health level 2 to level 3."
-msgstr ""
+msgstr "这是蛮族最高阶的护具。它在铠甲铺里制造，在训练营里与食物一同用来把士兵的生命从 2 级练到 3 级。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Carrier
 #: ../../../../data/tribes/initialization/barbarians/units.lua:546
 msgctxt "barbarians_worker"
 msgid "Carries items along your roads."
-msgstr ""
+msgstr "沿着你的道路搬运物品。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Ferry
 #: ../../../../data/tribes/initialization/barbarians/units.lua:553
 msgctxt "barbarians_worker"
 msgid "Ships wares across narrow rivers."
-msgstr ""
+msgstr "把物品运过狭窄的河道。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Ox
 #: ../../../../data/tribes/initialization/barbarians/units.lua:562
 msgctxt "barbarians_worker"
 msgid ""
 "Oxen help to carry items along busy roads. They are reared in a cattle farm."
-msgstr ""
+msgstr "牛帮着在繁忙的道路上搬运物品。它们在养牛场里饲育。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Cattle Breeder
 #: ../../../../data/tribes/initialization/barbarians/units.lua:569
 msgctxt "barbarians_worker"
 msgid "Breeds strong oxen for adding them to the transportation system."
-msgstr ""
+msgstr "饲育强壮的牛，把它们并入运输体系。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Stonemason
 #: ../../../../data/tribes/initialization/barbarians/units.lua:579
 msgctxt "barbarians_worker"
 msgid "Cuts raw pieces of granite out of rocks in the vicinity."
-msgstr ""
+msgstr "从附近的岩石上凿下花岗石毛料。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Lumberjack
 #: ../../../../data/tribes/initialization/barbarians/units.lua:586
 msgctxt "barbarians_worker"
 msgid "Fells trees."
-msgstr ""
+msgstr "砍伐树木。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Ranger
 #: ../../../../data/tribes/initialization/barbarians/units.lua:593
 msgctxt "barbarians_worker"
 msgid "Plants trees."
-msgstr ""
+msgstr "种植树木。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Builder
 #: ../../../../data/tribes/initialization/barbarians/units.lua:600
 msgctxt "barbarians_worker"
 msgid "Works at construction sites to raise new buildings."
-msgstr ""
+msgstr "在工地上干活，把新建筑盖起来。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Lime-Burner
 #: ../../../../data/tribes/initialization/barbarians/units.lua:607
 msgctxt "barbarians_worker"
 msgid "Mixes grout out of granite, water and coal in the lime kiln."
-msgstr ""
+msgstr "在石灰窑里用花岗石、水和煤调出泥浆。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Gardener
 #: ../../../../data/tribes/initialization/barbarians/units.lua:614
 msgctxt "barbarians_worker"
 msgid "Plants and harvests reed fields."
-msgstr ""
+msgstr "种植并收割芦苇田。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Weaver
 #: ../../../../data/tribes/initialization/barbarians/units.lua:621
 msgctxt "barbarians_worker"
 msgid "Produces cloth for ships’ sails."
-msgstr ""
+msgstr "为船帆生产布料。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Shipwright
 #: ../../../../data/tribes/initialization/barbarians/units.lua:628
 msgctxt "barbarians_worker"
 msgid "Works at the shipyard and constructs new ships."
-msgstr ""
+msgstr "在造船厂干活，建造新船。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Fisher
 #: ../../../../data/tribes/initialization/barbarians/units.lua:638
 msgctxt "barbarians_worker"
 msgid "Catches fish in the sea."
-msgstr ""
+msgstr "在海里捕鱼。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Hunter
 #: ../../../../data/tribes/initialization/barbarians/units.lua:645
 msgctxt "barbarians_worker"
 msgid "The hunter brings fresh, raw meat to the colonists."
-msgstr ""
+msgstr "猎人给拓荒者带来新鲜的生肉。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Gamekeeper
 #: ../../../../data/tribes/initialization/barbarians/units.lua:652
@@ -6665,44 +6665,44 @@ msgctxt "barbarians_worker"
 msgid ""
 "The gamekeeper makes sure that the natural population of animals never drops"
 " too low."
-msgstr ""
+msgstr "猎场看守确保野生动物的数量不会掉得太低。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Farmer
 #: ../../../../data/tribes/initialization/barbarians/units.lua:659
 msgctxt "barbarians_worker"
 msgid "Plants fields."
-msgstr ""
+msgstr "种植田地。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Baker
 #: ../../../../data/tribes/initialization/barbarians/units.lua:666
 msgctxt "barbarians_worker"
 msgid "Bakes pitta bread for the miners, soldiers and scouts."
-msgstr ""
+msgstr "为矿工、士兵和侦察兵烤皮塔饼。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Brewer
 #: ../../../../data/tribes/initialization/barbarians/units.lua:673
 msgctxt "barbarians_worker"
 msgid "Produces beer to keep the miners strong and happy."
-msgstr ""
+msgstr "酿造啤酒，让矿工保持强壮和好心情。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Master Brewer
 #: ../../../../data/tribes/initialization/barbarians/units.lua:680
 msgctxt "barbarians_worker"
 msgid ""
 "Produces the finest ales to keep soldiers strong and happy in training."
-msgstr ""
+msgstr "酿造最上乘的烈酒，让受训的士兵保持强壮和好心情。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Innkeeper
 #: ../../../../data/tribes/initialization/barbarians/units.lua:687
 msgctxt "barbarians_worker"
 msgid "Produces food for miners."
-msgstr ""
+msgstr "为矿工备制食物。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Geologist
 #: ../../../../data/tribes/initialization/barbarians/units.lua:697
 msgctxt "barbarians_worker"
 msgid "Discovers resources for mining."
-msgstr ""
+msgstr "探明可供开采的资源。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Miner
 #. TRANSLATORS: Helptext for a Barbarian worker: Chief Miner
@@ -6712,19 +6712,19 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:718
 msgctxt "barbarians_worker"
 msgid "Works deep in the mines to obtain coal, iron, gold or granite."
-msgstr ""
+msgstr "在矿井深处干活，取得煤、铁、黄金或花岗石。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Charcoal Burner
 #: ../../../../data/tribes/initialization/barbarians/units.lua:725
 msgctxt "barbarians_worker"
 msgid "Burns coal."
-msgstr ""
+msgstr "烧制木炭。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Smelter
 #: ../../../../data/tribes/initialization/barbarians/units.lua:732
 msgctxt "barbarians_worker"
 msgid "Smelts ores into metal."
-msgstr ""
+msgstr "把矿石熔炼成金属。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Blacksmith
 #. TRANSLATORS: Helptext for a Barbarian worker: Master Blacksmith
@@ -6732,45 +6732,45 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:749
 msgctxt "barbarians_worker"
 msgid "Produces weapons for soldiers and tools for workers."
-msgstr ""
+msgstr "为士兵制造兵器，为工人制造工具。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Recruit
 #: ../../../../data/tribes/initialization/barbarians/units.lua:759
 msgctxt "barbarians_worker"
 msgid "Eager to become a soldier and defend his tribe!"
-msgstr ""
+msgstr "一心想当兵，保卫自己的部族！"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Soldier
 #: ../../../../data/tribes/initialization/barbarians/units.lua:768
 msgctxt "barbarians_worker"
 msgid "Defend and Conquer!"
-msgstr ""
+msgstr "守土开疆！"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Trainer
 #: ../../../../data/tribes/initialization/barbarians/units.lua:775
 msgctxt "barbarians_worker"
 msgid "Trains the soldiers."
-msgstr ""
+msgstr "训练士兵。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Helmsmith
 #: ../../../../data/tribes/initialization/barbarians/units.lua:782
 msgctxt "barbarians_worker"
 msgid "Forges helmets for soldiers."
-msgstr ""
+msgstr "为士兵锻造头盔。"
 
 #. TRANSLATORS: Helptext for a Barbarian worker: Scout
 #: ../../../../data/tribes/initialization/barbarians/units.lua:789
 msgctxt "barbarians_worker"
 msgid ""
 "Scouts like Scotty the scout scouting unscouted areas in a scouty fashion."
-msgstr ""
+msgstr "侦察兵，比如侦察兵斯科蒂，正以侦察兵的架势侦察着尚未侦察过的地带。"
 
 #. TRANSLATORS: Helptext for a Barbarian immovable: Reed Field
 #. TRANSLATORS: Helptext for a Frisian immovable: Reed Field
 #: ../../../../data/tribes/initialization/barbarians/units.lua:850
 #: ../../../../data/tribes/initialization/frisians/units.lua:1248
 msgid "This reed field has just been planted."
-msgstr ""
+msgstr "这块芦苇田刚刚栽下。"
 
 #. TRANSLATORS: Helptext for a Barbarian immovable: Reed Field
 #. TRANSLATORS: Helptext for a Frisian immovable: Reed Field
@@ -6778,35 +6778,35 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:864
 #: ../../../../data/tribes/initialization/frisians/units.lua:1255
 msgid "This reed field is growing."
-msgstr ""
+msgstr "这块芦苇田正在生长。"
 
 #. TRANSLATORS: Helptext for a Barbarian immovable: Reed Field
 #. TRANSLATORS: Helptext for a Frisian immovable: Reed Field
 #: ../../../../data/tribes/initialization/barbarians/units.lua:871
 #: ../../../../data/tribes/initialization/frisians/units.lua:1269
 msgid "This reed field is ready for harvesting."
-msgstr ""
+msgstr "这块芦苇田可以收割了。"
 
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Stones, part 1
 #: ../../../../data/tribes/initialization/barbarians/units.lua:926
 #: ../../../../data/tribes/initialization/barbarians/units.lua:970
 msgid ""
 "Granite is a basic building material and can be dug up by a granite mine."
-msgstr ""
+msgstr "花岗石是一种基础建材，可以由花岗石矿挖出。"
 
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Stones, part 2
 #. TRANSLATORS: Helptext for a Frisian resource indicator: Stones, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:928
 #: ../../../../data/tribes/initialization/frisians/units.lua:1326
 msgid "There is only a little bit of granite here."
-msgstr ""
+msgstr "这里的花岗石只有一点点。"
 
 #. TRANSLATORS: Helptext for a Barbarian resource indicator: Stones, part 2
 #. TRANSLATORS: Helptext for a Frisian resource indicator: Stones, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:972
 #: ../../../../data/tribes/initialization/frisians/units.lua:1370
 msgid "There is a lot of granite here."
-msgstr ""
+msgstr "这里的花岗石很多。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian warehouse: Headquarters
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1084
@@ -6815,7 +6815,7 @@ msgid ""
 "‘Steep like the slopes of Kal’mavrath, shiny like the most delicate armor "
 "and strong like our ancestors, that’s how the headquarters of Chat’Karuth "
 "presented itself to us.’"
-msgstr ""
+msgstr "「陡峭如卡尔玛弗拉斯的山坡，光亮如最精致的甲胄，坚固如我们的先祖——查特·卡鲁斯的总部，在我们眼前就是这般模样。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian warehouse: Headquarters
 #. TRANSLATORS: Lore author helptext for a Barbarian military site: Barrier
@@ -6825,27 +6825,27 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1795
 msgctxt "barbarians_building"
 msgid "Ballad ‘The Battle of Kal’mavrath’ by Hakhor the Bard"
-msgstr ""
+msgstr "吟游诗人哈霍尔的叙事诗《卡尔玛弗拉斯之战》"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian warehouse: Headquarters
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1088
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1097
 msgctxt "barbarians_building"
 msgid "Accommodation for your people. Also stores your wares and tools."
-msgstr ""
+msgstr "供你的族人栖身。也存放你的物品和工具。"
 
 #. TRANSLATORS: Note helptext for a Barbarian warehouse: Headquarters
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1090
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1099
 msgctxt "barbarians_building"
 msgid "The headquarters is your main building."
-msgstr ""
+msgstr "总部是你的主建筑。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian warehouse: Warehouse
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1106
 msgctxt "barbarians_building"
 msgid "‘Who still owns a warehouse is not yet defeated!’"
-msgstr ""
+msgstr "「只要还有一座仓库，就还没有输！」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian warehouse: Warehouse
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1108
@@ -6853,7 +6853,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Berthron, chief military adviser of Chat’Karuth,<br>when they lost the "
 "headquarters in the battle around the heights of Kal’Megarath"
-msgstr ""
+msgstr "查特·卡鲁斯的首席军事谋士贝斯隆，<br>在卡尔梅加拉斯高地一战中丢掉总部之时"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian warehouse: Warehouse
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1110
@@ -6861,14 +6861,14 @@ msgctxt "barbarians_building"
 msgid ""
 "Your workers and soldiers will find shelter here. Also stores your wares and"
 " tools."
-msgstr ""
+msgstr "你的工人和士兵可以在这里栖身。也存放你的物品和工具。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian warehouse: Port
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1117
 msgctxt "barbarians_building"
 msgid ""
 "‘I prefer the planks of a ship to any fortress, no matter how strong it is.’"
-msgstr ""
+msgstr "「比起任何要塞，不管它多坚固，我更爱一艘船的甲板。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian warehouse: Port
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Shipyard
@@ -6876,7 +6876,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1856
 msgctxt "barbarians_building"
 msgid "Captain Thanlas the Elder,<br>Explorer"
-msgstr ""
+msgstr "老船长坦拉斯，<br>探险家"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian warehouse: Port
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1121
@@ -6884,7 +6884,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Serves as a base for overseas colonization and trade. Also stores your "
 "soldiers, wares and tools."
-msgstr ""
+msgstr "作为海外拓殖与贸易的据点。同时存放你的士兵、物品和工具。"
 
 #. TRANSLATORS: Note helptext for an Barbarian warehouse: Port
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1123
@@ -6892,37 +6892,37 @@ msgctxt "barbarians_building"
 msgid ""
 "Similar to the Headquarters a Port can be attacked and destroyed by an "
 "enemy. It is recommendable to send soldiers to defend it."
-msgstr ""
+msgstr "和总部一样，港口也会被敌人攻击和摧毁。建议派士兵去守卫它。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian market: Market
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1132
 msgctxt "barbarians_building"
 msgid "A market enables trading with other tribes."
-msgstr ""
+msgstr "市场让你能与其他部族通商。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Quarry
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1141
 msgctxt "barbarians_building"
 msgid "‘We open up roads and make houses from mountains.’"
-msgstr ""
+msgstr "「我们开出道路，把大山变成房屋。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Quarry
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1143
 msgctxt "barbarians_building"
 msgid "Slogan of the stonemasons’ guild"
-msgstr ""
+msgstr "石匠行会的口号"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Quarry
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1145
 msgctxt "barbarians_building"
 msgid "Cuts raw pieces of granite out of rocks in the vicinity."
-msgstr ""
+msgstr "从附近的岩石上凿下花岗石毛料。"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Quarry
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1147
 msgctxt "barbarians_building"
 msgid "The quarry needs rocks to cut within the work area."
-msgstr ""
+msgstr "采石场的工作范围内需要有可凿的岩石。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Quarry,
 #. part 1
@@ -6931,7 +6931,7 @@ msgctxt "barbarians_building"
 msgid ""
 "This building can produce one granite between %1$s and %2$s, depending on "
 "how far the stonemason has to walk."
-msgstr ""
+msgstr "这座建筑产出一块花岗石需要 %1$s 到 %2$s，取决于石匠要走多远。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Quarry,
 #. part 2
@@ -6962,7 +6962,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1869
 msgctxt "barbarians_building"
 msgid "In case of slopes or obstacles in the way, the time is increased."
-msgstr ""
+msgstr "若途中有坡地或障碍，所需时间会更长。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Lumberjack_s
 #. Hut
@@ -6972,21 +6972,21 @@ msgid ""
 "‘Take 200 hits to fell a tree and you’re a baby. Take 100 and you’re a "
 "soldier. Take 50 and you’re a hero. Take 20 and soon you will be a honorable"
 " lumberjack.’"
-msgstr ""
+msgstr "「砍倒一棵树要两百下，你还是个娃娃。一百下，你是个兵。五十下，你是个英雄。二十下，你很快就是个体面的伐木工了。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site:
 #. Lumberjack_s Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1162
 msgctxt "barbarians_building"
 msgid "Krumta, carpenter of Chat’Karuth"
-msgstr ""
+msgstr "查特·卡鲁斯的木匠克鲁姆塔"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Lumberjack_s
 #. Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1166
 msgctxt "barbarians_building"
 msgid "The lumberjack’s hut needs trees to fell within the work area."
-msgstr ""
+msgstr "伐木小屋的工作范围内需要有可砍的树。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site:
 #. Lumberjack_s Hut
@@ -6995,7 +6995,7 @@ msgctxt "barbarians_building"
 msgid ""
 "This building can produce one log between %1$s and %2$s, depending on how "
 "far the lumberjack has to walk."
-msgstr ""
+msgstr "这座建筑产出一根原木需要 %1$s 到 %2$s，取决于伐木工要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Ranger's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1180
@@ -7003,21 +7003,21 @@ msgctxt "barbarians_building"
 msgid ""
 "‘He who can grow two trees where normally only one will grow exceeds the "
 "most important general!’"
-msgstr ""
+msgstr "「谁能在原本只长得出一棵树的地方种出两棵，谁就胜过最了不起的将军！」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Ranger's
 #. Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1182
 msgctxt "barbarians_building"
 msgid "Chat’Karuth in a conversation with a Ranger"
-msgstr ""
+msgstr "查特·卡鲁斯与一位护林员的谈话"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Ranger's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1186
 msgctxt "barbarians_building"
 msgid ""
 "The ranger’s hut needs free space within the work area to plant the trees."
-msgstr ""
+msgstr "护林员小屋的工作范围内需要有空地才能种树。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Ranger's
 #. Hut, part 1
@@ -7026,13 +7026,13 @@ msgctxt "barbarians_building"
 msgid ""
 "The ranger plants one tree between %1$s and %2$s, depending on how far he "
 "has to walk."
-msgstr ""
+msgstr "护林员种下一棵树需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Fisher's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1199
 msgctxt "barbarians_building"
 msgid "‘What do you mean, my fish ain’t fresh?!’"
-msgstr ""
+msgstr "「你说什么，我的鱼不新鲜？！」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Fisher's
 #. Hut
@@ -7041,25 +7041,25 @@ msgctxt "barbarians_building"
 msgid ""
 "Frequent response of a Barbarian fisherman,<br>often followed by an "
 "enjoyable brawl"
-msgstr ""
+msgstr "蛮族渔夫的常见反应，<br>后头往往接着一场痛快的打斗"
 
 #. TRANSLATORS: Purpose helptext for production site: Fisher's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1203
 msgctxt "barbarians_building"
 msgid "Fishes on the coast near the fisher’s hut."
-msgstr ""
+msgstr "在捕鱼小屋附近的海岸捕鱼。"
 
 #. TRANSLATORS: Note helptext for production site: Fisher's Hut, part 1
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1206
 msgctxt "barbarians_building"
 msgid "The fisher’s hut needs water full of fish within the work area."
-msgstr ""
+msgstr "捕鱼小屋的工作范围内需要有鱼群丰富的水域。"
 
 #. TRANSLATORS: Note helptext for production site: Fisher's Hut, part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1208
 msgctxt "building"
 msgid "Roads and trees along the shoreline block fishing."
-msgstr ""
+msgstr "岸线上的道路和树木会妨碍捕鱼。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Fisher's
 #. Hut, part 1
@@ -7068,7 +7068,7 @@ msgctxt "barbarians_building"
 msgid ""
 "This building can produce one fish between %1$s and %2$s, depending on how "
 "far the fisher has to walk."
-msgstr ""
+msgstr "这座建筑产出一条鱼需要 %1$s 到 %2$s，取决于渔夫要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Hunter's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1222
@@ -7076,20 +7076,20 @@ msgctxt "barbarians_building"
 msgid ""
 "‘As silent as a panther,<br> as deft as a weasel,<br> as swift as an "
 "arrow,<br> as deadly as a viper.’"
-msgstr ""
+msgstr "「静如豹，<br> 巧如鼬，<br> 疾如矢，<br> 毒如蝮。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Hunter's
 #. Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1224
 msgctxt "barbarians_building"
 msgid "‘The Art of Hunting’"
-msgstr ""
+msgstr "《狩猎之道》"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Hunter's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1228
 msgctxt "barbarians_building"
 msgid "The hunter’s hut needs animals to hunt within the work area."
-msgstr ""
+msgstr "猎人小屋的工作范围内需要有可猎的动物。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Hunter's
 #. Hut, part 1
@@ -7098,7 +7098,7 @@ msgctxt "barbarians_building"
 msgid ""
 "This building can produce one meat between %1$s and %2$s, depending on how "
 "far the hunter has to walk."
-msgstr ""
+msgstr "这座建筑产出一块肉需要 %1$s 到 %2$s，取决于猎人要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Gamekeeper's
 #. Hut
@@ -7106,20 +7106,20 @@ msgstr ""
 msgctxt "barbarians_building"
 msgid ""
 "‘He loves the animals and to breed them<br>as we love to cook and eat them.’"
-msgstr ""
+msgstr "「他爱这些牲口，爱养它们，<br>就像我们爱烧它们、吃它们。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site:
 #. Gamekeeper's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1243
 msgctxt "barbarians_building"
 msgid "Barbarian nursery rhyme"
-msgstr ""
+msgstr "蛮族童谣"
 
 #. TRANSLATORS: Purpose helptext for production site: Gamekeeper's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1245
 msgctxt "barbarians_building"
 msgid "Releases animals into the wild to steady the meat production."
-msgstr ""
+msgstr "把动物放归野外，让肉的产出稳定下来。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site:
 #. Gamekeeper's Hut, part 1
@@ -7128,7 +7128,7 @@ msgctxt "barbarians_building"
 msgid ""
 "The gamekeeper can release one animal between %1$s and %2$s, depending on "
 "how far he has to walk."
-msgstr ""
+msgstr "猎场看守放生一头动物需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Well
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1258
@@ -7136,7 +7136,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Oh how sweet is the source of life,<br> that comes down from the sky <br> "
 "and lets the earth drink.’"
-msgstr ""
+msgstr "「生命之源何其甘美，<br> 它自天上落下，<br> 教大地饮个够。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Well
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1260
@@ -7144,7 +7144,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Song written by Sigurd the Bard when the first rain fell after the Great "
 "Drought in the 21ˢᵗ year of Chat’Karuth’s reign."
-msgstr ""
+msgstr "查特·卡鲁斯在位第 21 年大旱之后初降甘霖时，吟游诗人西古德所作之歌。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Well,
 #. part 1
@@ -7152,7 +7152,7 @@ msgstr ""
 #, lua-format
 msgctxt "barbarians_building"
 msgid "The carrier needs %s to get one bucket full of water."
-msgstr ""
+msgstr "搬运工取一桶水需要 %s。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Well,
 #. part 2
@@ -7160,14 +7160,14 @@ msgstr ""
 #, lua-format
 msgctxt "barbarians_building"
 msgid "If the water resource is depleted, the carrier needs %s on average."
-msgstr ""
+msgstr "若水源枯竭，搬运工平均需要 %s。"
 
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1274
 msgctxt "barbarians_building"
 msgid ""
 "You need to connect this flag to a scout’s hut before you can send a scout "
 "here."
-msgstr ""
+msgstr "把这面旗帜连到侦察兵小屋，才能派侦察兵到这里来。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Scout's Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1276
@@ -7175,21 +7175,21 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Behind the next hill there might be wealth and happiness but also hostility"
 " and doom.<br>He who will not explore it commits the crime of stupidity.’"
-msgstr ""
+msgstr "「下一座山丘后面也许是财富与幸福，也许是敌意与劫难。<br>不肯去探明的人，犯的是愚蠢之罪。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Scout's
 #. Hut
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1278
 msgctxt "barbarians_building"
 msgid "Chat’Karuth<br>at the oath taking ceremony of the first scout troupe"
-msgstr ""
+msgstr "查特·卡鲁斯<br>在第一支侦察队的宣誓仪式上"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Scout's
 #. Hut, part 1
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1283
 msgctxt "barbarians_building"
 msgid "One exploration trip of the scout takes between %1$s and %2$s."
-msgstr ""
+msgstr "侦察兵出去探一趟需要 %1$s 到 %2$s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Wood Hardener
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1295
@@ -7197,7 +7197,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Then he hit the door with his ax and, behold,<br>the door only trembled, "
 "but the shaft of the ax burst into a thousand pieces.’"
-msgstr ""
+msgstr "「于是他抡起斧头砍那扇门，看哪，<br>门只是抖了一抖，斧柄却碎成了千百片。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Wood
 #. Hardener
@@ -7206,7 +7206,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Legend about a quarrel between the brothers Harthor and Manthor,<br>Manthor "
 "is said to be the inventor of blackwood"
-msgstr ""
+msgstr "关于哈索尔与曼索尔兄弟阋墙的传说，<br>据说曼索尔正是黑檀木的发明者"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Wood
 #. Hardener
@@ -7215,7 +7215,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Hardens logs by fire into blackwood, which is used to construct robust "
 "buildings."
-msgstr ""
+msgstr "用火把原木炙硬成黑檀木，那是建造坚固建筑的材料。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Wood
 #. Hardener
@@ -7223,27 +7223,27 @@ msgstr ""
 #, lua-format
 msgctxt "barbarians_building"
 msgid "The wood hardener needs %s on average to produce one blackwood."
-msgstr ""
+msgstr "木材硬化厂产出一份黑檀木平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Reed Yard
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1309
 msgctxt "barbarians_building"
 msgid "‘We grow roofs’"
-msgstr ""
+msgstr "「我们种屋顶」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Reed
 #. Yard
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1311
 msgctxt "barbarians_building"
 msgid "Slogan of the Guild of Gardeners"
-msgstr ""
+msgstr "园丁行会的口号"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Reed Yard
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1313
 msgctxt "barbarians_building"
 msgid ""
 "Cultivates reed that serves two different purposes for the Barbarian tribe."
-msgstr ""
+msgstr "栽种芦苇，它对蛮族部族有两种用处。"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Reed Yard
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1315
@@ -7251,7 +7251,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Reed is the traditional material for roofing, and it is woven into the "
 "extremely durable cloth that they use for their ships’ sails."
-msgstr ""
+msgstr "芦苇是苫屋顶的传统材料，也能织成他们做船帆用的那种极耐用的布料。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Reed
 #. Yard, part 1
@@ -7260,7 +7260,7 @@ msgctxt "barbarians_building"
 msgid ""
 "The gardener sows and harvests one sheaf of reed between %1$s and %2$s, "
 "depending on how far he has to walk."
-msgstr ""
+msgstr "园丁播种并收割一捆芦苇需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Reed
 #. Yard, part 2; %s is replaced by 'N growing fields'
@@ -7270,13 +7270,13 @@ msgctxt "barbarians_building"
 msgid ""
 "The reed yard needs at least %s to work at full productivity most of the "
 "time."
-msgstr ""
+msgstr "芦苇苑需要至少 %s，才能在大多数时候保持满产。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Lime Kiln
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1328
 msgctxt "barbarians_building"
 msgid "‘Forming new stone from old with fire and water.’"
-msgstr ""
+msgstr "「用火和水，把旧石头变成新石头。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Lime
 #. Kiln
@@ -7285,7 +7285,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Ragnald the Child’s answer to the question, what he’s doing in the dirt. His"
 " ‘new stone’ now is an important building material."
-msgstr ""
+msgstr "有人问「孩子」拉格纳德在泥里捣鼓什么，这是他的回答。他那「新石头」如今已是重要的建材。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Lime Kiln
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1332
@@ -7293,7 +7293,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Processes granite to make ‘grout’, a substance that solidifies and so "
 "reinforces masonry."
-msgstr ""
+msgstr "加工花岗石，做出「泥浆」——一种能凝固、从而加固砖石的材料。"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Lime Kiln
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1334
@@ -7301,7 +7301,7 @@ msgctxt "barbarians_building"
 msgid ""
 "The lime kiln’s output will only go to construction sites that need it. "
 "Those are predominantly houses that work with fire, and some military sites."
-msgstr ""
+msgstr "石灰窑的产出只会送往需要它的工地。那主要是与火打交道的房子，以及一部分军事点。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Lime
 #. Kiln
@@ -7311,7 +7311,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If all needed wares are delivered in time, this building can produce grout "
 "in about %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，这座建筑平均约 %s 能产出泥浆。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Bakery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1343
@@ -7319,7 +7319,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘He who has enough bread will never be too tired to dig the ore and wield "
 "the ax.’"
-msgstr ""
+msgstr "「面包吃够了的人，挖矿抡斧永远不嫌累。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Bakery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1345
@@ -7327,13 +7327,13 @@ msgctxt "barbarians_building"
 msgid ""
 "Khantarakh, ‘The Modern Barbarian Economy’,<br>3ʳᵈ cowhide ‘Craftsmanship "
 "and Trade’"
-msgstr ""
+msgstr "坎塔拉赫《现代蛮族经济》，<br>第三卷牛皮书《手艺与贸易》"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Bakery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1347
 msgctxt "barbarians_building"
 msgid "Bakes pitta bread for soldiers and miners alike."
-msgstr ""
+msgstr "为士兵和矿工烤皮塔饼。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Bakery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1349
@@ -7342,7 +7342,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If all needed wares are delivered in time, this building can produce a pitta"
 " bread in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，这座建筑平均 %s 能烤出一个皮塔饼。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Micro Brewery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1356
@@ -7350,14 +7350,14 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Let the first one drive away the hunger, the second one put you at ease; "
 "when you have swallowed up your third one, it’s time for the next shift!’"
-msgstr ""
+msgstr "「第一杯赶走饥饿，第二杯让你自在；等你灌下第三杯，就该换班了！」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Micro
 #. Brewery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1358
 msgctxt "barbarians_building"
 msgid "Widespread toast among miners"
-msgstr ""
+msgstr "矿工中流传甚广的一句祝酒词"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Micro
 #. Brewery
@@ -7366,7 +7366,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Produces beer of the lower grade. This beer is a vital component of the "
 "snacks that inns and big inns prepare for miners in deep mines."
-msgstr ""
+msgstr "酿造较低档的啤酒。这种啤酒是客栈和大客栈为井下矿场矿工备制点心的关键原料。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Micro
 #. Brewery
@@ -7376,7 +7376,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If all needed wares are delivered in time, this building can produce beer in"
 " about %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，这座建筑平均约 %s 能酿出啤酒。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Brewery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1369
@@ -7385,13 +7385,13 @@ msgid ""
 "‘When the Barbarian was created,<br>this was the first thing that he "
 "stated:<br>“You want me fighting without fear?<br>Then you should create "
 "some beer!”’"
-msgstr ""
+msgstr "「蛮族刚被造出来的时候，<br>头一句话就这么说：<br>『你要我打仗不知怕？<br>那你先给我造点啤酒吧！』」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Brewery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1374
 msgctxt "barbarians_building"
 msgid "First verse of the drinking song ‘Way of the Barbarian’"
-msgstr ""
+msgstr "酒歌《蛮族之道》的第一段"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Brewery
 #. TRANSLATORS: Purpose helptext for an Empire production site: Brewery
@@ -7399,7 +7399,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:1546
 msgctxt "building"
 msgid "Produces beer to keep the miners strong and happy."
-msgstr ""
+msgstr "酿造啤酒，让矿工保持强壮和好心情。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Brewery
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1378
@@ -7408,19 +7408,19 @@ msgctxt "barbarians_building"
 msgid ""
 "If all needed wares are delivered in time, this building can produce strong "
 "beer in about %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，这座建筑平均约 %s 能酿出烈啤酒。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Tavern
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1385
 msgctxt "barbarians_building"
 msgid "‘Fresh from the countryside: Bread, fish or game to go.’"
-msgstr ""
+msgstr "「乡下刚送到：面包、鱼或野味，可打包带走。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Tavern
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1387
 msgctxt "barbarians_building"
 msgid "Menu of the tavern ‘Ye Ol’ Bronze Axe’"
-msgstr ""
+msgstr "小酒馆「老青铜斧」的菜单"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Tavern
 #. TRANSLATORS: Purpose helptext for an Empire production site: Tavern
@@ -7430,7 +7430,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/frisians/units.lua:2018
 msgctxt "building"
 msgid "Prepares rations to feed the scouts and miners."
-msgstr ""
+msgstr "备制定额口粮，供侦察兵和矿工食用。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Tavern
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1391
@@ -7438,19 +7438,19 @@ msgstr ""
 msgctxt "barbarians_building"
 msgid ""
 "The tavern can produce one ration in %s on average, if the supply is steady."
-msgstr ""
+msgstr "若供应稳定，小酒馆平均 %s 能产出一份定额口粮。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1398
 msgctxt "barbarians_building"
 msgid "‘Miner’s Delight: Pitta bread with fish or meat, comes with one beer.’"
-msgstr ""
+msgstr "「矿工之喜：皮塔饼配鱼或肉，附赠啤酒一杯。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1400
 msgctxt "barbarians_building"
 msgid "Chef’s recommendation in ‘The Singing Master Miner’"
-msgstr ""
+msgstr "「歌唱的采矿大师」店中的厨师推荐"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1402
@@ -7458,7 +7458,7 @@ msgctxt "building"
 msgid ""
 "Prepares rations for scouts and rations and snacks to feed the miners in the"
 " basic and deep mines."
-msgstr ""
+msgstr "备制定额口粮供侦察兵食用，并备制定额口粮和点心供普通矿场与井下矿场的矿工食用。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1404
@@ -7468,7 +7468,7 @@ msgid ""
 "economy, production of one of each food takes %1$s on average. If only one "
 "kind of food is needed by the economy, production of one ration takes %2$s "
 "and one snack takes %3$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对各种食物都有需求，平均每种食物各产出一份需要 %1$s。若经济只需要其中一种食物，平均产出一份定额口粮需要 %2$s，一份点心需要 %3$s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Big Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1411
@@ -7476,13 +7476,13 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Seasonal fish and game specialties served with pitta bread.<br>Choose from "
 "a prime selection of regional craft beer brands.’"
-msgstr ""
+msgstr "「时令鱼鲜与野味特色菜，配皮塔饼。<br>另有各地精酿啤酒上品任君挑选。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Big Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1413
 msgctxt "barbarians_building"
 msgid "Menu of ‘The Laughing Barbarian’"
-msgstr ""
+msgstr "「大笑的蛮族」店中的菜单"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Big Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1415
@@ -7490,7 +7490,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Prepares rations for scouts and rations, snacks and meals to feed all "
 "miners."
-msgstr ""
+msgstr "备制定额口粮供侦察兵食用，并备制定额口粮、点心和膳食供所有矿工食用。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Big Inn
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1417
@@ -7500,7 +7500,7 @@ msgid ""
 "economy, production of one of each food takes %1$s on average. If only one "
 "kind of food is needed by the economy, production of one ration takes %2$s, "
 "one snack takes %3$s and one meal takes %4$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对各种食物都有需求，平均每种食物各产出一份需要 %1$s。若经济只需要其中一种食物，平均产出一份定额口粮需要 %2$s，一份点心需要 %3$s，一份膳食需要 %4$s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Charcoal Kiln
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1424
@@ -7511,14 +7511,14 @@ msgid ""
 "sky.<br>He sets the fire, sees it smolder<br>The logs he carried on his "
 "shoulder.<br>Burnt down to just one single coal<br>This troubles much a "
 "burner’s soul.’"
-msgstr ""
+msgstr "「烧炭的活儿是什么样？<br>族里最埋头苦干的就数他！<br>一根根原木垒得高，<br>直到炭窑顶着天。<br>他点起火，看它闷闷地烧，<br>那些木头都是他一肩扛来的。<br>烧到最后只剩孤零零一块炭，<br>叫烧炭人的心里好不发愁。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Charcoal
 #. Kiln
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1433
 msgctxt "barbarians_building"
 msgid "Song of the charcoal burners"
-msgstr ""
+msgstr "烧炭工之歌"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Charcoal
 #. Kiln
@@ -7526,7 +7526,7 @@ msgstr ""
 #, lua-format
 msgctxt "barbarians_building"
 msgid "The charcoal kiln needs %s on average to produce one coal."
-msgstr ""
+msgstr "煅炭窑产出一份煤平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Smelting Works
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1444
@@ -7534,14 +7534,14 @@ msgctxt "barbarians_building"
 msgid ""
 "‘From inferior looking rubble they form shiny gold and gleaming iron.<br>The"
 " smelters are real magicians among our craftsmen.’"
-msgstr ""
+msgstr "「从看着不起眼的碎石里，他们炼出闪亮的黄金和锃亮的铁。<br>熔炼工才是我们匠人里真正的魔法师。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Smelting
 #. Works
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1447
 msgctxt "barbarians_building"
 msgid "Chat’Karuth<br>at the 5ᵗʰ conference of master craftsmen"
-msgstr ""
+msgstr "查特·卡鲁斯<br>在第五届匠师大会上"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Smelting
 #. Works
@@ -7552,13 +7552,13 @@ msgid ""
 " production of one iron takes %1$s and one gold takes %2$s on average. If "
 "only one kind of metal is needed by the economy, production of one iron "
 "takes %3$s and one gold takes %4$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对两种金属都有需求，平均产出一份铁需要 %1$s，一份黄金需要 %2$s。若经济只需要其中一种金属，平均产出一份铁需要 %3$s，一份黄金需要 %4$s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Metal Workshop
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1458
 msgctxt "barbarians_building"
 msgid "‘We make it work!’"
-msgstr ""
+msgstr "「我们让它能用！」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Metal
 #. Workshop
@@ -7567,7 +7567,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Inscription on the threshold of the now ruined Olde Forge at Harradsheim, "
 "the eldest known smithy."
-msgstr ""
+msgstr "题在哈拉德斯海姆那座如今已成废墟的老锻坊门槛上——那是已知最古老的铁匠铺。"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Metal Workshop
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1464
@@ -7576,7 +7576,7 @@ msgid ""
 "The Barbarian metal workshop is the basic production site in a series of "
 "three buildings and creates all the tools that Barbarians need. The others "
 "are for weapons."
-msgstr ""
+msgstr "蛮族的五金车间是一系列三座建筑中最基础的一座，产出蛮族所需的全部工具。另外两座则用来造兵器。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Metal
 #. Workshop
@@ -7586,7 +7586,7 @@ msgid ""
 "If this building is fully supplied and all tools are needed by the economy, "
 "production of one of each tool takes %1$s on average. If only one kind of "
 "tool is needed by the economy, its production takes %2$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有工具都有需求，平均每种工具各产出一件需要 %1$s。若经济只需要其中一种工具，平均产出它需要 %2$s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Warmill
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Ax Workshop
@@ -7596,7 +7596,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘A new warrior’s ax brings forth the best in its wielder – or the worst in "
 "its maker.’"
-msgstr ""
+msgstr "「一把新的勇士之斧，能逼出持斧者最好的一面——或是打斧者最糟的一面。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Warmill
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Ax
@@ -7607,13 +7607,13 @@ msgctxt "barbarians_building"
 msgid ""
 "An old Barbarian proverb<br> meaning that you need to take some risks "
 "sometimes."
-msgstr ""
+msgstr "一句古老的蛮族谚语，<br> 意思是有时候你得冒些险。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Warmill
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1477
 msgctxt "barbarians_building"
 msgid "Produces all the axes that the Barbarians use for warfare."
-msgstr ""
+msgstr "产出蛮族作战所用的全部斧头。"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Warmill
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1479
@@ -7621,7 +7621,7 @@ msgctxt "barbarians_building"
 msgid ""
 "The Barbarian war mill is their most advanced production site for weapons. "
 "As such you will need to enhance an ax workshop in order to get one."
-msgstr ""
+msgstr "蛮族的战争磨坊是他们最高阶的兵器生产建筑。因此你得把斧头厂升级才能得到一座。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Warmill,
 #. part 1
@@ -7634,7 +7634,7 @@ msgid ""
 "If this building is fully supplied and all axes are needed by the economy, "
 "production of one of each ax takes %1$s on average. If only one kind of ax "
 "is needed by the economy, its production takes %2$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有斧头都有需求，平均每种斧头各产出一把需要 %1$s。若经济只需要其中一种斧头，平均产出它需要 %2$s。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Warmill,
 #. part 2
@@ -7643,13 +7643,13 @@ msgctxt "barbarians_building"
 msgid ""
 "All weapons require the same time for making, but the consumption of the "
 "same raw materials increases from step to step. The last two need gold."
-msgstr ""
+msgstr "所有兵器的制造时间相同，但同样的原料消耗会一级比一级多。最后两种还要用黄金。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Ax Workshop
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1496
 msgctxt "barbarians_building"
 msgid "Produces axes, sharp axes and broad axes."
-msgstr ""
+msgstr "产出斧、利斧和板斧。"
 
 #. TRANSLATORS: Note helptext for a Barbarian production site: Ax Workshop
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1498
@@ -7658,7 +7658,7 @@ msgid ""
 "The Barbarian ax workshop is the intermediate production site in a series of"
 " three buildings. It is enhanced from the metal workshop but doesn’t require"
 " additional qualification for the worker."
-msgstr ""
+msgstr "蛮族的斧头厂是一系列三座建筑中的中间一座。它由五金车间升级而来，对工人没有额外的资历要求。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Ax
 #. Workshop
@@ -7667,7 +7667,7 @@ msgctxt "barbarians_building"
 msgid ""
 "All three weapons take the same time for making, but the required raw "
 "materials vary."
-msgstr ""
+msgstr "这三种兵器的制造时间相同，但所需的原料各不相同。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Barracks
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1511
@@ -7675,33 +7675,33 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Don’t ask what your tribe can do for you, ask what you can do for your "
 "tribe!’"
-msgstr ""
+msgstr "「别问你的部族能为你做什么，问问你能为你的部族做什么！」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Barracks
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1513
 msgctxt "barbarians_building"
 msgid "Famous Barbarian recruitment poster"
-msgstr ""
+msgstr "著名的蛮族征兵海报"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Barracks
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1515
 msgctxt "barbarians_building"
 msgid "Equips recruits and trains them as soldiers."
-msgstr ""
+msgstr "装备新兵，把他们练成士兵。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Barracks
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1517
 #, lua-format
 msgctxt "barbarians_building"
 msgid "The barracks need %s on average to recruit one soldier."
-msgstr ""
+msgstr "步兵营招募一名士兵平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Cattle Farm
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1526
 msgctxt "barbarians_building"
 msgid ""
 "‘The smart leader builds roads, while the really wise leader breeds cattle.’"
-msgstr ""
+msgstr "「聪明的首领修路，真正有智慧的首领养牛。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Cattle
 #. Farm
@@ -7710,13 +7710,13 @@ msgctxt "barbarians_building"
 msgid ""
 "Khantarakh, ‘The Modern Barbarian Economy’,<br> 5ᵗʰ cowhide ‘Traffic and "
 "Logistics’"
-msgstr ""
+msgstr "坎塔拉赫《现代蛮族经济》，<br> 第五卷牛皮书《交通与后勤》"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Cattle Farm
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1530
 msgctxt "barbarians_building"
 msgid "Breeds strong oxen for adding them to the transportation system."
-msgstr ""
+msgstr "饲育强壮的牛，把它们并入运输体系。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Cattle
 #. Farm
@@ -7726,7 +7726,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If all needed wares are delivered in time, this building can produce an ox "
 "in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，这座建筑平均 %s 能产出一头牛。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Farm
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1539
@@ -7735,13 +7735,13 @@ msgid ""
 "‘See the crop fields from here to the horizons. They are a huge, heaving, "
 "golden sea.<br>Oh wheat, source of wealth, soul of beer, strength of our "
 "warriors!’"
-msgstr ""
+msgstr "「看这片麦田从这里一直铺到天边。那是一片翻涌的金色大海。<br>啊小麦，财富之源，啤酒之魂，我们战士的气力！」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Farm
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1542
 msgctxt "barbarians_building"
 msgid "Line from the harvesting song ‘The Wealth of the Fields’"
-msgstr ""
+msgstr "收割歌《田野的丰饶》中的一句"
 
 #. TRANSLATORS: Purpose helptext for production site: Farm
 #. TRANSLATORS: Purpose helptext for an Empire production site: Farm
@@ -7749,7 +7749,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/empire/units.lua:1795
 msgctxt "building"
 msgid "Sows and harvests wheat."
-msgstr ""
+msgstr "播种并收割小麦。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Farm,
 #. part 1
@@ -7758,7 +7758,7 @@ msgctxt "barbarians_building"
 msgid ""
 "The farmer sows and harvests one sheaf of wheat between %1$s and %2$s, "
 "depending on how far he has to walk."
-msgstr ""
+msgstr "农夫播种并收割一捆小麦需要 %1$s 到 %2$s，取决于他要走多远。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Farm,
 #. part 2; %s is replaced by 'N growing fields'
@@ -7767,21 +7767,21 @@ msgstr ""
 msgctxt "barbarians_building"
 msgid ""
 "The farm needs at least %s to work at full productivity most of the time."
-msgstr ""
+msgstr "农场需要至少 %s，才能在大多数时候保持满产。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Helm Smithy
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1557
 msgctxt "barbarians_building"
 msgid ""
 "‘The helmets forgéd by this smithy<br>Are widely known for looking pithy.’"
-msgstr ""
+msgstr "「此间锻出的头盔，<br>人人都说式样够味。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Helm
 #. Smithy
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1559
 msgctxt "barbarians_building"
 msgid "Slogan of ‘Harrath’s Handsome Helmets’ in Al’thunran"
-msgstr ""
+msgstr "阿尔苏兰城中「哈拉斯的俊俏头盔」的招牌语"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Helm Smithy
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1561
@@ -7789,7 +7789,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Forges helmets that are used for training soldiers’ health in the training "
 "camp."
-msgstr ""
+msgstr "锻造在训练营里用来训练士兵生命的头盔。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Helm
 #. Smithy
@@ -7800,13 +7800,13 @@ msgid ""
 "economy, production of one of each helmet takes %1$s on average. If only one"
 " kind of helmet is needed by the economy, production of one helmet takes "
 "%2$s, one mask takes %3$s and one warhelm takes %4$s on average."
-msgstr ""
+msgstr "若这座建筑供应充足，且经济对所有头盔都有需求，平均每种头盔各产出一顶需要 %1$s。若经济只需要其中一种，平均产出一顶头盔需要 %2$s，一副面具需要 %3$s，一顶战盔需要 %4$s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Granite Mine
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1572
 msgctxt "barbarians_building"
 msgid "‘I can handle tons of granite, man, but no more of your vain prattle.’"
-msgstr ""
+msgstr "「花岗石我能扛几吨，可你那些废话我一句也不想再听。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Granite
 #. Mine, part 1
@@ -7816,7 +7816,7 @@ msgid ""
 "This phrase was the reply Rimbert the miner – later known as Rimbert the "
 "loner – gave, when he was asked to remain seated on an emergency meeting at "
 "Stonford in the year of the great flood."
-msgstr ""
+msgstr "大洪水那一年，斯通福德召开紧急会议，有人请矿工林伯特留在座位上，这就是他的回答——后来人们都叫他「独行的林伯特」。"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Granite
 #. Mine, part 2
@@ -7825,19 +7825,19 @@ msgctxt "barbarians_building"
 msgid ""
 "The same man had all the 244 granite blocks ready only a week later, and "
 "they still fortify the city’s levee."
-msgstr ""
+msgstr "同一个人只用了一个星期，就把那 244 块花岗石全备齐了，它们至今还护着那座城的堤坝。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Granite Mine
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1580
 msgctxt "barbarians_building"
 msgid "Carves granite out of the rock in mountain terrain."
-msgstr ""
+msgstr "在山地上从岩石中凿出花岗石。"
 
 #. TRANSLATORS: 'It' is a mine
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1583
 msgctxt "barbarians_building"
 msgid "It cannot be enhanced."
-msgstr ""
+msgstr "它无法升级。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Granite
 #. Mine
@@ -7847,7 +7847,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If the food supply is steady, this mine can produce granite in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，这座矿场平均 %s 能产出花岗石。"
 
 #. TRANSLATORS: Lore helptext for production site: Coal Mine, part 1
 #. TRANSLATORS: Lore helptext for production site: Deep Coal Mine, part 1
@@ -7859,7 +7859,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Ages ago, the Barbarians learned to delve into mountainsides for that black "
 "material that feeds their furnaces."
-msgstr ""
+msgstr "很久以前，蛮族就学会了钻进山腹，去取那种能喂饱炉火的黑色材料。"
 
 #. TRANSLATORS: Lore helptext for production site: Coal Mine, part 2
 #. TRANSLATORS: Lore helptext for production site: Deep Coal Mine
@@ -7871,7 +7871,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Wood may serve for a household fire and to keep you warm, but when it comes "
 "to working with iron or gold, there is no way around coal."
-msgstr ""
+msgstr "木头拿来生家里的火、取取暖倒还行；可一旦要跟铁和黄金打交道，就绕不开煤。"
 
 #. TRANSLATORS: Performance helptext for production site: Coal Mine
 #. TRANSLATORS: Performance helptext for production site: Deep Coal Mine
@@ -7883,7 +7883,7 @@ msgstr ""
 msgctxt "barbarians_building"
 msgid ""
 "If the food supply is steady, this mine can produce coal in %s on average."
-msgstr ""
+msgstr "若食物供应稳定，这座矿场平均 %s 能产出煤。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Iron Mine
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Deep Iron Mine
@@ -7896,7 +7896,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘I look at my own pick wearing away day by day and I realize why my work is "
 "important.’"
-msgstr ""
+msgstr "「看着自己的镐一天天磨薄，我才明白我这份活儿有多要紧。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Iron
 #. Mine
@@ -7909,7 +7909,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1666
 msgctxt "barbarians_building"
 msgid "Quote from an anonymous miner."
-msgstr ""
+msgstr "一位无名矿工的话。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Iron
 #. Mine
@@ -7925,7 +7925,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If the food supply is steady, this mine can produce iron ore in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，这座矿场平均 %s 能产出铁矿石。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Gold Mine
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Deep Gold Mine
@@ -7938,7 +7938,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Soft and supple.<br> And yet untouched by time and weather.<br> Rays of "
 "sun, wrought into eternity…’"
-msgstr ""
+msgstr "「柔软而绵韧。<br> 却又不为岁月与风雨所侵。<br> 是阳光，被锻进了永恒……」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Gold
 #. Mine
@@ -7952,7 +7952,7 @@ msgstr ""
 msgctxt "barbarians_building"
 msgid ""
 "Excerpt from ‘Our Treasures Underground’,<br> a traditional Barbarian song."
-msgstr ""
+msgstr "摘自蛮族传统歌谣<br>《我们地下的宝藏》。"
 
 #. TRANSLATORS: Performance helptext for production site: Gold Mine
 #. TRANSLATORS: Performance helptext for production site: Deep Gold Mine
@@ -7965,28 +7965,28 @@ msgctxt "barbarians_building"
 msgid ""
 "If the food supply is steady, this mine can produce gold ore in %s on "
 "average."
-msgstr ""
+msgstr "若食物供应稳定，这座矿场平均 %s 能产出金质矿石。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian training site: Battle Arena
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1718
 msgctxt "barbarians_building"
 msgid ""
 "‘No better friend you have in battle than the enemy’s blow that misses.’"
-msgstr ""
+msgstr "「战场上最好的朋友，莫过于敌人那一记落空的挥击。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian training site: Battle
 #. Arena
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1720
 msgctxt "barbarians_building"
 msgid "Said to originate from Neidhardt, the famous trainer."
-msgstr ""
+msgstr "据说出自名教头奈德哈特之口。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian training site: Battle Arena,
 #. part 1
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1723
 msgctxt "barbarians_building"
 msgid "Trains soldiers in ‘Evade’."
-msgstr ""
+msgstr "训练士兵的「闪避」。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian training site: Battle Arena,
 #. part 2
@@ -7995,7 +7995,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Evade’ increases the soldier’s chance not to be hit by the enemy and so to "
 "remain totally unaffected."
-msgstr ""
+msgstr "「闪避」提高士兵躲开敌人攻击、从而毫发无伤的机会。"
 
 #. TRANSLATORS: Note helptext for a Barbarian training site: Battle Arena
 #. TRANSLATORS: Note helptext for a Barbarian building: Training Camp
@@ -8005,7 +8005,7 @@ msgctxt "barbarians_building"
 msgid ""
 "Barbarian soldiers cannot be trained in ‘Defense’ and will remain at their "
 "initial level."
-msgstr ""
+msgstr "蛮族士兵无法接受「防御」训练，会一直停留在初始等级。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian training site: Battle
 #. Arena, part 1
@@ -8015,7 +8015,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If all needed wares are delivered in time, a battle arena can train one "
 "soldier one level in evade in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，搏击场平均 %s 能把一名士兵的闪避提升一级。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian training site: Battle
 #. Arena, part 2
@@ -8026,7 +8026,7 @@ msgstr ""
 #, lua-format
 msgctxt "barbarians_building"
 msgid "Complete training of one soldier takes %s on average."
-msgstr ""
+msgstr "把一名士兵练到头平均需要 %s。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian training site: Training Camp
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1741
@@ -8034,28 +8034,28 @@ msgctxt "barbarians_building"
 msgid ""
 "‘He who is strong shall neither forgive nor forget, but revenge injustice "
 "suffered – in the past and for all future.’"
-msgstr ""
+msgstr "「强者既不宽恕也不遗忘，而要为所受的不义复仇——为过去，也为将来。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian training site: Training
 #. Camp
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1743
 msgctxt "barbarians_building"
 msgid "Chief Chat’Karuth in a speech to his army."
-msgstr ""
+msgstr "首领查特·卡鲁斯对他的军队讲话。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian training site: Training Camp,
 #. part 1
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1746
 msgctxt "barbarians_building"
 msgid "Trains soldiers in ‘Attack’ and in ‘Health’."
-msgstr ""
+msgstr "训练士兵的「攻击」与「生命」。"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian training site: Training Camp,
 #. part 2
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1748
 msgctxt "barbarians_building"
 msgid "Equips the soldiers with all necessary weapons and armor parts."
-msgstr ""
+msgstr "为士兵配齐所需的全部兵器和甲胄部件。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian training site: Training
 #. Camp, part 1
@@ -8065,7 +8065,7 @@ msgctxt "barbarians_building"
 msgid ""
 "If all needed wares are delivered in time, a training camp can train one "
 "soldier one level in attack or health in %s on average."
-msgstr ""
+msgstr "若所需物品都及时送达，训练营平均 %s 能把一名士兵的攻击或生命提升一级。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian military site: Sentry
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1766
@@ -8074,13 +8074,13 @@ msgid ""
 "‘The log cabin was so small that two men could hardly live there. But we "
 "were young and carefree. We just relished our freedom and the responsibility"
 " as an outpost.’"
-msgstr ""
+msgstr "「那间木屋小得两个人都住不开。可我们年轻，没心没肺。我们只顾着享受那份自由，还有当一座前哨的那份担子。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian military site: Sentry
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1768
 msgctxt "barbarians_building"
 msgid "Boldreth,<br>about his time as young soldier"
-msgstr ""
+msgstr "博尔德雷思，<br>谈他当年轻士兵的日子"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian military site: Sentry
 #. TRANSLATORS: Purpose helptext for a Barbarian military site: Barrier
@@ -8094,7 +8094,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1823
 msgctxt "barbarians_building"
 msgid "Garrisons soldiers to expand your territory."
-msgstr ""
+msgstr "驻扎士兵以扩张你的领土。"
 
 #. TRANSLATORS: Note helptext for a Barbarian military site: Sentry
 #. TRANSLATORS: Note helptext for a Barbarian military site: Barrier
@@ -8111,7 +8111,7 @@ msgid ""
 "If you’re low on soldiers to occupy new military sites, use the downward "
 "arrow button to decrease the capacity. You can also click on a soldier to "
 "send him away."
-msgstr ""
+msgstr "如果士兵不够占满新的军事点，可以用向下的箭头按钮把容量调低。你也可以点击某名士兵把他遣走。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian military site: Barrier
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1779
@@ -8119,7 +8119,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘When we looked down to the valley from our newly established barrier, we "
 "felt that the spirit of our fathers was with us.’"
-msgstr ""
+msgstr "「当我们从新立的壁垒上俯瞰山谷，只觉得先祖的魂灵与我们同在。」"
 
 #. TRANSLATORS: Lore helptext for a Barbarian military site: Tower
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1793
@@ -8128,7 +8128,7 @@ msgid ""
 "‘From the height of our tower we could see far into enemy territory. The "
 "enemy was well prepared, but we also noticed some weak points in their "
 "defense.’"
-msgstr ""
+msgstr "「站在我们塔楼的高处，敌境深处也一览无余。敌人准备得很充分，可我们也看出了他们防线上的几处弱点。」"
 
 #. TRANSLATORS: Lore helptext for a Barbarian military site: Fortress
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1806
@@ -8136,13 +8136,13 @@ msgctxt "barbarians_building"
 msgid ""
 "‘This stronghold made from blackwood and stones will be a hard nut to crack "
 "for them.’"
-msgstr ""
+msgstr "「这座用黑檀木和石头砌起的堡垒，会是他们啃不动的硬骨头。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian military site: Fortress
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1808
 msgctxt "barbarians_building"
 msgid "Berthron,<br>chief military adviser of Chat’Karuth"
-msgstr ""
+msgstr "贝斯隆，<br>查特·卡鲁斯的首席军事谋士"
 
 #. TRANSLATORS: Lore helptext for a Barbarian military site: Citadel
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1819
@@ -8151,14 +8151,14 @@ msgid ""
 "‘The Citadel of Adlen surely is the finest masterpiece of Barbarian "
 "craftsmanship. Nothing as strong and big and beautiful has ever been built "
 "in such a short time.’"
-msgstr ""
+msgstr "「阿德伦堡垒堪称蛮族匠艺最精妙的杰作。从没有哪座建筑能在这么短的时间里造得这般坚固、这般宏大、这般漂亮。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian military site: Citadel
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1821
 msgctxt "barbarians_building"
 msgid ""
 "Colintan, chief planner of the Citadel of Adlen,<br>at its opening ceremony"
-msgstr ""
+msgstr "阿德伦堡垒的总规划师科林坦，<br>在其落成典礼上"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Ferry
 #. Yard, part 1
@@ -8167,7 +8167,7 @@ msgctxt "barbarians_building"
 msgid ""
 "This building can produce one ferry between %1$s and %2$s, depending on how "
 "far the shipwright has to walk."
-msgstr ""
+msgstr "这座建筑造出一艘渡船需要 %1$s 到 %2$s，取决于造船木工要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Shipyard
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1853
@@ -8176,7 +8176,7 @@ msgid ""
 "‘When I saw the Saxnot for the first time, her majestic dragon head already "
 "looked up to the skies and the master was about to install the square "
 "sail.<br>It was the most noble ship I ever saw.’"
-msgstr ""
+msgstr "「我第一次见到萨克斯诺特号时，她那威严的龙首已经昂向天空，师傅正要装上方帆。<br>那是我见过最高贵的船。」"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site:
 #. Shipyard, part 1
@@ -8185,7 +8185,7 @@ msgctxt "barbarians_building"
 msgid ""
 "This building can produce one ship between %1$s and %2$s, depending on how "
 "far the shipwright has to walk."
-msgstr ""
+msgstr "这座建筑造出一艘船需要 %1$s 到 %2$s，取决于造船木工要走多远。"
 
 #. TRANSLATORS: Lore helptext for a Barbarian production site: Weaving Mill
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1877
@@ -8193,7 +8193,7 @@ msgctxt "barbarians_building"
 msgid ""
 "‘Fine cloth and jewelry mean nothing to a true Barbarian.<br>But a noble "
 "sail in the wind will please his eyes.’"
-msgstr ""
+msgstr "「细布与珠宝，对真正的蛮族来说一文不值。<br>可一面在风里鼓起的好帆，却叫他看着舒心。」"
 
 #. TRANSLATORS: Lore author helptext for a Barbarian production site: Weaving
 #. Mill
@@ -8202,13 +8202,13 @@ msgctxt "barbarians_building"
 msgid ""
 "Khantarakh, ‘The Modern Barbarian Economy’,<br>9ᵗʰ cowhide ‘Seafaring and "
 "Conquest’"
-msgstr ""
+msgstr "坎塔拉赫《现代蛮族经济》，<br>第九卷牛皮书《航海与征服》"
 
 #. TRANSLATORS: Purpose helptext for a Barbarian production site: Weaving Mill
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1882
 msgctxt "barbarians_building"
 msgid "Weaves cloth out of reed."
-msgstr ""
+msgstr "用芦苇织出布料。"
 
 #. TRANSLATORS: Performance helptext for a Barbarian production site: Weaving
 #. Mill
@@ -8216,7 +8216,7 @@ msgstr ""
 #, lua-format
 msgctxt "barbarians_building"
 msgid "The weaving mill needs %s on average to produce one cloth."
-msgstr ""
+msgstr "织坊产出一块布料平均需要 %s。"
 
 #. TRANSLATORS: This Barbarian warehouse is inspired by a Norwegian town name.
 #: ../../../../data/tribes/initialization/barbarians/units.lua:1915
@@ -10323,35 +10323,35 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:2619
 msgctxt "barbarians"
 msgid "Worker missing"
-msgstr ""
+msgstr "缺少工人"
 
 #. TRANSLATORS: Productivity label on a Barbarian building if there is 1
 #. worker coming
 #: ../../../../data/tribes/initialization/barbarians/units.lua:2621
 msgctxt "barbarians"
 msgid "Worker is coming"
-msgstr ""
+msgstr "工人正在赶来"
 
 #. TRANSLATORS: Productivity label on a Barbarian building if there is more
 #. than 1 worker missing. If you need plural forms here, please let us know.
 #: ../../../../data/tribes/initialization/barbarians/units.lua:2623
 msgctxt "barbarians"
 msgid "Workers missing"
-msgstr ""
+msgstr "缺少工人"
 
 #. TRANSLATORS: Productivity label on a Barbarian building if there is more
 #. than 1 worker coming. If you need plural forms here, please let us know.
 #: ../../../../data/tribes/initialization/barbarians/units.lua:2625
 msgctxt "barbarians"
 msgid "Workers are coming"
-msgstr ""
+msgstr "工人正在赶来"
 
 #. TRANSLATORS: Productivity label on a Barbarian building if there is 1
 #. experienced worker missing
 #: ../../../../data/tribes/initialization/barbarians/units.lua:2627
 msgctxt "barbarians"
 msgid "Expert missing"
-msgstr ""
+msgstr "缺少熟练工"
 
 #. TRANSLATORS: Productivity label on a Barbarian building if there is more
 #. than 1 experienced worker missing. If you need plural forms here, please
@@ -10359,7 +10359,7 @@ msgstr ""
 #: ../../../../data/tribes/initialization/barbarians/units.lua:2629
 msgctxt "barbarians"
 msgid "Experts missing"
-msgstr ""
+msgstr "缺少熟练工"
 
 #. TRANSLATORS: %1% is the number of Barbarian soldiers the plural refers to.
 #. %2% is the maximum number of soldier slots in the building.
@@ -10367,14 +10367,14 @@ msgstr ""
 msgctxt "barbarians_soldier"
 msgid "%1% soldier (+%2%)"
 msgid_plural "%1% soldiers (+%2%)"
-msgstr[0] ""
+msgstr[0] "%1% 名士兵（+%2%）"
 
 #. TRANSLATORS: Number of Barbarian soldiers stationed at a militarysite.
 #: ../../../../data/tribes/initialization/barbarians/units.lua:2645
 msgctxt "barbarians_soldier"
 msgid "%1% soldier"
 msgid_plural "%1% soldiers"
-msgstr[0] ""
+msgstr[0] "%1% 名士兵"
 
 #. TRANSLATORS: %1% is the number of Barbarian soldiers the plural refers to.
 #. %2% are currently open soldier slots in the building. %3% is the maximum
@@ -10383,7 +10383,7 @@ msgstr[0] ""
 msgctxt "barbarians_soldier"
 msgid "%1%(+%2%) soldier (+%3%)"
 msgid_plural "%1%(+%2%) soldiers (+%3%)"
-msgstr[0] ""
+msgstr[0] "%1%(+%2%) 名士兵（+%3%）"
 
 #. TRANSLATORS: %1% is the number of Barbarian soldiers the plural refers to.
 #. %2% are currently open soldier slots in the building.
@@ -10391,7 +10391,7 @@ msgstr[0] ""
 msgctxt "barbarians_soldier"
 msgid "%1%(+%2%) soldier"
 msgid_plural "%1%(+%2%) soldiers"
-msgstr[0] ""
+msgstr[0] "%1%(+%2%) 名士兵"
 
 #. TRANSLATORS: Format string for a latin quote and its translation
 #: ../../../../data/tribes/initialization/empire/units.lua:10

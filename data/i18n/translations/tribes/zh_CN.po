@@ -2647,7 +2647,7 @@ msgstr "锻造斧头"
 #: ../../../../data/tribes/buildings/productionsites/barbarians/ax_workshop/init.lua:96
 #: ../../../../data/tribes/buildings/productionsites/barbarians/warmill/init.lua:86
 msgid "forging a sharp ax"
-msgstr "锻造锋利的斧头"
+msgstr "锻造利斧"
 
 #. TRANSLATORS: Completed/Skipped/Did not start forging a broad ax because ...
 #: ../../../../data/tribes/buildings/productionsites/barbarians/ax_workshop/init.lua:111
@@ -2708,7 +2708,7 @@ msgstr "啤酒坊"
 #. ...
 #: ../../../../data/tribes/buildings/productionsites/barbarians/brewery/init.lua:38
 msgid "brewing strong beer"
-msgstr "酿造高浓度啤酒"
+msgstr "酿造烈啤酒"
 
 #. TRANSLATORS: This is a building name used in lists of buildings
 #: ../../../../data/tribes/buildings/productionsites/barbarians/cattlefarm/init.lua:8
@@ -8250,7 +8250,7 @@ msgstr "青铜斧"
 #: ../../../../data/tribes/wares/ax_sharp/init.lua:8
 msgctxt "ware"
 msgid "Sharp Ax"
-msgstr "锋利的斧头"
+msgstr "利斧"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/ax_warriors/init.lua:8
@@ -8286,7 +8286,7 @@ msgstr "啤酒"
 #: ../../../../data/tribes/wares/beer_strong/init.lua:8
 msgctxt "ware"
 msgid "Strong Beer"
-msgstr "高浓度啤酒"
+msgstr "烈啤酒"
 
 #. TRANSLATORS: This is a ware name used in lists of wares
 #: ../../../../data/tribes/wares/blackroot/init.lua:8
