@@ -56,3 +56,12 @@ IP
 last
 widelands <save.wgf>/<replay.wry>
 [de_DE|sv_SE|...]
+
+# --- 拉丁语台词：弗里西亚战役二中帝国总督用拉丁语说话，剧情设定就是
+#     对方听不懂（下一句台词即为「有人听得懂他在说什么吗？」）。
+#     译成中文会毁掉这个包袱，故保留原文。 ---
+Salvete peregrini!
+Salvete peregrini! Murilius Proconsul Terrae Septentrionalis provinciae ego sum. Vos nominate!
+Hostes Imperii estis!
+Salvete amici Imperii!
+Amici Imperii
