@@ -3865,23 +3865,23 @@ msgstr "不支持的格式"
 msgid ""
 "Widelands could not load the file \"%s\". The file format seems to be "
 "incompatible."
-msgstr "Widelands 不能读取文件 “%s\"。文件格式似乎不兼容。"
+msgstr "Widelands 无法读取文件 “%s”。文件格式似乎不兼容。"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:649
 msgid "Exit Editor Confirmation"
-msgstr ""
+msgstr "退出编辑器确认"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:649
 msgid "Unsaved Map"
-msgstr "未保存的地图"
+msgstr "地图未保存"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:650
 msgid "The map has not been saved, do you really want to quit?"
-msgstr "这个地图没有保存，您确定真的要退出吗？"
+msgstr "地图尚未保存，确定要退出吗？"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:651
 msgid "Are you sure you wish to exit the editor?"
-msgstr ""
+msgstr "确定要退出编辑器吗？"
 
 #: ../../../../src/ui/editor/editorinteractive.cc:1281
 #: ../../../../src/ui/fsmenu/main.cc:289 ../../../../src/wlapplication.cc:2039
@@ -3984,7 +3984,7 @@ msgstr "附加内容上传成功。"
 
 #: ../../../../src/ui/editor/field_info_window.cc:44
 msgid "Field Information"
-msgstr "区域信息"
+msgstr "地块信息"
 
 #: ../../../../src/ui/editor/field_info_window.cc:75
 msgid "Node"
@@ -4018,7 +4018,7 @@ msgstr "旗帜"
 #. * TRANSLATORS: Editor terrain property: mine building plot
 #: ../../../../src/ui/editor/field_info_window.cc:108
 msgid "mine"
-msgstr "矿"
+msgstr "矿井"
 
 #. * TRANSLATORS: Editor terrain property: port space
 #: ../../../../src/ui/editor/field_info_window.cc:112
@@ -4029,7 +4029,7 @@ msgstr "港口"
 #. (fish, ships)
 #: ../../../../src/ui/editor/field_info_window.cc:120
 msgid "swimmable"
-msgstr "可游泳的"
+msgstr "可游泳"
 
 #: ../../../../src/ui/editor/field_info_window.cc:124
 #, c-format
@@ -4043,13 +4043,13 @@ msgstr "拥有者：玩家 %u"
 
 #: ../../../../src/ui/editor/field_info_window.cc:134
 msgid "Owned by: —"
-msgstr "拥有者： —"
+msgstr "拥有者：—"
 
 #: ../../../../src/ui/editor/field_info_window.cc:144
 #, c-format
 msgctxt "terrain_name"
 msgid "Name: %s"
-msgstr "名字: %s"
+msgstr "名称：%s"
 
 #. * TRANSLATORS: "Is" is a list of terrain properties, e.g. "arable,
 #. unreachable and
@@ -4058,12 +4058,12 @@ msgstr "名字: %s"
 #: ../../../../src/ui/editor/field_info_window.cc:155
 #, c-format
 msgid "Is: %s"
-msgstr "属性列表:%s"
+msgstr "属性：%s"
 
 #. * TRANSLATORS: Heading for immovables and animals in editor info tool
 #: ../../../../src/ui/editor/field_info_window.cc:164
 msgid "Objects"
-msgstr "目标"
+msgstr "物体"
 
 #: ../../../../src/ui/editor/field_info_window.cc:166
 #, c-format
@@ -4078,7 +4078,7 @@ msgstr "动物：%s"
 #: ../../../../src/ui/editor/field_info_window.cc:204
 #, c-format
 msgid "Workers: %s"
-msgstr "劳动者：%s"
+msgstr "工人：%s"
 
 #: ../../../../src/ui/editor/field_info_window.cc:210
 #, c-format
@@ -4088,17 +4088,17 @@ msgstr "船：%s"
 #: ../../../../src/ui/editor/field_info_window.cc:222
 msgctxt "resources"
 msgid "%1%× %2%"
-msgstr ""
+msgstr "%1%× %2%"
 
 #: ../../../../src/ui/editor/field_info_window.cc:231
 #, c-format
 msgctxt "map_name"
 msgid "Name: %s"
-msgstr "名字: %s"
+msgstr "名称：%s"
 
 #: ../../../../src/ui/editor/field_info_window.cc:233
 msgid "Size: %1% × %2%"
-msgstr ""
+msgstr "尺寸：%1% × %2%"
 
 #: ../../../../src/ui/editor/field_info_window.cc:237
 #, c-format
@@ -4120,23 +4120,23 @@ msgstr "作者：%s"
 #: ../../../../src/ui/fsmenu/mapdetailsbox.cc:126
 #, c-format
 msgid "Description: %s"
-msgstr "说明：%s"
+msgstr "描述：%s"
 
 #. * TRANSLATORS: No add-ons enabled
 #: ../../../../src/ui/editor/field_info_window.cc:251
 msgctxt "addons"
 msgid "(none)"
-msgstr ""
+msgstr "（无）"
 
 #: ../../../../src/ui/editor/field_info_window.cc:258
 #, c-format
 msgid "%1$s; %2$s"
-msgstr "%1$s;%2$s"
+msgstr "%1$s；%2$s"
 
 #: ../../../../src/ui/editor/field_info_window.cc:262
 #, c-format
 msgid "Enabled Add-Ons: %s"
-msgstr "启用的扩展组件：%s"
+msgstr "已启用的附加内容：%s"
 
 #: ../../../../src/ui/editor/help.cc:36
 #: ../../../../src/ui/fsmenu/login_box.cc:255
@@ -4159,13 +4159,13 @@ msgstr "我的地图"
 #: ../../../../src/ui/editor/main_menu_load_map.cc:115
 #: ../../../../src/ui/shared/mapdata.cc:193
 msgid "Multiplayer Scenarios"
-msgstr "多人游戏场景"
+msgstr "多人战役"
 
 #. * TRANSLATORS: Directory name for SP Scenarios in map selection
 #: ../../../../src/ui/editor/main_menu_load_map.cc:117
 #: ../../../../src/ui/shared/mapdata.cc:196
 msgid "Singleplayer Scenarios"
-msgstr ""
+msgstr "单人战役"
 
 #. * TRANSLATORS: Directory name for downloaded maps in map selection
 #: ../../../../src/ui/editor/main_menu_load_map.cc:119
@@ -4203,15 +4203,15 @@ msgstr "地图译名"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:51
 msgid "Click player to remove"
-msgstr "点击玩家以删除"
+msgstr "单击玩家可移除"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:62
 msgid "Delete this suggested team lineup"
-msgstr "删除这项建议的团队阵容"
+msgstr "删除这套建议的团队阵容"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:114
 msgid "Add a player to this team"
-msgstr "添加一个游戏玩家到这个团队"
+msgstr "把一名玩家加入该团队"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:338
 msgid "Add lineup"
@@ -4219,11 +4219,11 @@ msgstr "添加阵容"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:339
 msgid "Add another suggested team lineup"
-msgstr "添加另外一个建议的团队阵容"
+msgstr "再添加一套建议的团队阵容"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:361
 msgid "Map name:"
-msgstr "地图名："
+msgstr "地图名称："
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:366
 #: ../../../../src/ui/fsmenu/addons/packager.cc:163
@@ -4239,7 +4239,7 @@ msgstr "描述："
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:378
 msgid "Hint (optional):"
-msgstr "提示（可选项）"
+msgstr "提示（可选）："
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:389
 msgid "Tags:"
@@ -4249,36 +4249,36 @@ msgstr "标签："
 #. * "Teams of 2", etc.
 #: ../../../../src/ui/editor/main_menu_map_options.cc:397
 msgid "This map is suitable for:"
-msgstr ""
+msgstr "本地图适用于："
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:399
 msgid ""
 "Please add suggested team line-ups in the next tab for all selected options"
-msgstr ""
+msgstr "请在下一个标签页中为所有选中的选项添加建议的团队阵容"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:415
 msgid ""
 "Mark whether the starting positions provide equal conditions for each player"
-msgstr ""
+msgstr "标注各起始位置是否为每位玩家提供了同等条件"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:420
 msgid "Set the theme for the game loadscreens"
-msgstr ""
+msgstr "设置游戏载入画面的主题"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:421
 msgctxt "map_theme"
 msgid "(none)"
-msgstr "（没有）"
+msgstr "（无）"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:432
 msgid "Ferry range:"
-msgstr ""
+msgstr "艄公航程："
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:433
 msgid ""
 "Enable ferries, waterways, and ferry yards on this map by setting the "
 "maximum length of waterways for ferries"
-msgstr ""
+msgstr "设定艄公可通行的水路最大长度，以此启用本地图上的艄公、水路与摆渡码头"
 
 #. * TRANSLATORS: Map Options: Waterways are disabled
 #. * TRANSLATORS: Placeholder for scroll direction when function should not
@@ -4286,17 +4286,17 @@ msgstr ""
 #: ../../../../src/ui/editor/main_menu_map_options.cc:450
 #: ../../../../src/ui/fsmenu/mousewheel_options.cc:57
 msgid "Disabled"
-msgstr "无效的"
+msgstr "已禁用"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:473
 #, c-format
 msgid "%u Player"
 msgid_plural "%u Players"
-msgstr[0] "%u 玩家"
+msgstr[0] "%u 名玩家"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:477
 msgid "Suggested Teams:"
-msgstr "组队建议："
+msgstr "建议阵容："
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:500
 msgid "Main Options"
@@ -4314,11 +4314,11 @@ msgstr "团队"
 #: ../../../../src/ui/editor/main_menu_map_options.cc:538
 #, c-format
 msgid "It is not recommended to permit waterway lengths greater than %u"
-msgstr "不建议允许水道的长度大于%u"
+msgstr "不建议把水路长度设为大于 %u"
 
 #: ../../../../src/ui/editor/main_menu_map_options.cc:554
 msgid "Size: %1% x %2%"
-msgstr "大小: %1% x %2%"
+msgstr "尺寸：%1% x %2%"
 
 #: ../../../../src/ui/editor/main_menu_new_map.cc:62
 msgid "Create Map"
@@ -4330,7 +4330,7 @@ msgstr "地形："
 
 #: ../../../../src/ui/editor/main_menu_new_map.cc:106
 msgid "Creating empty map…"
-msgstr "创建空地图......"
+msgstr "正在创建空地图…"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:78
 #: ../../../../src/ui/shared/gamedetails.cc:169
@@ -4366,7 +4366,7 @@ msgstr "地形分布"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:137
 msgid "Water:"
-msgstr "水："
+msgstr "水域："
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:148
 msgid "Land:"
@@ -4378,7 +4378,7 @@ msgstr "荒地："
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:172
 msgid "Mountains:"
-msgstr "山脉："
+msgstr "山地："
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:183
 msgid "Island mode"
@@ -4386,51 +4386,51 @@ msgstr "岛屿模式"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:208
 msgid "Random number:"
-msgstr "随机数字："
+msgstr "随机数："
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:223
 msgid "Generate a new random number"
-msgstr ""
+msgstr "生成一个新的随机数"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:232
 msgid "Map ID:"
-msgstr "地图序号："
+msgstr "地图 ID："
 
 #. * TRANSLATORS: Default Map Generator
 #: ../../../../src/ui/editor/main_menu_random_map.cc:245
 msgctxt "map_generator"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #. * TRANSLATORS: Random Climate
 #: ../../../../src/ui/editor/main_menu_random_map.cc:273
 msgctxt "climate"
 msgid "Random"
-msgstr ""
+msgstr "随机"
 
 #. * TRANSLATORS: Default Terrain Distribution
 #: ../../../../src/ui/editor/main_menu_random_map.cc:304
 msgctxt "terrain"
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:306
 msgid "Alpine"
-msgstr "高山的"
+msgstr "高山"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:307
 msgid "Atoll"
-msgstr "环礁岛"
+msgstr "环礁"
 
 #. * TRANSLATORS: Random Terrain Distribution
 #: ../../../../src/ui/editor/main_menu_random_map.cc:310
 msgctxt "terrain"
 msgid "Random"
-msgstr ""
+msgstr "随机"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:621
 msgid "Generating random map…"
-msgstr "创建随机地图......"
+msgstr "正在生成随机地图…"
 
 #. * TRANSLATORS: Window title. This is shown after a random map has been
 #. created in the
@@ -4452,7 +4452,7 @@ msgid ""
 "The map has been generated. Please double-check the player starting "
 "positions to make sure that your carriers won’t drown, or be stuck on an "
 "island or on top of a mountain."
-msgstr "地图已经被创建。请双击玩家起始位置以确保你的搬运工没有被淹没，或是被围困在山顶、岛屿之上。"
+msgstr "地图已生成。请再仔细检查各玩家的起始位置，确保你的搬运工不会被淹死，也不会困在孤岛上或山顶上。"
 
 #. * TRANSLATORS: This is shown after a random map has been created in the
 #. editor.
@@ -4464,7 +4464,7 @@ msgid ""
 "The map generator could not produce a good-enough map with the provided "
 "settings. This map will probably need extensive editing to be playable. "
 "Consider creating a new map with different parameters."
-msgstr ""
+msgstr "以当前设置，地图生成器未能产出足够好的地图。这张地图多半需要大量手工修改才能游玩。建议换一组参数重新生成。"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:725
 msgid "The Widelands Random Map Generator"
@@ -4473,7 +4473,7 @@ msgstr "Widelands 随机地图生成器"
 #: ../../../../src/ui/editor/main_menu_random_map.cc:727
 msgid ""
 "This map was generated automatically by the Widelands Random Map Generator."
-msgstr "这张地图是由 Widelands 随机地图生成器自动创建的。"
+msgstr "这张地图由 Widelands 随机地图生成器自动生成。"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:735
 #: ../../../../src/ui/game/marketwindow.cc:68
@@ -4483,7 +4483,7 @@ msgstr "玩家"
 
 #: ../../../../src/ui/editor/main_menu_random_map.cc:851
 msgid "Generate Map"
-msgstr "创建地图"
+msgstr "生成地图"
 
 #: ../../../../src/ui/editor/main_menu_save_map.cc:71
 #: ../../../../src/ui/game/main_menu_save_game.cc:89
@@ -4494,7 +4494,7 @@ msgstr "文件名："
 #: ../../../../src/ui/editor/main_menu_save_map.cc:80
 #: ../../../../src/ui/editor/main_menu_save_map_make_directory.cc:31
 msgid "Make Directory"
-msgstr "建立目录"
+msgstr "新建目录"
 
 #. * TRANSLATORS: A folder that hasn't been given a name yet
 #: ../../../../src/ui/editor/main_menu_save_map.cc:164
@@ -4504,27 +4504,27 @@ msgstr "未命名"
 
 #: ../../../../src/ui/editor/main_menu_save_map.cc:173
 msgid "A file or directory with that name already exists."
-msgstr "相同名称的文件或目录已存在。"
+msgstr "同名的文件或目录已存在。"
 
 #: ../../../../src/ui/editor/main_menu_save_map.cc:174
 #: ../../../../src/ui/editor/main_menu_save_map.cc:187
 msgid "Error Creating Directory!"
-msgstr " 创建目录出错！ "
+msgstr "创建目录出错！"
 
 #: ../../../../src/ui/editor/main_menu_save_map.cc:186
 #, c-format
 msgid "Error while creating directory ‘%s’."
-msgstr "创建目录时出错 ‘%s’."
+msgstr "创建目录 ‘%s’ 时出错。"
 
 #: ../../../../src/ui/editor/main_menu_save_map.cc:312
 #: ../../../../src/ui/game/main_menu_save_game.cc:327
 #, c-format
 msgid "A file with the name ‘%s’ already exists. Overwrite?"
-msgstr "文件‘%s’已经存在了，要覆盖吗？"
+msgstr "名为 ‘%s’ 的文件已存在，要覆盖吗？"
 
 #: ../../../../src/ui/editor/main_menu_save_map.cc:344
 msgid "Saving the map…"
-msgstr " 正在保存地图… "
+msgstr "正在保存地图…"
 
 #: ../../../../src/ui/editor/main_menu_save_map.cc:362
 msgid "Map saved"
@@ -4532,11 +4532,11 @@ msgstr "地图已保存"
 
 #: ../../../../src/ui/editor/main_menu_save_map_make_directory.cc:53
 msgid "Enter Directory Name:"
-msgstr "输入目录名："
+msgstr "输入目录名称："
 
 #: ../../../../src/ui/editor/main_menu_save_map_make_directory.cc:110
 msgid "This extension is reserved!"
-msgstr "这个扩展已被保留！"
+msgstr "该扩展名为系统保留！"
 
 #: ../../../../src/ui/editor/map_size_box.cc:38
 msgid "Width"
@@ -4551,7 +4551,7 @@ msgstr "高度"
 #. recommended number of players
 #: ../../../../src/ui/editor/player_menu.cc:54
 msgid "Too Many Players"
-msgstr "玩家太多了"
+msgstr "玩家过多"
 
 #. * TRANSLATORS: Info text in editor player menu when a player has selected
 #. more than the
@@ -4560,14 +4560,14 @@ msgstr "玩家太多了"
 msgid ""
 "We do not recommend setting more than 8 players except for testing purposes."
 " Are you sure that you want more than 8 players?"
-msgstr "我们不建议设置超过8名玩家，除非出于测试目的。你确定要设置8个以上的玩家吗？"
+msgstr "除测试用途外，我们不建议设置超过 8 名玩家。确定要设置 8 名以上的玩家吗？"
 
 #. * TRANSLATORS: Checkbox for: 'We do not recommend setting more than 8
 #. players except
 #. for testing purposes. Are you sure that you want more than 8 players?'
 #: ../../../../src/ui/editor/player_menu.cc:77
 msgid "Do not remind me again"
-msgstr "不要再次提醒我"
+msgstr "不再提醒"
 
 #: ../../../../src/ui/editor/player_menu.cc:88
 msgid "Abort"
@@ -4604,13 +4604,13 @@ msgstr "随机"
 #: ../../../../src/ui/fsmenu/multiplayersetupgroup.cc:463
 #: ../../../../src/ui/fsmenu/singleplayerdropdown.cc:99
 msgid "The tribe will be selected at random."
-msgstr ""
+msgstr "将随机选择部族。"
 
 #. * TRANSLATORS: Button tooltip in the editor for using a player's starting
 #. position tool
 #: ../../../../src/ui/editor/player_menu.cc:226
 msgid "Set this player’s starting position"
-msgstr "设置这个玩家的起始位置"
+msgstr "设置该玩家的起始位置"
 
 #: ../../../../src/ui/editor/tool_change_height_options_menu.cc:32
 msgid "Height Tools Options"
@@ -4618,76 +4618,76 @@ msgstr "高度工具选项"
 
 #: ../../../../src/ui/editor/tool_change_height_options_menu.cc:51
 msgid "Increase/Decrease height by:"
-msgstr "增加/减少高度为："
+msgstr "每次增减高度："
 
 #: ../../../../src/ui/editor/tool_change_height_options_menu.cc:61
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:66
 msgid "Set height to:"
-msgstr "将“高度”设置为："
+msgstr "将高度设为："
 
 #: ../../../../src/ui/editor/tool_change_height_options_menu.cc:72
 msgid "Pick height from map …"
-msgstr ""
+msgstr "从地图上拾取高度…"
 
 #: ../../../../src/ui/editor/tool_change_height_options_menu.cc:73
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:111
 msgid "Select the height of a field by clicking on it on the map"
-msgstr ""
+msgstr "在地图上单击某个地块以选取它的高度"
 
 #. * TRANSLATORS: Editor change height access keys. *
 #: ../../../../src/ui/editor/tool_change_height_options_menu.cc:78
 msgid ""
 "Click on the map to increase, Shift + Click on the map to decrease terrain "
 "height"
-msgstr "单击地图可增加地形高度，按住Shift键并单击地图可降低地形高度。"
+msgstr "单击地图可升高地形，按住 Shift 单击可降低地形"
 
 #. * TRANSLATORS: Editor set height access key. *
 #: ../../../../src/ui/editor/tool_change_height_options_menu.cc:81
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:79
 msgid "Ctrl + Click on the map to set terrain height"
-msgstr "按住Ctrl键并单击地图可设置地形高度"
+msgstr "按住 Ctrl 单击地图可直接设定地形高度"
 
 #: ../../../../src/ui/editor/tool_change_resources_options_menu.cc:60
 msgid "Increase/Decrease amount by:"
-msgstr "增加/减少数量为："
+msgstr "每次增减数量："
 
 #: ../../../../src/ui/editor/tool_change_resources_options_menu.cc:70
 msgid "Set amount to:"
-msgstr "设置数量为："
+msgstr "将数量设为："
 
 #: ../../../../src/ui/editor/tool_change_resources_options_menu.cc:92
 msgid "Pick resource from map …"
-msgstr ""
+msgstr "从地图上拾取资源…"
 
 #: ../../../../src/ui/editor/tool_change_resources_options_menu.cc:93
 msgid "Select a resource type by clicking on it on the map"
-msgstr ""
+msgstr "在地图上单击以选取一种资源类型"
 
 #. * TRANSLATORS: Editor change rseources access keys. *
 #: ../../../../src/ui/editor/tool_change_resources_options_menu.cc:99
 msgid ""
 "Click on the map to increase, Shift + Click on the map to decrease the "
 "amount of the selected resource"
-msgstr "单击地图可增加所选资源的数量，按住Shift键并单击地图可减少所选资源的数量。"
+msgstr "单击地图可增加所选资源的数量，按住 Shift 单击可减少"
 
 #. * TRANSLATORS: Editor set rseources access key. *
 #: ../../../../src/ui/editor/tool_change_resources_options_menu.cc:103
 msgid ""
 "Ctrl + Click on the map to set the amount of the selected resource. This "
 "will replace already set resources."
-msgstr "按住Ctrl键并单击地图以设置所选资源的数量。这将覆盖已设置的资源。"
+msgstr "按住 Ctrl 单击地图可设定所选资源的数量，这会覆盖已有的资源。"
 
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:33
 msgid "Random Height Options"
-msgstr "随机海拔选项"
+msgstr "随机高度选项"
 
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:46
 msgid "Minimum height:"
-msgstr "最低海拔"
+msgstr "最低高度："
 
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:56
 msgid "Maximum height:"
-msgstr "最大海拔"
+msgstr "最高高度："
 
 #. * TRANSLATORS: Editor random height access key. *
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:73
@@ -4695,25 +4695,25 @@ msgstr "最大海拔"
 msgid ""
 "Click on the map to set terrain height to a random value within the "
 "specified range"
-msgstr "单击地图将地形海拔设置为指定范围内的随机值"
+msgstr "单击地图，把地形高度设为指定范围内的随机值"
 
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:97
 msgid "Fixed height"
-msgstr "固定海拔"
+msgstr "固定高度"
 
 #: ../../../../src/ui/editor/tool_noise_height_options_menu.cc:119
 msgid "Pick …"
-msgstr ""
+msgstr "拾取…"
 
 #: ../../../../src/ui/editor/tool_place_critter_options_menu.cc:58
 msgid "Pick animal from map …"
-msgstr ""
+msgstr "从地图上拾取动物…"
 
 #: ../../../../src/ui/editor/tool_place_critter_options_menu.cc:59
 msgid ""
 "Select an animal type by clicking on it on the map. Hold down Ctrl to select"
 " multiple animals."
-msgstr ""
+msgstr "在地图上单击以选取一种动物类型。按住 Ctrl 可多选。"
 
 #. * TRANSLATORS: Add-On localized name as header (Add-On internal name in
 #. italics)
@@ -4729,44 +4729,44 @@ msgstr "%1$s %2$s"
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:52
 #, c-format
 msgid "%1$s (removable by e.g. placing roads)"
-msgstr ""
+msgstr "%1$s（可通过修路等方式移除）"
 
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:55
 #, c-format
 msgid "%1$s (needs a small building plot)"
-msgstr ""
+msgstr "%1$s（需要小型建筑地块）"
 
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:58
 #, c-format
 msgid "%1$s (needs a medium building plot)"
-msgstr ""
+msgstr "%1$s（需要中型建筑地块）"
 
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:61
 #, c-format
 msgid "%1$s (needs a big building plot)"
-msgstr ""
+msgstr "%1$s（需要大型建筑地块）"
 
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:91
 msgid "Pick immovable from map …"
-msgstr ""
+msgstr "从地图上拾取固定物…"
 
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:92
 msgid ""
 "Select an immovable type by clicking on it on the map. Hold down Ctrl to "
 "select multiple immovables."
-msgstr ""
+msgstr "在地图上单击以选取一种固定物类型。按住 Ctrl 可多选。"
 
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:116
 msgid "Automatically place the trees which grow best on the terrain"
-msgstr ""
+msgstr "自动种植最适应该地形的树木"
 
 #: ../../../../src/ui/editor/tool_place_immovable_options_menu.cc:132
 msgid "Automatic Immovable Placement"
-msgstr ""
+msgstr "自动放置固定物"
 
 #: ../../../../src/ui/editor/tool_resize_options_menu.cc:34
 msgid "Resize"
-msgstr "调整大小"
+msgstr "调整尺寸"
 
 #: ../../../../src/ui/editor/tool_resize_options_menu.cc:59
 msgid ""
@@ -4775,23 +4775,23 @@ msgid ""
 " the east/south of the selected point. When shrinking the map, the desired "
 "number of columns/rows will be removed from the east/south of the splitting "
 "location."
-msgstr "选择新的地图尺寸，然后点击地图将其拆分到所期望位置。增加地图的尺寸时，新的列/行将插入到选定点的东/南。缩小地图尺寸时，所期望的列/行数将从拆分位置的东/南移除。"
+msgstr "先选择新的地图尺寸，再单击地图上的切分位置。放大地图时，新的行列会插入到所选点的东侧／南侧；缩小地图时，则从切分位置的东侧／南侧移除相应数量的行列。"
 
 #: ../../../../src/ui/editor/tool_set_terrain_options_menu.cc:103
 msgid "Pick terrain from map …"
-msgstr ""
+msgstr "从地图上拾取地形…"
 
 #: ../../../../src/ui/editor/tool_set_terrain_options_menu.cc:104
 msgid ""
 "Select a terrain type by clicking on it on the map. Hold down Ctrl to select"
 " multiple terrains."
-msgstr ""
+msgstr "在地图上单击以选取一种地形类型。按住 Ctrl 可多选。"
 
 #. * TRANSLATORS: Help tooltip in tool history window
 #: ../../../../src/ui/editor/tool_toolhistory_options_menu.cc:121
 msgid ""
 "Click to restore, Shift + Click to delete, and Ctrl + Click to pin an item."
-msgstr ""
+msgstr "单击可恢复，Shift + 单击可删除，Ctrl + 单击可固定某一项。"
 
 #: ../../../../src/ui/editor/toolsize_menu.cc:37
 msgid "Tool Size"
@@ -4803,32 +4803,32 @@ msgstr "尺寸："
 
 #: ../../../../src/ui/editor/toolsize_menu.cc:56
 msgid "Gaps:"
-msgstr ""
+msgstr "间隔："
 
 #: ../../../../src/ui/editor/toolsize_menu.cc:59
 msgid "Radius of the active tool"
-msgstr ""
+msgstr "当前工具的作用半径"
 
 #: ../../../../src/ui/editor/toolsize_menu.cc:60
 msgid "Amount of random gaps in the tool’s area"
-msgstr ""
+msgstr "工具作用范围内随机留空的比例"
 
 #: ../../../../src/ui/fsmenu/about.cc:38 ../../../../src/ui/fsmenu/main.cc:534
 msgid "About Widelands"
-msgstr "关于Widelands"
+msgstr "关于 Widelands"
 
 #: ../../../../src/ui/fsmenu/about.cc:49 ../../../../src/ui/fsmenu/about.cc:54
 msgid "Lua Error"
-msgstr "Lua错误"
+msgstr "Lua 错误"
 
 #: ../../../../src/ui/fsmenu/about.cc:59
 #: ../../../../src/ui/fsmenu/tech_info.cc:221
 msgid "Technical Info"
-msgstr ""
+msgstr "技术信息"
 
 #: ../../../../src/ui/fsmenu/addons/contact.cc:35
 msgid "Contact Form"
-msgstr "联系方式表"
+msgstr "联系表单"
 
 #: ../../../../src/ui/fsmenu/addons/contact.cc:47
 msgid "Send message"
@@ -4840,7 +4840,7 @@ msgstr "发送消息"
 
 #: ../../../../src/ui/fsmenu/addons/contact.cc:72
 msgid "Send this message now?"
-msgstr "现在就发送这个消息？"
+msgstr "现在就发送这条消息吗？"
 
 #: ../../../../src/ui/fsmenu/addons/contact.cc:82
 #, c-format
@@ -4848,18 +4848,18 @@ msgid ""
 "Unable to submit your enquiry.\n"
 "Error message:\n"
 "%s"
-msgstr "无法提交您的查询。\n错误信息：\n%s"
+msgstr "无法提交你的咨询。\n错误信息：\n%s"
 
 #: ../../../../src/ui/fsmenu/addons/contact.cc:90
 msgid "Sent"
-msgstr "发送"
+msgstr "已发送"
 
 #: ../../../../src/ui/fsmenu/addons/contact.cc:91
 msgid ""
 "Your message has been sent to the Widelands Development Team, and we will "
 "respond as soon as we can. Don’t forget to check your website inbox "
 "frequently."
-msgstr ""
+msgstr "你的消息已发送给 Widelands 开发团队，我们会尽快回复。别忘了经常查看你在网站上的收件箱。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:62
 #, c-format
@@ -4885,7 +4885,7 @@ msgstr "%u 字节"
 #: ../../../../src/ui/fsmenu/addons/manager.cc:129
 msgctxt "quality"
 msgid "Any"
-msgstr ""
+msgstr "不限"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:129
 msgid "Quality not yet evaluated"
@@ -4895,35 +4895,35 @@ msgstr "质量尚未评估"
 #: ../../../../src/ui/fsmenu/addons/manager.cc:135
 msgctxt "quality"
 msgid "Poor"
-msgstr ""
+msgstr "较差"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:136
 msgid "This add-on may cause major glitches and errors."
-msgstr "这个插件可能会导致重大故障和错误。"
+msgstr "这个附加内容可能引发严重的故障和错误。"
 
 #. * TRANSLATORS: This is an add-on code quality rating
 #: ../../../../src/ui/fsmenu/addons/manager.cc:142
 msgctxt "quality"
 msgid "Good"
-msgstr ""
+msgstr "良好"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:142
 msgid "This add-on works as advertised."
-msgstr ""
+msgstr "这个附加内容能按其描述正常工作。"
 
 #. * TRANSLATORS: This is an add-on code quality rating
 #: ../../../../src/ui/fsmenu/addons/manager.cc:147
 msgctxt "quality"
 msgid "Excellent"
-msgstr ""
+msgstr "优秀"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:148
 msgid "This add-on has been decorated for its remarkably high quality."
-msgstr ""
+msgstr "这个附加内容因质量出众而获得表彰。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:160
 msgid "Add-On Manager"
-msgstr "附件管理器"
+msgstr "附加内容管理器"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:297
 msgid "Verified only"
@@ -5225,20 +5225,20 @@ msgstr ""
 #, c-format
 msgid "Are you certain that you want to upgrade this %u add-on?"
 msgid_plural "Are you certain that you want to upgrade these %u add-ons?"
-msgstr[0] ""
+msgstr[0] "确定要升级这 %u 个附加内容吗？"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1041
 #, c-format
 msgid ""
 "\n"
 "• %1$s (%2$s) by %3$s"
-msgstr ""
+msgstr "\n• %1$s（%2$s），作者 %3$s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1042
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:498
 #: ../../../../src/ui/fsmenu/addons/rows_ui.cc:532
 msgid "NOT VERIFIED"
-msgstr "尚未验证"
+msgstr "未经验证"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1042
 msgid "verified"
@@ -5250,51 +5250,51 @@ msgstr "全部升级"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1208
 msgid "Not logged in"
-msgstr ""
+msgstr "未登录"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1209
 msgid ""
 "Click to log in. You can then comment and vote on add-ons and upload your "
 "own add-ons."
-msgstr ""
+msgstr "单击以登录。登录后可以评论和投票，也可以上传自己的附加内容。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1213
 msgid "Please log in to upload add-ons"
-msgstr ""
+msgstr "请先登录再上传附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1215
 msgid "Please log in to upload content"
-msgstr ""
+msgstr "请先登录再上传内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1217
 msgid "Please log in to send an enquiry"
-msgstr ""
+msgstr "请先登录再发送咨询"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1222
 #, c-format
 msgid "Logged in as %s"
-msgstr ""
+msgstr "已登录为 %s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1222
 #, c-format
 msgid "Logged in as %s (admin)"
-msgstr ""
+msgstr "已登录为 %s（管理员）"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1223
 msgid "Click to log out"
-msgstr ""
+msgstr "单击以退出登录"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1228
 msgid "Please tick the confirmation checkbox to upload add-ons"
-msgstr ""
+msgstr "请勾选确认框以上传附加内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1231
 msgid "Please tick the confirmation checkbox to upload content"
-msgstr ""
+msgstr "请勾选确认框以上传内容"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1258
 msgid "Server Error"
-msgstr ""
+msgstr "服务器错误"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1259
 #, c-format
@@ -5302,27 +5302,27 @@ msgid ""
 "Unable to connect to the server.\n"
 "Error message:\n"
 "%s"
-msgstr ""
+msgstr "无法连接到服务器。\n错误信息：\n%s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1267
 msgid "Wrong Password"
-msgstr ""
+msgstr "密码错误"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1268
 #, c-format
 msgid ""
 "The entered username or password is invalid:\n"
 "%s"
-msgstr ""
+msgstr "输入的用户名或密码无效：\n%s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1385
 #, c-format
 msgid "Fetching add-ons… (%.1f%%)"
-msgstr ""
+msgstr "正在获取附加内容…（%.1f%%）"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1388
 msgid "Connecting to the server…"
-msgstr ""
+msgstr "正在连接服务器…"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1411
 msgid "Server Connection Error"
@@ -5332,83 +5332,83 @@ msgstr "服务器连接错误"
 #. Error <br> by %s"
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1413
 msgid "a networking bug"
-msgstr "网络程序缺陷"
+msgstr "网络缺陷"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1414
 #, c-format
 msgid ""
 "Unable to fetch the list of available add-ons from the server!<br>Error "
 "Message: %s"
-msgstr "不能从服务器获取可用的附件列表！ <br> 错误消息： %s"
+msgstr "无法从服务器获取可用的附加内容列表！<br>错误信息：%s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1572
 #, c-format
 msgid "Installed (%u)"
-msgstr "已安装 (%u)"
+msgstr "已安装（%u）"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1622
 msgid "Translations for website maps"
-msgstr ""
+msgstr "网站地图的译文"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1625
 #, c-format
 msgid "Upgrade all (%u)"
-msgstr "全部升级 (%u)"
+msgstr "全部升级（%u）"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1628
 msgid "No upgrades are available for your installed add-ons"
-msgstr "你安装的附加组件没有可用的升级"
+msgstr "你已安装的附加内容没有可用升级"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1630
 #, c-format
 msgid "Upgrade the following %u add-on:"
 msgid_plural "Upgrade the following %u add-ons:"
-msgstr[0] ""
+msgstr[0] "将升级以下 %u 个附加内容："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1635
 #, c-format
 msgid "• %s"
-msgstr ""
+msgstr "• %s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1640
 msgid "Browse"
-msgstr ""
+msgstr "浏览"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1641
 #, c-format
 msgid "Browse (%u)"
-msgstr "浏览 (%u)"
+msgstr "浏览（%u）"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1705
 msgid "Website Maps"
-msgstr ""
+msgstr "网站地图"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1706
 #, c-format
 msgid "Website Maps (%u)"
-msgstr ""
+msgstr "网站地图（%u）"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1780
 #, c-format
 msgid "• ‘%1$s’ requires ‘%2$s’ which could not be found"
-msgstr ""
+msgstr "• ‘%1$s’ 需要 ‘%2$s’，但未找到"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1785
 #, c-format
 msgid "• ‘%1$s’ requires ‘%2$s’ which is disabled"
-msgstr ""
+msgstr "• ‘%1$s’ 需要 ‘%2$s’，但后者已被禁用"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1792
 #, c-format
 msgid "• ‘%1$s’ requires ‘%2$s’ which is listed below the requiring add-on"
-msgstr ""
+msgstr "• ‘%1$s’ 需要 ‘%2$s’，但后者排在它之后"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1820
 #, c-format
 msgid ""
 "• ‘%1$s’ requires first ‘%2$s’ and then ‘%3$s’, but they are listed in the "
 "wrong order"
-msgstr ""
+msgstr "• ‘%1$s’ 需要先有 ‘%2$s’ 再有 ‘%3$s’，但两者的顺序反了"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1836
 #, c-format
@@ -5416,66 +5416,66 @@ msgid ""
 "An enabled add-on is defective. No games can be started with the current configuration.\n"
 "Error message:\n"
 "%s"
-msgstr ""
+msgstr "有一个已启用的附加内容存在缺陷。当前配置下无法开始任何游戏。\n错误信息：\n%s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1853
 #, c-format
 msgid "%u Dependency Error"
 msgid_plural "%u Dependency Errors"
-msgstr[0] ""
+msgstr[0] "%u 处依赖错误"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1855
 msgid ""
 "Add-Ons with dependency errors may work incorrectly or prevent games and "
 "maps from loading."
-msgstr "存在依赖错误的附件可能无法正常工作，或者阻止加载游戏和地图。"
+msgstr "存在依赖错误的附加内容可能无法正常工作，也可能导致游戏和地图无法载入。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1984
 #, c-format
 msgid ""
 "The add-on ‘%1$s’ can not be uploaded because its version (%2$s) is not "
 "newer than the version present on the server (%3$s)."
-msgstr ""
+msgstr "附加内容 ‘%1$s’ 无法上传，因为它的版本（%2$s）不比服务器上的版本（%3$s）新。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:1995
 #, c-format
 msgid ""
 "The add-on ‘%1$s’ can not be uploaded because its category (%2$s) does not "
 "match the category of the version present on the server (%3$s)."
-msgstr ""
+msgstr "附加内容 ‘%1$s’ 无法上传，因为它的类别（%2$s）与服务器上该版本的类别（%3$s）不一致。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2006
 #: ../../../../src/ui/fsmenu/addons/screenshot_upload.cc:54
 msgid "Upload"
-msgstr ""
+msgstr "上传"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2007
 #, c-format
 msgid "Do you really want to upload the add-on ‘%s’ to the server?"
-msgstr ""
+msgstr "确定要把附加内容 ‘%s’ 上传到服务器吗？"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2017
 #, c-format
 msgid "Uploading ‘%s’…"
-msgstr ""
+msgstr "正在上传 ‘%s’…"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2024
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2155
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2244
 msgid "%1% / %2%"
-msgstr "%1%/%2%"
+msgstr "%1% / %2%"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2048
 #, c-format
 msgid "‘%s’"
-msgstr ""
+msgstr "‘%s’"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2056
 #, c-format
 msgid ""
 "The add-on ‘%s’ may not be uploaded to the server because the following "
 "filenames contained in the add-on are not allowed:"
-msgstr ""
+msgstr "附加内容 ‘%s’ 不能上传到服务器，因为其中包含了不允许的文件名："
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2060
 msgid ""
@@ -5483,7 +5483,7 @@ msgid ""
 "simple punctuation (period, hyphen, and underscore; not multiple periods). "
 "Other characters such as whitespace are not permitted. Filenames may not "
 "exceed 80 characters."
-msgstr ""
+msgstr "文件名只能包含字母数字（A-Z、a-z、0-9）和简单标点（句点、连字符、下划线；不能有连续句点）。空格等其他字符不被允许。文件名长度不得超过 80 个字符。"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2075
 #, c-format
@@ -5492,7 +5492,7 @@ msgid ""
 "\n"
 "Error Message:\n"
 "%2$s"
-msgstr ""
+msgstr "附加内容 ‘%1$s’ 无法上传到服务器。\n\n错误信息：\n%2$s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2101
 #, c-format
@@ -5501,7 +5501,7 @@ msgid ""
 "\n"
 "Error Message:\n"
 "%2$s"
-msgstr ""
+msgstr "地图 ‘%1$s’ 无法从服务器下载。\n\n错误信息：\n%2$s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2134
 #, c-format
@@ -5524,20 +5524,20 @@ msgid ""
 "\n"
 "Error Message:\n"
 "%2$s"
-msgstr ""
+msgstr "附加内容 ‘%1$s’ 的译文无法从服务器下载，将跳过译文的安装／升级。\n\n错误信息：\n%2$s"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2303
 msgid "Website Maps Translations"
-msgstr ""
+msgstr "网站地图译文"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2304
 msgid "Downloading website maps translations…"
-msgstr ""
+msgstr "正在下载网站地图的译文…"
 
 #: ../../../../src/ui/fsmenu/addons/manager.cc:2360
 #, c-format
 msgid "The required add-on ‘%s’ could not be found on the server."
-msgstr "在服务器上找不到所需的附加组件 ‘%s’ 。"
+msgstr "服务器上找不到所需的附加内容 ‘%s’。"
 
 #: ../../../../src/ui/fsmenu/addons/packager.cc:46
 msgid "Add-Ons Packager"

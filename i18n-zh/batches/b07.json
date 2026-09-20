@@ -1,0 +1,999 @@
+[
+ {
+  "key": "fcbb1cc0ee",
+  "msgid": "Widelands could not load the file \"%s\". The file format seems to be incompatible.",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "Widelands 不能读取文件 “%s\"。文件格式似乎不兼容。"
+ },
+ {
+  "key": "1ecdd3115b",
+  "msgid": "Exit Editor Confirmation",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "2b28881c2b",
+  "msgid": "Unsaved Map",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "未保存的地图"
+ },
+ {
+  "key": "0318dfb33c",
+  "msgid": "The map has not been saved, do you really want to quit?",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "这个地图没有保存，您确定真的要退出吗？"
+ },
+ {
+  "key": "09e7707060",
+  "msgid": "Are you sure you wish to exit the editor?",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "b8cb46ba97",
+  "msgid": "flag",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor terrain property: space for a flag",
+  "ui": "ui/editor",
+  "current": "旗帜"
+ },
+ {
+  "key": "1aab2f1a04",
+  "msgid": "mine",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor terrain property: mine building plot",
+  "ui": "ui/editor",
+  "current": "矿"
+ },
+ {
+  "key": "fc749b1b33",
+  "msgid": "port",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor terrain property: port space",
+  "ui": "ui/editor",
+  "current": "港口",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "893caf2cbd",
+  "msgid": "swimmable",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor terrain property: units can swim on this terrain | (fish, ships)",
+  "ui": "ui/editor",
+  "current": "可游泳的"
+ },
+ {
+  "key": "fe287285ba",
+  "msgid": "Owned by: Player %u",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "拥有者：玩家 %u",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "6d00b06a49",
+  "msgid": "Owned by: —",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "拥有者： —"
+ },
+ {
+  "key": "cb1801dae2",
+  "msgid": "Name: %s",
+  "zh": "",
+  "msgctxt": "terrain_name",
+  "ui": "ui/editor",
+  "current": "名字: %s",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "1562155350",
+  "msgid": "Is: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Is\" is a list of terrain properties, e.g. \"arable, | unreachable and | * unwalkable\". You can also translate this as \"Category: %s\" or \"Property: | %s\"",
+  "ui": "ui/editor",
+  "current": "属性列表:%s"
+ },
+ {
+  "key": "bb03416771",
+  "msgid": "Objects",
+  "zh": "",
+  "note": "* TRANSLATORS: Heading for immovables and animals in editor info tool",
+  "ui": "ui/editor",
+  "current": "目标"
+ },
+ {
+  "key": "cce70a28e7",
+  "msgid": "Immovable: %s",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "固定物：%s"
+ },
+ {
+  "key": "e1c208a20e",
+  "msgid": "Animals: %s",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "动物：%s"
+ },
+ {
+  "key": "1ea02b08b6",
+  "msgid": "Workers: %s",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "劳动者：%s",
+  "terms": [
+   "Workers = 工人"
+  ]
+ },
+ {
+  "key": "99124f7182",
+  "msgid": "Ships: %s",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "船：%s"
+ },
+ {
+  "key": "05e6c2d1c4",
+  "msgid": "%1%× %2%",
+  "zh": "",
+  "msgctxt": "resources",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "844b9b7d55",
+  "msgid": "Name: %s",
+  "zh": "",
+  "msgctxt": "map_name",
+  "ui": "ui/editor",
+  "current": "名字: %s",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "bcff7aca22",
+  "msgid": "Size: %1% × %2%",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "39eb4b1b7a",
+  "msgid": "Players: %u",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "玩家：%u"
+ },
+ {
+  "key": "d52a9a97f1",
+  "msgid": "Players: –",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "玩家：–"
+ },
+ {
+  "key": "45e95aff6b",
+  "msgid": "Author: %s",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "作者：%s"
+ },
+ {
+  "key": "d2097e45c8",
+  "msgid": "Description: %s",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "说明：%s"
+ },
+ {
+  "key": "19dbaad556",
+  "msgid": "(none)",
+  "zh": "",
+  "msgctxt": "addons",
+  "note": "* TRANSLATORS: No add-ons enabled",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "babda87c33",
+  "msgid": "%1$s; %2$s",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "%1$s;%2$s"
+ },
+ {
+  "key": "8d3e54d194",
+  "msgid": "Enabled Add-Ons: %s",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "启用的扩展组件：%s",
+  "terms": [
+   "Add-Ons = 附加内容",
+   "add-ons = 附加内容"
+  ]
+ },
+ {
+  "key": "85d36138bc",
+  "msgid": "Field Information",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "区域信息"
+ },
+ {
+  "key": "ceedeffeb2",
+  "msgid": "Node",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "节点"
+ },
+ {
+  "key": "147af76a05",
+  "msgid": "Coordinates: (%1$i, %2$i)",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "坐标：(%1$i, %2$i)"
+ },
+ {
+  "key": "37b9a2a07d",
+  "msgid": "small",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor terrain property: small building plot",
+  "ui": "ui/editor",
+  "current": "小"
+ },
+ {
+  "key": "92a6e501e1",
+  "msgid": "medium",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor terrain property: medium building plot",
+  "ui": "ui/editor",
+  "current": "中"
+ },
+ {
+  "key": "3424cd5ed8",
+  "msgid": "big",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor terrain property: big building plot",
+  "ui": "ui/editor",
+  "current": "大"
+ },
+ {
+  "key": "4314e4c50d",
+  "msgid": "Error!",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu, ui/game",
+  "current": "错误！"
+ },
+ {
+  "key": "b2dda2dcdf",
+  "msgid": "My Maps",
+  "zh": "",
+  "note": "* TRANSLATORS: Directory name for user maps in map selection",
+  "ui": "ui/editor, ui/fsmenu, ui/shared",
+  "current": "我的地图"
+ },
+ {
+  "key": "2e06428822",
+  "msgid": "Multiplayer Scenarios",
+  "zh": "",
+  "note": "* TRANSLATORS: Directory name for MP Scenarios in map selection",
+  "ui": "ui/editor, ui/shared",
+  "current": "多人游戏场景"
+ },
+ {
+  "key": "cdb254accb",
+  "msgid": "Singleplayer Scenarios",
+  "zh": "",
+  "note": "* TRANSLATORS: Directory name for SP Scenarios in map selection",
+  "ui": "ui/editor, ui/shared"
+ },
+ {
+  "key": "013da59867",
+  "msgid": "Downloaded Maps",
+  "zh": "",
+  "note": "* TRANSLATORS: Directory name for downloaded maps in map selection",
+  "ui": "ui/editor, ui/shared",
+  "current": "已下载的地图"
+ },
+ {
+  "key": "77fc5f85b7",
+  "msgid": "Current directory: %s",
+  "zh": "",
+  "note": "* TRANSLATORS: The folder that a file will be saved to.",
+  "ui": "ui/editor",
+  "current": "当前目录：%s",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "8b49a76b31",
+  "msgid": "File names",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "文件名"
+ },
+ {
+  "key": "2bf6ab12a7",
+  "msgid": "Map names",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地图名"
+ },
+ {
+  "key": "ed3487e454",
+  "msgid": "Original map names",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地图原名"
+ },
+ {
+  "key": "02b8ede200",
+  "msgid": "Translated map names",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地图译名"
+ },
+ {
+  "key": "25bb779c15",
+  "msgid": "Display",
+  "zh": "",
+  "note": "* TRANSLATORS: \"Display: Original/Localized map/file names\"",
+  "ui": "ui/editor",
+  "current": "显示"
+ },
+ {
+  "key": "4c5885973a",
+  "msgid": "Add a player to this team",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "添加一个游戏玩家到这个团队",
+  "terms": [
+   "Player = 玩家",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "b010c2cb9b",
+  "msgid": "Add lineup",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "添加阵容"
+ },
+ {
+  "key": "8e9b418180",
+  "msgid": "Add another suggested team lineup",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "添加另外一个建议的团队阵容",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "2e1f7f3772",
+  "msgid": "Map name:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地图名：",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "8592f9ff9d",
+  "msgid": "Author:",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "作者："
+ },
+ {
+  "key": "d9ecd562b8",
+  "msgid": "Description:",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "描述："
+ },
+ {
+  "key": "a69dadf808",
+  "msgid": "Hint (optional):",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "提示（可选项）"
+ },
+ {
+  "key": "eaaf0715eb",
+  "msgid": "Tags:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "标签："
+ },
+ {
+  "key": "f364a5cb56",
+  "msgid": "This map is suitable for:",
+  "zh": "",
+  "note": "* TRANSLATORS: Header for suitable team line-up tags, like \"Free for all\", | * \"Teams of 2\", etc.",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "5f343c1e32",
+  "msgid": "Please add suggested team line-ups in the next tab for all selected options",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "b0fa3b8cb7",
+  "msgid": "Mark whether the starting positions provide equal conditions for each player",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "1f2ed3d24f",
+  "msgid": "Set the theme for the game loadscreens",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "c43c656d18",
+  "msgid": "(none)",
+  "zh": "",
+  "msgctxt": "map_theme",
+  "ui": "ui/editor",
+  "current": "（没有）"
+ },
+ {
+  "key": "8e4e172b0c",
+  "msgid": "Ferry range:",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "84dbd480f5",
+  "msgid": "Enable ferries, waterways, and ferry yards on this map by setting the maximum length of waterways for ferries",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "7921f3e23e",
+  "msgid": "Disabled",
+  "zh": "",
+  "note": "* TRANSLATORS: Map Options: Waterways are disabled | * TRANSLATORS: Placeholder for scroll direction when function should not | use scroll wheel",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "无效的"
+ },
+ {
+  "key": "8945f99a0d",
+  "msgid": "%u Player",
+  "zh": "",
+  "msgid_plural": "%u Players",
+  "ui": "ui/editor",
+  "current": "%u 玩家",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "a334b0fe91",
+  "msgid": "Suggested Teams:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "组队建议："
+ },
+ {
+  "key": "31d11d7cf1",
+  "msgid": "Main Options",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "主要选项"
+ },
+ {
+  "key": "41205b2954",
+  "msgid": "Tags",
+  "zh": "",
+  "ui": "ui/editor, ui/shared",
+  "current": "标签"
+ },
+ {
+  "key": "bc1c4a4aa9",
+  "msgid": "Teams",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "团队"
+ },
+ {
+  "key": "134e973a51",
+  "msgid": "Click player to remove",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "点击玩家以删除",
+  "terms": [
+   "Player = 玩家",
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "a52d438b0c",
+  "msgid": "It is not recommended to permit waterway lengths greater than %u",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "不建议允许水道的长度大于%u"
+ },
+ {
+  "key": "5a9f0fa8e7",
+  "msgid": "Size: %1% x %2%",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "大小: %1% x %2%"
+ },
+ {
+  "key": "79cc8a3d7d",
+  "msgid": "Delete this suggested team lineup",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "删除这项建议的团队阵容",
+  "terms": [
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "88babdf983",
+  "msgid": "Creating empty map…",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "创建空地图......"
+ },
+ {
+  "key": "1fed1abc9e",
+  "msgid": "Create Map",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "创建地图"
+ },
+ {
+  "key": "553774645a",
+  "msgid": "Terrain:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地形："
+ },
+ {
+  "key": "c86a3800e8",
+  "msgid": "Terrain Distribution",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地形分布"
+ },
+ {
+  "key": "343ded0184",
+  "msgid": "Water:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "水：",
+  "terms": [
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "c130bc9650",
+  "msgid": "Land:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "陆地："
+ },
+ {
+  "key": "5b1d297898",
+  "msgid": "Wasteland:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "荒地：",
+  "terms": [
+   "Wasteland = 荒地"
+  ]
+ },
+ {
+  "key": "10c6b9fb2d",
+  "msgid": "Mountains:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "山脉："
+ },
+ {
+  "key": "61031321d0",
+  "msgid": "Island mode",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "岛屿模式"
+ },
+ {
+  "key": "fcb2ebee26",
+  "msgid": "Random number:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "随机数字：",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "4205c7612b",
+  "msgid": "Generate a new random number",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "01c227d681",
+  "msgid": "Map ID:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地图序号："
+ },
+ {
+  "key": "fc1279fd9e",
+  "msgid": "Default",
+  "zh": "",
+  "msgctxt": "map_generator",
+  "note": "* TRANSLATORS: Default Map Generator",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "830b502fa1",
+  "msgid": "Random",
+  "zh": "",
+  "msgctxt": "climate",
+  "note": "* TRANSLATORS: Random Climate",
+  "ui": "ui/editor",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "5049ac8aea",
+  "msgid": "Default",
+  "zh": "",
+  "msgctxt": "terrain",
+  "note": "* TRANSLATORS: Default Terrain Distribution",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "0354035635",
+  "msgid": "Alpine",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "高山的"
+ },
+ {
+  "key": "37cbed5052",
+  "msgid": "Atoll",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "环礁岛"
+ },
+ {
+  "key": "5a762d7e65",
+  "msgid": "Random",
+  "zh": "",
+  "msgctxt": "terrain",
+  "note": "* TRANSLATORS: Random Terrain Distribution",
+  "ui": "ui/editor",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "48bc0c7596",
+  "msgid": "Generating random map…",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "创建随机地图......",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "60dfe3250d",
+  "msgid": "Random Map",
+  "zh": "",
+  "note": "* TRANSLATORS: Window title. This is shown after a random map has been | created in the | editor.",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "随机地图",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "05acff55da",
+  "msgid": "The map has been generated. Please double-check the player starting positions to make sure that your carriers won’t drown, or be stuck on an island or on top of a mountain.",
+  "zh": "",
+  "note": "* TRANSLATORS: This is shown after a random map has been created in the | editor. | * TRANSLATORS: You don't need to be literal with your translation, | * TRANSLATORS: as long as the user understands that he needs to check the | player | positions.",
+  "ui": "ui/editor",
+  "current": "地图已经被创建。请双击玩家起始位置以确保你的搬运工没有被淹没，或是被围困在山顶、岛屿之上。",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "68ca812d9f",
+  "msgid": "The map generator could not produce a good-enough map with the provided settings. This map will probably need extensive editing to be playable. Consider creating a new map with different parameters.",
+  "zh": "",
+  "note": "* TRANSLATORS: This is shown after a random map has been created in the | editor. | * TRANSLATORS: You don't need to be literal with your translation, as long | as | * TRANSLATORS: the user understands that the map's quality is pretty poor.",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "8d9693a391",
+  "msgid": "The Widelands Random Map Generator",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "Widelands 随机地图生成器",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "5606dea8eb",
+  "msgid": "This map was generated automatically by the Widelands Random Map Generator.",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "这张地图是由 Widelands 随机地图生成器自动创建的。",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "323ce29ac2",
+  "msgid": "Player",
+  "zh": "",
+  "ui": "ui/editor, ui/game",
+  "current": "玩家",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "21b2c69e9e",
+  "msgid": "Players:",
+  "zh": "",
+  "ui": "ui/editor, ui/shared",
+  "current": "玩家："
+ },
+ {
+  "key": "8fee09aef0",
+  "msgid": "Low",
+  "zh": "",
+  "note": "* TRANSLATORS: Amount of resources in the random map generator in the | editor",
+  "ui": "ui/editor",
+  "current": "低"
+ },
+ {
+  "key": "9568be3d4b",
+  "msgid": "Generate Map",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "创建地图"
+ },
+ {
+  "key": "07df4d60aa",
+  "msgid": "Medium",
+  "zh": "",
+  "note": "* TRANSLATORS: Amount of resources in the random map generator in the | editor",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "中"
+ },
+ {
+  "key": "ac21bea156",
+  "msgid": "High",
+  "zh": "",
+  "note": "* TRANSLATORS: Amount of resources in the random map generator in the | editor",
+  "ui": "ui/editor",
+  "current": "高"
+ },
+ {
+  "key": "98a67d3b6e",
+  "msgid": "Climate",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "气候"
+ },
+ {
+  "key": "6d651dd93b",
+  "msgid": "unnamed",
+  "zh": "",
+  "note": "* TRANSLATORS: A folder that hasn't been given a name yet",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "未命名"
+ },
+ {
+  "key": "659b748d0e",
+  "msgid": "A file or directory with that name already exists.",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "相同名称的文件或目录已存在。",
+  "terms": [
+   "Directory = 目录",
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "03237efe2d",
+  "msgid": "Error Creating Directory!",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": " 创建目录出错！ ",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "eaf9b0eb67",
+  "msgid": "Error while creating directory ‘%s’.",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "创建目录时出错 ‘%s’.",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "3e63a47c04",
+  "msgid": "A file with the name ‘%s’ already exists. Overwrite?",
+  "zh": "",
+  "ui": "ui/editor, ui/game",
+  "current": "文件‘%s’已经存在了，要覆盖吗？",
+  "terms": [
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "eba63f71b7",
+  "msgid": "Saving the map…",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": " 正在保存地图… "
+ },
+ {
+  "key": "337c615720",
+  "msgid": "Map saved",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "地图已保存"
+ },
+ {
+  "key": "8a807100e7",
+  "msgid": "Filename:",
+  "zh": "",
+  "ui": "ui/editor, ui/game, ui/shared",
+  "current": "文件名："
+ },
+ {
+  "key": "868c9c5da5",
+  "msgid": "Make Directory",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "建立目录",
+  "terms": [
+   "Directory = 目录"
+  ]
+ },
+ {
+  "key": "26b7f63d97",
+  "msgid": "This extension is reserved!",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "这个扩展已被保留！"
+ },
+ {
+  "key": "2d9b050eec",
+  "msgid": "Enter Directory Name:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "输入目录名：",
+  "terms": [
+   "Directory = 目录",
+   "Name = 名称",
+   "Name = 玩家名称",
+   "Name = 船名"
+  ]
+ },
+ {
+  "key": "b4aa05c4be",
+  "msgid": "Width",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "宽度"
+ },
+ {
+  "key": "264201e825",
+  "msgid": "Height",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "高度"
+ },
+ {
+  "key": "1da81d539b",
+  "msgid": "Player Options",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "玩家选项",
+  "terms": [
+   "Player = 玩家"
+  ]
+ },
+ {
+  "key": "3241ce6892",
+  "msgid": "Number of players",
+  "zh": "",
+  "ui": "ui/editor, ui/shared",
+  "current": "玩家数量"
+ },
+ {
+  "key": "ebe041e881",
+  "msgid": "Tribe",
+  "zh": "",
+  "note": "* TRANSLATORS: Header for campaign tribe",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "部族"
+ },
+ {
+  "key": "5c0977bd95",
+  "msgid": "Random",
+  "zh": "",
+  "msgctxt": "tribe",
+  "ui": "ui/editor, ui/fsmenu",
+  "current": "随机",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "86f9847bc9",
+  "msgid": "The tribe will be selected at random.",
+  "zh": "",
+  "ui": "ui/editor, ui/fsmenu",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "b00ee71822",
+  "msgid": "Set this player’s starting position",
+  "zh": "",
+  "note": "* TRANSLATORS: Button tooltip in the editor for using a player's starting | position tool",
+  "ui": "ui/editor",
+  "current": "设置这个玩家的起始位置",
+  "terms": [
+   "Player = 玩家"
+  ]
+ }
+]

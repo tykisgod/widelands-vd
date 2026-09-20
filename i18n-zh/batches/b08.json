@@ -1,0 +1,994 @@
+[
+ {
+  "key": "e598b15824",
+  "msgid": "Too Many Players",
+  "zh": "",
+  "note": "* TRANSLATORS: Window title in the editor when a player has selected more | than the | recommended number of players",
+  "ui": "ui/editor",
+  "current": "玩家太多了"
+ },
+ {
+  "key": "7571ca1632",
+  "msgid": "We do not recommend setting more than 8 players except for testing purposes. Are you sure that you want more than 8 players?",
+  "zh": "",
+  "note": "* TRANSLATORS: Info text in editor player menu when a player has selected | more than the | recommended number of players. Choice is made by OK/Abort.",
+  "ui": "ui/editor",
+  "current": "我们不建议设置超过8名玩家，除非出于测试目的。你确定要设置8个以上的玩家吗？"
+ },
+ {
+  "key": "c0bf8d76cb",
+  "msgid": "Do not remind me again",
+  "zh": "",
+  "note": "* TRANSLATORS: Checkbox for: 'We do not recommend setting more than 8 | players except | for testing purposes. Are you sure that you want more than 8 players?'",
+  "ui": "ui/editor",
+  "current": "不要再次提醒我"
+ },
+ {
+  "key": "3576c73066",
+  "msgid": "Abort",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "中止"
+ },
+ {
+  "key": "1edbf58da5",
+  "msgid": "Height Tools Options",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "高度工具选项"
+ },
+ {
+  "key": "0181fed147",
+  "msgid": "Increase/Decrease height by:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "增加/减少高度为："
+ },
+ {
+  "key": "c85a979ccd",
+  "msgid": "Set height to:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "将“高度”设置为："
+ },
+ {
+  "key": "ed852794b4",
+  "msgid": "Pick height from map …",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "eb4cc59bf4",
+  "msgid": "Select the height of a field by clicking on it on the map",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "73f1db5e33",
+  "msgid": "Click on the map to increase, Shift + Click on the map to decrease terrain height",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor change height access keys. *",
+  "ui": "ui/editor",
+  "current": "单击地图可增加地形高度，按住Shift键并单击地图可降低地形高度。",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "dcef478269",
+  "msgid": "Ctrl + Click on the map to set terrain height",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor set height access key. *",
+  "ui": "ui/editor",
+  "current": "按住Ctrl键并单击地图可设置地形高度",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "d6e0854412",
+  "msgid": "Ctrl + Click on the map to set the amount of the selected resource. This will replace already set resources.",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor set rseources access key. *",
+  "ui": "ui/editor",
+  "current": "按住Ctrl键并单击地图以设置所选资源的数量。这将覆盖已设置的资源。",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "234d75be1c",
+  "msgid": "Increase/Decrease amount by:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "增加/减少数量为："
+ },
+ {
+  "key": "c6ab35165b",
+  "msgid": "Set amount to:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "设置数量为："
+ },
+ {
+  "key": "5307194ee3",
+  "msgid": "Pick resource from map …",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "aa354f67c8",
+  "msgid": "Select a resource type by clicking on it on the map",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "ab989a0e1a",
+  "msgid": "Click on the map to increase, Shift + Click on the map to decrease the amount of the selected resource",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor change rseources access keys. *",
+  "ui": "ui/editor",
+  "current": "单击地图可增加所选资源的数量，按住Shift键并单击地图可减少所选资源的数量。",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "777edacecf",
+  "msgid": "Pick …",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "dc7675c531",
+  "msgid": "Random Height Options",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "随机海拔选项",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "dddcaa558f",
+  "msgid": "Minimum height:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "最低海拔"
+ },
+ {
+  "key": "51593a85aa",
+  "msgid": "Maximum height:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "最大海拔"
+ },
+ {
+  "key": "90c9244547",
+  "msgid": "Click on the map to set terrain height to a random value within the specified range",
+  "zh": "",
+  "note": "* TRANSLATORS: Editor random height access key. *",
+  "ui": "ui/editor",
+  "current": "单击地图将地形海拔设置为指定范围内的随机值",
+  "terms": [
+   "Random = 随机",
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "42c3542ecd",
+  "msgid": "Fixed height",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "固定海拔"
+ },
+ {
+  "key": "824748a584",
+  "msgid": "Pick animal from map …",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "151840f4a8",
+  "msgid": "Select an animal type by clicking on it on the map. Hold down Ctrl to select multiple animals.",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "fe08bf6a48",
+  "msgid": "Automatically place the trees which grow best on the terrain",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "6df4987537",
+  "msgid": "Automatic Immovable Placement",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "70b875855c",
+  "msgid": "%1$s %2$s",
+  "zh": "",
+  "note": "* TRANSLATORS: Add-On localized name as header (Add-On internal name in | italics)",
+  "ui": "ui/editor, ui/fsmenu, ui/game",
+  "current": "%1$s %2$s"
+ },
+ {
+  "key": "e91129c7e8",
+  "msgid": "%1$s (removable by e.g. placing roads)",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "ee29e60ad0",
+  "msgid": "%1$s (needs a small building plot)",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "8424d76a4a",
+  "msgid": "%1$s (needs a medium building plot)",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "7e2abd8099",
+  "msgid": "%1$s (needs a big building plot)",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "0055d5dcd1",
+  "msgid": "Pick immovable from map …",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "d30ad7c15e",
+  "msgid": "Select an immovable type by clicking on it on the map. Hold down Ctrl to select multiple immovables.",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "0c3f910a6b",
+  "msgid": "Resize",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "调整大小"
+ },
+ {
+  "key": "86b2af996b",
+  "msgid": "Select the new map size, then click the map to split it at the desired location. When increasing the map size, new columns/rows will be inserted to the east/south of the selected point. When shrinking the map, the desired number of columns/rows will be removed from the east/south of the splitting location.",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "选择新的地图尺寸，然后点击地图将其拆分到所期望位置。增加地图的尺寸时，新的列/行将插入到选定点的东/南。缩小地图尺寸时，所期望的列/行数将从拆分位置的东/南移除。",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "63ce27894c",
+  "msgid": "Pick terrain from map …",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "31eb4ab814",
+  "msgid": "Select a terrain type by clicking on it on the map. Hold down Ctrl to select multiple terrains.",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "09085afe78",
+  "msgid": "Click to restore, Shift + Click to delete, and Ctrl + Click to pin an item.",
+  "zh": "",
+  "note": "* TRANSLATORS: Help tooltip in tool history window",
+  "ui": "ui/editor",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "7ba3d635e4",
+  "msgid": "Tool Size",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "工具大小"
+ },
+ {
+  "key": "0e611ea27d",
+  "msgid": "Size:",
+  "zh": "",
+  "ui": "ui/editor",
+  "current": "尺寸："
+ },
+ {
+  "key": "0da292e0fe",
+  "msgid": "Gaps:",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "1efff2f1dd",
+  "msgid": "Radius of the active tool",
+  "zh": "",
+  "ui": "ui/editor"
+ },
+ {
+  "key": "434da875ff",
+  "msgid": "Amount of random gaps in the tool’s area",
+  "zh": "",
+  "ui": "ui/editor",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "fb961841ce",
+  "msgid": "About Widelands",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "关于Widelands"
+ },
+ {
+  "key": "d02bacb28e",
+  "msgid": "Lua Error",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "Lua错误"
+ },
+ {
+  "key": "dd149371fb",
+  "msgid": "Technical Info",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ee80a209e0",
+  "msgid": "Contact Form",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "联系方式表"
+ },
+ {
+  "key": "254c05b45a",
+  "msgid": "Send message",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "发送消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "3e26d076bb",
+  "msgid": "Send Message",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "发送消息",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "1133fc4870",
+  "msgid": "Send this message now?",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "现在就发送这个消息？",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "4859852707",
+  "msgid": "Unable to submit your enquiry.\nError message:\n%s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "无法提交您的查询。\n错误信息：\n%s",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "7ee3a55798",
+  "msgid": "Sent",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "发送"
+ },
+ {
+  "key": "c08f8a5e3a",
+  "msgid": "Your message has been sent to the Widelands Development Team, and we will respond as soon as we can. Don’t forget to check your website inbox frequently.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "The Widelands Development Team = Widelands 开发团队",
+   "Message = 消息",
+   "Team = 团队"
+  ]
+ },
+ {
+  "key": "1b260f3982",
+  "msgid": "Are you certain that you want to upgrade this %u add-on?",
+  "zh": "",
+  "msgid_plural": "Are you certain that you want to upgrade these %u add-ons?",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "1772d09baf",
+  "msgid": "\n• %1$s (%2$s) by %3$s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "24aa93396a",
+  "msgid": "NOT VERIFIED",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "尚未验证"
+ },
+ {
+  "key": "bffe62864b",
+  "msgid": "verified",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "已验证"
+ },
+ {
+  "key": "b199578fa2",
+  "msgid": "Upgrade All",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "全部升级"
+ },
+ {
+  "key": "a57c7686c3",
+  "msgid": "Not logged in",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "550e792c55",
+  "msgid": "Click to log in. You can then comment and vote on add-ons and upload your own add-ons.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容",
+   "Click = 单击",
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "75a2ab1202",
+  "msgid": "Please log in to upload add-ons",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容",
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "3887e5675c",
+  "msgid": "Please log in to upload content",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "516a303be0",
+  "msgid": "Please log in to send an enquiry",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "ccbd633285",
+  "msgid": "Logged in as %s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ec70b3f0fa",
+  "msgid": "Logged in as %s (admin)",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ebbc4c9fe7",
+  "msgid": "Click to log out",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Click = 单击",
+   "Log = 原木"
+  ]
+ },
+ {
+  "key": "86a8ff5fcb",
+  "msgid": "Please tick the confirmation checkbox to upload add-ons",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "067cd786d9",
+  "msgid": "Please tick the confirmation checkbox to upload content",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ea4c5a82e4",
+  "msgid": "Server Error",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "ade659e571",
+  "msgid": "Unable to connect to the server.\nError message:\n%s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "f2824a5c7b",
+  "msgid": "Wrong Password",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ae0de462b6",
+  "msgid": "The entered username or password is invalid:\n%s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "e34f0db3be",
+  "msgid": "Any",
+  "zh": "",
+  "msgctxt": "quality",
+  "note": "* TRANSLATORS: This is an add-on code quality rating",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "719cbf5a4a",
+  "msgid": "Quality not yet evaluated",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "质量尚未评估"
+ },
+ {
+  "key": "88252a43a8",
+  "msgid": "Poor",
+  "zh": "",
+  "msgctxt": "quality",
+  "note": "* TRANSLATORS: This is an add-on code quality rating",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "38f33e579f",
+  "msgid": "This add-on may cause major glitches and errors.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "这个插件可能会导致重大故障和错误。",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "48e7d56734",
+  "msgid": "Fetching add-ons… (%.1f%%)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "6d5eb1952c",
+  "msgid": "Connecting to the server…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "9f23343d0d",
+  "msgid": "Server Connection Error",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "服务器连接错误",
+  "terms": [
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "ab7347bdcf",
+  "msgid": "a networking bug",
+  "zh": "",
+  "note": "* TRANSLATORS: This will be inserted into the string \"Server Connection | Error <br> by %s\"",
+  "ui": "ui/fsmenu",
+  "current": "网络程序缺陷"
+ },
+ {
+  "key": "85e4b194c4",
+  "msgid": "Unable to fetch the list of available add-ons from the server!<br>Error Message: %s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "不能从服务器获取可用的附件列表！ <br> 错误消息： %s",
+  "terms": [
+   "Message = 消息",
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "a6cbdd26cf",
+  "msgid": "Good",
+  "zh": "",
+  "msgctxt": "quality",
+  "note": "* TRANSLATORS: This is an add-on code quality rating",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "c39d41b2b8",
+  "msgid": "This add-on works as advertised.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "d2c14765b6",
+  "msgid": "Excellent",
+  "zh": "",
+  "msgctxt": "quality",
+  "note": "* TRANSLATORS: This is an add-on code quality rating",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "7a5a197beb",
+  "msgid": "This add-on has been decorated for its remarkably high quality.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "898ab54542",
+  "msgid": "Installed (%u)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "已安装 (%u)"
+ },
+ {
+  "key": "37819831b1",
+  "msgid": "Add-On Manager",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "附件管理器",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "11bf4c78fe",
+  "msgid": "Translations for website maps",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ae57a5a4f5",
+  "msgid": "Upgrade all (%u)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "全部升级 (%u)"
+ },
+ {
+  "key": "b5f9d2e49f",
+  "msgid": "No upgrades are available for your installed add-ons",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "你安装的附加组件没有可用的升级",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "3db7e29dd8",
+  "msgid": "Upgrade the following %u add-on:",
+  "zh": "",
+  "msgid_plural": "Upgrade the following %u add-ons:",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "4a8044ed5b",
+  "msgid": "• %s",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "5be8f3e926",
+  "msgid": "Browse",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "3b6bb42f7e",
+  "msgid": "Browse (%u)",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "浏览 (%u)"
+ },
+ {
+  "key": "e636d1ede8",
+  "msgid": "Website Maps",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "dc709a1eb8",
+  "msgid": "Website Maps (%u)",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "25614afc5d",
+  "msgid": "• ‘%1$s’ requires ‘%2$s’ which could not be found",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "0a3d39fef7",
+  "msgid": "• ‘%1$s’ requires ‘%2$s’ which is disabled",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "cf38d665b4",
+  "msgid": "• ‘%1$s’ requires ‘%2$s’ which is listed below the requiring add-on",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "0423b17dc5",
+  "msgid": "• ‘%1$s’ requires first ‘%2$s’ and then ‘%3$s’, but they are listed in the wrong order",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "df75b1123d",
+  "msgid": "An enabled add-on is defective. No games can be started with the current configuration.\nError message:\n%s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息",
+   "add-on = 附加内容",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "560c49939b",
+  "msgid": "%u Dependency Error",
+  "zh": "",
+  "msgid_plural": "%u Dependency Errors",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "d810d56d84",
+  "msgid": "Add-Ons with dependency errors may work incorrectly or prevent games and maps from loading.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "存在依赖错误的附件可能无法正常工作，或者阻止加载游戏和地图。",
+  "terms": [
+   "add-ons = 附加内容",
+   "Add-Ons = 附加内容"
+  ]
+ },
+ {
+  "key": "582f89d678",
+  "msgid": "The add-on ‘%1$s’ can not be uploaded because its version (%2$s) is not newer than the version present on the server (%3$s).",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "720cb06d31",
+  "msgid": "The add-on ‘%1$s’ can not be uploaded because its category (%2$s) does not match the category of the version present on the server (%3$s).",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "5f5aa10154",
+  "msgid": "Upload",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "b60c13a4e7",
+  "msgid": "Do you really want to upload the add-on ‘%s’ to the server?",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "bab367c2bc",
+  "msgid": "Uploading ‘%s’…",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "ebd9c6637b",
+  "msgid": "%1% / %2%",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "%1%/%2%"
+ },
+ {
+  "key": "7fe940ad1f",
+  "msgid": "‘%s’",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "28cb98471c",
+  "msgid": "The add-on ‘%s’ may not be uploaded to the server because the following filenames contained in the add-on are not allowed:",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "dfc8e8b00d",
+  "msgid": "Filenames may only contain alphanumeric characters (A-Z, a-z, 0-9) and simple punctuation (period, hyphen, and underscore; not multiple periods). Other characters such as whitespace are not permitted. Filenames may not exceed 80 characters.",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "9c5861075d",
+  "msgid": "The add-on ‘%1$s’ could not be uploaded to the server.\n\nError Message:\n%2$s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息",
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "908c2ceb51",
+  "msgid": "The map ‘%1$s’ could not be downloaded from the server.\n\nError Message:\n%2$s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息",
+   "Server = 服务器"
+  ]
+ },
+ {
+  "key": "f14e5d2d29",
+  "msgid": "Downloading ‘%s’…",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "正在下载 ‘%s’…"
+ },
+ {
+  "key": "c0f4ce486e",
+  "msgid": "The translations for the add-on ‘%1$s’ could not be downloaded from the server. Installing/upgrading the translations will be skipped.\n\nError Message:\n%2$s",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "terms": [
+   "Message = 消息",
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ },
+ {
+  "key": "78eef08820",
+  "msgid": "Website Maps Translations",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "21c43828b6",
+  "msgid": "Downloading website maps translations…",
+  "zh": "",
+  "ui": "ui/fsmenu"
+ },
+ {
+  "key": "50c506f208",
+  "msgid": "The required add-on ‘%s’ could not be found on the server.",
+  "zh": "",
+  "ui": "ui/fsmenu",
+  "current": "在服务器上找不到所需的附加组件 ‘%s’ 。",
+  "terms": [
+   "add-on = 附加内容",
+   "Server = 服务器",
+   "Add-On = 附加内容"
+  ]
+ }
+]
