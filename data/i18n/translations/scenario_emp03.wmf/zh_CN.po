@@ -17,212 +17,212 @@ msgstr ""
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:45
 msgid "Build your first outpost"
-msgstr ""
+msgstr "建造你的第一座前哨"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:47
 msgid "First Outpost"
-msgstr ""
+msgstr "第一座前哨"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:48
 msgid ""
 "Build an outpost at the yellow house symbol to the east of your provisional "
 "headquarters."
-msgstr ""
+msgstr "在临时总部东边那个黄色房屋标记处建一座前哨。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:54
 msgid "Build a quarry"
-msgstr ""
+msgstr "建造一座采石场"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:56
 msgid "Quarry"
-msgstr ""
+msgstr "采石场"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:57
 msgid ""
 "Build a quarry close to the abundant rocks to free some building plots and "
 "get some valuable resources."
-msgstr ""
+msgstr "在岩石密集处附近建一座采石场，腾出些建造地块，顺便取得一些宝贵资源。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:63
 msgid "Build a lumberjack’s house, a sawmill and a stonemason’s house"
-msgstr ""
+msgstr "建造一座伐木工之屋、一座锯木厂和一座石匠之屋"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:65
 msgid "Lumberjack, Sawmill and Stonemason"
-msgstr ""
+msgstr "伐木工、锯木厂与石匠"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:66
 msgid ""
 "Build a lumberjack’s house, a sawmill and a stonemason’s house as soon as "
 "there is enough space for them. This will complete the basic building "
 "material supply chain."
-msgstr ""
+msgstr "一旦有了足够的地方，就建造一座伐木工之屋、一座锯木厂和一座石匠之屋。这样基础建材的供应链就完整了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:72
 msgid "Lower the demand for marble columns to 4"
-msgstr ""
+msgstr "把大理石柱的需求量降到 4"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:74
 msgid "Lower Demand for Marble Columns"
-msgstr ""
+msgstr "降低大理石柱的需求量"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:75
 msgid ""
 "Lower the demand for marble columns in the economy settings to four. This "
 "will help to save some marble for buildings."
-msgstr ""
+msgstr "在经济设置里把大理石柱的需求量降到四。这样能给建筑省下一些大理石。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:76
 msgid ""
 "Remember that you can access the economy settings by clicking on any flag."
-msgstr ""
+msgstr "记住，点击任意一面旗帜就能打开经济设置。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:82
 msgid "Find a port space on the small island"
-msgstr ""
+msgstr "在小岛上找到一处港口位置"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:84
 msgid "Port Space"
-msgstr ""
+msgstr "港口位置"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:85
 msgid "Search for a port space in order to regain access to the sea."
-msgstr ""
+msgstr "寻找一处港口位置，好重新通往大海。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:91
 msgid "Build a port and a shipyard on the Island"
-msgstr ""
+msgstr "在岛上建造一座港口和一座造船厂"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:93
 msgid "Ship Industry"
-msgstr ""
+msgstr "造船产业"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:94
 msgid "Build a port to set sail from this island."
-msgstr ""
+msgstr "建造一座港口，好从这座岛启航。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:95
 msgid "Build a shipyard to produce the ships to sail on."
-msgstr ""
+msgstr "建造一座造船厂，造出可供远航的船只。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:100
 msgid "Produce wheat"
-msgstr ""
+msgstr "生产小麦"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:102
 msgid "Wheat Production"
-msgstr ""
+msgstr "小麦生产"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:103
 msgid ""
 "Produce at least 50 sheaves of wheat to get your wool production started."
-msgstr ""
+msgstr "生产至少 50 捆小麦，好让羊毛生产开张。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:109
 msgid "Produce cloth for building our first ship"
-msgstr ""
+msgstr "生产布料，用来造我们的第一艘船"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:111
 msgid "Cloth Production"
-msgstr ""
+msgstr "布料生产"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:112
 msgid ""
 "Now build a sheep farm and use all the wheat to produce at least 50 bales of"
 " wool. Afterwards use the wool to weave cloth in order to build a ship."
-msgstr ""
+msgstr "现在建一座牧羊场，把小麦全用上，生产至少 50 包羊毛。之后用这些羊毛织出布料，好造一艘船。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:118
 msgid "Build 2 ports on distant islands"
-msgstr ""
+msgstr "在远处的岛上建 2 座港口"
 
 #. TRANSLATORS: Objective - create 2 expeditions and found new colonies with
 #. them
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:121
 msgid "Build two Expedition Ports"
-msgstr ""
+msgstr "建造两座远征港口"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:122
 msgid ""
 "Explore the island in the south. Send an expedition from our port to build a"
 " port there. Afterwards, try to find some mining resources."
-msgstr ""
+msgstr "探索南边那座岛。从我们的港口派出一支远征队，在那里建一座港口。之后设法找一些采矿资源。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:123
 msgid ""
 "Send a ship northwards to gather some intelligence about the Barbarians. Try"
 " to build a port on the island and found an outpost."
-msgstr ""
+msgstr "派一艘船北上，打探蛮族的情报。设法在岛上建一座港口，立一处据点。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:129
 msgid "Produce gold to send out expeditions"
-msgstr ""
+msgstr "生产黄金以派出远征队"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:131
 msgid "Gold Production"
-msgstr ""
+msgstr "黄金生产"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:132
 msgid ""
 "Produce at least six bars of gold to be able to colonize your vicinity."
-msgstr ""
+msgstr "生产至少六块黄金，好在周边建立殖民地。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:138
 msgid "Defeat the Barbarians"
-msgstr ""
+msgstr "击败蛮族"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:140
 msgid "Defeat the Enemy"
-msgstr ""
+msgstr "击败敌人"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:141
 msgid "End the Barbarians’ existence in this part of the world."
-msgstr ""
+msgstr "把蛮族从这一带彻底抹去。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:147
 msgid "Explore further and build ports"
-msgstr ""
+msgstr "继续探索并建造港口"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:149
 msgid "Explore Additional Islands and Search for Port Spaces"
-msgstr ""
+msgstr "探索更多岛屿并寻找港口位置"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:150
 msgid ""
 "Discover more land in your vicinity and build as many ports as you can."
-msgstr ""
+msgstr "发现周边更多土地，并尽可能多地建造港口。"
 
 #. TRANSLATORS: Objective header
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:157
 msgid "Recover the shrine"
-msgstr ""
+msgstr "找回圣龛"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:161
 msgid "Find the Holy Shrine"
-msgstr ""
+msgstr "找到圣龛"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:162
 msgid ""
 "We need to find and secure all six pieces of the holy shrine of Neptune."
-msgstr ""
+msgstr "我们得找齐并守住尼普顿圣龛的全部六块碎片。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:170
 msgid "Build a training infrastructure"
-msgstr ""
+msgstr "建立训练体系"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:172
 msgid "Training Infrastructure"
-msgstr ""
+msgstr "训练体系"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:173
 msgid ""
 "Build a training camp, some barracks and an arena or colosseum to train your"
 " soldiers."
-msgstr ""
+msgstr "建造一座训练营、几座步兵营，以及一座竞技场或角斗场来训练士兵。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:182
 msgid "The Journey Home"
-msgstr ""
+msgstr "归途"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:183
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:195
@@ -231,23 +231,23 @@ msgstr ""
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:622
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:652
 msgid "Diary of Lutius"
-msgstr ""
+msgstr "卢图斯日记"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:185
 msgid ""
 "Finally, we were set towards Fremil again. I couldn’t await the chance to "
 "clear my records of this big defeat by the Barbarians."
-msgstr ""
+msgstr "我们总算再次朝弗雷米尔启程。我迫不及待想洗刷这场被蛮族重创的败绩。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:188
 msgid "But the gods themselves didn’t want us to get home so quickly!"
-msgstr ""
+msgstr "可诸神偏偏不愿让我们这么快到家！"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:194
 msgid "The Wrath of Neptune"
-msgstr ""
+msgstr "尼普顿之怒"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:197
@@ -255,7 +255,7 @@ msgid ""
 "Neptune himself was against us and drove us into a dark, wild storm again. "
 "But this time it felt even worse than last time. The waves were twice the "
 "height of our brave ship and the winds drove us into unsafe waters."
-msgstr ""
+msgstr "尼普顿亲自与我们作对，又一次把我们卷进一场漆黑狂暴的风暴。可这一回比上次还要凶险。浪头有我们那艘勇敢的船两倍高，狂风把我们推进了险恶的海域。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:200
@@ -263,16 +263,16 @@ msgid ""
 "Our ship is heavily damaged. The mast has gone overboard and the hull is "
 "taking in more and more water. We would be glad to survive this black night "
 "with barely more than our lives."
-msgstr ""
+msgstr "我们的船伤得很重。桅杆落进了海里，船身进水越来越多。能在这漆黑的一夜里勉强保住性命，我们就该谢天谢地了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:206
 msgid "Shipwrecked Again"
-msgstr ""
+msgstr "再度沉船"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:209
 msgid "Finally, the wrath of the gods and the ocean seems to be over."
-msgstr ""
+msgstr "诸神与大洋的怒火似乎终于平息了。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:212
@@ -281,36 +281,36 @@ msgid ""
 "palm trees until the sun was risen high up in the sky. I’m afraid that when "
 "we awoke at noon, nobody was really surprised that all we could see was "
 "sand… although the amount of rocks near our camp was astonishing."
-msgstr ""
+msgstr "我们又一次搁浅在陌生的海岸上，在几棵棕榈树的荫凉下睡到日头高挂。恐怕当我们正午醒来时，看见满目黄沙也没谁真觉得意外……不过营地附近岩石之多倒是令人吃惊。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:215
 msgid ""
 "It really seems as if we have landed on a very small island with little "
 "space."
-msgstr ""
+msgstr "看来我们真是落在了一座地方很小的岛上。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:218
 msgid ""
 "To make matters even worse, all the land we can see is blocked by rocks and "
 "trees. I fear we won’t find the resources we need to build a new ship."
-msgstr ""
+msgstr "更糟的是，目力所及的土地全被岩石和树木堵死了。我怕我们找不到造新船所需的资源。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:221
 msgid ""
 "I really don’t know if and how we will get back home. And the war is going "
 "on without us. I hope my fellow soldiers are defending our empire well."
-msgstr ""
+msgstr "我实在不知道我们还能不能回家，又该怎么回去。而战事还在没有我们的情况下继续。但愿我的袍泽们把帝国守得好好的。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:227
 msgid "No Sight"
-msgstr ""
+msgstr "一无所见"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:228
 msgid "Saledus looks around nervously…"
-msgstr ""
+msgstr "塞勒杜斯焦急地环顾四周……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:230
@@ -318,15 +318,15 @@ msgid ""
 "Sire, we do not know anything about the island. And I believe we are not "
 "safe either. It would probably be reasonable to build a tower to explore the"
 " island and add some military strength."
-msgstr ""
+msgstr "陛下，我们对这座岛一无所知。我也不认为我们是安全的。建一座塔楼来探明这座岛、顺便添些军力，大概是明智之举。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:236
 msgid "Amalea Interrupts"
-msgstr ""
+msgstr "亚玛利亚打断道"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:237
 msgid "Amalea raises her hand…"
-msgstr ""
+msgstr "亚玛利亚举起了手……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:239
@@ -334,16 +334,16 @@ msgid ""
 "As we don’t know how many resources we can get, we should be very "
 "restrictive in spending them. Even for military buildings, we should be very"
 " careful."
-msgstr ""
+msgstr "既然还不知道能弄到多少资源，用起来就得非常克制。哪怕是军事建筑，也得格外小心。"
 
 #. TRANSLATORS: Message header - Saledus is advising to save resources
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:246
 msgid "Save Resources"
-msgstr ""
+msgstr "省着用资源"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:247
 msgid "Saledus is nodding in agreement…"
-msgstr ""
+msgstr "塞勒杜斯点头称是……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:249
@@ -351,22 +351,22 @@ msgid ""
 "Sire, Amalea is right about the resources. Therefore I correct myself. We "
 "should only build an outpost as this is the most effective military "
 "building."
-msgstr ""
+msgstr "陛下，资源的事亚玛利亚说得对。所以我改口：我们只建一座前哨，那是最划算的军事建筑。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:257
 msgid "Rocks, Nothing but Rocks"
-msgstr ""
+msgstr "石头，除了石头还是石头"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:258
 msgid "Saledus speaks with a sigh of relief…"
-msgstr ""
+msgstr "塞勒杜斯松了口气说道……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:260
 msgid ""
 "Sire, I saw that the construction of the outpost was completed, so I have "
 "assigned some of my best soldiers to it to keep the watch."
-msgstr ""
+msgstr "陛下，我见前哨已经建成，便派了几名最好的士兵进驻守望。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:263
@@ -375,29 +375,29 @@ msgid ""
 "buildings. The whole island is littered with rocks. How can we ever build a "
 "new ship or even have some basic infrastructure to make our lives more "
 "comfortable?"
-msgstr ""
+msgstr "可尽管这是往前迈了一步，我实在看不出还有多少能盖房子的地方。整座岛都散落着岩石。我们哪还造得出新船，甚至连让日子过得舒坦些的基本设施都建不起来？"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:269
 msgid "Amalea’s Plan"
-msgstr ""
+msgstr "亚玛利亚的计划"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:270
 msgid "Amalea smiles…"
-msgstr ""
+msgstr "亚玛利亚笑了笑……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:272
 msgid ""
 "Lutius, this may seem very tricky, but we can do it. First of all, we need "
 "patience as well as speed and a plan to succeed in this part of the world."
-msgstr ""
+msgstr "卢图斯，这看上去也许很棘手，可我们做得到。首先，在这片天地里要成事，既得有耐心，也得有速度，还得有个章法。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:275
 msgid ""
 "I think we should try to reveal some building space by cutting up all the "
 "rocks in a quarry."
-msgstr ""
+msgstr "我想我们可以试着用采石场把所有岩石都开凿掉，腾出些建造空地来。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:278
@@ -405,51 +405,51 @@ msgid ""
 "Additionally, this would gain us some granite and some marble to build up "
 "our new world. We can use them as soon as there will finally be enough space"
 " for buildings."
-msgstr ""
+msgstr "另外，这还能为我们的新天地攒下一些花岗石和大理石。等终于有足够的地方盖房子时，就派得上用场了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:286
 msgid "Amalea’s New Instructions"
-msgstr ""
+msgstr "亚玛利亚的新指示"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:287
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:361
 msgid "Amalea recommends…"
-msgstr ""
+msgstr "亚玛利亚建议……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:289
 msgid ""
 "Good news from the people, Lutius. I got the message that our first quarry "
 "has started its work today."
-msgstr ""
+msgstr "族人那边有好消息，卢图斯。我收到消息，我们的第一座采石场今天开工了。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:292
 msgid ""
 "Perhaps it would be a good idea to wait until it has cleared some space and "
 "then build up a basic construction material industry."
-msgstr ""
+msgstr "也许该等它清出一些空地，再把基础的建材产业搭起来。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:300
 msgid "Amalea’s Recommendations"
-msgstr ""
+msgstr "亚玛利亚的建议"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:301
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:318
 msgid "Amalea comes in…"
-msgstr ""
+msgstr "亚玛利亚走了进来……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:303
 msgid "I’ve got important things to talk about… First the good news:"
-msgstr ""
+msgstr "我有要紧事要说……先说好消息："
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:306
 msgid ""
 "I noticed that our stonemason has started his work, finally. He will cut the"
 " number of marble columns that we request in our basic economy settings."
-msgstr ""
+msgstr "我注意到我们的石匠总算开工了。他会按经济基础设置里请求的数量凿出大理石柱。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:309
@@ -458,45 +458,45 @@ msgid ""
 " out. So, we should lower the settings for marble columns in the economy "
 "settings to a smaller amount. I think a reserve of four columns might be "
 "sufficient for the moment being."
-msgstr ""
+msgstr "可麻烦就在这儿：要是把大理石全做成柱子，我们可能会用光。所以该在经济设置里把大理石柱的数量调低一些。我看眼下留四根柱子的储备就够了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:317
 msgid "Amalea Looks Happy"
-msgstr ""
+msgstr "亚玛利亚一脸高兴"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:320
 msgid "I have excellent progress to report now."
-msgstr ""
+msgstr "我这就有很不错的进展要报。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:323
 msgid ""
 "I found out that the construction of the lumberjack’s house and the sawmill "
 "is complete, so we can begin to harvest logs and make planks out of them."
-msgstr ""
+msgstr "我查到伐木工之屋和锯木厂都已建成，所以我们可以开始伐取原木、把它们做成厚木板了。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:326
 msgid ""
 "This is a great step forward in constructing advanced buildings. And we can "
 "think of using some planks to build new ships."
-msgstr ""
+msgstr "这对建造更高级的建筑是一大步。而且我们可以考虑用一些厚木板来造新船。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:332
 msgid "We Need a Port"
-msgstr ""
+msgstr "我们需要一座港口"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:333
 msgid "Saledus is thoughtful…"
-msgstr ""
+msgstr "塞勒杜斯陷入沉思……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:335
 msgid ""
 "Sire, I just pondered our way home. It is of utmost importance to build a "
 "port for loading our ships and starting an expedition."
-msgstr ""
+msgstr "陛下，我刚在琢磨回家的路。建一座港口来装船、发起远征，是重中之重。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:338
@@ -505,15 +505,15 @@ msgid ""
 " be built. So, while building our economy, we should nevertheless expand "
 "further to discover the whole island. Let’s try to find such a valuable "
 "construction site."
-msgstr ""
+msgstr "麻烦在于，港口这种建筑需要极特殊的位置才能建。所以在发展经济的同时，我们还是得继续扩张，把整座岛探明。咱们去找找这么一块宝贵的建造地点吧。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:346
 msgid "A Step Closer to Getting Home"
-msgstr ""
+msgstr "离回家又近了一步"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:347
 msgid "Saledus looks excited…"
-msgstr ""
+msgstr "塞勒杜斯显得很兴奋……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:349
@@ -521,25 +521,25 @@ msgid ""
 "Sire, today we got a lot closer to finally returning home again. Our "
 "military has spotted a space to build a port on. We should start to build a "
 "port quickly."
-msgstr ""
+msgstr "陛下，今天我们离最终回家又近了一大步。我们的军队发现了一处可以建港口的地方。该赶紧把港口建起来了。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:352
 msgid ""
 "Now we truly can look forward to building some ships. So, we should build a "
 "shipyard as well."
-msgstr ""
+msgstr "现在真可以指望造船了。所以造船厂也该一并建起来。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:360
 msgid "Amalea’s Wisdom"
-msgstr ""
+msgstr "亚玛利亚的明智之言"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:363
 msgid ""
 "I understand the euphoria of Saledus, but we have some serious problems to "
 "solve first."
-msgstr ""
+msgstr "塞勒杜斯的兴头我理解，可我们得先解决几个要紧的问题。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:366
@@ -547,7 +547,7 @@ msgid ""
 "To send out an expeditionary ship, we first need a ship. Unfortunately, we "
 "have only five bales of cloth left, which we will need to build the port and"
 " the shipyard."
-msgstr ""
+msgstr "要派出远征船，首先得有船。可惜我们只剩五包布料，而这些都得用来建港口和造船厂。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:369
@@ -555,7 +555,7 @@ msgid ""
 "So, we need more cloth to finally be able to build ships. But there is no "
 "space on the island for building a whole economy to produce cloth. "
 "Therefore, we need to build the necessary wares step by step."
-msgstr ""
+msgstr "所以要真能造船，还得有更多布料。可这座岛上没有地方摆下一整套产布的经济。因此我们只能一步一步地把所需的物品做出来。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:372
@@ -563,7 +563,7 @@ msgid ""
 "So, let’s think this over. To weave cloth we need some wool from a sheep "
 "farm. The sheep farm itself needs wheat and water to work. So, let’s find a "
 "space for a big building and build a farm first."
-msgstr ""
+msgstr "那就来捋一捋。要织布，得有牧羊场产的羊毛。牧羊场本身运转又要小麦和水。所以先找一块能放大型建筑的地方，把农场建起来。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:375
@@ -573,7 +573,7 @@ msgid ""
 "find or free up space for a medium building to build a weaving mill to use "
 "our wool for weaving cloth. But for the moment being, let’s start by "
 "producing a reasonable amount of wheat."
-msgstr ""
+msgstr "等产出足够的小麦，我们就把农场拆掉，改建牧羊场来产羊毛。牧羊场一开工，我们就能找出或腾出一块中型建筑的地方，建一座织坊，用羊毛织布。不过眼下先从产出足量的小麦开始。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:378
@@ -581,31 +581,31 @@ msgid ""
 "I think a stock of 50 sheaves of wheat would be enough for starters. We do "
 "not have a target quantity for wheat, because the farmer does not need other"
 " wares to produce it. All we have to do is watch our stock of wheat grow."
-msgstr ""
+msgstr "我看备下 50 捆小麦，开头就够了。小麦没有设期望储备量，因为农夫产它并不需要别的物品。我们只要看着小麦的库存往上涨就行。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:386
 msgid "Seafaring is Possible Again"
-msgstr ""
+msgstr "又能出海了"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:389
 msgid "Praise the gods. We finally have a ship industry."
-msgstr ""
+msgstr "赞美诸神。我们总算有了造船的产业。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:395
 msgid "Amalea is Proud"
-msgstr ""
+msgstr "亚玛利亚很自豪"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:396
 msgid "Amalea cheers…"
-msgstr ""
+msgstr "亚玛利亚欢呼道……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:398
 msgid ""
 "Well done so far. We have produced enough wheat. Now dismantle the farm and "
 "build the next building in the production chain."
-msgstr ""
+msgstr "目前干得不错。小麦我们产够了。现在把农场拆掉，建生产链上的下一座建筑。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:401
@@ -613,30 +613,30 @@ msgid ""
 "Don’t forget to check the target quantity of wool and cloth in the economy "
 "settings. We need to turn all the wheat into wool and then the all the wool "
 "into cloth."
-msgstr ""
+msgstr "别忘了在经济设置里查看羊毛和布料的期望储备量。我们要把小麦全变成羊毛，再把羊毛全变成布料。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:404
 msgid ""
 "Perhaps it would be a good idea to stop the shipyard’s production until we "
 "have some cloth available in order to not waste any logs or planks."
-msgstr ""
+msgstr "在有布料可用之前，也许该先把造船厂停掉，免得白白耗掉原木和厚木板。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:412
 msgid "We Should Explore the Islands"
-msgstr ""
+msgstr "我们该去探一探那些岛"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:413
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:459
 msgid "Saledus is excited…"
-msgstr ""
+msgstr "塞勒杜斯很振奋……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:415
 msgid ""
 "Now that we have all resources ready for building a ship, we should explore "
 "the surrounding islands."
-msgstr ""
+msgstr "既然造船所需的资源都齐了，我们该去探一探周围的岛屿。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:418
@@ -644,12 +644,12 @@ msgid ""
 "First, we need to find some more resources to back up our growing economy. I"
 " have spotted an island with some mountains in the south. Perhaps we can "
 "find some valuable resources like iron there."
-msgstr ""
+msgstr "首先，我们得再找些资源来支撑日渐壮大的经济。我在南边发现了一座有山的岛。说不定能在那里找到铁这样宝贵的资源。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:421
 msgid "But the following objective is even more important:"
-msgstr ""
+msgstr "不过接下来这个目标更要紧："
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:424
@@ -657,7 +657,7 @@ msgid ""
 "I think I have heard the wind carrying some weird but well known sounds from"
 " the north. If I’m not totally wrong, I have heard some Barbarian war drums."
 " So, we should better go and have a look at what is going on up there."
-msgstr ""
+msgstr "我好像听见风从北边捎来一些古怪却又熟悉的声响。要是我没听岔，那是蛮族的战鼓。所以我们最好过去看看那边在闹什么名堂。"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:427
@@ -665,15 +665,15 @@ msgid ""
 "In any case we should be careful with our ports. To defend them against "
 "possible enemies we should send some soldiers to each new port, until we can"
 " protect them with some military buildings."
-msgstr ""
+msgstr "无论如何，港口都得当心。为了防备可能的敌人，在能用军事建筑护住它们之前，每座新港口都该派些士兵过去。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:435
 msgid "Amalea Advises"
-msgstr ""
+msgstr "亚玛利亚进言"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:436
 msgid "Amalea looks thoughtful…"
-msgstr ""
+msgstr "亚玛利亚若有所思……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:438
@@ -681,13 +681,13 @@ msgid ""
 "Salve Lutius. While talking to all our brave builders, they told me that "
 "they have to use all our remaining gold for building the port. So, we won’t "
 "have any gold left after our port is built."
-msgstr ""
+msgstr "你好，卢图斯。我跟我们那些能干的建筑工聊过，他们说建港口得把剩下的黄金全用上。所以港口建成之后，我们就一块黄金都不剩了。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:441
 msgid ""
 "But the problem is that for sending out an expedition, we need some gold."
-msgstr ""
+msgstr "可麻烦在于，要派出远征队，得有黄金。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:444
@@ -695,7 +695,7 @@ msgid ""
 "Fortunately, I spotted a mountain which looks very promising and seems to "
 "have some mining resources. Perhaps we should send some geologists to "
 "explore the hidden resources."
-msgstr ""
+msgstr "所幸我看中了一座很有指望的山，那里似乎藏着一些可开采的资源。也许该派几名地质专家去把藏着的资源探明。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:447
@@ -703,7 +703,7 @@ msgid ""
 "I strongly recommend building a production chain for mining and melting some"
 " gold. I think we need a vineyard, a winery, a tavern, a fisher’s house or a"
 " hunter’s house and a smelting works. And the mines themselves of course."
-msgstr ""
+msgstr "我强烈建议搭起一条采金炼金的生产链。我想我们需要一座葡萄园、一座葡萄酒酿造厂、一座小酒馆、一座渔夫之屋或猎人小屋，还有一座冶炼厂。当然，矿场本身也少不了。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:450
@@ -712,30 +712,30 @@ msgid ""
 "think about all we have learned so far. We can cut down all the rocks. We "
 "should perhaps optimize our roads to free up some building sites, or even "
 "dismantle some military buildings to obtain more space for our economy."
-msgstr ""
+msgstr "要是这些建筑一时建不齐，就该把我们一路学到的东西都想一遍。岩石都可以凿掉。也许该优化一下道路，腾出些建造地点，甚至拆掉几座军事建筑，给经济让出更多地方。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:458
 msgid "We Should Conquer All the Islands"
-msgstr ""
+msgstr "我们该拿下所有岛屿"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:461
 msgid "Now it is time to conquer the islands."
-msgstr ""
+msgstr "是时候拿下这些岛屿了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:463
 msgid ""
 "Let’s finish the Barbarians off and provide a nice colony to the caesar of "
 "our empire."
-msgstr ""
+msgstr "把蛮族收拾干净，为我们帝国的恺撒献上一片漂亮的殖民地。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:471
 msgid "Amalea’s Luck"
-msgstr ""
+msgstr "亚玛利亚的好运"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:472
 msgid "Amalea is really proud of the achievements…"
-msgstr ""
+msgstr "亚玛利亚为这些成果深感自豪……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:474
@@ -743,22 +743,22 @@ msgid ""
 "Lutius, we have just solved another problem. We managed to melt enough gold "
 "to send out at least three expeditions. Perhaps we might even keep some gold"
 " to make some jewelry."
-msgstr ""
+msgstr "卢图斯，我们又解决了一个问题。我们炼出的黄金足够派出至少三支远征队了。说不定还能留下一点打些首饰。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:477
 msgid ""
 "I’m just kidding. Of course we should spare as much gold as we can for "
 "building an arena and other buildings to train our soldiers."
-msgstr ""
+msgstr "我开玩笑的。当然，黄金能省则省，要留着建竞技场和别的训练士兵的建筑。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:483
 msgid "Amalea is Pleased"
-msgstr ""
+msgstr "亚玛利亚很满意"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:484
 msgid "Amalea is content that we will manage all our challenges"
-msgstr ""
+msgstr "亚玛利亚相信我们能应付所有难关"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:486
@@ -767,7 +767,7 @@ msgid ""
 " really think we will need this economy feature quite often to adjust our "
 "economy. Remember, our industry will only be working until the given amount "
 "in the economy settings is reached."
-msgstr ""
+msgstr "目前干得不错。现在我们不会再生产多余的大理石柱了。我真觉得这项经济功能今后会经常用来调整我们的经济。记住，我们的产业只会一直干到经济设置里给定的数量为止。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:489
@@ -775,15 +775,15 @@ msgid ""
 "For example, it might be a good idea to produce a reasonable amount of a "
 "ware and afterwards dismantle the building to gain space for another "
 "building."
-msgstr ""
+msgstr "举例来说，先产出合适数量的某种物品，随后把建筑拆掉给别的建筑腾地方，也许是个好主意。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:495
 msgid "Amalea’s Reminder"
-msgstr ""
+msgstr "亚玛利亚的提醒"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:496
 msgid "Amalea is shaking her head…"
-msgstr ""
+msgstr "亚玛利亚摇了摇头……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:498
@@ -791,7 +791,7 @@ msgid ""
 "Lutius. I really appreciate that you and Saledus are so concerned about our "
 "security. But I think we could use the little space on this island better "
 "than by building a lot of military buildings."
-msgstr ""
+msgstr "卢图斯。你和塞勒杜斯这么挂心我们的安危，我很领情。可我觉得，这座岛上那点地方，比起盖一大堆军事建筑，还有更好的用法。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:501
@@ -800,50 +800,50 @@ msgid ""
 " buildings. I don’t think there is much danger on this island, but if you "
 "want to be cautious, you can keep some sentries or blockhouses near the "
 "coastline."
-msgstr ""
+msgstr "我强烈建议把它们大部分拆掉，好腾出地方建产业建筑。我不觉得这座岛上有多大危险；不过你要是想稳妥些，可以在海岸线附近留几座岗哨或木质碉堡。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:504
 msgid "But be careful not to waste any bigger building spots."
-msgstr ""
+msgstr "但千万别糟蹋了那些能放大型建筑的地块。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:510
 msgid "Amalea’s Excited"
-msgstr ""
+msgstr "亚玛利亚很兴奋"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:511
 msgid "Amalea is looking forward to the exploration…"
-msgstr ""
+msgstr "亚玛利亚很期待这次探索……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:513
 msgid ""
 "Lutius. We have made so much progress so far. I am glad to hear that we have"
 " many ships now."
-msgstr ""
+msgstr "卢图斯。我们到现在已经有了很大进展。听说我们现在船不少了，我很高兴。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:516
 msgid ""
 "Now that our fleet is growing and growing we should discover the complete "
 "region. Let’s try to find more land and eventually get more resources."
-msgstr ""
+msgstr "既然船队越来越大，我们该把整片海域都探明。设法找到更多陆地，说不定还能得到更多资源。"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:519
 msgid ""
 "It would be especially helpful to find more marble, either within fields of "
 "rock or in the mountains to mine it."
-msgstr ""
+msgstr "要是能找到更多大理石就太好了，不管是在成片的岩石里，还是在山里可以开采的。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:527
 msgid "Amalea is Very Content"
-msgstr ""
+msgstr "亚玛利亚非常满意"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:528
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:537
 msgid "Amalea is clapping her hands…"
-msgstr ""
+msgstr "亚玛利亚拍起手来……"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:530
@@ -851,11 +851,11 @@ msgid ""
 "Lutius. Well done. Well done. We have discovered all possible port locations"
 " in the complete region. Now we can strengthen our economy and we will "
 "manage to sail home soon."
-msgstr ""
+msgstr "卢图斯。干得好，干得好。整片海域里所有可能的港口位置我们都已经找出来了。现在可以把经济做强，很快就能扬帆回家了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:536
 msgid "Amalea’s Counsel"
-msgstr ""
+msgstr "亚玛利亚的忠告"
 
 #. TRANSLATORS: Amalea
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:539
@@ -863,14 +863,14 @@ msgid ""
 "Salve Lutius. We just completed our weaving mill. Now we are very close to "
 "taking to the sea again. However, I thought it would be helpful to remind "
 "you that ship production is not the only industry that needs cloth."
-msgstr ""
+msgstr "你好，卢图斯。我们的织坊刚刚建成。现在离再度出海已经很近了。不过我想提醒你一句：需要布料的产业不止造船这一项。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:541
 msgid ""
 "We need some cloth as well for producing armor in our armor smithy. We need "
 "it to build some of the training buildings for our soldiers. And most "
 "important and most imminent of all, we need it to send out expeditions."
-msgstr ""
+msgstr "盔甲铺里造盔甲也要布料。给士兵建几座训练建筑同样要用。而最要紧、最迫在眉睫的是，派出远征队也得用它。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:543
 msgid ""
@@ -879,90 +879,90 @@ msgid ""
 "expeditions at least. As one expedition needs three bales of cloth, I think "
 "a reserve of six to nine bales giving us two to three expeditions would be "
 "sufficient."
-msgstr ""
+msgstr "所以我真心建议时常查看布料库存，确保至少留够派出几支远征队的量。一次远征要三包布料，我看留六到九包、够派两三次远征，也就差不多了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:549
 msgid "Victory is Ours"
-msgstr ""
+msgstr "胜利属于我们"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:550
 msgid "Saledus is cheering…"
-msgstr ""
+msgstr "塞勒杜斯欢呼道……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:552
 msgid ""
 "Sire, finally we have defeated the Barbarians in this region. And "
 "furthermore, we have built a nice colony for our empire."
-msgstr ""
+msgstr "陛下，我们终于在这一带击败了蛮族。而且还为帝国建起了一片漂亮的殖民地。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:554
 msgid "The king will be very pleased with our victory."
-msgstr ""
+msgstr "国王会为我们的胜利感到十分欣慰。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:560
 msgid "Pleasing Neptune"
-msgstr ""
+msgstr "取悦尼普顿"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:561
 msgid "Saledus is Very Sad and Anxious…"
-msgstr ""
+msgstr "塞勒杜斯又难过又不安……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:563
 msgid ""
 "Sire, we are making good progress towards getting home eventually. But there"
 " is one thing I need to talk about:"
-msgstr ""
+msgstr "陛下，我们朝着最终回家的方向进展不错。不过有一件事我得说说："
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:565
 msgid ""
 "As we have seen on our journeys, it is of great importance to put the gods "
 "and especially Neptune in a good mood to safeguard our journey."
-msgstr ""
+msgstr "我们一路上都见识过，让诸神、尤其是让尼普顿高兴，对护佑航程至关重要。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:567
 msgid ""
 "Unfortunately, we lost our holy shrine of Neptune in the great storm, so we "
 "can’t worship him well. I think we should search the whole region to see if "
 "we can recover all six pieces of the shrine."
-msgstr ""
+msgstr "可惜那场大风暴里我们弄丢了尼普顿的圣龛，没法好好敬奉他。我想我们该把整片海域搜一遍，看能不能把圣龛的六块碎片都找回来。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:569
 msgid ""
 "To ease the search, I have crafted some models of the pieces as you can see."
 " You can give them to our soldiers and sailors to look for them."
-msgstr ""
+msgstr "为了方便寻找，我照你看到的样子做了几个碎片的模型。你可以把它们交给士兵和水手，让他们照着找。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:577
 msgid "Praise, Praise, Praise"
-msgstr ""
+msgstr "赞美，赞美，再赞美"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:578
 msgid "Saledus is happily worshipping…"
-msgstr ""
+msgstr "塞勒杜斯欣喜地敬拜着……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:580
 msgid ""
 "Sire, we recovered the holy shrine of Neptune. Now we can seek his "
 "protection for our journey."
-msgstr ""
+msgstr "陛下，尼普顿的圣龛我们找回来了。现在可以求他护佑我们的航程了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:582
 msgid ""
 "Oh great Neptune, safeguard our journey! Oh great Neptune, let the winds be "
 "friendly to our course! Oh great Neptune, save us from the creatures of the "
 "sea! Oh great Neptune, …"
-msgstr ""
+msgstr "伟大的尼普顿啊，护佑我们的航程！伟大的尼普顿啊，让风向对我们的航线和善些！伟大的尼普顿啊，救我们脱离海中的怪物！伟大的尼普顿啊……"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:588
 msgid "Unpleasant Discoveries"
-msgstr ""
+msgstr "不祥的发现"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:589
 msgid "Saledus looks very worried…"
-msgstr ""
+msgstr "塞勒杜斯显得非常担忧……"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:591
@@ -970,15 +970,15 @@ msgid ""
 "Sire, we found the ruins of a former Barbarian fortress and village. I’m "
 "somewhat worried that we will have to fight against them before we are ready"
 " to do so."
-msgstr ""
+msgstr "陛下，我们发现了一座从前的蛮族要塞和村落的废墟。我有点担心，我们还没准备好就得跟他们交手了。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:597
 msgid "Train Faster, Train Harder"
-msgstr ""
+msgstr "练得更快，练得更狠"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:598
 msgid "Saledus is demanding some discipline"
-msgstr ""
+msgstr "塞勒杜斯要求严加操练"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:600
@@ -986,21 +986,21 @@ msgid ""
 "Sire, we have all buildings available for training our soldiers, but we "
 "should increase our efforts to train them to the highest level and to train "
 "more of them."
-msgstr ""
+msgstr "陛下，训练士兵所需的建筑我们都有了，可还得加把劲，把他们练到最高等级，而且要练出更多人。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:602
 msgid ""
 "We need a lot of food, a lot of iron and a lot of gold to do so. So, we have"
 " lots of challenges to cope with."
-msgstr ""
+msgstr "为此我们需要大量食物、大量铁和大量黄金。所以要应付的难题还多着呢。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:608
 msgid "Training Infrastructure is Needed"
-msgstr ""
+msgstr "需要建立训练体系"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:609
 msgid "Saledus has security concerns"
-msgstr ""
+msgstr "塞勒杜斯为安全忧心"
 
 #. TRANSLATORS: Saledus
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:611
@@ -1008,18 +1008,18 @@ msgid ""
 "Sire, we need to train some of our people to serve in your great army. It is"
 " important to increase the number of our soldiers as fast as we can. And we "
 "should train them well to improve their fighting abilities."
-msgstr ""
+msgstr "陛下，我们得训练一些族人，让他们进入你的大军效力。尽快扩充士兵人数至关重要。而且要把他们练好，提升战力。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:613
 msgid ""
 "Therefore, we need to build a full training infrastructure despite the "
 "limited space available. We need some barracks, a training camp and an arena"
 " or a colosseum."
-msgstr ""
+msgstr "因此，尽管地方有限，我们还是得建起一整套训练体系。我们需要几座步兵营、一座训练营，以及一座竞技场或角斗场。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:621
 msgid "Time to get Home Again"
-msgstr ""
+msgstr "该回家了"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:624
@@ -1027,42 +1027,42 @@ msgid ""
 "Yes my fellow soldiers, we have done it! We have met all the challenges that"
 " were put in front of us. But my heart is still with our home. We shall set "
 "sail as soon as possible to help defend the Empire from the Barbarian tribe."
-msgstr ""
+msgstr "是的，我的袍泽们，我们做到了！横在面前的难关我们全闯过来了。可我的心仍系着家乡。我们要尽快扬帆，去帮着守住帝国，挡住那个蛮族部族。"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:625
 msgid "Victory"
-msgstr ""
+msgstr "胜利"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:626
 msgid ""
 "You have completed this mission. You may continue playing if you wish, "
 "otherwise move on to the next mission."
-msgstr ""
+msgstr "你已完成本关。如果愿意，可以继续游玩，否则就进入下一关吧。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:637
 msgid "Finally, we have discovered a piece of our shrine. Praise Neptune!"
-msgstr ""
+msgstr "我们总算发现了圣龛的一块碎片。赞美尼普顿！"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:640
 msgid "We have discovered another piece of our shrine. Praise Neptune!"
-msgstr ""
+msgstr "我们又发现了圣龛的一块碎片。赞美尼普顿！"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:645
 #, lua-format
 msgid "We still need to discover %d piece of our shrine."
 msgid_plural "We still need to discover %d pieces of our shrine."
-msgstr[0] ""
+msgstr[0] "我们还需要找到圣龛的 %d 块碎片。"
 
 #. TRANSLATORS: Lutius - Diary
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:648
 msgid ""
 "Finally, we have discovered the last piece of our shrine. Now we can "
 "reassemble it to worship our god. Praise Neptune!"
-msgstr ""
+msgstr "我们总算发现了圣龛的最后一块碎片。现在可以把它重新拼起来敬奉我们的神了。赞美尼普顿！"
 
 #: ../../../../data/campaigns/emp03.wmf/scripting/texts.lua:651
 msgid "Artifact Found"
-msgstr ""
+msgstr "找到远古遗物"

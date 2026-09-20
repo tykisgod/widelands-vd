@@ -1,0 +1,1290 @@
+[
+ {
+  "key": "b6d163a061",
+  "msgid": "Produce wheat",
+  "zh": ""
+ },
+ {
+  "key": "df5e055dbf",
+  "msgid": "Wheat Production",
+  "zh": ""
+ },
+ {
+  "key": "9929c69721",
+  "msgid": "Produce at least 50 sheaves of wheat to get your wool production started.",
+  "zh": ""
+ },
+ {
+  "key": "e8580a45fc",
+  "msgid": "Produce cloth for building our first ship",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "d8f49f251b",
+  "msgid": "Cloth Production",
+  "zh": ""
+ },
+ {
+  "key": "34c5896630",
+  "msgid": "Now build a sheep farm and use all the wheat to produce at least 50 bales of wool. Afterwards use the wool to weave cloth in order to build a ship.",
+  "zh": "",
+  "terms": [
+   "Sheep = 绵羊",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "8daabe7927",
+  "msgid": "Build 2 ports on distant islands",
+  "zh": ""
+ },
+ {
+  "key": "9bb02badf1",
+  "msgid": "Build two Expedition Ports",
+  "zh": "",
+  "note": "TRANSLATORS: Objective - create 2 expeditions and found new colonies with | them"
+ },
+ {
+  "key": "2497c76592",
+  "msgid": "Explore the island in the south. Send an expedition from our port to build a port there. Afterwards, try to find some mining resources.",
+  "zh": "",
+  "terms": [
+   "mining = 采矿",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "2b5f0ce786",
+  "msgid": "Send a ship northwards to gather some intelligence about the Barbarians. Try to build a port on the island and found an outpost.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Port = 港口",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "9ef0772d7c",
+  "msgid": "Produce gold to send out expeditions",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "7384fdd7ef",
+  "msgid": "Gold Production",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "25953dd1ab",
+  "msgid": "Produce at least six bars of gold to be able to colonize your vicinity.",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "ee347712d6",
+  "msgid": "Defeat the Barbarians",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "7f1ab131b0",
+  "msgid": "Defeat the Enemy",
+  "zh": ""
+ },
+ {
+  "key": "5c59510b58",
+  "msgid": "End the Barbarians’ existence in this part of the world.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "f051993c9f",
+  "msgid": "Explore further and build ports",
+  "zh": ""
+ },
+ {
+  "key": "73cfaa9c8c",
+  "msgid": "Explore Additional Islands and Search for Port Spaces",
+  "zh": "",
+  "terms": [
+   "Port spaces = 港口位置",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "22978666a9",
+  "msgid": "Discover more land in your vicinity and build as many ports as you can.",
+  "zh": ""
+ },
+ {
+  "key": "e83bca6c16",
+  "msgid": "Recover the shrine",
+  "zh": "",
+  "note": "TRANSLATORS: Objective header"
+ },
+ {
+  "key": "8cf57d7b5b",
+  "msgid": "Find the Holy Shrine",
+  "zh": ""
+ },
+ {
+  "key": "ac78dd7118",
+  "msgid": "We need to find and secure all six pieces of the holy shrine of Neptune.",
+  "zh": ""
+ },
+ {
+  "key": "c01fb64389",
+  "msgid": "Build a training infrastructure",
+  "zh": ""
+ },
+ {
+  "key": "6bc846304e",
+  "msgid": "Training Infrastructure",
+  "zh": ""
+ },
+ {
+  "key": "5febc678c3",
+  "msgid": "Build a training camp, some barracks and an arena or colosseum to train your soldiers.",
+  "zh": ""
+ },
+ {
+  "key": "822df0b45e",
+  "msgid": "The Journey Home",
+  "zh": ""
+ },
+ {
+  "key": "2fae5b1993",
+  "msgid": "Diary of Lutius",
+  "zh": ""
+ },
+ {
+  "key": "72a009ae3d",
+  "msgid": "Finally, we were set towards Fremil again. I couldn’t await the chance to clear my records of this big defeat by the Barbarians.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Barbarians = 蛮族"
+  ]
+ },
+ {
+  "key": "c54ef98811",
+  "msgid": "But the gods themselves didn’t want us to get home so quickly!",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "df0f191bb5",
+  "msgid": "The Wrath of Neptune",
+  "zh": ""
+ },
+ {
+  "key": "1064b9ecfc",
+  "msgid": "Neptune himself was against us and drove us into a dark, wild storm again. But this time it felt even worse than last time. The waves were twice the height of our brave ship and the winds drove us into unsafe waters.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "7ae0d61417",
+  "msgid": "Our ship is heavily damaged. The mast has gone overboard and the hull is taking in more and more water. We would be glad to survive this black night with barely more than our lives.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Water = 水",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "7ea3d6ff1d",
+  "msgid": "Shipwrecked Again",
+  "zh": ""
+ },
+ {
+  "key": "8081ac90d2",
+  "msgid": "Finally, the wrath of the gods and the ocean seems to be over.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "fd94f049bf",
+  "msgid": "Again, we stranded on an unknown coast and slept in the shade under some palm trees until the sun was risen high up in the sky. I’m afraid that when we awoke at noon, nobody was really surprised that all we could see was sand… although the amount of rocks near our camp was astonishing.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Palm Trees = 棕榈树",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "fd873e6f58",
+  "msgid": "It really seems as if we have landed on a very small island with little space.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "54898baa08",
+  "msgid": "To make matters even worse, all the land we can see is blocked by rocks and trees. I fear we won’t find the resources we need to build a new ship.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Rocks = 岩石",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "5f26d8c007",
+  "msgid": "I really don’t know if and how we will get back home. And the war is going on without us. I hope my fellow soldiers are defending our empire well.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "9277995722",
+  "msgid": "No Sight",
+  "zh": ""
+ },
+ {
+  "key": "eb2af7bf03",
+  "msgid": "Saledus looks around nervously…",
+  "zh": ""
+ },
+ {
+  "key": "1768923d7d",
+  "msgid": "Sire, we do not know anything about the island. And I believe we are not safe either. It would probably be reasonable to build a tower to explore the island and add some military strength.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "25c6cc762a",
+  "msgid": "Amalea Interrupts",
+  "zh": ""
+ },
+ {
+  "key": "46246f2f3b",
+  "msgid": "Amalea raises her hand…",
+  "zh": ""
+ },
+ {
+  "key": "22d26a6726",
+  "msgid": "As we don’t know how many resources we can get, we should be very restrictive in spending them. Even for military buildings, we should be very careful.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "97e53ac93f",
+  "msgid": "Save Resources",
+  "zh": "",
+  "note": "TRANSLATORS: Message header - Saledus is advising to save resources"
+ },
+ {
+  "key": "88877f5ef8",
+  "msgid": "Saledus is nodding in agreement…",
+  "zh": ""
+ },
+ {
+  "key": "797c7b4e4a",
+  "msgid": "Sire, Amalea is right about the resources. Therefore I correct myself. We should only build an outpost as this is the most effective military building.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "d976bd98fc",
+  "msgid": "Rocks, Nothing but Rocks",
+  "zh": "",
+  "terms": [
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "6fc6e33c81",
+  "msgid": "Saledus speaks with a sigh of relief…",
+  "zh": ""
+ },
+ {
+  "key": "2db6ac3f49",
+  "msgid": "Sire, I saw that the construction of the outpost was completed, so I have assigned some of my best soldiers to it to keep the watch.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "8a39a4795c",
+  "msgid": "But although this is a good step forward, I can’t see much space for buildings. The whole island is littered with rocks. How can we ever build a new ship or even have some basic infrastructure to make our lives more comfortable?",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Buildings = 建筑",
+   "Rocks = 岩石",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "36cf98fc16",
+  "msgid": "Amalea’s Plan",
+  "zh": ""
+ },
+ {
+  "key": "53ef7dff94",
+  "msgid": "Amalea smiles…",
+  "zh": ""
+ },
+ {
+  "key": "8eb383c1dc",
+  "msgid": "Lutius, this may seem very tricky, but we can do it. First of all, we need patience as well as speed and a plan to succeed in this part of the world.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "761030040a",
+  "msgid": "I think we should try to reveal some building space by cutting up all the rocks in a quarry.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Building = 建筑",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "7f87fede75",
+  "msgid": "Additionally, this would gain us some granite and some marble to build up our new world. We can use them as soon as there will finally be enough space for buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Buildings = 建筑",
+   "New World = 新世界"
+  ]
+ },
+ {
+  "key": "5f20f5f21c",
+  "msgid": "Amalea’s New Instructions",
+  "zh": ""
+ },
+ {
+  "key": "6e14b57d93",
+  "msgid": "Amalea recommends…",
+  "zh": ""
+ },
+ {
+  "key": "4c89fb2fea",
+  "msgid": "Good news from the people, Lutius. I got the message that our first quarry has started its work today.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "dfc7d438fa",
+  "msgid": "Perhaps it would be a good idea to wait until it has cleared some space and then build up a basic construction material industry.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "b17d4aee39",
+  "msgid": "Amalea’s Recommendations",
+  "zh": ""
+ },
+ {
+  "key": "06f98e30e3",
+  "msgid": "Amalea comes in…",
+  "zh": ""
+ },
+ {
+  "key": "0337979e9e",
+  "msgid": "I’ve got important things to talk about… First the good news:",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "0220496d81",
+  "msgid": "I noticed that our stonemason has started his work, finally. He will cut the number of marble columns that we request in our basic economy settings.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "926f5bc002",
+  "msgid": "But here’s the rub, if we use up all of our marble for columns, we might run out. So, we should lower the settings for marble columns in the economy settings to a smaller amount. I think a reserve of four columns might be sufficient for the moment being.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "62c453715b",
+  "msgid": "Amalea Looks Happy",
+  "zh": ""
+ },
+ {
+  "key": "d9594a5ab8",
+  "msgid": "I have excellent progress to report now.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "af62d16e90",
+  "msgid": "I found out that the construction of the lumberjack’s house and the sawmill is complete, so we can begin to harvest logs and make planks out of them.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "6a71dbf5cc",
+  "msgid": "This is a great step forward in constructing advanced buildings. And we can think of using some planks to build new ships.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "60fa25d0f6",
+  "msgid": "We Need a Port",
+  "zh": "",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "f9c2bf02f7",
+  "msgid": "Saledus is thoughtful…",
+  "zh": ""
+ },
+ {
+  "key": "eecc3a6825",
+  "msgid": "Sire, I just pondered our way home. It is of utmost importance to build a port for loading our ships and starting an expedition.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "853ed80e92",
+  "msgid": "The problem is that a port is a building which needs a very special place to be built. So, while building our economy, we should nevertheless expand further to discover the whole island. Let’s try to find such a valuable construction site.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Building = 建筑",
+   "Economy = 经济",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "032dfca560",
+  "msgid": "A Step Closer to Getting Home",
+  "zh": ""
+ },
+ {
+  "key": "fb2019efc7",
+  "msgid": "Saledus looks excited…",
+  "zh": ""
+ },
+ {
+  "key": "e8508d18cf",
+  "msgid": "Sire, today we got a lot closer to finally returning home again. Our military has spotted a space to build a port on. We should start to build a port quickly.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "21fecf1943",
+  "msgid": "Now we truly can look forward to building some ships. So, we should build a shipyard as well.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "bc8624c6cc",
+  "msgid": "Amalea’s Wisdom",
+  "zh": ""
+ },
+ {
+  "key": "2b7de3e394",
+  "msgid": "I understand the euphoria of Saledus, but we have some serious problems to solve first.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "b77f99cd11",
+  "msgid": "To send out an expeditionary ship, we first need a ship. Unfortunately, we have only five bales of cloth left, which we will need to build the port and the shipyard.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Port = 港口",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "00b2179618",
+  "msgid": "So, we need more cloth to finally be able to build ships. But there is no space on the island for building a whole economy to produce cloth. Therefore, we need to build the necessary wares step by step.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Building = 建筑",
+   "Economy = 经济",
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "23d5b398f7",
+  "msgid": "So, let’s think this over. To weave cloth we need some wool from a sheep farm. The sheep farm itself needs wheat and water to work. So, let’s find a space for a big building and build a farm first.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Building = 建筑",
+   "Sheep = 绵羊",
+   "Water = 水"
+  ]
+ },
+ {
+  "key": "08d1f74380",
+  "msgid": "After the production of enough wheat, we can dismantle the farm and build a sheep farm to produce wool. When the sheep farm starts working, we could find or free up space for a medium building to build a weaving mill to use our wool for weaving cloth. But for the moment being, let’s start by producing a reasonable amount of wheat.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "weaving cloth = 织布",
+   "Building = 建筑",
+   "weaving = 纺织",
+   "working = 工作",
+   "Sheep = 绵羊"
+  ]
+ },
+ {
+  "key": "d9a6d20382",
+  "msgid": "I think a stock of 50 sheaves of wheat would be enough for starters. We do not have a target quantity for wheat, because the farmer does not need other wares to produce it. All we have to do is watch our stock of wheat grow.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Wares = 物品"
+  ]
+ },
+ {
+  "key": "3866729959",
+  "msgid": "Seafaring is Possible Again",
+  "zh": ""
+ },
+ {
+  "key": "d84ad96931",
+  "msgid": "Praise the gods. We finally have a ship industry.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "4d81fceb27",
+  "msgid": "Amalea is Proud",
+  "zh": ""
+ },
+ {
+  "key": "68641bf0e1",
+  "msgid": "Amalea cheers…",
+  "zh": ""
+ },
+ {
+  "key": "2ed913b7a2",
+  "msgid": "Well done so far. We have produced enough wheat. Now dismantle the farm and build the next building in the production chain.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "e4a1dda86c",
+  "msgid": "Don’t forget to check the target quantity of wool and cloth in the economy settings. We need to turn all the wheat into wool and then the all the wool into cloth.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "53f461943b",
+  "msgid": "Perhaps it would be a good idea to stop the shipyard’s production until we have some cloth available in order to not waste any logs or planks.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "644d9131bb",
+  "msgid": "We Should Explore the Islands",
+  "zh": ""
+ },
+ {
+  "key": "676bf196bd",
+  "msgid": "Saledus is excited…",
+  "zh": ""
+ },
+ {
+  "key": "11b5ab6707",
+  "msgid": "Now that we have all resources ready for building a ship, we should explore the surrounding islands.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Building = 建筑",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "d381df139a",
+  "msgid": "First, we need to find some more resources to back up our growing economy. I have spotted an island with some mountains in the south. Perhaps we can find some valuable resources like iron there.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Economy = 经济",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "2c5d6d2ae3",
+  "msgid": "But the following objective is even more important:",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "6a614609ea",
+  "msgid": "I think I have heard the wind carrying some weird but well known sounds from the north. If I’m not totally wrong, I have heard some Barbarian war drums. So, we should better go and have a look at what is going on up there.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "5acc2d4415",
+  "msgid": "In any case we should be careful with our ports. To defend them against possible enemies we should send some soldiers to each new port, until we can protect them with some military buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Be careful = 注意",
+   "Buildings = 建筑",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "4d92053a3e",
+  "msgid": "Amalea Advises",
+  "zh": ""
+ },
+ {
+  "key": "246571f4b1",
+  "msgid": "Amalea looks thoughtful…",
+  "zh": ""
+ },
+ {
+  "key": "9847f83675",
+  "msgid": "Salve Lutius. While talking to all our brave builders, they told me that they have to use all our remaining gold for building the port. So, we won’t have any gold left after our port is built.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Building = 建筑",
+   "Gold = 黄金",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "524f668d95",
+  "msgid": "But the problem is that for sending out an expedition, we need some gold.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "fa12e6654a",
+  "msgid": "Fortunately, I spotted a mountain which looks very promising and seems to have some mining resources. Perhaps we should send some geologists to explore the hidden resources.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "mining = 采矿"
+  ]
+ },
+ {
+  "key": "ee202c6309",
+  "msgid": "I strongly recommend building a production chain for mining and melting some gold. I think we need a vineyard, a winery, a tavern, a fisher’s house or a hunter’s house and a smelting works. And the mines themselves of course.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Building = 建筑",
+   "mining = 采矿",
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "cc91ccc9a9",
+  "msgid": "Build your first outpost",
+  "zh": ""
+ },
+ {
+  "key": "58353c4221",
+  "msgid": "If there are difficulties with building all the buildings needed, we should think about all we have learned so far. We can cut down all the rocks. We should perhaps optimize our roads to free up some building sites, or even dismantle some military buildings to obtain more space for our economy.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑",
+   "Economy = 经济",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "27bf34ee9b",
+  "msgid": "We Should Conquer All the Islands",
+  "zh": ""
+ },
+ {
+  "key": "892822ec56",
+  "msgid": "Now it is time to conquer the islands.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "2f47b37ebe",
+  "msgid": "Let’s finish the Barbarians off and provide a nice colony to the caesar of our empire.",
+  "zh": "",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "6f1dec1b57",
+  "msgid": "First Outpost",
+  "zh": ""
+ },
+ {
+  "key": "695ce10c85",
+  "msgid": "Amalea’s Luck",
+  "zh": ""
+ },
+ {
+  "key": "b9d30353cb",
+  "msgid": "Amalea is really proud of the achievements…",
+  "zh": ""
+ },
+ {
+  "key": "2a99e6a10c",
+  "msgid": "Lutius, we have just solved another problem. We managed to melt enough gold to send out at least three expeditions. Perhaps we might even keep some gold to make some jewelry.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "4c5ebc0da8",
+  "msgid": "I’m just kidding. Of course we should spare as much gold as we can for building an arena and other buildings to train our soldiers.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑",
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "1faf6d2a31",
+  "msgid": "Build an outpost at the yellow house symbol to the east of your provisional headquarters.",
+  "zh": "",
+  "terms": [
+   "Headquarters = 总部"
+  ]
+ },
+ {
+  "key": "65f0863c94",
+  "msgid": "Amalea is Pleased",
+  "zh": ""
+ },
+ {
+  "key": "6f9b520f6a",
+  "msgid": "Amalea is content that we will manage all our challenges",
+  "zh": ""
+ },
+ {
+  "key": "ced0aa9823",
+  "msgid": "Well done so far. Now we will not produce more marble columns than needed. I really think we will need this economy feature quite often to adjust our economy. Remember, our industry will only be working until the given amount in the economy settings is reached.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Economy = 经济",
+   "working = 工作"
+  ]
+ },
+ {
+  "key": "8e529f99bb",
+  "msgid": "For example, it might be a good idea to produce a reasonable amount of a ware and afterwards dismantle the building to gain space for another building.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "2c4a38b214",
+  "msgid": "Amalea’s Reminder",
+  "zh": ""
+ },
+ {
+  "key": "6acde75f73",
+  "msgid": "Amalea is shaking her head…",
+  "zh": ""
+ },
+ {
+  "key": "08a3eeb92c",
+  "msgid": "Lutius. I really appreciate that you and Saledus are so concerned about our security. But I think we could use the little space on this island better than by building a lot of military buildings.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Buildings = 建筑",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "19ca315f08",
+  "msgid": "I strongly recommend dismantling most of them to be able to build industrial buildings. I don’t think there is much danger on this island, but if you want to be cautious, you can keep some sentries or blockhouses near the coastline.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "d0115dfeed",
+  "msgid": "But be careful not to waste any bigger building spots.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Be careful = 注意",
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "bd35578bec",
+  "msgid": "Amalea’s Excited",
+  "zh": ""
+ },
+ {
+  "key": "637950dd21",
+  "msgid": "Amalea is looking forward to the exploration…",
+  "zh": ""
+ },
+ {
+  "key": "fe82b956c6",
+  "msgid": "Lutius. We have made so much progress so far. I am glad to hear that we have many ships now.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "02fe443cce",
+  "msgid": "Now that our fleet is growing and growing we should discover the complete region. Let’s try to find more land and eventually get more resources.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "e6d1c11c44",
+  "msgid": "It would be especially helpful to find more marble, either within fields of rock or in the mountains to mine it.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea"
+ },
+ {
+  "key": "83fc4b4832",
+  "msgid": "Amalea is Very Content",
+  "zh": ""
+ },
+ {
+  "key": "edd638628d",
+  "msgid": "Amalea is clapping her hands…",
+  "zh": ""
+ },
+ {
+  "key": "0d8815fd86",
+  "msgid": "Lutius. Well done. Well done. We have discovered all possible port locations in the complete region. Now we can strengthen our economy and we will manage to sail home soon.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "Economy = 经济",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "e36ad64cd8",
+  "msgid": "Amalea’s Counsel",
+  "zh": ""
+ },
+ {
+  "key": "9dee2a970d",
+  "msgid": "Salve Lutius. We just completed our weaving mill. Now we are very close to taking to the sea again. However, I thought it would be helpful to remind you that ship production is not the only industry that needs cloth.",
+  "zh": "",
+  "note": "TRANSLATORS: Amalea",
+  "terms": [
+   "weaving = 纺织",
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "f6d4c31004",
+  "msgid": "Build a quarry",
+  "zh": ""
+ },
+ {
+  "key": "906ddb63a7",
+  "msgid": "We need some cloth as well for producing armor in our armor smithy. We need it to build some of the training buildings for our soldiers. And most important and most imminent of all, we need it to send out expeditions.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "8c2ce8d480",
+  "msgid": "Therefore, I really recommend that we check our stock of cloth quite regularly to ensure that we keep enough cloth in reserve to send out some expeditions at least. As one expedition needs three bales of cloth, I think a reserve of six to nine bales giving us two to three expeditions would be sufficient.",
+  "zh": ""
+ },
+ {
+  "key": "2629c89222",
+  "msgid": "Victory is Ours",
+  "zh": ""
+ },
+ {
+  "key": "ced4b92286",
+  "msgid": "Saledus is cheering…",
+  "zh": ""
+ },
+ {
+  "key": "d6bfa67c38",
+  "msgid": "Sire, finally we have defeated the Barbarians in this region. And furthermore, we have built a nice colony for our empire.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Barbarians = 蛮族",
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "50a0e78bea",
+  "msgid": "The king will be very pleased with our victory.",
+  "zh": ""
+ },
+ {
+  "key": "6adbdaa681",
+  "msgid": "Quarry",
+  "zh": ""
+ },
+ {
+  "key": "cf41a7ebad",
+  "msgid": "Pleasing Neptune",
+  "zh": ""
+ },
+ {
+  "key": "6d44ad4f41",
+  "msgid": "Saledus is Very Sad and Anxious…",
+  "zh": ""
+ },
+ {
+  "key": "c42eef7bdf",
+  "msgid": "Sire, we are making good progress towards getting home eventually. But there is one thing I need to talk about:",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "06e647bcc8",
+  "msgid": "As we have seen on our journeys, it is of great importance to put the gods and especially Neptune in a good mood to safeguard our journey.",
+  "zh": ""
+ },
+ {
+  "key": "8a3eb6f9a1",
+  "msgid": "Unfortunately, we lost our holy shrine of Neptune in the great storm, so we can’t worship him well. I think we should search the whole region to see if we can recover all six pieces of the shrine.",
+  "zh": ""
+ },
+ {
+  "key": "9ee592593d",
+  "msgid": "To ease the search, I have crafted some models of the pieces as you can see. You can give them to our soldiers and sailors to look for them.",
+  "zh": ""
+ },
+ {
+  "key": "ba689809a4",
+  "msgid": "Build a quarry close to the abundant rocks to free some building plots and get some valuable resources.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑",
+   "Rocks = 岩石"
+  ]
+ },
+ {
+  "key": "4effc76c3b",
+  "msgid": "Praise, Praise, Praise",
+  "zh": ""
+ },
+ {
+  "key": "c1087426b8",
+  "msgid": "Saledus is happily worshipping…",
+  "zh": ""
+ },
+ {
+  "key": "62b7d89f2f",
+  "msgid": "Sire, we recovered the holy shrine of Neptune. Now we can seek his protection for our journey.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "d329b5508b",
+  "msgid": "Oh great Neptune, safeguard our journey! Oh great Neptune, let the winds be friendly to our course! Oh great Neptune, save us from the creatures of the sea! Oh great Neptune, …",
+  "zh": ""
+ },
+ {
+  "key": "df8361312d",
+  "msgid": "Unpleasant Discoveries",
+  "zh": ""
+ },
+ {
+  "key": "431f2b43f7",
+  "msgid": "Saledus looks very worried…",
+  "zh": ""
+ },
+ {
+  "key": "b5db6f4210",
+  "msgid": "Sire, we found the ruins of a former Barbarian fortress and village. I’m somewhat worried that we will have to fight against them before we are ready to do so.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Village = 村庄"
+  ]
+ },
+ {
+  "key": "56e8a4e744",
+  "msgid": "Train Faster, Train Harder",
+  "zh": ""
+ },
+ {
+  "key": "c1e6c632f8",
+  "msgid": "Saledus is demanding some discipline",
+  "zh": ""
+ },
+ {
+  "key": "770f75c299",
+  "msgid": "Sire, we have all buildings available for training our soldiers, but we should increase our efforts to train them to the highest level and to train more of them.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "a0598ceeee",
+  "msgid": "We need a lot of food, a lot of iron and a lot of gold to do so. So, we have lots of challenges to cope with.",
+  "zh": "",
+  "terms": [
+   "Gold = 黄金",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "a25e59cafe",
+  "msgid": "Training Infrastructure is Needed",
+  "zh": ""
+ },
+ {
+  "key": "e7528d6f83",
+  "msgid": "Saledus has security concerns",
+  "zh": ""
+ },
+ {
+  "key": "fb64858e57",
+  "msgid": "Sire, we need to train some of our people to serve in your great army. It is important to increase the number of our soldiers as fast as we can. And we should train them well to improve their fighting abilities.",
+  "zh": "",
+  "note": "TRANSLATORS: Saledus"
+ },
+ {
+  "key": "e2d03be6d1",
+  "msgid": "Therefore, we need to build a full training infrastructure despite the limited space available. We need some barracks, a training camp and an arena or a colosseum.",
+  "zh": ""
+ },
+ {
+  "key": "07e2cf844e",
+  "msgid": "Time to get Home Again",
+  "zh": ""
+ },
+ {
+  "key": "8c98d58e0b",
+  "msgid": "Yes my fellow soldiers, we have done it! We have met all the challenges that were put in front of us. But my heart is still with our home. We shall set sail as soon as possible to help defend the Empire from the Barbarian tribe.",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary",
+  "terms": [
+   "Empire = 帝国"
+  ]
+ },
+ {
+  "key": "ae6786fdaa",
+  "msgid": "Victory",
+  "zh": ""
+ },
+ {
+  "key": "a167c9ebfe",
+  "msgid": "You have completed this mission. You may continue playing if you wish, otherwise move on to the next mission.",
+  "zh": ""
+ },
+ {
+  "key": "51292ffde2",
+  "msgid": "Build a lumberjack’s house, a sawmill and a stonemason’s house",
+  "zh": ""
+ },
+ {
+  "key": "7685172c65",
+  "msgid": "Finally, we have discovered a piece of our shrine. Praise Neptune!",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "234630f93b",
+  "msgid": "We have discovered another piece of our shrine. Praise Neptune!",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "a6a70ccc04",
+  "msgid": "We still need to discover %d piece of our shrine.",
+  "zh": "",
+  "msgid_plural": "We still need to discover %d pieces of our shrine.",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "0856a784d1",
+  "msgid": "Finally, we have discovered the last piece of our shrine. Now we can reassemble it to worship our god. Praise Neptune!",
+  "zh": "",
+  "note": "TRANSLATORS: Lutius - Diary"
+ },
+ {
+  "key": "d548ce7ee2",
+  "msgid": "Lumberjack, Sawmill and Stonemason",
+  "zh": ""
+ },
+ {
+  "key": "91849e2bcc",
+  "msgid": "Artifact Found",
+  "zh": "",
+  "terms": [
+   "Artifact Found = 找到远古遗物",
+   "Artifact = 远古遗物"
+  ]
+ },
+ {
+  "key": "ae96d2ddb5",
+  "msgid": "Build a lumberjack’s house, a sawmill and a stonemason’s house as soon as there is enough space for them. This will complete the basic building material supply chain.",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "7cc1447968",
+  "msgid": "Lower the demand for marble columns to 4",
+  "zh": ""
+ },
+ {
+  "key": "9329b84a7b",
+  "msgid": "Lower Demand for Marble Columns",
+  "zh": ""
+ },
+ {
+  "key": "f88f943440",
+  "msgid": "Lower the demand for marble columns in the economy settings to four. This will help to save some marble for buildings.",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑",
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "d97d6cbff3",
+  "msgid": "Remember that you can access the economy settings by clicking on any flag.",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "838c604e65",
+  "msgid": "Find a port space on the small island",
+  "zh": "",
+  "terms": [
+   "Port Space = 港口位置",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "190912c2b3",
+  "msgid": "Port Space",
+  "zh": "",
+  "terms": [
+   "Port Space = 港口位置",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "8537b53690",
+  "msgid": "Search for a port space in order to regain access to the sea.",
+  "zh": "",
+  "terms": [
+   "Port Space = 港口位置",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "cf1b46d7c2",
+  "msgid": "Build a port and a shipyard on the Island",
+  "zh": "",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "d7d53d3be1",
+  "msgid": "Ship Industry",
+  "zh": "",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "3d89653f9b",
+  "msgid": "Build a port to set sail from this island.",
+  "zh": "",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "f19fb83009",
+  "msgid": "Build a shipyard to produce the ships to sail on.",
+  "zh": ""
+ }
+]
