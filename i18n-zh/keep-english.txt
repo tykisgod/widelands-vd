@@ -31,3 +31,23 @@ Esc
 
 # --- 网络协议保留值：必须为纯英文，译了会破坏匹配 ---
 nobody
+Shift
+Alt
+Cmd
+GUI
+Ctrl
+Space
+Enter
+Escape
+Tab
+Menu
+Application
+Pause
+Home
+End
+Insert
+Delete
+Backspace
+Caps Lock
+Scroll Lock
+Numpad Lock

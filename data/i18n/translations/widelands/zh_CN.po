@@ -7990,12 +7990,12 @@ msgstr "尝试系统语言"
 #: ../../../../src/ui/fsmenu/options.cc:823
 #, c-format
 msgid "The translation into %s is complete."
-msgstr "%s 的翻译已完成。"
+msgstr "%s的翻译已完成。"
 
 #. * TRANSLATORS: %1% = language name, %2% = percentage
 #: ../../../../src/ui/fsmenu/options.cc:827
 msgid "The translation into %1% is %2%%% complete."
-msgstr "%1% 的翻译已完成 %2%%%。"
+msgstr "%1%的翻译已完成 %2%%%。"
 
 #: ../../../../src/ui/fsmenu/options.cc:839
 #, c-format
@@ -11241,7 +11241,7 @@ msgstr "高流量"
 
 #: ../../../../src/ui/wui/minimap.cc:237
 msgid "Attacks"
-msgstr ""
+msgstr "攻击"
 
 #: ../../../../src/ui/wui/minimap.cc:248
 msgid "Zoom"
@@ -11252,14 +11252,14 @@ msgstr "缩放"
 msgctxt "unit_narrow"
 msgid "%1%d"
 msgid_plural "%1%d"
-msgstr[0] "%1%天"
+msgstr[0] "%1% 天"
 
 #. * TRANSLATORS: hour(s). Keep this as short as possible. Used in statistics.
 #: ../../../../src/ui/wui/plot_area.cc:105
 msgctxt "unit_narrow"
 msgid "%1%h"
 msgid_plural "%1%h"
-msgstr[0] "%1%时"
+msgstr[0] "%1% 时"
 
 #. * TRANSLATORS: minute(s). Keep this as short as possible. Used in
 #. statistics.
@@ -11267,7 +11267,7 @@ msgstr[0] "%1%时"
 msgctxt "unit_narrow"
 msgid "%1%m"
 msgid_plural "%1%m"
-msgstr[0] "%1%分"
+msgstr[0] "%1% 分"
 
 #. * TRANSLATORS: Generic unit label. Used in statistics.
 #: ../../../../src/ui/wui/plot_area.cc:121
@@ -11293,24 +11293,24 @@ msgstr "游戏"
 
 #: ../../../../src/wlapplication.cc:970
 msgid "Widelands could not find the last edited map."
-msgstr ""
+msgstr "Widelands 找不到最近编辑过的地图。"
 
 #: ../../../../src/wlapplication.cc:975
 msgid "No Last Edited Map"
-msgstr ""
+msgstr "没有最近编辑的地图"
 
 #: ../../../../src/wlapplication.cc:1005
 msgid "No last saved replay."
-msgstr ""
+msgstr "没有最近保存的回放。"
 
 #: ../../../../src/wlapplication.cc:1007
 msgid "No last saved game."
-msgstr ""
+msgstr "没有最近保存的存档。"
 
 #: ../../../../src/wlapplication.cc:1017
 #, c-format
 msgid "Widelands could not find the file \"%s\"."
-msgstr "Widelands 找不到文件 \"%s\"。"
+msgstr "Widelands 找不到文件 “%s”。"
 
 #: ../../../../src/wlapplication.cc:1019
 msgid "File system error"
@@ -11319,53 +11319,53 @@ msgstr "文件系统错误"
 #: ../../../../src/wlapplication.cc:1583
 #, c-format
 msgid "Command line parameter --%s can not use a value"
-msgstr ""
+msgstr "命令行参数 --%s 不接受取值"
 
 #: ../../../../src/wlapplication.cc:1588
 #, c-format
 msgid "Empty value of command line parameter --%s"
-msgstr ""
+msgstr "命令行参数 --%s 的值为空"
 
 #: ../../../../src/wlapplication.cc:1594
 #, c-format
 msgid "Command line parameters --%1$s and --%2$s can not be combined"
-msgstr ""
+msgstr "命令行参数 --%1$s 与 --%2$s 不能同时使用"
 
 #: ../../../../src/wlapplication.cc:1780
 #, c-format
 msgid ""
 "Unknown command line parameter: %s\n"
 "Maybe a '=' is missing?"
-msgstr ""
+msgstr "未知的命令行参数：%s\n是不是漏了 '='？"
 
 #: ../../../../src/wlapplication.cc:1799
 #, c-format
 msgid "Non-integer value for command line parameter --messagebox-timeout=%s"
-msgstr ""
+msgstr "命令行参数 --messagebox-timeout=%s 的值不是整数"
 
 #: ../../../../src/wlapplication.cc:1813
 #, c-format
 msgid ""
 "Value is out of range for command line parameter --messagebox-timeout=%s"
-msgstr ""
+msgstr "命令行参数 --messagebox-timeout=%s 的值超出范围"
 
 #: ../../../../src/wlapplication.cc:1881
 #, c-format
 msgid "Non-integer value for command line parameter --difficulty=%s"
-msgstr ""
+msgstr "命令行参数 --difficulty=%s 的值不是整数"
 
 #: ../../../../src/wlapplication.cc:1978
 #, c-format
 msgid "Unknown command line parameter: %s"
-msgstr ""
+msgstr "未知的命令行参数：%s"
 
 #: ../../../../src/wlapplication.cc:2012
 msgid "Incompatible"
-msgstr ""
+msgstr "不兼容"
 
 #: ../../../../src/wlapplication.cc:2052
 msgid "Game ended unexpectedly"
-msgstr ""
+msgstr "游戏意外结束"
 
 #: ../../../../src/wlapplication.cc:2052
 msgid "Unexpected error during the game"
@@ -11383,7 +11383,7 @@ msgid ""
 "Please add this information to your report.\n"
 "\n"
 "Would you like Widelands to attempt to create an emergency savegame? It is often – though not always – possible to load it and continue playing."
-msgstr ""
+msgstr "游戏过程中发生了一个错误，错误信息如下：\n\n%1$s\n\n请报告此问题以帮助我们改进 Widelands。相关信息在标准输出中（Windows 上为 stdout.txt）。你使用的版本是 %2$s。\n\n请将这些信息一并附在报告里。\n\n要让 Widelands 尝试创建一份应急存档吗？这类存档通常（但并非总是）可以载入并继续游戏。"
 
 #: ../../../../src/wlapplication.cc:2064
 #, c-format
@@ -11393,7 +11393,7 @@ msgid ""
 "%s\n"
 "\n"
 "Would you like Widelands to attempt to create an emergency savegame? It is often – though not always – possible to load it and continue playing."
-msgstr ""
+msgstr "游戏因以下原因意外结束：\n\n%s\n\n要让 Widelands 尝试创建一份应急存档吗？这类存档通常（但并非总是）可以载入并继续游戏。"
 
 #: ../../../../src/wlapplication.cc:2098
 msgid "Emergency save failed"
@@ -11405,59 +11405,59 @@ msgid ""
 "We are sorry, but Widelands was unable to create an emergency savegame for the following reason:\n"
 "\n"
 "%s"
-msgstr "非常抱歉，基于如下原因：Widelands 不能创建应急游戏存档。\n\n%s"
+msgstr "很抱歉，Widelands 因以下原因未能创建应急存档：\n\n%s"
 
 #: ../../../../src/wlapplication_options.cc:182
 msgid "Market"
-msgstr ""
+msgstr "市场"
 
 #: ../../../../src/wlapplication_options.cc:183
 msgid "Warehouse"
-msgstr ""
+msgstr "仓库"
 
 #: ../../../../src/wlapplication_options.cc:184
 msgid "Port"
-msgstr ""
+msgstr "港口"
 
 #: ../../../../src/wlapplication_options.cc:185
 msgid "Minor Training Site"
-msgstr ""
+msgstr "初级训练场"
 
 #: ../../../../src/wlapplication_options.cc:186
 msgid "Major Training Site"
-msgstr ""
+msgstr "高级训练场"
 
 #: ../../../../src/wlapplication_options.cc:187
 msgid "Primary Small Military Site"
-msgstr ""
+msgstr "主要小型军事据点"
 
 #: ../../../../src/wlapplication_options.cc:188
 msgid "Secondary Small Military Site"
-msgstr ""
+msgstr "次要小型军事据点"
 
 #: ../../../../src/wlapplication_options.cc:189
 msgid "Primary Medium Military Site"
-msgstr ""
+msgstr "主要中型军事据点"
 
 #: ../../../../src/wlapplication_options.cc:190
 msgid "Secondary Medium Military Site"
-msgstr ""
+msgstr "次要中型军事据点"
 
 #: ../../../../src/wlapplication_options.cc:191
 msgid "Tower"
-msgstr ""
+msgstr "塔楼"
 
 #: ../../../../src/wlapplication_options.cc:192
 msgid "Fortress"
-msgstr ""
+msgstr "要塞"
 
 #: ../../../../src/wlapplication_options.cc:193
 msgid "Woodcutter’s House"
-msgstr ""
+msgstr "樵夫之屋"
 
 #: ../../../../src/wlapplication_options.cc:194
 msgid "Forester’s House"
-msgstr "护林小屋"
+msgstr "护林员之屋"
 
 #: ../../../../src/wlapplication_options.cc:195
 msgid "Quarry"
@@ -11465,143 +11465,143 @@ msgstr "采石场"
 
 #: ../../../../src/wlapplication_options.cc:196
 msgid "Primary Building Materials Industry"
-msgstr ""
+msgstr "初级建材工业"
 
 #: ../../../../src/wlapplication_options.cc:197
 msgid "Secondary Building Materials Industry"
-msgstr ""
+msgstr "次级建材工业"
 
 #: ../../../../src/wlapplication_options.cc:198
 msgid "Tertiary Building Materials Industry"
-msgstr ""
+msgstr "三级建材工业"
 
 #: ../../../../src/wlapplication_options.cc:199
 msgid "Fishing"
-msgstr ""
+msgstr "捕鱼"
 
 #: ../../../../src/wlapplication_options.cc:200
 msgid "Hunting"
-msgstr ""
+msgstr "狩猎"
 
 #: ../../../../src/wlapplication_options.cc:201
 msgid "Fish/Meat Replenishing"
-msgstr ""
+msgstr "鱼／肉补给"
 
 #: ../../../../src/wlapplication_options.cc:202
 msgid "Well"
-msgstr ""
+msgstr "井"
 
 #: ../../../../src/wlapplication_options.cc:203
 msgid "Primary Farm"
-msgstr ""
+msgstr "主要农场"
 
 #: ../../../../src/wlapplication_options.cc:204
 msgid "Secondary Farm"
-msgstr ""
+msgstr "次要农场"
 
 #: ../../../../src/wlapplication_options.cc:205
 msgid "Mill"
-msgstr ""
+msgstr "磨坊"
 
 #: ../../../../src/wlapplication_options.cc:206
 msgid "Bakery"
-msgstr ""
+msgstr "面包房"
 
 #: ../../../../src/wlapplication_options.cc:207
 msgid "Brewery"
-msgstr ""
+msgstr "啤酒坊"
 
 #: ../../../../src/wlapplication_options.cc:208
 msgid "Smokery"
-msgstr ""
+msgstr "熏肉铺"
 
 #: ../../../../src/wlapplication_options.cc:209
 msgid "Tavern"
-msgstr ""
+msgstr "小酒馆"
 
 #: ../../../../src/wlapplication_options.cc:210
 msgid "Ore Smelting"
-msgstr ""
+msgstr "矿石冶炼"
 
 #: ../../../../src/wlapplication_options.cc:211
 msgid "Tool Smithy"
-msgstr ""
+msgstr "工具铺"
 
 #: ../../../../src/wlapplication_options.cc:212
 msgid "Weapon Smithy"
-msgstr ""
+msgstr "兵器铺"
 
 #: ../../../../src/wlapplication_options.cc:213
 msgid "Armor Smithy"
-msgstr ""
+msgstr "盔甲铺"
 
 #: ../../../../src/wlapplication_options.cc:214
 msgid "Weaving Mill"
-msgstr ""
+msgstr "织坊"
 
 #: ../../../../src/wlapplication_options.cc:215
 msgid "Shipyard"
-msgstr ""
+msgstr "造船厂"
 
 #: ../../../../src/wlapplication_options.cc:216
 msgid "Ferry Yard"
-msgstr ""
+msgstr "摆渡码头"
 
 #: ../../../../src/wlapplication_options.cc:217
 msgid "Scouting"
-msgstr ""
+msgstr "侦察"
 
 #: ../../../../src/wlapplication_options.cc:218
 msgid "Barracks"
-msgstr ""
+msgstr "步兵营"
 
 #: ../../../../src/wlapplication_options.cc:219
 msgid "Second Carrier"
-msgstr ""
+msgstr "副搬运工"
 
 #: ../../../../src/wlapplication_options.cc:220
 msgid "Charcoal"
-msgstr ""
+msgstr "木炭"
 
 #: ../../../../src/wlapplication_options.cc:221
 msgid "Stone Mine"
-msgstr ""
+msgstr "石头矿"
 
 #: ../../../../src/wlapplication_options.cc:222
 msgid "Coal Mine"
-msgstr ""
+msgstr "煤矿"
 
 #: ../../../../src/wlapplication_options.cc:223
 msgid "Iron Mine"
-msgstr ""
+msgstr "铁矿"
 
 #: ../../../../src/wlapplication_options.cc:224
 msgid "Gold Mine"
-msgstr ""
+msgstr "金矿"
 
 #: ../../../../src/wlapplication_options.cc:225
 msgid "Agricultural Producer"
-msgstr ""
+msgstr "农业生产"
 
 #: ../../../../src/wlapplication_options.cc:226
 msgid "Primary Agricultural Consumer"
-msgstr ""
+msgstr "主要农产品加工"
 
 #: ../../../../src/wlapplication_options.cc:227
 msgid "Secondary Agricultural Consumer"
-msgstr ""
+msgstr "次要农产品加工"
 
 #: ../../../../src/wlapplication_options.cc:228
 msgid "Alternative Industry"
-msgstr ""
+msgstr "替代工业"
 
 #: ../../../../src/wlapplication_options.cc:229
 msgid "Industry Support"
-msgstr ""
+msgstr "工业配套"
 
 #: ../../../../src/wlapplication_options.cc:230
 msgid "Terraforming"
-msgstr ""
+msgstr "地形改造"
 
 #: ../../../../src/wlapplication_options.cc:246
 msgid "Watch Replay"
@@ -11609,11 +11609,11 @@ msgstr "观看回放"
 
 #: ../../../../src/wlapplication_options.cc:255
 msgid "Watch Latest Replay"
-msgstr ""
+msgstr "观看最新回放"
 
 #: ../../../../src/wlapplication_options.cc:271
 msgid "Singleplayer"
-msgstr ""
+msgstr "单人游戏"
 
 #: ../../../../src/wlapplication_options.cc:275
 msgid "Multiplayer"
@@ -11621,481 +11621,481 @@ msgstr "多人游戏"
 
 #: ../../../../src/wlapplication_options.cc:282
 msgid "Editor – Load Map"
-msgstr ""
+msgstr "编辑器 – 载入地图"
 
 #: ../../../../src/wlapplication_options.cc:286
 msgid "Editor – New Map"
-msgstr ""
+msgstr "编辑器 – 新建地图"
 
 #: ../../../../src/wlapplication_options.cc:291
 msgid "Editor – New Random Map"
-msgstr ""
+msgstr "编辑器 – 新建随机地图"
 
 #: ../../../../src/wlapplication_options.cc:309
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 #: ../../../../src/wlapplication_options.cc:325
 msgid "Internet Login"
-msgstr ""
+msgstr "互联网登录"
 
 #: ../../../../src/wlapplication_options.cc:335
 msgid "Toggle Building Spaces"
-msgstr ""
+msgstr "切换建筑空间显示"
 
 #: ../../../../src/wlapplication_options.cc:340
 msgid "Toggle Minimap"
-msgstr ""
+msgstr "切换小地图"
 
 #: ../../../../src/wlapplication_options.cc:345
 msgid "Encyclopedia"
-msgstr ""
+msgstr "百科全书"
 
 #: ../../../../src/wlapplication_options.cc:349
 msgid "Context Menu"
-msgstr ""
+msgstr "右键菜单"
 
 #: ../../../../src/wlapplication_options.cc:353
 msgid "Cut Text"
-msgstr ""
+msgstr "剪切文本"
 
 #: ../../../../src/wlapplication_options.cc:357
 msgid "Copy Text"
-msgstr ""
+msgstr "复制文本"
 
 #: ../../../../src/wlapplication_options.cc:361
 msgid "Paste Text"
-msgstr ""
+msgstr "粘贴文本"
 
 #: ../../../../src/wlapplication_options.cc:369
 msgid "Delete Item"
-msgstr ""
+msgstr "删除条目"
 
 #: ../../../../src/wlapplication_options.cc:374
 msgid "Tooltip Accessibility Mode Key"
-msgstr ""
+msgstr "工具提示无障碍模式按键"
 
 #: ../../../../src/wlapplication_options.cc:378
 msgid "Toggle Fullscreen"
-msgstr ""
+msgstr "切换全屏"
 
 #: ../../../../src/wlapplication_options.cc:382
 msgid "Take Screenshot"
-msgstr ""
+msgstr "截图"
 
 #: ../../../../src/wlapplication_options.cc:386
 msgid "Change Music"
-msgstr ""
+msgstr "切换音乐"
 
 #: ../../../../src/wlapplication_options.cc:391
 msgid "Open the Debug Console (developer tool)"
-msgstr ""
+msgstr "打开调试控制台（开发者工具）"
 
 #: ../../../../src/wlapplication_options.cc:396
 msgid "Toggle Cheat Mode (developer tool)"
-msgstr ""
+msgstr "切换作弊模式（开发者工具）"
 
 #: ../../../../src/wlapplication_options.cc:406
 msgid "Load"
-msgstr ""
+msgstr "载入"
 
 #: ../../../../src/wlapplication_options.cc:411
 msgid "Exit"
-msgstr ""
+msgstr "退出"
 
 #: ../../../../src/wlapplication_options.cc:416
 msgid "Zoom In"
-msgstr ""
+msgstr "放大"
 
 #: ../../../../src/wlapplication_options.cc:421
 msgid "Zoom Out"
-msgstr ""
+msgstr "缩小"
 
 #: ../../../../src/wlapplication_options.cc:436
 msgid "Reset Zoom"
-msgstr ""
+msgstr "重置缩放"
 
 #: ../../../../src/wlapplication_options.cc:441
 msgid "Jump to Next Location"
-msgstr ""
+msgstr "跳转到下一个位置"
 
 #: ../../../../src/wlapplication_options.cc:446
 msgid "Jump to Previous Location"
-msgstr ""
+msgstr "跳转到上一个位置"
 
 #: ../../../../src/wlapplication_options.cc:460
 msgid "Publish Map Online"
-msgstr ""
+msgstr "在线发布地图"
 
 #: ../../../../src/wlapplication_options.cc:476
 msgid "Pick From Map"
-msgstr ""
+msgstr "从地图上拾取"
 
 #: ../../../../src/wlapplication_options.cc:481
 msgid "Show Tools Menu"
-msgstr ""
+msgstr "显示工具菜单"
 
 #: ../../../../src/wlapplication_options.cc:486
 msgid "Change Height Tool"
-msgstr ""
+msgstr "高度调整工具"
 
 #: ../../../../src/wlapplication_options.cc:491
 msgid "Random Height Tool"
-msgstr ""
+msgstr "随机高度工具"
 
 #: ../../../../src/wlapplication_options.cc:495
 msgid "Terrain Tool"
-msgstr ""
+msgstr "地形工具"
 
 #: ../../../../src/wlapplication_options.cc:499
 msgid "Immovables Tool"
-msgstr ""
+msgstr "固定物工具"
 
 #: ../../../../src/wlapplication_options.cc:503
 msgid "Animals Tool"
-msgstr ""
+msgstr "动物工具"
 
 #: ../../../../src/wlapplication_options.cc:507
 msgid "Resources Tool"
-msgstr ""
+msgstr "资源工具"
 
 #: ../../../../src/wlapplication_options.cc:511
 msgid "Port Spaces Tool"
-msgstr ""
+msgstr "港口位置工具"
 
 #: ../../../../src/wlapplication_options.cc:515
 msgid "Info Tool"
-msgstr ""
+msgstr "信息工具"
 
 #: ../../../../src/wlapplication_options.cc:519
 msgid "Map Origin Tool"
-msgstr ""
+msgstr "地图原点工具"
 
 #: ../../../../src/wlapplication_options.cc:523
 msgid "Map Size Tool"
-msgstr ""
+msgstr "地图尺寸工具"
 
 #: ../../../../src/wlapplication_options.cc:527
 msgid "Players Menu"
-msgstr ""
+msgstr "玩家菜单"
 
 #: ../../../../src/wlapplication_options.cc:536
 msgid "Toggle Height Heat Map"
-msgstr ""
+msgstr "切换高度热力图"
 
 #: ../../../../src/wlapplication_options.cc:540
 msgid "Toggle Grid"
-msgstr ""
+msgstr "切换网格"
 
 #: ../../../../src/wlapplication_options.cc:544
 msgid "Toggle Oceans"
-msgstr ""
+msgstr "切换海域显示"
 
 #: ../../../../src/wlapplication_options.cc:549
 msgid "Toggle Immovables"
-msgstr ""
+msgstr "切换固定物显示"
 
 #: ../../../../src/wlapplication_options.cc:554
 msgid "Toggle Animals"
-msgstr ""
+msgstr "切换动物显示"
 
 #: ../../../../src/wlapplication_options.cc:559
 msgid "Toggle Resources"
-msgstr ""
+msgstr "切换资源显示"
 
 #: ../../../../src/wlapplication_options.cc:565
 msgid "Toggle Maximum Build Spaces"
-msgstr ""
+msgstr "切换最大建筑空间显示"
 
 #: ../../../../src/wlapplication_options.cc:572
 #, c-format
 msgid "Set Toolsize to %d"
-msgstr ""
+msgstr "把工具大小设为 %d"
 
 #: ../../../../src/wlapplication_options.cc:590
 #, c-format
 msgid "Set Tool Gap to %d%%"
-msgstr ""
+msgstr "把工具间隔设为 %d%%"
 
 #: ../../../../src/wlapplication_options.cc:613
 msgid "Restart Scenario or Replay"
-msgstr ""
+msgstr "重新开始剧本或回放"
 
 #: ../../../../src/wlapplication_options.cc:617
 msgid "Toggle Census"
-msgstr ""
+msgstr "切换名称显示"
 
 #: ../../../../src/wlapplication_options.cc:622
 msgid "Toggle Status Labels"
-msgstr ""
+msgstr "切换状态标签"
 
 #: ../../../../src/wlapplication_options.cc:627
 msgid "Toggle Soldier Levels"
-msgstr ""
+msgstr "切换士兵等级显示"
 
 #: ../../../../src/wlapplication_options.cc:632
 msgid "Toggle Buildings Visibility"
-msgstr ""
+msgstr "切换建筑显示"
 
 #: ../../../../src/wlapplication_options.cc:637
 msgid "Toggle Overlapping Workareas"
-msgstr ""
+msgstr "切换工作范围重叠显示"
 
 #: ../../../../src/wlapplication_options.cc:655
 msgid "Stock Inventory"
-msgstr ""
+msgstr "库存清单"
 
 #: ../../../../src/wlapplication_options.cc:665
 msgid "Seafaring Statistics"
-msgstr "航海统计数据"
+msgstr "航海统计"
 
 #: ../../../../src/wlapplication_options.cc:681
 msgid "Decrease Game Speed by 1×"
-msgstr ""
+msgstr "游戏速度降低 1×"
 
 #: ../../../../src/wlapplication_options.cc:686
 msgid "Decrease Game Speed by 0.25×"
-msgstr ""
+msgstr "游戏速度降低 0.25×"
 
 #: ../../../../src/wlapplication_options.cc:691
 msgid "Decrease Game Speed by 10×"
-msgstr ""
+msgstr "游戏速度降低 10×"
 
 #: ../../../../src/wlapplication_options.cc:696
 msgid "Increase Game Speed by 1×"
-msgstr ""
+msgstr "游戏速度提高 1×"
 
 #: ../../../../src/wlapplication_options.cc:701
 msgid "Increase Game Speed by 0.25×"
-msgstr ""
+msgstr "游戏速度提高 0.25×"
 
 #: ../../../../src/wlapplication_options.cc:706
 msgid "Increase Game Speed by 10×"
-msgstr ""
+msgstr "游戏速度提高 10×"
 
 #: ../../../../src/wlapplication_options.cc:710
 msgid "Reset Game Speed"
-msgstr ""
+msgstr "重置游戏速度"
 
 #: ../../../../src/wlapplication_options.cc:714
 msgid "Pause The Game"
-msgstr ""
+msgstr "暂停游戏"
 
 #: ../../../../src/wlapplication_options.cc:719
 msgid "Scroll to Starting Field"
-msgstr ""
+msgstr "滚动到起始地块"
 
 #: ../../../../src/wlapplication_options.cc:730
 msgid "Go to Location"
-msgstr ""
+msgstr "跳转到位置"
 
 #: ../../../../src/wlapplication_options.cc:735
 msgid "Show All Messages"
-msgstr ""
+msgstr "显示全部消息"
 
 #: ../../../../src/wlapplication_options.cc:740
 msgid "Show Geologists’ Messages Only"
-msgstr ""
+msgstr "只显示地质专家的消息"
 
 #: ../../../../src/wlapplication_options.cc:745
 msgid "Show Economy Messages Only"
-msgstr ""
+msgstr "只显示经济类消息"
 
 #: ../../../../src/wlapplication_options.cc:750
 msgid "Show Seafaring Messages Only"
-msgstr ""
+msgstr "只显示航海类消息"
 
 #: ../../../../src/wlapplication_options.cc:755
 msgid "Show Military Messages Only"
-msgstr ""
+msgstr "只显示军事类消息"
 
 #: ../../../../src/wlapplication_options.cc:760
 msgid "Show Scenario Messages Only"
-msgstr ""
+msgstr "只显示剧本类消息"
 
 #: ../../../../src/wlapplication_options.cc:765
 msgid "Show Diplomacy Messages Only"
-msgstr ""
+msgstr "只显示外交类消息"
 
 #: ../../../../src/wlapplication_options.cc:770
 msgid "Go to Ship"
-msgstr ""
+msgstr "跳转到船只"
 
 #: ../../../../src/wlapplication_options.cc:775
 msgid "Watch Ship"
-msgstr ""
+msgstr "监视船只"
 
 #: ../../../../src/wlapplication_options.cc:780
 msgid "Open Ship Window"
-msgstr ""
+msgstr "打开船只窗口"
 
 #: ../../../../src/wlapplication_options.cc:785
 msgid "Open Ship Window And Go to Ship"
-msgstr ""
+msgstr "打开船只窗口并跳转过去"
 
 #: ../../../../src/wlapplication_options.cc:790
 msgid "Show All Ships"
-msgstr ""
+msgstr "显示所有船只"
 
 #: ../../../../src/wlapplication_options.cc:795
 msgid "Show Idle Ships"
-msgstr ""
+msgstr "显示闲置的船只"
 
 #: ../../../../src/wlapplication_options.cc:800
 msgid "Show Transport Ships"
-msgstr ""
+msgstr "显示运输船"
 
 #: ../../../../src/wlapplication_options.cc:805
 msgid "Show Waiting Expeditions"
-msgstr ""
+msgstr "显示等待命令的探险队"
 
 #: ../../../../src/wlapplication_options.cc:810
 msgid "Show Scouting Expeditions"
-msgstr ""
+msgstr "显示正在侦察的探险队"
 
 #: ../../../../src/wlapplication_options.cc:815
 msgid "Show Expeditions with Port Spaces"
-msgstr ""
+msgstr "显示已找到港口位置的探险队"
 
 #: ../../../../src/wlapplication_options.cc:820
 msgid "Show Warships"
-msgstr ""
+msgstr "显示战船"
 
 #: ../../../../src/wlapplication_options.cc:825
 msgid "Show Ships Being Refitted"
-msgstr ""
+msgstr "显示改装中的船只"
 
 #: ../../../../src/wlapplication_options.cc:830
 msgid "Toggle Quick Navigation"
-msgstr ""
+msgstr "切换快速导航"
 
 #: ../../../../src/wlapplication_options.cc:836
 #, c-format
 msgid "Set Landmark #%d"
-msgstr ""
+msgstr "设置地标 #%d"
 
 #: ../../../../src/wlapplication_options.cc:840
 #, c-format
 msgid "Go To Landmark #%d"
-msgstr ""
+msgstr "跳转到地标 #%d"
 
 #. * TRANSLATORS: This is an access key combination.
 #: ../../../../src/wlapplication_options.cc:911
 msgctxt "hotkey"
 msgid "Arrow keys"
-msgstr ""
+msgstr "方向键"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:913
 msgid "Move the map"
-msgstr ""
+msgstr "移动地图"
 
 #. * TRANSLATORS: This is an access key combination.
 #: ../../../../src/wlapplication_options.cc:915
 msgctxt "hotkey"
 msgid "Ctrl + Arrow keys"
-msgstr ""
+msgstr "Ctrl + 方向键"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:917
 msgid "Move the map fast"
-msgstr ""
+msgstr "快速移动地图"
 
 #. * TRANSLATORS: This is an access key combination.
 #: ../../../../src/wlapplication_options.cc:919
 msgctxt "hotkey"
 msgid "Shift + Arrow keys"
-msgstr ""
+msgstr "Shift + 方向键"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:921
 msgid "Move the map slowly"
-msgstr ""
+msgstr "缓慢移动地图"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:933
 msgid "Remember current location"
-msgstr ""
+msgstr "记住当前位置"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:936
 msgid "Go to previously remembered location"
-msgstr ""
+msgstr "跳转到此前记住的位置"
 
 #. * TRANSLATORS: Separator for a list of hotkeys
 #: ../../../../src/wlapplication_options.cc:985
 #, c-format
 msgctxt "hotkey"
 msgid "%1$s / %2$s"
-msgstr ""
+msgstr "%1$s / %2$s"
 
 #: ../../../../src/wlapplication_options.cc:1003
 #: ../../../../src/wlapplication_options.cc:1047
 msgid "Keyboard Shortcuts"
-msgstr ""
+msgstr "键盘快捷键"
 
 #. * TRANSLATORS: Section heading in "Controls" help
 #: ../../../../src/wlapplication_options.cc:1014
 msgid "Message Window"
-msgstr ""
+msgstr "消息窗口"
 
 #. * TRANSLATORS: Section heading in "Controls" help
 #: ../../../../src/wlapplication_options.cc:1019
 msgid "Ship Statistics"
-msgstr ""
+msgstr "航海统计"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:1061
 msgid "Change tool size"
-msgstr ""
+msgstr "调整工具大小"
 
 #: ../../../../src/wlapplication_options.cc:1062
 msgid "Change tool gap"
-msgstr ""
+msgstr "调整工具间隔"
 
 #. * TRANSLATORS: This is an access key combination.
 #: ../../../../src/wlapplication_options.cc:1067
 msgctxt "hotkey"
 msgid "Click"
-msgstr ""
+msgstr "单击"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:1069
 msgid ""
 "Place new elements on the map, or increase map elements by the value "
 "selected by ‘Increase/Decrease value’"
-msgstr ""
+msgstr "在地图上放置新元素，或按「增减数值」设定的量增加地图元素"
 
 #. * TRANSLATORS: This is an access key combination.
 #: ../../../../src/wlapplication_options.cc:1073
 msgctxt "hotkey"
 msgid "Shift + Click"
-msgstr ""
+msgstr "Shift + 单击"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:1075
 msgid ""
 "Remove elements from the map, or decrease map elements by the value selected"
 " by ‘Increase/Decrease value’"
-msgstr ""
+msgstr "从地图上移除元素，或按「增减数值」设定的量减少地图元素"
 
 #. * TRANSLATORS: This is an access key combination.
 #: ../../../../src/wlapplication_options.cc:1078
 msgctxt "hotkey"
 msgid "Ctrl + Click"
-msgstr ""
+msgstr "Ctrl + 单击"
 
 #. * TRANSLATORS: This is the helptext for an access key combination.
 #: ../../../../src/wlapplication_options.cc:1080
 msgid "Set map elements to the value selected by ‘Set Value’"
-msgstr ""
+msgstr "把地图元素设为「设定数值」指定的值"
 
 #. * TRANSLATORS: prefix for message window shortcuts in keyboard options
 #: ../../../../src/wlapplication_options.cc:1187
 #, c-format
 msgctxt "hotkey"
 msgid "Messages: %s"
-msgstr ""
+msgstr "消息：%s"
 
 #. * TRANSLATORS: prefix for seafaring statistics window shortcuts in keyboard
 #. options
@@ -12103,32 +12103,32 @@ msgstr ""
 #, c-format
 msgctxt "hotkey"
 msgid "Seafaring: %s"
-msgstr ""
+msgstr "航海：%s"
 
 #: ../../../../src/wlapplication_options.cc:1390
 msgctxt "hotkey"
 msgid "Shift"
-msgstr ""
+msgstr "Shift"
 
 #: ../../../../src/wlapplication_options.cc:1393
 msgctxt "hotkey"
 msgid "Alt"
-msgstr ""
+msgstr "Alt"
 
 #: ../../../../src/wlapplication_options.cc:1397
 msgctxt "hotkey"
 msgid "Cmd"
-msgstr ""
+msgstr "Cmd"
 
 #: ../../../../src/wlapplication_options.cc:1399
 msgctxt "hotkey"
 msgid "GUI"
-msgstr ""
+msgstr "GUI"
 
 #: ../../../../src/wlapplication_options.cc:1403
 msgctxt "hotkey"
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 #: ../../../../src/wlapplication_options.cc:1412
 #, c-format
@@ -12138,37 +12138,37 @@ msgstr "%1$s+%2$s"
 #: ../../../../src/wlapplication_options.cc:1425
 msgctxt "hotkey"
 msgid "Space"
-msgstr "空间"
+msgstr "Space"
 
 #: ../../../../src/wlapplication_options.cc:1427
 msgctxt "hotkey"
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #: ../../../../src/wlapplication_options.cc:1429
 msgctxt "hotkey"
 msgid "Escape"
-msgstr ""
+msgstr "Escape"
 
 #: ../../../../src/wlapplication_options.cc:1431
 msgctxt "hotkey"
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 #: ../../../../src/wlapplication_options.cc:1433
 msgctxt "hotkey"
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: ../../../../src/wlapplication_options.cc:1435
 msgctxt "hotkey"
 msgid "Application"
-msgstr ""
+msgstr "Application"
 
 #: ../../../../src/wlapplication_options.cc:1437
 msgctxt "hotkey"
 msgid "Pause"
-msgstr "暂停"
+msgstr "Pause"
 
 #: ../../../../src/wlapplication_options.cc:1439
 msgctxt "hotkey"
@@ -12183,148 +12183,148 @@ msgstr "Page Down"
 #: ../../../../src/wlapplication_options.cc:1443
 msgctxt "hotkey"
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 #: ../../../../src/wlapplication_options.cc:1445
 msgctxt "hotkey"
 msgid "End"
-msgstr ""
+msgstr "End"
 
 #: ../../../../src/wlapplication_options.cc:1447
 msgctxt "hotkey"
 msgid "Left Arrow Key"
-msgstr ""
+msgstr "左方向键"
 
 #: ../../../../src/wlapplication_options.cc:1449
 msgctxt "hotkey"
 msgid "Right Arrow Key"
-msgstr ""
+msgstr "右方向键"
 
 #: ../../../../src/wlapplication_options.cc:1451
 msgctxt "hotkey"
 msgid "Up Arrow Key"
-msgstr ""
+msgstr "上方向键"
 
 #: ../../../../src/wlapplication_options.cc:1453
 msgctxt "hotkey"
 msgid "Down Arrow Key"
-msgstr ""
+msgstr "下方向键"
 
 #: ../../../../src/wlapplication_options.cc:1455
 msgctxt "hotkey"
 msgid "Insert"
-msgstr ""
+msgstr "Insert"
 
 #: ../../../../src/wlapplication_options.cc:1457
 msgctxt "hotkey"
 msgid "Delete"
-msgstr "删除"
+msgstr "Delete"
 
 #: ../../../../src/wlapplication_options.cc:1459
 msgctxt "hotkey"
 msgid "Backspace"
-msgstr ""
+msgstr "Backspace"
 
 #: ../../../../src/wlapplication_options.cc:1461
 msgctxt "hotkey"
 msgid "Caps Lock"
-msgstr ""
+msgstr "Caps Lock"
 
 #: ../../../../src/wlapplication_options.cc:1463
 msgctxt "hotkey"
 msgid "Numpad Lock"
-msgstr ""
+msgstr "Num Lock"
 
 #: ../../../../src/wlapplication_options.cc:1465
 msgctxt "hotkey"
 msgid "Scroll Lock"
-msgstr ""
+msgstr "Scroll Lock"
 
 #: ../../../../src/wlapplication_options.cc:1467
 msgctxt "hotkey"
 msgid "Keypad 1"
-msgstr ""
+msgstr "小键盘 1"
 
 #: ../../../../src/wlapplication_options.cc:1469
 msgctxt "hotkey"
 msgid "Keypad 2"
-msgstr ""
+msgstr "小键盘 2"
 
 #: ../../../../src/wlapplication_options.cc:1471
 msgctxt "hotkey"
 msgid "Keypad 3"
-msgstr ""
+msgstr "小键盘 3"
 
 #: ../../../../src/wlapplication_options.cc:1473
 msgctxt "hotkey"
 msgid "Keypad 4"
-msgstr ""
+msgstr "小键盘 4"
 
 #: ../../../../src/wlapplication_options.cc:1475
 msgctxt "hotkey"
 msgid "Keypad 5"
-msgstr ""
+msgstr "小键盘 5"
 
 #: ../../../../src/wlapplication_options.cc:1477
 msgctxt "hotkey"
 msgid "Keypad 6"
-msgstr ""
+msgstr "小键盘 6"
 
 #: ../../../../src/wlapplication_options.cc:1479
 msgctxt "hotkey"
 msgid "Keypad 7"
-msgstr ""
+msgstr "小键盘 7"
 
 #: ../../../../src/wlapplication_options.cc:1481
 msgctxt "hotkey"
 msgid "Keypad 8"
-msgstr ""
+msgstr "小键盘 8"
 
 #: ../../../../src/wlapplication_options.cc:1483
 msgctxt "hotkey"
 msgid "Keypad 9"
-msgstr ""
+msgstr "小键盘 9"
 
 #: ../../../../src/wlapplication_options.cc:1485
 msgctxt "hotkey"
 msgid "Keypad 0"
-msgstr ""
+msgstr "小键盘 0"
 
 #: ../../../../src/wlapplication_options.cc:1487
 msgctxt "hotkey"
 msgid "Keypad ."
-msgstr ""
+msgstr "小键盘 ."
 
 #: ../../../../src/wlapplication_options.cc:1489
 msgctxt "hotkey"
 msgid "Keypad +"
-msgstr ""
+msgstr "小键盘 +"
 
 #: ../../../../src/wlapplication_options.cc:1491
 msgctxt "hotkey"
 msgid "Keypad -"
-msgstr ""
+msgstr "小键盘 -"
 
 #: ../../../../src/wlapplication_options.cc:1493
 msgctxt "hotkey"
 msgid "Keypad *"
-msgstr ""
+msgstr "小键盘 *"
 
 #: ../../../../src/wlapplication_options.cc:1495
 msgctxt "hotkey"
 msgid "Keypad /"
-msgstr ""
+msgstr "小键盘 /"
 
 #: ../../../../src/wlapplication_options.cc:1497
 msgctxt "hotkey"
 msgid "Keypad Enter"
-msgstr ""
+msgstr "小键盘 Enter"
 
 #: ../../../../src/wlapplication_options.cc:1506
 msgid "(disabled)"
-msgstr ""
+msgstr "（已禁用）"
 
 #: ../../../../src/wlapplication_options.cc:1565
 #, c-format
 msgid "Fastplace #%i"
-msgstr ""
+msgstr "快速放置 #%i"

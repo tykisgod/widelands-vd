@@ -1,0 +1,708 @@
+[
+ {
+  "key": "23bf1971b3",
+  "msgid": "Weaving Mill",
+  "zh": "",
+  "terms": [
+   "Weaving Mill = 织坊",
+   "weaving = 纺织",
+   "Mill = 磨坊"
+  ]
+ },
+ {
+  "key": "e475b71726",
+  "msgid": "Shipyard",
+  "zh": "",
+  "terms": [
+   "Shipyard = 造船厂"
+  ]
+ },
+ {
+  "key": "c86abd9f34",
+  "msgid": "Ferry Yard",
+  "zh": "",
+  "terms": [
+   "Ferry Yard = 摆渡码头",
+   "Ferry = 艄公"
+  ]
+ },
+ {
+  "key": "4f93b5051c",
+  "msgid": "Scouting",
+  "zh": "",
+  "terms": [
+   "scouting = 侦察"
+  ]
+ },
+ {
+  "key": "99ea0998c5",
+  "msgid": "Barracks",
+  "zh": "",
+  "terms": [
+   "Barracks = 步兵营"
+  ]
+ },
+ {
+  "key": "0424d50e75",
+  "msgid": "Second Carrier",
+  "zh": "",
+  "terms": [
+   "Carrier = 搬运工"
+  ]
+ },
+ {
+  "key": "7fcefc011d",
+  "msgid": "Charcoal",
+  "zh": ""
+ },
+ {
+  "key": "1d75559e79",
+  "msgid": "Stone Mine",
+  "zh": "",
+  "terms": [
+   "Stone Mine = 石头矿"
+  ]
+ },
+ {
+  "key": "352e6045bb",
+  "msgid": "Coal Mine",
+  "zh": "",
+  "terms": [
+   "Coal Mine = 煤矿",
+   "Coal = 煤"
+  ]
+ },
+ {
+  "key": "94c4e92417",
+  "msgid": "Iron Mine",
+  "zh": "",
+  "terms": [
+   "Iron Mine = 铁矿",
+   "Iron = 铁"
+  ]
+ },
+ {
+  "key": "c1672e84de",
+  "msgid": "Gold Mine",
+  "zh": "",
+  "terms": [
+   "Gold Mine = 金矿",
+   "Gold = 黄金"
+  ]
+ },
+ {
+  "key": "aee4ca7bd0",
+  "msgid": "Agricultural Producer",
+  "zh": ""
+ },
+ {
+  "key": "aedcc2307b",
+  "msgid": "Primary Agricultural Consumer",
+  "zh": ""
+ },
+ {
+  "key": "036ba234e1",
+  "msgid": "Secondary Agricultural Consumer",
+  "zh": ""
+ },
+ {
+  "key": "2b7b74f20a",
+  "msgid": "Alternative Industry",
+  "zh": ""
+ },
+ {
+  "key": "754edba646",
+  "msgid": "Industry Support",
+  "zh": ""
+ },
+ {
+  "key": "709dd72805",
+  "msgid": "Terraforming",
+  "zh": ""
+ },
+ {
+  "key": "85207216c4",
+  "msgid": "Watch Replay",
+  "zh": "",
+  "current": "观看回放",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "a395e66e39",
+  "msgid": "Watch Latest Replay",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "2c510b31a5",
+  "msgid": "Singleplayer",
+  "zh": ""
+ },
+ {
+  "key": "7aae8b0071",
+  "msgid": "Multiplayer",
+  "zh": "",
+  "current": "多人游戏"
+ },
+ {
+  "key": "2bd8b40b4a",
+  "msgid": "Editor – Load Map",
+  "zh": ""
+ },
+ {
+  "key": "31a6ebabec",
+  "msgid": "Editor – New Map",
+  "zh": ""
+ },
+ {
+  "key": "8a72538e96",
+  "msgid": "Editor – New Random Map",
+  "zh": "",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "6fe486989f",
+  "msgid": "About",
+  "zh": ""
+ },
+ {
+  "key": "2bdb4fc002",
+  "msgid": "Internet Login",
+  "zh": ""
+ },
+ {
+  "key": "2ef7a23a8f",
+  "msgid": "Toggle Building Spaces",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "9bdd8daf9c",
+  "msgid": "Toggle Minimap",
+  "zh": ""
+ },
+ {
+  "key": "46662551f4",
+  "msgid": "Encyclopedia",
+  "zh": ""
+ },
+ {
+  "key": "f0c629aee2",
+  "msgid": "Context Menu",
+  "zh": ""
+ },
+ {
+  "key": "2be6e9b112",
+  "msgid": "Cut Text",
+  "zh": ""
+ },
+ {
+  "key": "61b454156f",
+  "msgid": "Copy Text",
+  "zh": ""
+ },
+ {
+  "key": "d06e92e028",
+  "msgid": "Paste Text",
+  "zh": ""
+ },
+ {
+  "key": "009db24fab",
+  "msgid": "Delete Item",
+  "zh": ""
+ },
+ {
+  "key": "721cd4857a",
+  "msgid": "Tooltip Accessibility Mode Key",
+  "zh": ""
+ },
+ {
+  "key": "df8a35591b",
+  "msgid": "Toggle Fullscreen",
+  "zh": ""
+ },
+ {
+  "key": "4be4dae0dd",
+  "msgid": "Take Screenshot",
+  "zh": ""
+ },
+ {
+  "key": "ccf4b20485",
+  "msgid": "Change Music",
+  "zh": ""
+ },
+ {
+  "key": "c69ef019fd",
+  "msgid": "Open the Debug Console (developer tool)",
+  "zh": ""
+ },
+ {
+  "key": "8d91c39a9c",
+  "msgid": "Toggle Cheat Mode (developer tool)",
+  "zh": ""
+ },
+ {
+  "key": "24bf4c1502",
+  "msgid": "Load",
+  "zh": ""
+ },
+ {
+  "key": "7bc5a9aaad",
+  "msgid": "Exit",
+  "zh": ""
+ },
+ {
+  "key": "f9250772b2",
+  "msgid": "Zoom In",
+  "zh": ""
+ },
+ {
+  "key": "4f7ce22130",
+  "msgid": "Zoom Out",
+  "zh": ""
+ },
+ {
+  "key": "4ec1dc8d31",
+  "msgid": "Reset Zoom",
+  "zh": ""
+ },
+ {
+  "key": "ac4a4a79e8",
+  "msgid": "Jump to Next Location",
+  "zh": ""
+ },
+ {
+  "key": "6f49bb7685",
+  "msgid": "Jump to Previous Location",
+  "zh": ""
+ },
+ {
+  "key": "b66be2b1a3",
+  "msgid": "Publish Map Online",
+  "zh": ""
+ },
+ {
+  "key": "6d787c8dfc",
+  "msgid": "Pick From Map",
+  "zh": "",
+  "terms": [
+   "Pick = 鹤嘴镐"
+  ]
+ },
+ {
+  "key": "7f5654bab7",
+  "msgid": "Show Tools Menu",
+  "zh": ""
+ },
+ {
+  "key": "5283ab69e4",
+  "msgid": "Change Height Tool",
+  "zh": ""
+ },
+ {
+  "key": "6ef46443c4",
+  "msgid": "Random Height Tool",
+  "zh": "",
+  "terms": [
+   "Random = 随机"
+  ]
+ },
+ {
+  "key": "a22121da4e",
+  "msgid": "Terrain Tool",
+  "zh": ""
+ },
+ {
+  "key": "5be1df180e",
+  "msgid": "Immovables Tool",
+  "zh": ""
+ },
+ {
+  "key": "84ab14fdbd",
+  "msgid": "Animals Tool",
+  "zh": ""
+ },
+ {
+  "key": "4ecd45668e",
+  "msgid": "Resources Tool",
+  "zh": ""
+ },
+ {
+  "key": "bb3f303de1",
+  "msgid": "Port Spaces Tool",
+  "zh": "",
+  "terms": [
+   "Port spaces = 港口位置",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "4505030840",
+  "msgid": "Info Tool",
+  "zh": ""
+ },
+ {
+  "key": "d09b55a3ff",
+  "msgid": "Map Origin Tool",
+  "zh": ""
+ },
+ {
+  "key": "d5005135f8",
+  "msgid": "Map Size Tool",
+  "zh": ""
+ },
+ {
+  "key": "2da30d6931",
+  "msgid": "Players Menu",
+  "zh": ""
+ },
+ {
+  "key": "941d970418",
+  "msgid": "Toggle Height Heat Map",
+  "zh": ""
+ },
+ {
+  "key": "ecd6652ab4",
+  "msgid": "Toggle Grid",
+  "zh": ""
+ },
+ {
+  "key": "e37e817823",
+  "msgid": "Toggle Oceans",
+  "zh": ""
+ },
+ {
+  "key": "d8aa549ae4",
+  "msgid": "Toggle Immovables",
+  "zh": ""
+ },
+ {
+  "key": "223c584d62",
+  "msgid": "Toggle Animals",
+  "zh": ""
+ },
+ {
+  "key": "bdd0decfdf",
+  "msgid": "Toggle Resources",
+  "zh": ""
+ },
+ {
+  "key": "8d18f71ea1",
+  "msgid": "Toggle Maximum Build Spaces",
+  "zh": ""
+ },
+ {
+  "key": "e9e140f1a1",
+  "msgid": "Set Toolsize to %d",
+  "zh": ""
+ },
+ {
+  "key": "6582347241",
+  "msgid": "Set Tool Gap to %d%%",
+  "zh": ""
+ },
+ {
+  "key": "8550e3addc",
+  "msgid": "Restart Scenario or Replay",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "960af37ce9",
+  "msgid": "Toggle Census",
+  "zh": ""
+ },
+ {
+  "key": "22d74453a6",
+  "msgid": "Toggle Status Labels",
+  "zh": "",
+  "terms": [
+   "Status = 状态"
+  ]
+ },
+ {
+  "key": "61049ce3d2",
+  "msgid": "Toggle Soldier Levels",
+  "zh": "",
+  "terms": [
+   "Soldier = 士兵"
+  ]
+ },
+ {
+  "key": "d1dedb3bbc",
+  "msgid": "Toggle Buildings Visibility",
+  "zh": "",
+  "terms": [
+   "Buildings = 建筑"
+  ]
+ },
+ {
+  "key": "97377a6a3d",
+  "msgid": "Toggle Overlapping Workareas",
+  "zh": ""
+ },
+ {
+  "key": "a22a216022",
+  "msgid": "Stock Inventory",
+  "zh": ""
+ },
+ {
+  "key": "3287e3c206",
+  "msgid": "Seafaring Statistics",
+  "zh": "",
+  "current": "航海统计数据"
+ },
+ {
+  "key": "3c08cae7a7",
+  "msgid": "Decrease Game Speed by 1×",
+  "zh": ""
+ },
+ {
+  "key": "c5d4217653",
+  "msgid": "Decrease Game Speed by 0.25×",
+  "zh": ""
+ },
+ {
+  "key": "694ae792a2",
+  "msgid": "Decrease Game Speed by 10×",
+  "zh": ""
+ },
+ {
+  "key": "a7c244f976",
+  "msgid": "Increase Game Speed by 1×",
+  "zh": ""
+ },
+ {
+  "key": "6fcd636b4f",
+  "msgid": "Increase Game Speed by 0.25×",
+  "zh": ""
+ },
+ {
+  "key": "3584eb32b5",
+  "msgid": "Increase Game Speed by 10×",
+  "zh": ""
+ },
+ {
+  "key": "3926c66546",
+  "msgid": "Reset Game Speed",
+  "zh": ""
+ },
+ {
+  "key": "4377980a28",
+  "msgid": "Pause The Game",
+  "zh": ""
+ },
+ {
+  "key": "79e26908db",
+  "msgid": "Scroll to Starting Field",
+  "zh": ""
+ },
+ {
+  "key": "13eecb67c9",
+  "msgid": "Go to Location",
+  "zh": ""
+ },
+ {
+  "key": "b0f44a5f5f",
+  "msgid": "Show All Messages",
+  "zh": ""
+ },
+ {
+  "key": "7f85621127",
+  "msgid": "Show Geologists’ Messages Only",
+  "zh": ""
+ },
+ {
+  "key": "d74722bf2c",
+  "msgid": "Show Economy Messages Only",
+  "zh": "",
+  "terms": [
+   "Economy = 经济"
+  ]
+ },
+ {
+  "key": "a4c3026e98",
+  "msgid": "Show Seafaring Messages Only",
+  "zh": ""
+ },
+ {
+  "key": "61c21d2681",
+  "msgid": "Show Military Messages Only",
+  "zh": ""
+ },
+ {
+  "key": "3a9e421e80",
+  "msgid": "Show Scenario Messages Only",
+  "zh": ""
+ },
+ {
+  "key": "288a60acf3",
+  "msgid": "Show Diplomacy Messages Only",
+  "zh": "",
+  "terms": [
+   "Diplomacy = 外交"
+  ]
+ },
+ {
+  "key": "7466126035",
+  "msgid": "Go to Ship",
+  "zh": "",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "b5540d58b7",
+  "msgid": "Watch Ship",
+  "zh": "",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "5702855af5",
+  "msgid": "Open Ship Window",
+  "zh": "",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "bb4c6334a4",
+  "msgid": "Open Ship Window And Go to Ship",
+  "zh": "",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "fb7cd8b3f2",
+  "msgid": "Show All Ships",
+  "zh": ""
+ },
+ {
+  "key": "2240295acc",
+  "msgid": "Show Idle Ships",
+  "zh": ""
+ },
+ {
+  "key": "86bccafa68",
+  "msgid": "Show Transport Ships",
+  "zh": ""
+ },
+ {
+  "key": "32944a72ad",
+  "msgid": "Show Waiting Expeditions",
+  "zh": ""
+ },
+ {
+  "key": "947c1ee8f4",
+  "msgid": "Show Scouting Expeditions",
+  "zh": "",
+  "terms": [
+   "scouting = 侦察"
+  ]
+ },
+ {
+  "key": "7ec6a80167",
+  "msgid": "Show Expeditions with Port Spaces",
+  "zh": "",
+  "terms": [
+   "Port spaces = 港口位置",
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "ba1705cd3c",
+  "msgid": "Show Warships",
+  "zh": ""
+ },
+ {
+  "key": "2f39661a0e",
+  "msgid": "Show Ships Being Refitted",
+  "zh": ""
+ },
+ {
+  "key": "d20cfb0219",
+  "msgid": "Toggle Quick Navigation",
+  "zh": ""
+ },
+ {
+  "key": "ae9692ac1c",
+  "msgid": "Set Landmark #%d",
+  "zh": ""
+ },
+ {
+  "key": "4965181038",
+  "msgid": "Go To Landmark #%d",
+  "zh": ""
+ },
+ {
+  "key": "97af114863",
+  "msgid": "Arrow keys",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: This is an access key combination."
+ },
+ {
+  "key": "5e49e2a782",
+  "msgid": "Move the map",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "7aa01e9a4b",
+  "msgid": "Ctrl + Arrow keys",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: This is an access key combination."
+ },
+ {
+  "key": "204c6e7d1d",
+  "msgid": "Move the map fast",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "55328722e8",
+  "msgid": "Shift + Arrow keys",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: This is an access key combination."
+ },
+ {
+  "key": "a87a40f76a",
+  "msgid": "Move the map slowly",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "3dea3b65a7",
+  "msgid": "Remember current location",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "8221779c56",
+  "msgid": "Go to previously remembered location",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "107a38b9a0",
+  "msgid": "%1$s / %2$s",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: Separator for a list of hotkeys"
+ }
+]

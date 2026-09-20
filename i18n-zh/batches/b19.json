@@ -1,0 +1,802 @@
+[
+ {
+  "key": "2b71ee42b6",
+  "msgid": "Attacks",
+  "zh": "",
+  "ui": "ui/wui"
+ },
+ {
+  "key": "9972db63a4",
+  "msgid": "Zoom",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "缩放"
+ },
+ {
+  "key": "6a9893598b",
+  "msgid": "%1%d",
+  "zh": "",
+  "msgid_plural": "%1%d",
+  "msgctxt": "unit_narrow",
+  "note": "* TRANSLATORS: day(s). Keep this as short as possible. Used in statistics.",
+  "ui": "ui/wui",
+  "current": "%1%天"
+ },
+ {
+  "key": "bffaafe3c2",
+  "msgid": "%1%h",
+  "zh": "",
+  "msgid_plural": "%1%h",
+  "msgctxt": "unit_narrow",
+  "note": "* TRANSLATORS: hour(s). Keep this as short as possible. Used in statistics.",
+  "ui": "ui/wui",
+  "current": "%1%时"
+ },
+ {
+  "key": "00d3ab43b6",
+  "msgid": "%1%m",
+  "zh": "",
+  "msgid_plural": "%1%m",
+  "msgctxt": "unit_narrow",
+  "note": "* TRANSLATORS: minute(s). Keep this as short as possible. Used in | statistics.",
+  "ui": "ui/wui",
+  "current": "%1%分"
+ },
+ {
+  "key": "b64e9fb351",
+  "msgid": "days",
+  "zh": "",
+  "msgctxt": "unit_generic",
+  "note": "* TRANSLATORS: Generic unit label. Used in statistics.",
+  "ui": "ui/wui",
+  "current": "天"
+ },
+ {
+  "key": "b12926bc55",
+  "msgid": "hours",
+  "zh": "",
+  "msgctxt": "unit_generic",
+  "note": "* TRANSLATORS: Generic unit label. Used in statistics.",
+  "ui": "ui/wui",
+  "current": "小时"
+ },
+ {
+  "key": "8c9a5c8f2c",
+  "msgid": "minutes",
+  "zh": "",
+  "msgctxt": "unit_generic",
+  "note": "* TRANSLATORS: Generic unit label. Used in statistics.",
+  "ui": "ui/wui",
+  "current": "分钟"
+ },
+ {
+  "key": "83311eacf9",
+  "msgid": "game",
+  "zh": "",
+  "ui": "ui/wui",
+  "current": "游戏"
+ },
+ {
+  "key": "b13daaeab5",
+  "msgid": "No last saved replay.",
+  "zh": "",
+  "terms": [
+   "Replay = 回放"
+  ]
+ },
+ {
+  "key": "a143463d6a",
+  "msgid": "No last saved game.",
+  "zh": "",
+  "terms": [
+   "Saved Game = 存档"
+  ]
+ },
+ {
+  "key": "0e7898b29b",
+  "msgid": "Widelands could not find the file \"%s\".",
+  "zh": "",
+  "current": "Widelands 找不到文件 \"%s\"。"
+ },
+ {
+  "key": "acc8024cdf",
+  "msgid": "File system error",
+  "zh": "",
+  "current": "文件系统错误"
+ },
+ {
+  "key": "a1b7b4d0f9",
+  "msgid": "Command line parameter --%s can not use a value",
+  "zh": ""
+ },
+ {
+  "key": "2423d354bd",
+  "msgid": "Empty value of command line parameter --%s",
+  "zh": ""
+ },
+ {
+  "key": "d5994d98ca",
+  "msgid": "Command line parameters --%1$s and --%2$s can not be combined",
+  "zh": ""
+ },
+ {
+  "key": "10c16b09d5",
+  "msgid": "Unknown command line parameter: %s\nMaybe a '=' is missing?",
+  "zh": ""
+ },
+ {
+  "key": "915f5e06f8",
+  "msgid": "Non-integer value for command line parameter --messagebox-timeout=%s",
+  "zh": ""
+ },
+ {
+  "key": "144fba4ec7",
+  "msgid": "Value is out of range for command line parameter --messagebox-timeout=%s",
+  "zh": ""
+ },
+ {
+  "key": "27465b3c73",
+  "msgid": "Non-integer value for command line parameter --difficulty=%s",
+  "zh": ""
+ },
+ {
+  "key": "93266555af",
+  "msgid": "Unknown command line parameter: %s",
+  "zh": ""
+ },
+ {
+  "key": "b022474030",
+  "msgid": "Incompatible",
+  "zh": ""
+ },
+ {
+  "key": "b5779b7f84",
+  "msgid": "Game ended unexpectedly",
+  "zh": ""
+ },
+ {
+  "key": "d61ff2cdc6",
+  "msgid": "Unexpected error during the game",
+  "zh": "",
+  "current": "游戏中出现意外错误"
+ },
+ {
+  "key": "87d574ecb1",
+  "msgid": "An error occured during the game. The error message is:\n\n%1$s\n\nPlease report this problem to help us improve Widelands. You will find related messages in the standard output (stdout.txt on Windows). You are using version %2$s.\n\nPlease add this information to your report.\n\nWould you like Widelands to attempt to create an emergency savegame? It is often – though not always – possible to load it and continue playing.",
+  "zh": "",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "58457e3b5c",
+  "msgid": "The game ended unexpectedly for the following reason:\n\n%s\n\nWould you like Widelands to attempt to create an emergency savegame? It is often – though not always – possible to load it and continue playing.",
+  "zh": ""
+ },
+ {
+  "key": "5fc20025fa",
+  "msgid": "Emergency save failed",
+  "zh": "",
+  "current": "应急保存失败"
+ },
+ {
+  "key": "86593f3055",
+  "msgid": "We are sorry, but Widelands was unable to create an emergency savegame for the following reason:\n\n%s",
+  "zh": "",
+  "current": "非常抱歉，基于如下原因：Widelands 不能创建应急游戏存档。\n\n%s"
+ },
+ {
+  "key": "ae3319a70a",
+  "msgid": "Widelands could not find the last edited map.",
+  "zh": ""
+ },
+ {
+  "key": "1a423386c0",
+  "msgid": "No Last Edited Map",
+  "zh": ""
+ },
+ {
+  "key": "84e8af6937",
+  "msgid": "Keyboard Shortcuts",
+  "zh": ""
+ },
+ {
+  "key": "ce0cbb8d45",
+  "msgid": "Message Window",
+  "zh": "",
+  "note": "* TRANSLATORS: Section heading in \"Controls\" help",
+  "terms": [
+   "Message = 消息"
+  ]
+ },
+ {
+  "key": "6a6c14d0e2",
+  "msgid": "Ship Statistics",
+  "zh": "",
+  "note": "* TRANSLATORS: Section heading in \"Controls\" help",
+  "terms": [
+   "Ship = 船"
+  ]
+ },
+ {
+  "key": "05b8831dd1",
+  "msgid": "Change tool size",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "77a3547f8a",
+  "msgid": "Change tool gap",
+  "zh": ""
+ },
+ {
+  "key": "4987dffddc",
+  "msgid": "Click",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: This is an access key combination.",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "f601bb1189",
+  "msgid": "Place new elements on the map, or increase map elements by the value selected by ‘Increase/Decrease value’",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "05032109ac",
+  "msgid": "Shift + Click",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: This is an access key combination.",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "88193e1831",
+  "msgid": "Remove elements from the map, or decrease map elements by the value selected by ‘Increase/Decrease value’",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "27b35b8bc1",
+  "msgid": "Ctrl + Click",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: This is an access key combination.",
+  "terms": [
+   "Click = 单击"
+  ]
+ },
+ {
+  "key": "088e50354c",
+  "msgid": "Set map elements to the value selected by ‘Set Value’",
+  "zh": "",
+  "note": "* TRANSLATORS: This is the helptext for an access key combination."
+ },
+ {
+  "key": "ae1adc13c3",
+  "msgid": "Messages: %s",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: prefix for message window shortcuts in keyboard options"
+ },
+ {
+  "key": "e8e86b1bc2",
+  "msgid": "Seafaring: %s",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "note": "* TRANSLATORS: prefix for seafaring statistics window shortcuts in keyboard | options"
+ },
+ {
+  "key": "c56af8b237",
+  "msgid": "Shift",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "5c3444cf77",
+  "msgid": "Alt",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "d606e9af43",
+  "msgid": "Cmd",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "f882422092",
+  "msgid": "GUI",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "47bcff2da7",
+  "msgid": "Ctrl",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "487f9fe028",
+  "msgid": "%1$s+%2$s",
+  "zh": "",
+  "current": "%1$s+%2$s"
+ },
+ {
+  "key": "8bb4db6e9d",
+  "msgid": "Space",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "current": "空间"
+ },
+ {
+  "key": "30968e2d4f",
+  "msgid": "Enter",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "73c8d461d3",
+  "msgid": "Escape",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "59773bcdee",
+  "msgid": "Tab",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "e11267dcae",
+  "msgid": "Menu",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "c8e45b90d6",
+  "msgid": "Application",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "1b19177726",
+  "msgid": "Pause",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "current": "暂停"
+ },
+ {
+  "key": "f19aee2765",
+  "msgid": "Page Up",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "current": "Page Up"
+ },
+ {
+  "key": "ab6aa4fc0a",
+  "msgid": "Page Down",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "current": "Page Down"
+ },
+ {
+  "key": "7ca5f78ce1",
+  "msgid": "Home",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "b889b04766",
+  "msgid": "End",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "9b13f93904",
+  "msgid": "Left Arrow Key",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "9b602b7cba",
+  "msgid": "Right Arrow Key",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "0c3fa82edc",
+  "msgid": "Up Arrow Key",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "e3d535ca8f",
+  "msgid": "Down Arrow Key",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "ce4f00bdc4",
+  "msgid": "Insert",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "c6364ace4e",
+  "msgid": "Delete",
+  "zh": "",
+  "msgctxt": "hotkey",
+  "current": "删除"
+ },
+ {
+  "key": "03677720e9",
+  "msgid": "Backspace",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "7b4f3a00f9",
+  "msgid": "Caps Lock",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "c05cdeaf24",
+  "msgid": "Numpad Lock",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "62c7327be3",
+  "msgid": "Scroll Lock",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "41b5b43447",
+  "msgid": "Keypad 1",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "b24ed28007",
+  "msgid": "Keypad 2",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "9ead781b8a",
+  "msgid": "Keypad 3",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "c77fa33e90",
+  "msgid": "Keypad 4",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "6cfad0f612",
+  "msgid": "Keypad 5",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "773938df6d",
+  "msgid": "Keypad 6",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "3e91765322",
+  "msgid": "Keypad 7",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "3f8ba4aadb",
+  "msgid": "Keypad 8",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "26022221e9",
+  "msgid": "Keypad 9",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "0ddd415fff",
+  "msgid": "Keypad 0",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "42b0eb8bad",
+  "msgid": "Keypad .",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "c7baae1c75",
+  "msgid": "Keypad +",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "3a5eccab21",
+  "msgid": "Keypad -",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "6452f24d20",
+  "msgid": "Keypad *",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "4e235a89b4",
+  "msgid": "Keypad /",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "4567e8ab71",
+  "msgid": "Keypad Enter",
+  "zh": "",
+  "msgctxt": "hotkey"
+ },
+ {
+  "key": "0afc14868e",
+  "msgid": "(disabled)",
+  "zh": ""
+ },
+ {
+  "key": "f83a453200",
+  "msgid": "Fastplace #%i",
+  "zh": ""
+ },
+ {
+  "key": "ad69e35e80",
+  "msgid": "Market",
+  "zh": ""
+ },
+ {
+  "key": "bad8bd4be8",
+  "msgid": "Warehouse",
+  "zh": "",
+  "terms": [
+   "Warehouse = 仓库"
+  ]
+ },
+ {
+  "key": "cb91df05ab",
+  "msgid": "Port",
+  "zh": "",
+  "terms": [
+   "Port = 港口"
+  ]
+ },
+ {
+  "key": "e8fd9980a4",
+  "msgid": "Minor Training Site",
+  "zh": ""
+ },
+ {
+  "key": "9ba96a744c",
+  "msgid": "Major Training Site",
+  "zh": ""
+ },
+ {
+  "key": "2eb9604df0",
+  "msgid": "Primary Small Military Site",
+  "zh": ""
+ },
+ {
+  "key": "804e3bee0d",
+  "msgid": "Secondary Small Military Site",
+  "zh": ""
+ },
+ {
+  "key": "360c083d41",
+  "msgid": "Primary Medium Military Site",
+  "zh": ""
+ },
+ {
+  "key": "bc80f71b39",
+  "msgid": "Secondary Medium Military Site",
+  "zh": ""
+ },
+ {
+  "key": "2c6048840c",
+  "msgid": "Tower",
+  "zh": "",
+  "terms": [
+   "Tower = 塔楼"
+  ]
+ },
+ {
+  "key": "79d59907a0",
+  "msgid": "Fortress",
+  "zh": "",
+  "terms": [
+   "Fortress = 要塞"
+  ]
+ },
+ {
+  "key": "b8b3ffe7d6",
+  "msgid": "Woodcutter’s House",
+  "zh": "",
+  "terms": [
+   "Woodcutter’s House = 樵夫之屋",
+   "Woodcutter = 樵夫"
+  ]
+ },
+ {
+  "key": "1039dd54b1",
+  "msgid": "Forester’s House",
+  "zh": "",
+  "current": "护林小屋",
+  "terms": [
+   "Forester’s House = 护林员之屋",
+   "Forester = 护林员"
+  ]
+ },
+ {
+  "key": "6adbdaa681",
+  "msgid": "Quarry",
+  "zh": "",
+  "current": "采石场",
+  "terms": [
+   "Quarry = 采石场"
+  ]
+ },
+ {
+  "key": "29dea0d513",
+  "msgid": "Primary Building Materials Industry",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "3b050deb48",
+  "msgid": "Secondary Building Materials Industry",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "a6aa7f7e51",
+  "msgid": "Tertiary Building Materials Industry",
+  "zh": "",
+  "terms": [
+   "Building = 建筑"
+  ]
+ },
+ {
+  "key": "900b7517cb",
+  "msgid": "Fishing",
+  "zh": "",
+  "terms": [
+   "fishing = 捕鱼"
+  ]
+ },
+ {
+  "key": "8a3144f230",
+  "msgid": "Hunting",
+  "zh": "",
+  "terms": [
+   "hunting = 狩猎"
+  ]
+ },
+ {
+  "key": "d6d1f30bd3",
+  "msgid": "Fish/Meat Replenishing",
+  "zh": "",
+  "terms": [
+   "Fish = 鱼",
+   "Meat = 肉"
+  ]
+ },
+ {
+  "key": "f4e0094687",
+  "msgid": "Well",
+  "zh": "",
+  "terms": [
+   "Well = 井"
+  ]
+ },
+ {
+  "key": "fa0ab2aff2",
+  "msgid": "Primary Farm",
+  "zh": "",
+  "terms": [
+   "Farm = 农场"
+  ]
+ },
+ {
+  "key": "8d810cf842",
+  "msgid": "Secondary Farm",
+  "zh": "",
+  "terms": [
+   "Farm = 农场"
+  ]
+ },
+ {
+  "key": "1b7e24e83b",
+  "msgid": "Mill",
+  "zh": "",
+  "terms": [
+   "Mill = 磨坊"
+  ]
+ },
+ {
+  "key": "3fe1b3464c",
+  "msgid": "Bakery",
+  "zh": "",
+  "terms": [
+   "Bakery = 面包房"
+  ]
+ },
+ {
+  "key": "e7002a33bb",
+  "msgid": "Brewery",
+  "zh": "",
+  "terms": [
+   "Brewery = 啤酒坊"
+  ]
+ },
+ {
+  "key": "fc77a7081e",
+  "msgid": "Smokery",
+  "zh": "",
+  "terms": [
+   "Smokery = 熏肉铺"
+  ]
+ },
+ {
+  "key": "d67ed53532",
+  "msgid": "Tavern",
+  "zh": "",
+  "terms": [
+   "Tavern = 小酒馆"
+  ]
+ },
+ {
+  "key": "a0d7f0411b",
+  "msgid": "Ore Smelting",
+  "zh": ""
+ },
+ {
+  "key": "8072311110",
+  "msgid": "Tool Smithy",
+  "zh": ""
+ },
+ {
+  "key": "b5e3b1aadd",
+  "msgid": "Weapon Smithy",
+  "zh": "",
+  "terms": [
+   "Weapon Smithy = 兵器铺"
+  ]
+ },
+ {
+  "key": "4b7f2c329c",
+  "msgid": "Armor Smithy",
+  "zh": "",
+  "terms": [
+   "Armor Smithy = 盔甲铺",
+   "Armor = 盔甲"
+  ]
+ }
+]
